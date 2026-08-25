@@ -12,3 +12,8 @@ at remain the property of their publishers, and no rights in them are
 granted here.
 
 Attribution: Delightful's Game Research Starter Pack, https://games.thisisdelightful.com
+
+The full legal code is in LICENSE, beside this file. That copy is the
+canonical text from creativecommons.org, verbatim, and is what GitHub reads
+to label the repository. This file is the plain-English version and is what
+the site links to; where the two ever disagree, the legal code governs.
