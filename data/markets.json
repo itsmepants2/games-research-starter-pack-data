@@ -1,0 +1,2322 @@
+[
+  {
+    "market": "DE",
+    "sections": {
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "Webedia owns GameStar, GamePro, Mein-MMO and IGN Germany, placing the mainstream games press tier under one group.",
+          "card_text": "",
+          "year": "",
+          "source": "GameStar team page, corporate self-disclosure",
+          "link": "https://www.gamestar.de/about/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "GamesWirtschaft is a one person trade outlet, written and edited by founder Petra Froehlich.",
+          "card_text": "",
+          "year": "",
+          "source": "GamesWirtschaft impressum",
+          "link": "https://www.gameswirtschaft.de/impressum/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "GamesMarket, the second trade outlet, is owned by its three editors following a July 2025 management buy-out from the BG Germany insolvency.",
+          "card_text": "",
+          "year": "",
+          "source": "GamesMarket announcement",
+          "link": "https://www.gamesmarket.global/management-buyout-gamesmarkt-opens-a-new-chapter-and-becomes-independent-d34b7c894f34b4de1bbb38c7d6839064/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The editorial operation of 4Players.de ends on 31 October 2021 after more than 20 years, with the publisher citing economic pressures.",
+          "card_text": "",
+          "year": "",
+          "source": "GameStar news report, games outlet",
+          "link": "https://www.gamestar.de/artikel/4players-muss-aufhoeren,3372790.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The crowdfunded games culture magazine Wasted shuts down on 31 March 2023 after about 17 months, citing too few paying subscribers.",
+          "card_text": "",
+          "year": "",
+          "source": "GamesWirtschaft, games trade press",
+          "link": "https://www.gameswirtschaft.de/marketing-pr/wasted-spiele-magazin-eingestellt/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The volunteer produced games culture print magazine GAIN announces its closure in July 2023, citing sales below expectations and the limits of professional production on unpaid labour.",
+          "card_text": "",
+          "year": "",
+          "source": "GamesWirtschaft, games trade press",
+          "link": "https://www.gameswirtschaft.de/marketing-pr/gain-magazin-einstellung/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Freaks 4U Gaming shuts its League of Legends portal Summoners Inn at the end of 2023, almost ten years after founding, citing changed broadcasting rights and market conditions.",
+          "card_text": "",
+          "year": "",
+          "source": "GamesWirtschaft, games trade press",
+          "link": "https://www.gameswirtschaft.de/sport/summoners-inn-einstellung/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Computec ends the print magazine Games Aktuell with issue 01/2024 in December 2023, without a farewell issue, citing rising production and paper costs, stagnating readership, and falling ad revenue.",
+          "card_text": "",
+          "year": "",
+          "source": "GamesWirtschaft, games trade press",
+          "link": "https://www.gameswirtschaft.de/marketing-pr/games-aktuell-einstellung-computec/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Webedia ends the print edition of GamePro with issue 01/24, on sale 6 December 2023, saying the printed magazine is no longer profitable, while the website and brand continue.",
+          "card_text": "",
+          "year": "",
+          "source": "GamesWirtschaft, games trade press",
+          "link": "https://www.gameswirtschaft.de/marketing-pr/gamepro-print-einstellung-webedia/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Computec ends the developer trade magazine Making Games with issue 1+2/2022, announced on 10 December 2021, citing the difficult economics of print.",
+          "card_text": "",
+          "year": "",
+          "source": "GamesMarkt, games trade press",
+          "link": "https://www.gamesmarket.global/development/making-games-wird-eingestellt-c15d6bf8450446ed85687cb2c70eb8c8"
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "GameStar operates its own reader forum and an official WhatsApp channel.",
+          "card_text": "",
+          "year": "",
+          "source": "GameStar site navigation and footer",
+          "link": "https://www.gamestar.de/about/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "GameStar, GamePro and MeinMMO editors answer reader questions in streams that continue afterwards on the shared community Discord.",
+          "card_text": "",
+          "year": "",
+          "source": "GamePro AMA announcement",
+          "link": "https://www.gamepro.de/artikel/fyng-ama-alle-infos,3366014.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "GamersGlobal editors reply to readers inside comment threads, and the site finances its text content through subscriptions since spring 2026.",
+          "card_text": "",
+          "year": "",
+          "source": "GamesWirtschaft interview with Joerg Langer, Mar 2026",
+          "link": "https://www.gameswirtschaft.de/marketing-pr/gamersglobal-realunch-joerg-langer-interview-300326/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Independent outlets OK COOL and Debuff run their reader communities through Steady memberships.",
+          "card_text": "",
+          "year": "",
+          "source": "Debuff about page on Steady",
+          "link": "https://steady.page/de/debuff/about"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "German games journalists are largely dormant on X and sparse on Bluesky, so personal social profiles function as calling cards rather than venues.",
+          "card_text": "Not on X or Bluesky",
+          "year": "",
+          "source": "GameStar team Bluesky starter pack, Dec 2024",
+          "link": "https://bsky.app/starter-pack/did:plc:tlc5nn3tvwwncohvnjj2uv3u/3lbhyocm72r2b"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "On the audience side, WhatsApp, YouTube and Facebook are the most relevant platforms for news in Germany, and X does not register.",
+          "card_text": "",
+          "year": "",
+          "source": "Leibniz Institute, Digital News Report 2026 German substudy",
+          "link": "https://leibniz-hbi.de/en/hbi-news/news/news-consumption-through-social-media-is-increasing/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "GameStar forum",
+          "card_text": "GameStar forum",
+          "year": "",
+          "source": "GameStar site navigation",
+          "link": "https://www.gamestar.de/xenforo/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "GamersGlobal comment threads",
+          "card_text": "GamersGlobal comments",
+          "year": "",
+          "source": "GamersGlobal site",
+          "link": "https://www.gamersglobal.de"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "GameStar, GamePro and MeinMMO shared Discord",
+          "card_text": "GameStar, GamePro and MeinMMO",
+          "year": "",
+          "source": "GamePro AMA announcement",
+          "link": "https://www.gamestar.de/discord"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "OK COOL membership community",
+          "card_text": "OK COOL",
+          "year": "",
+          "source": "OK COOL site",
+          "link": "https://okcool.space/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Debuff membership community",
+          "card_text": "Debuff",
+          "year": "",
+          "source": "Debuff site",
+          "link": "https://www.debuff.de/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "GameStar publishes its Discord invite.",
+          "card_text": "Gamestar.com",
+          "year": "",
+          "source": "GameStar redirect, outlet published invite route",
+          "link": "https://www.gamestar.de/discord"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "Games are a mainstream medium in Germany, with around 37.5 million people playing, six in ten of those aged 6 to 69, and an average player age of about 40.",
+          "card_text": "",
+          "year": "",
+          "source": "game Jahresreport der deutschen Games-Branche 2025, industry association report",
+          "link": "https://www.game.de/wp-content/uploads/2025/08/Jahresreport-der-deutschen-Games-Branche-2025.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Germany is a consumption market far more than a production one: games developed in Germany account for about 5.5 percent of domestic games spending, per the study Die Games-Branche in Deutschland 2025.",
+          "card_text": "",
+          "year": "",
+          "source": "GamesWirtschaft reporting the game and Goldmedia study, games trade press",
+          "link": "https://www.gameswirtschaft.de/politik/games-studie-foerderung-bmftr-baer-150126/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Buying individual games is now a small slice of German games spending: game purchases generated 807 million euros in 2025, down 13 percent, while in-game and in-app purchases held above 4 billion euros.",
+          "card_text": "",
+          "year": "",
+          "source": "game Verband annual market figures, industry association",
+          "link": "https://www.game.de/deutscher-games-markt-waechst-2025-um-4-prozent/"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "The German games market generated around 9.4 billion euros in 2025, a 4 percent increase, per the game association annual market figures based on YouGov and Sensor Tower data.",
+          "card_text": "~9.4 billion euros",
+          "year": "2025",
+          "source": "game Verband annual market figures, industry association",
+          "link": "https://www.game.de/deutscher-games-markt-waechst-2025-um-4-prozent/"
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Narrative",
+          "claim": "Age ratings on games sold in Germany are statutory, not advisory: state youth authority representatives issue the legal USK age label under the Jugendschutzgesetz, and retailers are bound by it.",
+          "card_text": "Age ratings are statutory, not advisory",
+          "year": "",
+          "source": "elternguide.online, USK information service",
+          "link": "https://www.elternguide.online/die-altersfreigaben-der-usk-bei-games-das-steckt-dahinter/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The largest games event in the world by attendance takes place in Cologne, with around 357,000 visitors and 1,568 exhibitors from 72 countries at gamescom 2025.",
+          "card_text": "Hosts the world largest games event by attendance",
+          "year": "",
+          "source": "ZDF heute, public broadcaster news",
+          "link": "https://www.zdfheute.de/panorama/gamescom-2025-bilanz-rekord-100.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Germany keeps an unusually strong attachment to physical media on console: 56 percent of console games sold on Datentraeger (physical discs and cartridges) in 2024, while 99 percent of PC games sold as downloads.",
+          "card_text": "Console players prefer physical discs",
+          "year": "",
+          "source": "game Verband download share figures, industry association",
+          "link": "https://www.game.de/7-von-10-games-in-deutschland-werden-als-download-gekauft/"
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "game Verband market data. Annual and half year revenue figures for the German market, split by software, hardware, and online services, with methodology notes attached to each release. Lets a researcher anchor any German market size claim to a free primary source.",
+          "card_text": "game Verband",
+          "year": "",
+          "source": "game Verband market figures, industry association",
+          "link": "https://www.game.de/deutscher-games-markt-waechst-2025-um-4-prozent/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "GfK Entertainment Games-Charts. Weekly official German games sales charts by platform, published as news posts. Lets a researcher see what actually sells in Germany week by week without buying panel data.",
+          "card_text": "GfK Entertainment",
+          "year": "",
+          "source": "GfK Entertainment, official charts compiler",
+          "link": "https://www.gfk-entertainment.com/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "JIM-Studie. Annual representative survey of 12 to 19 year olds media use in Germany, running since 1998, free PDF, covering devices, platforms, and gaming alongside wider media behaviour. Lets a researcher ground youth behaviour claims in a public dataset.",
+          "card_text": "JIM-Studie",
+          "year": "",
+          "source": "mpfs, publicly funded media research consortium",
+          "link": "https://mpfs.de/app/uploads/2025/11/JIM_2025_PDF_barrierearm.pdf"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "USK statistics. Annual rating statistics plus a searchable title database of age ratings. Lets a researcher see rating volumes, IARC platform coverage, and which large platforms sit outside the system, the 2025 statistics name Apple and Steam as not connected.",
+          "card_text": "USK statistics",
+          "year": "",
+          "source": "USK, ratings self regulation body",
+          "link": "https://usk.de/usk-jahresstatistik-2025-usk-alterskennzeichen-auf-nahezu-allen-grossen-plattformen/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "gamescom figures. Official attendance, exhibitor, floor space, and digital reach numbers for the annual Cologne event, updated each year. Lets a researcher date and size the industry main gathering.",
+          "card_text": "gamescom figures",
+          "year": "",
+          "source": "game Verband gamescom page, event co organizer",
+          "link": "https://www.game.de/events-koops/gamescom/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        }
+      ],
+      "Standing": [
+        {
+          "kind": "Narrative",
+          "claim": "Europe's largest games market, according to the game Jahresreport der deutschen Games-Branche 2025, August 2025.",
+          "card_text": "",
+          "year": "",
+          "source": "game Verband Jahresreport 2025, industry association annual report",
+          "link": "https://www.game.de/wp-content/uploads/2025/08/Jahresreport-der-deutschen-Games-Branche-2025.pdf"
+        }
+      ]
+    },
+    "player_population": {
+      "figure": "41.2 million",
+      "value": 41.2,
+      "year": "2026",
+      "direction": "",
+      "source": "game Verband der deutschen Games-Branche, Jahresreport der deutschen Games-Branche 2026",
+      "link": "https://www.game.de/publikationen/jahresreport-2026/",
+      "measure": "Play computer and video games",
+      "definition": "The figure counts people in Germany who play computer and video games, stated as \"In Deutschland spielen 41,2 Millionen Menschen Computer- und Videospiele.\" game reports an average player age of 38.3 years, 79 percent aged 18 and over, and a split of 54 percent men and 46 percent women. The data comes from YouGov, with 2026 fieldwork among about 25,000 respondents."
+    }
+  },
+  {
+    "market": "KR",
+    "sections": {
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "Podbbang, the leading Korean podcast platform, lists no games or gaming category in its podcast category browser, confirmed August 2026.",
+          "card_text": "",
+          "year": "",
+          "source": "Podbbang podcast category browser, platform primary source",
+          "link": "https://www.podbbang.com/podcasts/newest-episode?categoryId=0"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Twitch is dead in Korea. The platform ended its Korean operations on 27 February 2024, about six and a half years after entering, citing network usage fees roughly ten times other countries, a figure Korean network operators dispute.",
+          "card_text": "Twitch is dead here, exited Feb 2024",
+          "year": "",
+          "source": "KISO Journal, internet self governance organisation publication",
+          "link": "https://journal.kiso.or.kr/?p=12597"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Live game streaming runs through three platforms: SOOP, formerly AfreecaTV, Naver 치지직 (Chzzk), launched in December 2023 as the Twitch successor, and YouTube Live.",
+          "card_text": "SOOP, Chzzk (Naver) and YouTube Live",
+          "year": "",
+          "source": "국민일보 games policy column, national daily",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=0028840509"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Anonymous community boards including 디시인사이드 (DC Inside) galleries, 에펨코리아 (FMKorea) and 아카라이브 (Arca.live) are commonly described as major games discussion venues, but their current scale and games activity could not be verified to standard. Do not assert them without verification.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        }
+      ],
+      "Standing": [
+        {
+          "kind": "Narrative",
+          "claim": "The world's fourth largest games market, according to the 2025 White Paper on Korean Games (대한민국 게임백서), Ministry of Culture, Sports and Tourism and KOCCA, March 2026.",
+          "card_text": "",
+          "year": "",
+          "source": "2025 대한민국 게임백서, government and public agency annual, reported by Digital Today, named tech outlet",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=645491"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "Domestic games industry revenue is 23.8515 trillion won in 2024, up 3.9 percent year on year, per the 2025 White Paper on Korean Games.",
+          "card_text": "~23.9 trillion won",
+          "year": "2024",
+          "source": "2025 대한민국 게임백서, reported by Digital Today, named tech outlet",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=645491"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "Korea primarily makes and exports games. 2024 exports are 8.503 billion dollars, up 1.3 percent, against imports of 245.6 million dollars. Export destinations are led by China at 29.7 percent, Southeast Asia at 20.6 percent, North America at 19.5 percent and Japan at 8.3 percent.",
+          "card_text": "",
+          "year": "",
+          "source": "2025 대한민국 게임백서, reported by 문화일보, national daily",
+          "link": "https://www.munhwa.com/article/11577442"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Games are no longer a majority pastime in Korea. The 2025 game user survey puts the game usage rate at 50.2 percent, down 9.7 percentage points in one year, with a five year annual growth rate of minus 6.8 percent. KOCCA describes the market as reorganising around core users.",
+          "card_text": "",
+          "year": "",
+          "source": "KOCCA 2025 게임이용자 실태조사 press release, government agency survey",
+          "link": "https://welcon.kocca.kr/ko/info/business/1956858"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Korea is turning more PC heavy while shrinking. Among game users in 2025, mobile reaches 89.1 percent but is falling, while PC rises to 58.1 percent and console to 28.6 percent, and daily PC playtime is at its highest level in five years.",
+          "card_text": "",
+          "year": "",
+          "source": "KOCCA 2025 게임이용자 실태조사 press release, government agency survey",
+          "link": "https://welcon.kocca.kr/ko/info/business/1956858"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The industry employs 87,576 people in 2024, up 3.1 percent, with 62 percent in production and distribution rather than retail.",
+          "card_text": "",
+          "year": "",
+          "source": "2025 대한민국 게임백서, reported by Digital Today, named tech outlet",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=645491"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "News distribution in Korea routes through portals. Online portals such as Naver are the most widely used news source, and admission to a portal directly affects an outlet traffic, influence and advertising revenue through Naver partnership evaluation system, which suspended activity in 2023 and was relaunched in February 2026. Portal news use is nonetheless declining each year since 2021 as video and short form use rises.",
+          "card_text": "",
+          "year": "",
+          "source": "Reuters Institute Digital News Report 2026, South Korea page, academic institute",
+          "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/south-korea"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The largest games site, 인벤 (Inven), is a fused community and webzine, operating forums and an editorial newsroom in one property, and by its own account has supplied esports news to Naver since 2013.",
+          "card_text": "",
+          "year": "",
+          "source": "Inven corporate profile, company self description reproduced on the Gamejob recruiting service",
+          "link": "https://www.gamejob.co.kr/Company/Detail?M=11531230"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "루리웹 (Ruliweb), the largest console focused community, is widely described as having passed through a series of portal owners before becoming independent in 2016, but that history could not be verified beyond community wikis and the site own posts. Do not assert the ownership history without primary confirmation.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Korea press structure is community and media fusion plus portal gatekept distribution. The biggest games venues are community boards with newsrooms attached, and an outlet reach depends on admission to a portal. This is an interpretation resting on the rows above.",
+          "card_text": "",
+          "year": "",
+          "source": "Reuters Institute Digital News Report 2026, South Korea page, plus the rows above",
+          "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/south-korea"
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Narrative",
+          "claim": "Every game distributed in Korea requires a pre release age classification, issued by the Game Rating and Administration Committee (게임물관리위원회, GRAC), the delegated private classification body, or platform self classification, and every rating decision is searchable in a public database.",
+          "card_text": "Every game needs a pre release age rating",
+          "year": "",
+          "source": "GRAC official site, statutory classification body",
+          "link": "https://www.grac.or.kr/Statistics/GameStatistics.aspx"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Loot box odds disclosure is law. From 22 March 2024 the Game Industry Promotion Act requires games to display probability item odds in game and in advertising, with violations punishable by up to two years imprisonment or a 20 million won fine.",
+          "card_text": "Loot box odds disclosure is law",
+          "year": "",
+          "source": "Ministry of Culture, Sports and Tourism decision, reported by ZDNet Korea, named tech outlet",
+          "link": "https://zdnet.co.kr/view/?no=20240102151926"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Reports indicate the current administration is moving to abolish or reorganise GRAC and establish a game promotion agency, which if enacted changes the rating system, but this could not be verified beyond a community wiki. HOLD until confirmed by ministry or Assembly sources.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Korean mobile spend routes overwhelmingly through Google Play, which Sensor Tower own Korea report projects at 75 percent of an estimated 5.3 billion dollars in 2025 in app purchase revenue.",
+          "card_text": "Mobile spend routes through Google Play, not the App Store",
+          "year": "",
+          "source": "Sensor Tower Korea market report, vendor own free publication",
+          "link": "https://sensortower.com/ko/blog/state-of-gaming-in-korea-2025-report-KR"
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "대한민국 게임백서 (White Paper on Korean Games). KOCCA annual gives industry revenue, exports by destination, employment and Korea world share, and the full PDF is free.",
+          "card_text": "대한민국 게임백서 (White Paper on Korean Games)",
+          "year": "",
+          "source": "KOCCA 산업백서 index, government agency",
+          "link": "https://www.kocca.kr/kocca/bbs/list/B0000146.do?menuNo=204154"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "게임이용자 실태조사 (Game User Survey). KOCCA annual survey of 10,000 people aged 10 to 69 gives game usage rates, platform splits, playtime and spending, the standard free source on who plays in Korea.",
+          "card_text": "게임이용자 실태조사 (Game User Survey)",
+          "year": "",
+          "source": "KOCCA press release, government agency survey",
+          "link": "https://welcon.kocca.kr/ko/info/business/1956858"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "GRAC 등급분류 database. The regulator searchable database of every rating decision, including self classified games, lets a researcher confirm any game legal release status, rating and rating history in Korea.",
+          "card_text": "GRAC 등급분류 database",
+          "year": "",
+          "source": "게임물관리위원회 (GRAC), statutory classification body",
+          "link": "https://www.grac.or.kr/Statistics/GameStatistics.aspx"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "KRAFTON investor relations. Quarterly earnings releases and periodic reports give platform level and IP level revenue splits, an example of the disclosure depth available from Korea listed publishers.",
+          "card_text": "KRAFTON investor relations",
+          "year": "",
+          "source": "KRAFTON, primary corporate disclosure",
+          "link": "https://www.krafton.com/en/ir/investor-events/periodic-report/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "글로벌 게임산업 트렌드 (Global Game Industry Trends). KOCCA free bimonthly briefing covers overseas market, policy and company developments including emerging markets, written for Korean companies going abroad.",
+          "card_text": "글로벌 게임산업 트렌드 (Global Game Industry Trends)",
+          "year": "",
+          "source": "KOCCA, government agency bimonthly",
+          "link": "https://www.kocca.kr/global/2025_5+6/download/%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EA%B2%8C%EC%9E%84%EC%82%B0%EC%97%85%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20(2025%EB%85%84%205+6%EC%9B%94%ED%98%B8).pdf"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        }
+      ]
+    },
+    "player_population": {
+      "figure": "About 20 million",
+      "value": 20,
+      "year": "2025",
+      "direction": "down",
+      "source": "한국콘텐츠진흥원 KOCCA and 문화체육관광부, 2025 게임이용자 실태조사",
+      "link": "https://welcon.kocca.kr/ko/info/business/1956858",
+      "measure": "Played in past 12 months",
+      "definition": "KOCCA reports a game usage rate of 50.2 percent among people in Korea aged 10 to 69 who played in the previous twelve months. It publishes no headcount. The figure here approximates that rate against the population of that age group. The population base is not yet recorded, so the rate is the sourced part and the headcount is indicative."
+    }
+  },
+  {
+    "market": "JP",
+    "sections": {
+      "Standing": [
+        {
+          "kind": "Narrative",
+          "claim": "No free in-market source states Japan world rank by consumer spend. CESA and the Famitsu Game White Paper publish a domestic market size and a global total but present regional tables rather than a country ranking, so the fixed form Standing sentence cannot be sourced.",
+          "card_text": "",
+          "year": "",
+          "source": "Kadokawa ASCII Research Institute release for Famitsu Game White Paper 2025, publisher release",
+          "link": "https://prtimes.jp/main/html/rd/p/000000197.000017610.html"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "The domestic game content market is 2.3961 trillion yen in 2024, up 3.4 percent year on year, per the Famitsu Game White Paper 2025, announced August 2025.",
+          "card_text": "~2.4 trillion yen",
+          "year": "2024",
+          "source": "Famitsu Game White Paper 2025, Kadokawa ASCII Research Institute, publisher release",
+          "link": "https://prtimes.jp/main/html/rd/p/000000197.000017610.html"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "Japan game population is 54.75 million in 2024, a slight decline from 55.53 million the previous year, with 42.78 million on mobile, 29.51 million on console and 14.52 million on PC. Console players roughly double PC players.",
+          "card_text": "",
+          "year": "",
+          "source": "CESA Game Industry Report 2025, industry association annual",
+          "link": "https://www.cesa.or.jp/action/industry-research/2025/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Multi device play is near half the player base. 24.78 million people play on two or more of console, PC and mobile in 2024, which the publisher highlights as a marked increase.",
+          "card_text": "",
+          "year": "",
+          "source": "Famitsu Game White Paper 2025, Kadokawa ASCII Research Institute, publisher release",
+          "link": "https://prtimes.jp/main/html/rd/p/000000197.000017610.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Japan makes and exports games as well as buying them. Content industry exports reach 5.8 trillion yen in 2023, of which games are 62 percent, a total CESA states already exceeds Japan semiconductor and steel exports.",
+          "card_text": "",
+          "year": "",
+          "source": "CESA Game Industry Report 2025, industry association",
+          "link": "https://www.cesa.or.jp/action/industry-research/2025/"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "The two flagship legacy games media brands, Famitsu and Dengeki, are operated by a single company, KADOKAWA Game Linkage, inside the KADOKAWA group.",
+          "card_text": "",
+          "year": "",
+          "source": "KADOKAWA corporate topics page, primary corporate disclosure",
+          "link": "https://www.kadokawa.co.jp/topics/3811"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The industry association annual data report is produced and sold by KADOKAWA research arm. Kadokawa ASCII Research Institute makes and distributes the CESA Game Industry Report under commission from CESA, while the same group separately publishes the Famitsu Game White Paper.",
+          "card_text": "",
+          "year": "",
+          "source": "KADOKAWA group release for CESA Game Industry Report 2025, primary corporate disclosure",
+          "link": "https://group.kadokawa.co.jp/information/promotional_topics/article-13820.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "4Gamer.net, one of the largest games news sites, is operated by Aetas, a subsidiary of Digital Hearts Holdings, a debugging and QA vendor whose clients are the game publishers the site covers. Digital Hearts acquired Aetas for 800 million yen in 2012.",
+          "card_text": "",
+          "year": "",
+          "source": "ITmedia NEWS report, named tech news outlet",
+          "link": "https://www.itmedia.co.jp/news/articles/1211/21/news064.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "AUTOMATON, a leading independent voice games site, is operated by Active Gaming Media, an Osaka localization, debugging and promotion vendor that also runs the indie games publisher PLAYISM.",
+          "card_text": "",
+          "year": "",
+          "source": "Game Creators interview with Active Gaming Media, trade careers media",
+          "link": "https://game-creators.jp/media/interview/654/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The defining pattern of the Japanese games press is vendor ownership rather than closure. The largest outlets sit inside companies that sell services to the publishers they cover, media and data publishing at KADOKAWA, QA at Digital Hearts, localization at Active Gaming Media. This is an interpretation resting on the three ownership claims above.",
+          "card_text": "",
+          "year": "",
+          "source": "KADOKAWA group release, primary corporate disclosure, plus the ownership rows above",
+          "link": "https://group.kadokawa.co.jp/information/promotional_topics/article-13820.html"
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "YouTube reaches 81.5 percent of Japanese people aged 13 to 79 and is the default open video venue. TikTok reaches 36.7 percent.",
+          "card_text": "YouTube, the default open video venue",
+          "year": "",
+          "source": "Ministry of Internal Affairs and Communications media usage survey, government survey",
+          "link": "https://www.soumu.go.jp/menu_news/s-news/01iicp01_02000130.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "X reaches 44.7 percent of Japanese people aged 13 to 79 and Facebook reaches 27.0 percent, the lowest of the major platforms measured. Do not default to Facebook for Japanese games discourse. The guidance rests on the usage gap, not on a games specific measure.",
+          "card_text": "X, the main open text venue. Facebook is marginal",
+          "year": "",
+          "source": "Ministry of Internal Affairs and Communications media usage survey, government survey",
+          "link": "https://www.soumu.go.jp/menu_news/s-news/01iicp01_02000130.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "LINE reaches 92.9 percent of Japanese people aged 13 to 79, but it is a closed messaging service, so its conversation is not publicly searchable. The closed venue characterisation is an interpretation of the product type, not a survey finding.",
+          "card_text": "LINE, closed messaging, not publicly searchable",
+          "year": "",
+          "source": "Ministry of Internal Affairs and Communications media usage survey, government survey",
+          "link": "https://www.soumu.go.jp/menu_news/s-news/01iicp01_02000130.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Niconico, historically a central Japanese video venue, is owned by Dwango, a KADOKAWA subsidiary. A ransomware attack on 8 June 2024 took the service offline for about two months, with full relaunch on 5 August 2024.",
+          "card_text": "Niconico, KADOKAWA owned",
+          "year": "",
+          "source": "KADOKAWA group system failure disclosure, primary corporate disclosure",
+          "link": "https://group.kadokawa.co.jp/system_failure/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Anonymous boards under 5ちゃんねる (5channel, formerly 2channel) are commonly described as a games discussion venue, but current scale, ownership and games board activity could not be verified to standard from outside Japan. Do not assert 5channel as a live venue without verification.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Narrative",
+          "claim": "Japan publishes free weekly estimated unit sales for packaged console software and hardware. Famitsu releases a top 10 with unit counts every week, with fuller rankings following days later.",
+          "card_text": "Free weekly console sales rankings",
+          "year": "",
+          "source": "Famitsu.com weekly sales report, games trade media",
+          "link": "https://www.famitsu.com/article/202607/82960"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The national data annuals are premium paid products. The CESA Game Industry Report costs 55,000 yen and the Famitsu Game White Paper costs 48,400 to 53,900 yen, so free access to headline national data runs through press releases only.",
+          "card_text": "National data annuals are paid, 48,000 to 55,000 yen",
+          "year": "",
+          "source": "CESA official report page, industry association",
+          "link": "https://www.cesa.or.jp/action/industry-research/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Japanese player statistics count people per platform with overlap by design, so platform figures do not sum to the total game population. 24.78 million people are counted on two or more platforms in 2024.",
+          "card_text": "Platform player counts overlap and do not sum",
+          "year": "",
+          "source": "Famitsu Game White Paper 2025, Kadokawa ASCII Research Institute",
+          "link": "https://prtimes.jp/main/html/rd/p/000000197.000017610.html"
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "CESA ゲーム産業レポート (Game Industry Report). The industry association annual gives national game population by platform, a global market estimate, user survey results and industry data, with headline figures free in each December release.",
+          "card_text": "CESA ゲーム産業レポート (Game Industry Report)",
+          "year": "",
+          "source": "CESA, industry association",
+          "link": "https://www.cesa.or.jp/action/industry-research/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "ファミ通ゲーム白書 (Famitsu Game White Paper). The annual gives domestic and global market sizing, platform breakdowns and user survey data, with headline figures free in each August release. The mobile edition global data is supervised by Sensor Tower.",
+          "card_text": "ファミ通ゲーム白書 (Famitsu Game White Paper)",
+          "year": "",
+          "source": "Kadokawa ASCII Research Institute, publisher release",
+          "link": "https://prtimes.jp/main/html/rd/p/000000197.000017610.html"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "ファミ通 weekly sales rankings. Weekly estimated unit sales for packaged console software and hardware in Japan, free, published every week.",
+          "card_text": "ファミ通 weekly sales rankings",
+          "year": "",
+          "source": "Famitsu.com, games trade media",
+          "link": "https://www.famitsu.com/article/202607/82960"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "任天堂 IR (Nintendo investor relations). Primary corporate disclosure with regional sales splits, hardware and software unit sales by quarter, cumulative top title sales and long run historical data.",
+          "card_text": "任天堂 IR (Nintendo investor relations)",
+          "year": "",
+          "source": "Nintendo Co., Ltd., primary corporate disclosure",
+          "link": "https://www.nintendo.co.jp/ir/index.html"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "経済産業省 (METI) entertainment and creative industries strategy. The June 2025 government action plan analyses the games business segment by segment, console, PC, mobile and esports, with export policy context.",
+          "card_text": "経済産業省 (METI) creative industries strategy",
+          "year": "",
+          "source": "METI, government body",
+          "link": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/20250624_1.pdf"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "総務省 (MIC) media usage survey. The annual government survey gives platform usage rates by age band for LINE, X, YouTube, Instagram, TikTok and Facebook, the standard free source for venue triage in Japan.",
+          "card_text": "総務省 (MIC) media usage survey",
+          "year": "",
+          "source": "Ministry of Internal Affairs and Communications, government body",
+          "link": "https://www.soumu.go.jp/menu_news/s-news/01iicp01_02000130.html"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        }
+      ]
+    },
+    "player_population": {
+      "figure": "54.75 million",
+      "value": 54.75,
+      "year": "2024",
+      "direction": "down",
+      "source": "一般社団法人コンピュータエンターテインメント協会 CESA, CESAゲーム白書 2025",
+      "link": "https://www.cesa.or.jp/action/industry-research/2025/",
+      "measure": "Game population",
+      "definition": "The figure is the game population, ゲーム人口, stated as 5,475万人, against 5,553万人 the previous year, which CESA calls a slight decline, 微減. The platform split is 4,278万 mobile, 2,951万 home console and 1,452万 PC, which sum well above the total, so a person playing on more than one platform is counted in each. The page does not state the age range surveyed or the fieldwork method."
+    }
+  },
+  {
+    "market": "CN",
+    "sections": {
+      "Standing": [
+        {
+          "kind": "Narrative",
+          "claim": "The current authoritative in-market source states no world rank. The 2025 China Game Industry Report (中国游戏产业报告) summary presents domestic revenue and user figures without a ranking claim, so the fixed form Standing sentence cannot be sourced to a current edition.",
+          "card_text": "",
+          "year": "",
+          "source": "2025年中国游戏产业报告 summary as distributed by Xinhua, state news agency",
+          "link": "https://www.news.cn/20251219/71b9f7db89c84eee968cddeeeb86baf1/c.html"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "Domestic games market actual sales revenue is 350.789 billion yuan in 2025, up 7.68 percent, with a user base of 683 million, both record highs, per the 2025 China Game Industry Report.",
+          "card_text": "~350.8 billion yuan",
+          "year": "2025",
+          "source": "CGIGC annual report via Xinhua, state news agency",
+          "link": "https://www.news.cn/20251219/71b9f7db89c84eee968cddeeeb86baf1/c.html"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "Play is mobile dominated with a fast shifting periphery. Mobile takes 257.076 billion yuan of the 2025 domestic total, roughly 73 percent, client PC games take 78.16 billion yuan, console games take 8.362 billion yuan growing 86.33 percent in a third straight year of rapid growth, and web games decline for a tenth consecutive year.",
+          "card_text": "",
+          "year": "",
+          "source": "CGIGC annual report via 证券时报, securities daily",
+          "link": "https://stcn.com/article/detail/3549442.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "China primarily makes what it plays and exports at scale. Self developed games earn 291.095 billion yuan domestically in 2025, up 11.64 percent, and 20.455 billion dollars overseas, up 10.23 percent, a sixth consecutive year above 100 billion yuan, with the United States, Japan and Korea taking over half of overseas revenue.",
+          "card_text": "",
+          "year": "",
+          "source": "CGIGC annual report via 蓝鲸新闻 on 东方财富, financial news service",
+          "link": "https://finance.eastmoney.com/a/202512193596890238.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The internet base behind the market is 1.123 billion netizens at 79.7 percent penetration as of June 2025, per the CNNIC 56th statistical report.",
+          "card_text": "",
+          "year": "",
+          "source": "CNNIC 第56次中国互联网络发展状况统计报告 via China Daily, state media",
+          "link": "https://cn.chinadaily.com.cn/a/202507/21/WS687deb03a310028a84abee5d.html"
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Narrative",
+          "claim": "Every online game requires prior approval and a publication number, the 版号 (banhao), from the National Press and Publication Administration before commercial release. Approvals are published in monthly public lists, domestic and imported games listed separately.",
+          "card_text": "Every game needs a state licence (版号)",
+          "year": "",
+          "source": "国家新闻出版署 (NPPA) game approval results index, state regulator",
+          "link": "https://www.nppa.gov.cn/bsfw/jggs/yxspjg/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Minors may be served online games only from 20:00 to 21:00 on Fridays, Saturdays, Sundays and legal holidays, one hour per day, and every game must connect to the national real name anti addiction verification system, under NPPA notice 国新出发〔2021〕14号, in force since 1 September 2021.",
+          "card_text": "Minors: one hour, Fridays, weekends and holidays only",
+          "year": "",
+          "source": "国家新闻出版署 notice text on the State Council portal, primary legal text",
+          "link": "https://www.gov.cn/zhengce/zhengceku/2021-09/01/content_5634661.htm"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Minor spending is capped by age band under the 2019 anti addiction notice, no paid services under age 8, single top ups capped at 50 yuan and monthly at 200 yuan for ages 8 to 15, and 100 yuan and 400 yuan for ages 16 and 17.",
+          "card_text": "Minor spending capped by age band",
+          "year": "",
+          "source": "21世纪经济报道 compliance testing of 20 mobile games, business daily",
+          "link": "https://www.21jingji.com/article/20250530/herald/ea775bca2c7ad3e6b9afcc47b3299cf1.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The Regulations on the Protection of Minors in Cyberspace (未成年人网络保护条例), in force since 1 January 2024, prohibit providing game account rental and sale services to minors, with fines and suspension penalties for violations.",
+          "card_text": "",
+          "year": "",
+          "source": "Xinhua reporting citing the regulation, state news agency",
+          "link": "https://www.news.cn/gongyi/20250529/1e4c95ad52734f8b944a0d0662547809/c.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Foreign games reach the market through a separate imported game approval track with a domestic publishing unit of record on each approval, and imported approvals run far below domestic ones, 977 domestic against 98 imported in 2023.",
+          "card_text": "Foreign games need a domestic publisher",
+          "year": "",
+          "source": "NPPA approval data via 证券时报, securities daily",
+          "link": "https://www.stcn.com/article/detail/1073800.html"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "Independent games journalism in the sense used elsewhere in this directory does not exist in mainland China. All domestic media and platforms operate under government censorship requirements.",
+          "card_text": "",
+          "year": "",
+          "source": "Freedom House, Freedom on the Net 2024 China report, US research NGO",
+          "link": "https://freedomhouse.org/country/china/freedom-net/2024"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The authoritative market data layer is fused with the industry body and the state. The annual industry report is produced by CGIGC, a committee of the China Audio-Video and Digital Publishing Association, launched at the industry annual conference and distributed by the state news agency Xinhua.",
+          "card_text": "",
+          "year": "",
+          "source": "Xinhua distribution of the 2025 report, state news agency",
+          "link": "https://www.news.cn/20251219/71b9f7db89c84eee968cddeeeb86baf1/c.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "A business to business trade media layer covers the market for practitioners. GameLook, an industry trade site, republishes official report texts in full alongside commercial and product coverage.",
+          "card_text": "",
+          "year": "",
+          "source": "GameLook, industry trade media",
+          "link": "https://www.gamelook.com.cn/2025/12/584413/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "An enthusiast and community layer serves consumer audiences, including 机核 (GCores), a games media and community site, and portal era sites such as 17173.",
+          "card_text": "",
+          "year": "",
+          "source": "机核 GCores article page, games media and community site",
+          "link": "https://www.gcores.com/articles/141026"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The space that independent journalism occupies elsewhere is filled by industry service trade media, platform native channels, and official association publishing. This is an interpretation resting on the rows above.",
+          "card_text": "",
+          "year": "",
+          "source": "Freedom House country assessment plus the rows above",
+          "link": "https://freedomhouse.org/country/china/freedom-net/2024"
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "Most international platforms are inaccessible in mainland China. Facebook, X, Instagram, YouTube, WhatsApp and Telegram are blocked, Reddit since August 2018, all languages of Wikipedia since April 2019, and Google search since 2012. Do not reach for any of these when researching Chinese games discourse.",
+          "card_text": "Most international platforms are blocked",
+          "year": "",
+          "source": "Freedom House, Freedom on the Net 2024 China report, US research NGO",
+          "link": "https://freedomhouse.org/country/china/freedom-net/2024"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Domestic platforms fill the space the blocks created. Freedom House attributes the growth of local products such as WeChat (微信) and Sina Weibo (新浪微博) directly to the long standing blocks on international platforms, and both operate under government censorship demands.",
+          "card_text": "WeChat and Weibo fill the space",
+          "year": "",
+          "source": "Freedom House, Freedom on the Net 2024 China report, US research NGO",
+          "link": "https://freedomhouse.org/country/china/freedom-net/2024"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Mini program games running inside super app ecosystems are a venue and a market at once, earning 53.535 billion yuan in 2025, up 34.39 percent.",
+          "card_text": "Mini-program games, 53.5 billion yuan",
+          "year": "",
+          "source": "CGIGC annual report via 证券时报, securities daily",
+          "link": "https://stcn.com/article/detail/3549442.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "bilibili (哔哩哔哩) operates as a major video community and simultaneously holds game publication approvals as a licensed publisher, with both imported and domestic titles on 2025 approval lists. Disclose the dual role wherever bilibili is cited as a venue.",
+          "card_text": "bilibili, also a licensed publisher",
+          "year": "",
+          "source": "证券时报 coverage of August 2025 approval lists, securities daily",
+          "link": "https://www.stcn.com/article/detail/3260312.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The live streaming layer (虎牙 Huya, 斗鱼 Douyu, 抖音 Douyin live) and the forum layer (NGA, TapTap, 百度贴吧 Baidu Tieba) are widely described as core games venues, but their current scale and games activity could not be verified to standard from outside the country. Do not assert them without verification.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "NPPA game approval lists. The regulator monthly public lists let a researcher confirm whether any game is licensed for the Chinese market, when it was approved, and which domestic publisher holds the approval, with domestic and imported tracks listed separately.",
+          "card_text": "NPPA game approval lists",
+          "year": "",
+          "source": "国家新闻出版署 (NPPA), state regulator",
+          "link": "https://www.nppa.gov.cn/bsfw/jggs/yxspjg/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "中国游戏产业报告 (China Game Industry Report). CGIGC annual gives domestic revenue, user scale, platform splits, self developed and overseas revenue, released each December with the headline summary free through state media and trade press.",
+          "card_text": "中国游戏产业报告 (China Game Industry Report)",
+          "year": "",
+          "source": "CGIGC via Xinhua, state news agency",
+          "link": "https://www.news.cn/20251219/71b9f7db89c84eee968cddeeeb86baf1/c.html"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "CNNIC 中国互联网络发展状况统计报告 (Statistical Report on Internet Development in China). The twice yearly state statistical report gives netizen scale, penetration, and user counts for major application categories including online games.",
+          "card_text": "CNNIC 统计报告 (Internet Development Statistical Report)",
+          "year": "",
+          "source": "CNNIC via China Daily, state media",
+          "link": "https://cn.chinadaily.com.cn/a/202507/21/WS687deb03a310028a84abee5d.html"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Tencent investor relations. Quarterly results and annual reports from the market largest publisher give games revenue split domestic and international, deferred revenue, and title level commentary, in English and Chinese.",
+          "card_text": "Tencent investor relations",
+          "year": "",
+          "source": "Tencent Holdings, primary corporate disclosure, HKEX 700",
+          "link": "https://www.tencent.com/en-us/investors/quarter-result.html"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "中国政府网 policy library (zhengce). Primary regulatory texts governing games, including the minors play time notice, are hosted in full in the central government policy database, the citation of record for any regulatory claim.",
+          "card_text": "中国政府网 policy library",
+          "year": "",
+          "source": "中国政府网, State Council portal, primary legal texts",
+          "link": "https://www.gov.cn/zhengce/zhengceku/2021-09/01/content_5634661.htm"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Freedom House, Freedom on the Net, China report. The annual assessment documents which international platforms are blocked and how content control operates, the standard free reference for platform accessibility when planning China research.",
+          "card_text": "Freedom House, Freedom on the Net",
+          "year": "",
+          "source": "Freedom House, US research NGO, annual",
+          "link": "https://freedomhouse.org/country/china/freedom-net/2024"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        }
+      ]
+    },
+    "player_population": {
+      "figure": "683 million",
+      "value": 683,
+      "year": "2025",
+      "direction": "up",
+      "source": "中国音像与数字出版协会 China Audio-Video and Digital Publishing Association, 2025年中国游戏产业报告 2025 China Game Industry Report",
+      "link": "https://www.cadpa.org.cn/3277/202512/41770.html",
+      "measure": "User base",
+      "definition": "The figure is the game user base, 用户规模, stated as 6.83亿. The report does not define what counts as a user, over what period, or for what age range. It is a headline total published without a stated methodology."
+    }
+  },
+  {
+    "market": "US",
+    "sections": {
+      "Standing": [
+        {
+          "kind": "Narrative",
+          "claim": "The national industry body states no world rank. The ESA 2026 Essential Facts report and its February 2026 spending release describe video games as the country most popular form of entertainment and quantify spending, but neither states a rank among markets, so the fixed form Standing sentence cannot be sourced.",
+          "card_text": "",
+          "year": "",
+          "source": "ESA annual consumer spending release, industry association",
+          "link": "https://www.theesa.com/2025-u-s-consumer-spending-on-video-games-nears-pandemic-level-peak-at-60-7-billion-second-highest-on-record/"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "Consumer spending on video games in the United States totals 60.8 billion dollars in 2025, comprising 52.4 billion on content, 5.4 billion on hardware and 2.9 billion on accessories, per the ESA with Circana and Sensor Tower.",
+          "card_text": "$60.8 billion",
+          "year": "2025",
+          "source": "ESA annual consumer spending release, industry association",
+          "link": "https://www.theesa.com/2025-u-s-consumer-spending-on-video-games-nears-pandemic-level-peak-at-60-7-billion-second-highest-on-record/"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "212.3 million Americans play video games every week in 2026, up 3 percent or 7.2 million year on year, with the gender split near even at 53 percent men and 46 percent women.",
+          "card_text": "",
+          "year": "",
+          "source": "ESA 2026 Essential Facts report, industry association survey with YouGov",
+          "link": "https://www.theesa.com/two-thirds-of-americans-play-video-games-every-week-according-tonew-report-from-the-entertainment-software-association/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The player base is middle aged and long tenured. The average player is 36 years old and has played for 18 years, 60 percent of adults play weekly, and play persists into late life with 49 percent of boomers and 36 percent of the Silent Generation playing weekly.",
+          "card_text": "",
+          "year": "",
+          "source": "ESA 2025 Essential Facts report, industry association survey",
+          "link": "https://www.theesa.com/annual-esa-study-reveals-video-games-universal-appeal-across-generations/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Spending concentrates in content rather than devices. Content takes about 86 percent of 2025 consumer spending, subscription spending grows 20 percent in the year, and mobile is the most used platform with 82 percent of players age 8 and older playing on a mobile device.",
+          "card_text": "",
+          "year": "",
+          "source": "ESA annual consumer spending release, industry association",
+          "link": "https://www.theesa.com/2025-u-s-consumer-spending-on-video-games-nears-pandemic-level-peak-at-60-7-billion-second-highest-on-record/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Video games outpace American consumer spending on movies, television and music combined, per the ESA 2026 Essential Facts report.",
+          "card_text": "",
+          "year": "",
+          "source": "ESA 2026 Essential Facts as reported by Game Developer, trade press",
+          "link": "https://www.gamedeveloper.com/business/total-consumer-spending-on-games-topped-60b-in-the-us-in-2025"
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Narrative",
+          "claim": "Age ratings are self regulatory, not statutory. The ESRB is an industry established body founded in 1994, and the Supreme Court held in Brown v. Entertainment Merchants Association, 564 U.S. 786, decided 2011, that video games are protected speech under the First Amendment, striking down a state law restricting sales of violent games to minors. Rating enforcement runs through retailer and platform policy rather than law.",
+          "card_text": "Age ratings are self-regulatory, not statutory",
+          "year": "",
+          "source": "Supreme Court opinion via Justia, primary legal text",
+          "link": "https://supreme.justia.com/cases/federal/us/564/786/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Federal consumer protection enforcement reaches games through the FTC. Epic Games agreed in December 2022 to pay 520 million dollars, a 275 million dollar penalty for children privacy violations under COPPA and 245 million dollars in refunds for dark pattern billing in Fortnite, and by June 2025 the FTC has returned nearly 200 million dollars to players.",
+          "card_text": "Federal enforcement runs through the FTC",
+          "year": "",
+          "source": "Federal Trade Commission press release, federal regulator",
+          "link": "https://www.ftc.gov/news-events/news/press-releases/2025/06/ftc-sends-126-million-refunds-fortnite-players-who-were-charged-unwanted-items-reopens-claims"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Rules for minors are being made at state level and contested in federal court. Utah enacts the first App Store Accountability Act in March 2025 requiring app stores to verify ages and obtain parental consent, Texas, Louisiana and Alabama follow with California passing a variant, a federal court enjoins the Texas law on First Amendment grounds in December 2025, and Utah amends its law in 2026 to private enforcement only with key provisions delayed to May 2027.",
+          "card_text": "Rules for minors are being made state by state",
+          "year": "",
+          "source": "Frankfurt Kurnit technology law analysis, law firm client alert",
+          "link": "https://technologylaw.fkks.com/post/102mpap/utah-first-state-to-amend-its-app-store-accountability-act"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "Games media ownership has consolidated into a small set of owners. Fandom acquires GameSpot and Giant Bomb in 2022, Ziff Davis IGN Entertainment acquires the Gamer Network brands including Eurogamer, GamesIndustry.biz, Rock Paper Shotgun and VG247 in 2024, and Valnet acquires Polygon in 2025.",
+          "card_text": "",
+          "year": "",
+          "source": "Game Developer reporting on the Polygon sale, trade press",
+          "link": "https://www.gamedeveloper.com/business/polygon-sold-to-valnet-many-staff-laid-off"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Vox Media sells Polygon to Valnet on 1 May 2025 and the majority of its staff is laid off in the sale, including the co founder and editor in chief. Valnet is a Montreal company operating high volume aggregation sites including Screen Rant and Game Rant.",
+          "card_text": "",
+          "year": "",
+          "source": "Kotaku reporting, games press",
+          "link": "https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Institutional homes for games journalism keep closing. The Washington Post shuts its games section Launcher and Vice shuts Waypoint in 2023, and GameStop, a games retailer, shuts Game Informer in August 2024 after 33 years before the brand is relaunched in 2025 under Gunzilla Games, a game developer.",
+          "card_text": "",
+          "year": "",
+          "source": "Axios reporting on the Polygon sale with sector context, national news outlet",
+          "link": "https://www.axios.com/2025/05/01/vox-media-polygon-sells"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Laid off journalists are rebuilding as owners. Aftermath launches in November 2023 as a worker owned subscription site founded by former Kotaku writers, and Fandom sells Giant Bomb to its own staff in May 2025, who run it as an independent subscriber backed operation.",
+          "card_text": "",
+          "year": "",
+          "source": "Game Developer reporting on the Aftermath launch, trade press",
+          "link": "https://www.gamedeveloper.com/business/former-kotaku-staffers-launch-independent-game-and-culture-website-aftermath"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The defining pattern is ownership churn at the top and worker ownership at the edge. Legacy mastheads change hands repeatedly while subscriber funded journalist owned outlets absorb the displaced reporting capacity. This is an interpretation resting on the rows above.",
+          "card_text": "",
+          "year": "",
+          "source": "Game Developer and Kotaku reporting plus the rows above",
+          "link": "https://kotaku.com/giant-bomb-fandom-dan-ryckert-jeff-grubb-gerstmann-1851778728"
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "Among US teens, the most widely used platforms are YouTube, TikTok, Snapchat and Instagram, and use of Facebook and X sits far below its level of a decade ago. Do not default to X when looking for younger American players games conversation.",
+          "card_text": "YouTube, TikTok, Snapchat and Instagram lead among teens",
+          "year": "",
+          "source": "Pew Research Center, Teens and Tech topic page, independent research organisation",
+          "link": "https://www.pewresearch.org/topic/internet-technology/user-demographics/age-generations-tech/teens-tech/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Discord and Twitch function as the gaming community platforms for young players. Among teen gamers, 44 percent use Discord and 30 percent use Twitch, against 28 percent and 17 percent of all teens.",
+          "card_text": "Discord and Twitch are the gaming-community platforms",
+          "year": "",
+          "source": "Pew Research Center, Teens and Video Games Today report, independent research organisation",
+          "link": "https://www.pewresearch.org/internet/2024/05/09/teens-and-video-games-today/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Reddit games communities, YouTube creator channels and games podcasts are widely treated as the centre of adult US games conversation, but no citable current source establishing their scale or share was found. Do not assert their centrality without verification.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "ESA Essential Facts About the U.S. Video Game Industry. The industry association free annual gives player counts, demographics, platform use and attitudes, the standard first stop for who plays in America.",
+          "card_text": "ESA Essential Facts",
+          "year": "",
+          "source": "Entertainment Software Association, industry association annual",
+          "link": "https://www.theesa.com/resources/essential-facts-about-the-us-video-game-industry/2025-data/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "ESA annual consumer spending release. The February release each year gives the headline US spending total with content, hardware and accessories splits, compiled with Circana and Sensor Tower, free at the top line.",
+          "card_text": "ESA annual spending release",
+          "year": "",
+          "source": "Entertainment Software Association with Circana and Sensor Tower, industry association release",
+          "link": "https://www.theesa.com/2025-u-s-consumer-spending-on-video-games-nears-pandemic-level-peak-at-60-7-billion-second-highest-on-record/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Circana video games industry page. The vendor publishes free monthly top line US spending commentary, including monthly totals and hardware and software highlights, with the full dataset behind subscription.",
+          "card_text": "Circana video games",
+          "year": "",
+          "source": "Circana, commercial data vendor, monthly",
+          "link": "https://www.circana.com/industries/video-games"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "ESRB ratings database. The self regulator free searchable database gives any rated game age category, content descriptors, interactive elements and rating summary, and confirms whether and how a title was rated for the US market.",
+          "card_text": "ESRB ratings database",
+          "year": "",
+          "source": "Entertainment Software Rating Board, industry self regulatory body",
+          "link": "https://www.esrb.org/search/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "FTC enforcement materials on games. The regulator case pages, refund trackers and press releases document federal action on games monetisation and children privacy, with the Epic Games matter as the anchor case.",
+          "card_text": "FTC enforcement materials",
+          "year": "",
+          "source": "Federal Trade Commission, federal regulator",
+          "link": "https://www.ftc.gov/enforcement/refunds/fortnite-refunds"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Pew Research Center teens and technology research. Free independent survey research on teen platform use and gaming habits, the corrective to industry funded demographics and the standard citation for youth venue triage.",
+          "card_text": "Pew Research Center, teens and tech",
+          "year": "",
+          "source": "Pew Research Center, independent research organisation",
+          "link": "https://www.pewresearch.org/topic/internet-technology/user-demographics/age-generations-tech/teens-tech/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        }
+      ]
+    },
+    "player_population": {
+      "figure": "212.3 million",
+      "value": 212.3,
+      "year": "2026",
+      "direction": "up",
+      "source": "Entertainment Software Association, 2026 Essential Facts About the U.S. Video Game Industry",
+      "link": "https://www.theesa.com/two-thirds-of-americans-play-video-games-every-week-according-tonew-report-from-the-entertainment-software-association/",
+      "measure": "Play games weekly",
+      "definition": "The figure counts Americans aged 5 to 90 who play video games for one or more hours per week, which the ESA states is 67 percent of the US population. It comes from a survey of 13,545 respondents fielded 11 to 25 February 2026."
+    }
+  },
+  {
+    "market": "MENA",
+    "sections": {
+      "Standing": [
+        {
+          "kind": "Narrative",
+          "claim": "No authoritative in region source sizing the Gulf or MENA games market to standard was located. Regional revenue and player figures in circulation trace to paid vendor estimates or to promotional material produced by parties invested in the region growth, and no free figure naming its methodology was found.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "The largest national market in scope is Saudi Arabia, where the National Gaming and Esports Strategy states a base of 23.5 million game enthusiasts, 67 percent of the population, at the strategy launch in September 2022. No free revenue figure meeting sourcing standards exists for the market.",
+          "card_text": "23.5m Saudi game enthusiasts",
+          "year": "2022",
+          "source": "Saudi National Gaming and Esports Strategy launch coverage, Sabq, Saudi news outlet",
+          "link": "https://sabq.org/saudia/h2961a5bqy"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "The defining structural layer is sovereign investment. Savvy Games Group, wholly owned by Saudi Arabia Public Investment Fund, completed its largest investment to date in July 2023, the 4.9 billion dollar acquisition of the mobile publisher Scopely.",
+          "card_text": "",
+          "year": "",
+          "source": "Public Investment Fund newswire, sovereign primary disclosure",
+          "link": "https://www.pif.gov.sa/en/news-and-insights/newswire/2023/savvy-games-group-completes-acquisition-of-scopely-for-fourty-nine-billion/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Savvy Games Group also carries an announced commitment of 38 billion dollars to games from September 2022 and owns ESL FACEIT Group, and Scopely acquired the Niantic games business including Pokemon GO in 2025.",
+          "card_text": "",
+          "year": "",
+          "source": "Naavik analysis of the Savvy portfolio, specialist games analyst",
+          "link": "https://naavik.co/digest/inside-saudi-arabias-38-billion-gaming-empire/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The state has a published national plan for the sector. Saudi Arabia National Gaming and Esports Strategy, launched September 2022, targets 250 games companies, 39,000 jobs, a GDP contribution above 50 billion riyals, and more than 30 locally made games in the global top 300, all by 2030.",
+          "card_text": "",
+          "year": "",
+          "source": "Government of Saudi Arabia, Vision 2030 strategy page, state primary source",
+          "link": "https://www.vision2030.gov.sa/en/explore/strategies/national-gaming-and-esports-strategy"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The demographic base is young. Saudi citizens under 35 comprise 69.4 percent of the Saudi population per 2024 data from the General Authority for Statistics, and the 2022 census puts the national median age at 29.",
+          "card_text": "",
+          "year": "",
+          "source": "GASTAT via Saudi Press Agency, state statistics agency",
+          "link": "https://www.spa.gov.sa/en/N2377439"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The region is primarily a buyer and investor rather than a producer. Domestic development capacity is an explicit build objective of the Saudi strategy rather than an existing base. The buyer and investor characterisation is an interpretation resting on the strategy targets and holdings sourced above.",
+          "card_text": "",
+          "year": "",
+          "source": "Naavik analysis of the Savvy portfolio, specialist games analyst",
+          "link": "https://naavik.co/digest/inside-saudi-arabias-38-billion-gaming-empire/"
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Narrative",
+          "claim": "Game age classification in Saudi Arabia is statutory and regulator operated. The General Commission for Audiovisual Media (الهيئة العامة للإعلام المرئي والمسموع, GCAM) runs a mandatory age classification system for games in force since 15 August 2016, and the classification service is carried on the national government services portal.",
+          "card_text": "Saudi ratings are statutory (GCAM)",
+          "year": "",
+          "source": "Saudi national services portal, government primary source",
+          "link": "https://my.gov.sa/ar/services/688992"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The United Arab Emirates operates a separate statutory classification system. Age classification covering video games is binding since February 2018, introduced by the National Media Council, with games classified into age groups 3, 7, 12, 16, 18 and 21.",
+          "card_text": "UAE ratings are statutory",
+          "year": "",
+          "source": "UAE National Media Council announcement, government primary source",
+          "link": "https://nmc.gov.ae/en-us/Media-Center/Events/Pages/Age-Classification-System.aspx"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "There is no single Gulf wide games rating scheme. Saudi Arabia and the United Arab Emirates each run their own regulator operated binding classification, and no operating GCC wide games rating scheme was verified.",
+          "card_text": "No GCC-wide rating scheme",
+          "year": "",
+          "source": "Saudi and UAE regulator sources cited in the rows above, government primary sources",
+          "link": "https://my.gov.sa/ar/services/688992"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Government entities operate the region flagship events directly. The Esports World Cup in Riyadh carries a prize pool above 70 million dollars in 2025 across 25 tournaments, is funded by a grant from the Public Investment Fund, and is operated through ESL FACEIT Group with the Saudi Esports Federation chairing the event.",
+          "card_text": "The state runs the flagship events",
+          "year": "",
+          "source": "Esports World Cup Foundation press release, event operator",
+          "link": "https://esportsworldcup.com/en/news/ewc-2025-kicks-off-in-riyadh-with-70-million-prize-pool-international-superstars-and-global-broadcast"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "A meaningful share of English language material on the Gulf games market is paid or partner content produced for state entities, including sponsored editorial hubs for the Public Investment Fund carried on international business media. Treat glossy English language coverage of this market as promotional until its funding is checked.",
+          "card_text": "",
+          "year": "",
+          "source": "Bloomberg sponsored content hub for PIF, paid partner content",
+          "link": "https://sponsored.bloomberg.com/quicksight/pif/how-pif-is-supercharging-the-new-golden-age-of-gaming"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Sustained analytical coverage of the Gulf games sector is produced largely from outside the region, by international esports trade press and games industry analysts.",
+          "card_text": "",
+          "year": "",
+          "source": "The Esports Advocate coverage of Gulf esports funding, trade press",
+          "link": "https://esportsadvocate.net/2025/04/esports-world-cup-to-feature-70-million-total-prize-pool/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Long running Arabic language games sites exist, including سعودي جيمر (Saudi Gamer) and ترو جيمنج (True Gaming), and both show recent output, but their scale, ownership and funding could not be verified from citable sources. Do not characterise the Arabic games press layer without that verification.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "Saudi Arabia is a platform saturated venue environment. Social media ad audiences approach the total population in early 2025, YouTube ad audience is 27.2 million, about four fifths of the population, and social media user identities skew 61.3 percent male.",
+          "card_text": "Near-total platform saturation in Saudi Arabia",
+          "year": "",
+          "source": "DataReportal Digital 2025 Saudi Arabia, research compilation with published methodology",
+          "link": "https://datareportal.com/reports/digital-2025-saudi-arabia"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Which platforms carry Arabic language games discourse specifically, and the balance between Arabic and English in that discourse, could not be established from citable sources. Do not assert a games venue hierarchy for the Gulf without that evidence.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "PIF corporate newswire. The sovereign fund own press releases are the primary record of Savvy Games Group deals and games commitments, the source of record for what has actually been announced.",
+          "card_text": "PIF newswire",
+          "year": "",
+          "source": "Public Investment Fund, sovereign primary disclosure",
+          "link": "https://www.pif.gov.sa/en/news-and-insights/newswire/2023/savvy-games-group-completes-acquisition-of-scopely-for-fourty-nine-billion/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Vision 2030 strategy library, National Gaming and Esports Strategy page. The official statement of Saudi Arabia sector targets, the reference for what the state has committed to build and by when.",
+          "card_text": "Vision 2030 strategy library",
+          "year": "",
+          "source": "Government of Saudi Arabia, Vision 2030 portal, state primary source",
+          "link": "https://www.vision2030.gov.sa/en/explore/strategies/national-gaming-and-esports-strategy"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "GASTAT, the Saudi General Authority for Statistics. Census, population and youth statistics for the region largest market, including the age structure behind every demographic claim about Saudi players.",
+          "card_text": "GASTAT, Saudi statistics authority",
+          "year": "",
+          "source": "General Authority for Statistics, state statistics agency",
+          "link": "https://www.stats.gov.sa/documents/d/guest/saudi-youth-statistics-en-pdf"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Saudi game classification service. The government services entry for GCAM game age classification lets a researcher confirm the statutory rating regime and its administering regulator for Saudi Arabia.",
+          "card_text": "Saudi game classification service",
+          "year": "",
+          "source": "Saudi national services portal, government primary source",
+          "link": "https://my.gov.sa/ar/services/688992"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Esports World Cup Foundation press room. The operator releases give official prize pools, formats, participating clubs and titles for the region flagship event, with self reported audience figures that require independent treatment.",
+          "card_text": "Esports World Cup press room",
+          "year": "",
+          "source": "Esports World Cup Foundation, state affiliated event operator",
+          "link": "https://esportsworldcup.com/en/press-releases/ewc-2025-prizepool"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "DataReportal country reports for Gulf states. Free annual compilations of internet and platform ad audience data with published methodology, the least interested source available for venue planning in this region.",
+          "card_text": "DataReportal Gulf country reports",
+          "year": "",
+          "source": "DataReportal, Kepios with We Are Social, research compilation, annual",
+          "link": "https://datareportal.com/digital-in-saudi-arabia"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        }
+      ]
+    }
+  },
+  {
+    "market": "UK",
+    "sections": {
+      "Standing": [
+        {
+          "kind": "Narrative",
+          "claim": "The sixth largest games market in the world by game revenue in 2023, according to a business case report prepared by Nordicity for Ukie, published 2025.",
+          "card_text": "",
+          "year": "",
+          "source": "Nordicity report commissioned by Ukie, trade body commissioned research",
+          "link": "https://cms.ukie.org.uk/wp-content/uploads/2025/04/VGEC-Business-Case-Nordicity-Final-Report-to-Ukie.pdf"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "UK consumers spent 8.76 billion pounds on video games in 2025, up 7.4 percent year on year, per Ukie annual Consumer Games Market Valuation released in April 2026.",
+          "card_text": "£8.76 billion",
+          "year": "2025",
+          "source": "Ukie market valuation announcement, trade body annual",
+          "link": "https://ukie.org.uk/news/uk-video-games-market-reaches-8-76-billion-growing-7-4-in-2025/"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "Spending in 2025 splits into 6.03 billion pounds of software, up 7 percent, 2.17 billion pounds of hardware, up 3 percent, and 566 million pounds of game culture, up 42 percent, with digital console at 2.49 billion pounds, mobile at 2.07 billion pounds and digital PC at 1.15 billion pounds.",
+          "card_text": "",
+          "year": "",
+          "source": "Ukie market valuation announcement, trade body annual",
+          "link": "https://ukie.org.uk/news/uk-video-games-market-reaches-8-76-billion-growing-7-4-in-2025/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The development workforce reached 25,419 full time equivalents in 2024, up 4.8 percent year on year.",
+          "card_text": "",
+          "year": "",
+          "source": "TIGA data cited in the Nordicity report for Ukie, trade body sourced research",
+          "link": "https://cms.ukie.org.uk/wp-content/uploads/2025/04/VGEC-Business-Case-Nordicity-Final-Report-to-Ukie.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The wider sector supports over 73,000 jobs and contributes 6 billion pounds in gross value added annually, and has more than doubled in size over the last decade.",
+          "card_text": "",
+          "year": "",
+          "source": "Ukie market valuation announcement, trade body annual",
+          "link": "https://ukie.org.uk/news/uk-video-games-market-reaches-8-76-billion-growing-7-4-in-2025/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Whether the largest UK development studios are domestically or foreign owned could not be verified from a reliable single source. Do not characterise the ownership of the UK development base without that verification.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Narrative",
+          "claim": "Age classification has statutory force. Since 30 July 2012, video games suitable only for those aged 12 and over require statutory classification before UK supply, under provisions of the Digital Economy Act 2010 brought into force with the Video Recordings (Labelling) Regulations 2012, making it an offence to supply against the labelling regime.",
+          "card_text": "Age ratings have statutory force",
+          "year": "",
+          "source": "Explanatory memorandum to SI 2012/1767, primary legal text",
+          "link": "https://www.legislation.gov.uk/uksi/2012/1767/pdfs/uksiem_20121767_en.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The Games Rating Authority, formerly the Video Standards Council, is the statutory body that rates video games in the UK using the PEGI system.",
+          "card_text": "",
+          "year": "",
+          "source": "Games Rating Authority official site, statutory classification body",
+          "link": "https://gamesratingauthority.org.uk/RatingBoard/about"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Games development carries a statutory tax credit. The Video Games Expenditure Credit applies to expenditure from 1 January 2024 at a 34 percent rate, replacing Video Games Tax Relief, and qualification requires certification as British through the cultural test administered by the BFI.",
+          "card_text": "34% tax credit for British-certified games",
+          "year": "",
+          "source": "BFI expenditure credits guidance, arm length public body administrator",
+          "link": "https://www.bfi.org.uk/apply-british-certification-expenditure-credits/about-uk-creative-industry-expenditure-credits"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Loot boxes are not regulated in law. The government July 2022 response to its call for evidence found an association between loot boxes and harms, declined to legislate, and set an industry led approach with a technical working group convened by DCMS, holding legislation in reserve.",
+          "card_text": "Loot boxes are not regulated in law",
+          "year": "",
+          "source": "UK government response, primary policy document",
+          "link": "https://www.gov.uk/government/calls-for-evidence/loot-boxes-in-video-games-call-for-evidence/outcome/government-response-to-the-call-for-evidence-on-loot-boxes-in-video-games"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The industry answer to the loot box decision is a published code. Ukie issued 11 industry principles on loot boxes in July 2023, developed by the DCMS convened technical working group, covering parental consent expectations, spending controls and transparency.",
+          "card_text": "",
+          "year": "",
+          "source": "Ukie principles announcement, trade body",
+          "link": "https://ukie.org.uk/news/new-loot-box-principles-agreed-by-industry"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "The UK legacy specialist publishing stable changed hands to an American buyer. IGN Entertainment acquired Gamer Network, whose brands include Eurogamer, GamesIndustry.biz, Rock Paper Shotgun and VG247, from ReedPop in 2024, and the period since has included multiple rounds of redundancies and the departure of key editorial staff.",
+          "card_text": "",
+          "year": "",
+          "source": "The Game Business reporting, specialist trade outlet",
+          "link": "https://www.thegamebusiness.com/p/digital-foundry-leaves-ign"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Digital Foundry, the technical analysis brand part owned by IGN through the Gamer Network acquisition, bought its way to full independence in August 2025, with its owner citing the volatile games media landscape and a belief in independent specialists.",
+          "card_text": "",
+          "year": "",
+          "source": "The Game Business reporting, specialist trade outlet",
+          "link": "https://www.thegamebusiness.com/p/digital-foundry-leaves-ign"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The largest remaining UK owned games media brands sit inside one listed company. PC Gamer, Edge and GamesRadar+ are Future brands, and Future is listed on the London Stock Exchange.",
+          "card_text": "",
+          "year": "",
+          "source": "Future plc corporate site, primary corporate disclosure",
+          "link": "https://futureplc.com/about/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "A subscriber funded independent trade layer has formed around displaced senior journalists. The Game Business is an independent outlet covering the business of games founded by Christopher Dring, previously head of GamesIndustry.biz.",
+          "card_text": "",
+          "year": "",
+          "source": "The Game Business, the outlet own reporting with author disclosure",
+          "link": "https://www.thegamebusiness.com/p/digital-foundry-leaves-ign-and-guitar"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The UK pattern is absorption of the legacy stable by an overseas consolidator, one large domestic listed owner holding the remaining major brands, and senior veterans rebuilding as independents. This is an interpretation resting on the rows above.",
+          "card_text": "",
+          "year": "",
+          "source": "The Game Business reporting plus the rows above, specialist trade outlet",
+          "link": "https://www.thegamebusiness.com/p/digital-foundry-leaves-ign"
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "The audience base for venue planning is broad. Ofcom research found 60 percent of UK adults, and 88 percent of those aged 16 to 24, played games on an electronic device in 2021.",
+          "card_text": "60% of UK adults play (Ofcom, 2021)",
+          "year": "",
+          "source": "Ofcom research as cited in the DCMS government response, government document",
+          "link": "https://www.gov.uk/government/calls-for-evidence/loot-boxes-in-video-games-call-for-evidence/outcome/government-response-to-the-call-for-evidence-on-loot-boxes-in-video-games"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Which platforms carry UK games conversation, and in what proportion, could not be established from a citable UK specific source. Do not assert a UK venue hierarchy without that evidence.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "Ukie Consumer Games Market Valuation. The trade body annual valuation gives total UK consumer spend with software, hardware and game culture splits, released free each spring, the standard headline sizing for the UK market.",
+          "card_text": "Ukie market valuation",
+          "year": "",
+          "source": "Ukie, trade body annual",
+          "link": "https://ukie.org.uk/news/uk-video-games-market-reaches-8-76-billion-growing-7-4-in-2025/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Ukiepedia. The trade body open wiki of UK industry statistics collects valuation history, headline industry facts and global market context in one navigable place, with revision methodology stated.",
+          "card_text": "Ukiepedia",
+          "year": "",
+          "source": "Ukie, trade body reference wiki",
+          "link": "https://ukiepedia.ukie.org.uk/index.php/Ukie_UK_Consumer_Games_Market_Valuation"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Games Rating Authority ratings search. The statutory classifier searchable database confirms any game UK age rating and content information, and carries annual reports on classification activity.",
+          "card_text": "Games Rating Authority ratings search",
+          "year": "",
+          "source": "Games Rating Authority, statutory classification body",
+          "link": "https://gamesratingauthority.org.uk/RatingBoard/games"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "BFI certification and expenditure credit guidance. The administrator pages give the rules, rates and cultural test criteria for the Video Games Expenditure Credit, the reference for how UK games production is subsidised.",
+          "card_text": "BFI certification guidance",
+          "year": "",
+          "source": "British Film Institute, arm length public body",
+          "link": "https://www.bfi.org.uk/apply-british-certification-expenditure-credits"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "DCMS Economic Estimates. Accredited official statistics on gross value added for DCMS sectors, including computer games subsector estimates, the independent government check on trade body economic claims.",
+          "card_text": "DCMS Economic Estimates",
+          "year": "",
+          "source": "Department for Culture, Media and Sport, accredited official statistics",
+          "link": "https://www.gov.uk/government/statistics/dcms-economic-estimates-gva-2024-provisional"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "legislation.gov.uk. The official statute database holds the primary texts of the games classification regime and every other UK law a games researcher needs to cite, the citation of record over any summary.",
+          "card_text": "legislation.gov.uk",
+          "year": "",
+          "source": "The National Archives, official legislation database",
+          "link": "https://www.legislation.gov.uk/uksi/2012/1767/pdfs/uksiem_20121767_en.pdf"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        }
+      ]
+    },
+    "player_population": {
+      "figure": "38 million",
+      "value": 38,
+      "year": "2025",
+      "direction": "",
+      "source": "Statista",
+      "link": "",
+      "measure": "Population",
+      "definition": "38 million is a rough estimate derived from Statista, a paid data aggregator. No UK body publishes a player headcount on a stated method. Ofcom last measured participation in 2021, at 60 percent of adults aged 16 and over, and gives no headcount. Ukie publishes the consumer market value rather than player numbers."
+    }
+  },
+  {
+    "market": "FR",
+    "sections": {
+      "Standing": [
+        {
+          "kind": "Narrative",
+          "claim": "The national trade body states no rank among games markets. SELL describes video games as the country first cultural and creative industry by revenue, a standing among French cultural industries rather than a rank among games markets, so the fixed form sentence cannot be sourced.",
+          "card_text": "",
+          "year": "",
+          "source": "SELL market results as reported by AFJV, trade press",
+          "link": "https://afjv.com/news/11956_chiffres-marche-francais-jeux-video-sell.htm"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "The French games market reaches 5.856 billion euros in 2025, up 2.9 percent year on year and its second highest level on record, per SELL annual market report.",
+          "card_text": "€5.856 billion",
+          "year": "2025",
+          "source": "SELL market results as reported by AFJV, trade press",
+          "link": "https://afjv.com/news/11956_chiffres-marche-francais-jeux-video-sell.htm"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "Consumer spending splits across three ecosystems in 2025. Console leads with 44 percent of the market at 2.552 billion euros, mobile takes 30 percent at 1.792 billion euros growing 11 percent, and PC gaming holds 26 percent at 1.512 billion euros.",
+          "card_text": "",
+          "year": "",
+          "source": "SELL market results as reported by AFJV, trade press",
+          "link": "https://afjv.com/news/11956_chiffres-marche-francais-jeux-video-sell.htm"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "40.2 million French people play video games in 2025, more than seven in ten, with adults making up 88 percent of players, an average age of 40, and a near even split of 51 percent men and 49 percent women.",
+          "card_text": "",
+          "year": "",
+          "source": "SELL and Mediametrie, Les Francais et le Jeu Video 2025, as reported by AFJV, trade press",
+          "link": "https://afjv.com/news/11790_etude-mediametrie-sell-francais-jeux-video-2025.htm"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Play is regular rather than occasional. 76 percent of players play at least weekly in 2025, and regular players average 7 hours 55 minutes per week, 38 minutes more than in 2024.",
+          "card_text": "",
+          "year": "",
+          "source": "SELL and Mediametrie study as reported by ConsoleFun, games site",
+          "link": "https://www.consolefun.fr/actualites/detail/33726/24-09-2025-les-fran-ccedil-ais-jeu-vid-eacute-millions-joueurs-2025-par-sell"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The development sector is surveyed annually on a verified base. The SNJV 2024 barometer covers 575 verified development companies, and reports women at 20 percent of studio staff, down four points from 2022, and 14.2 percent of leadership roles.",
+          "card_text": "",
+          "year": "",
+          "source": "SNJV Barometre annuel du jeu video 2024, trade body sector census",
+          "link": "https://veille-travail.anact.fr/osiros/result/notice.php?queryosiros=id%3A103475"
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Narrative",
+          "claim": "Games production carries a cultural tax credit. The credit d impot jeu video covers 30 percent of eligible production spending, capped at 6 million euros per company per financial year, with eligibility resting on a cultural scale called the bareme Contribution au developpement de la creation.",
+          "card_text": "30% production tax credit",
+          "year": "",
+          "source": "Ministry of the Economy guidance, government primary source",
+          "link": "https://www.economie.gouv.fr/entreprises/credit-impot-jeux-video"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The credit is gated by the CNC. A provisional agrement is granted by the Centre national du cinema et de l image animee after selection by an expert committee, and a definitive agrement after completion confirms the game met the required conditions.",
+          "card_text": "The film institution gates games funding",
+          "year": "",
+          "source": "Centre national du cinema et de l image animee, public cultural agency",
+          "link": "https://www.cnc.fr/professionnels/aides-et-financements/jeu-video/credit-dimpot-jeu-video_121078"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Official French games terminology exists and its force is narrower than commonly reported. Terms published through the language enrichment process, including jeu video de competition for e-sport and joueur-animateur en direct for streamer, are required of government bodies and officials, not of the public, the press, or companies.",
+          "card_text": "Official games terminology binds the state only",
+          "year": "",
+          "source": "BBC reporting on the official terminology, international news outlet",
+          "link": "https://feeds.bbci.co.uk/news/technology-61647192"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "France runs a live experiment regulating web3 games. Articles 40 and 41 of law 2024-449 of 21 May 2024, the loi SREN, create a three year experimental framework for jeux a objets numeriques monetisables (JONUM, games with monetisable digital objects), regulated by the Autorite nationale des jeux, with the implementing decree in force since 7 February 2026.",
+          "card_text": "JONUM, a three year web3 games experiment",
+          "year": "",
+          "source": "Autorite nationale des jeux, regulator JONUM page, state authority",
+          "link": "https://anj.fr/jeux-objets-numeriques-monetisables-jonum"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Physical game sales hold up better in France than in neighbouring markets. Physical console game sales fell 12 percent in 2025, or 4 percent counting games bundled with consoles, and SELL attributes the resilience to a strong and unique retail network and a durable consumer attachment to physical media.",
+          "card_text": "Physical retail is unusually resilient",
+          "year": "",
+          "source": "SELL market results as reported by AFJV, trade press",
+          "link": "https://afjv.com/news/11956_chiffres-marche-francais-jeux-video-sell.htm"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "The consumer games media market is led by Webedia through jeuxvideo.com, with Reworld Media building the number two position through serial acquisitions including the Melty gaming brands, Eclypsia, JeuVideo-Live and the Unify portfolio.",
+          "card_text": "",
+          "year": "",
+          "source": "AFP reporting via Frenchweb, business news outlet",
+          "link": "https://www.frenchweb.fr/la-redaction-de-gamekult-annonce-son-depart-apres-le-rachat-par-reworld-media/437002"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The scale of the leading group is measured independently. Webedia properties reach 28.6 million monthly unique visitors in France in May 2025, per Mediametrie internet audience ranking.",
+          "card_text": "",
+          "year": "",
+          "source": "Mediametrie audience data as reported by La Reclame, advertising trade press",
+          "link": "https://lareclame.fr/mediametrie-etudemai2025-318196"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The defining press event is a newsroom exodus. TF1 sold its Unify digital division including Gamekult to Reworld Media in 2022, and nearly the entire Gamekult editorial team resigned in November 2022 through the clause de cession, citing a hostile context for press independence.",
+          "card_text": "",
+          "year": "",
+          "source": "Jeuxvideo.com news reporting, games press",
+          "link": "https://www.jeuxvideo.com/news/1671977/la-redaction-de-gamekult-demissionne-une-reflexion-que-l-on-conduit-depuis-plusieurs-mois.htm"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Whether a significant independent or subscriber funded games press layer remains at scale, around titles such as Canard PC, could not be verified from citable sources. Do not characterise the independent layer without that verification.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The French pattern is concentration under two horizontal digital media groups, with newsroom exodus as the recurring response. This is an interpretation resting on the ownership rows above.",
+          "card_text": "",
+          "year": "",
+          "source": "AFP reporting via Frenchweb plus the rows above, business news outlet",
+          "link": "https://www.frenchweb.fr/la-redaction-de-gamekult-annonce-son-depart-apres-le-rachat-par-reworld-media/437002"
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "Play runs through a smartphone and console pairing. Players combine 2.2 platforms on average in 2025, with the smartphone used by 59 percent of players and the console by 58 percent, and the console used by three quarters of players aged 10 to 30.",
+          "card_text": "Smartphone and console, 2.2 platforms per player",
+          "year": "",
+          "source": "SELL and Mediametrie study as reported by AFJV, trade press",
+          "link": "https://afjv.com/news/11790_etude-mediametrie-sell-francais-jeux-video-2025.htm"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Live streaming reaches mass audience scale in France. Mediametrie annual internet review records a Twitch peak of 2.5 million unique visitors on 5 October 2025 during GP Explorer, an event organised by the content creator Squeezie.",
+          "card_text": "Twitch peaked at 2.5m visitors (Médiamétrie, 2025)",
+          "year": "",
+          "source": "Mediametrie, The Internet Year 2025, audience measurement body",
+          "link": "https://www.mediametrie.fr/en/internet-year-2025"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The hierarchy of games conversation venues, meaning the relative weight of YouTube games content, Discord, jeuxvideo.com forums and other spaces, could not be sourced. Checked, the SELL and Mediametrie 2025 study materials, which cover play practice, devices and motivations but publish no venue shares, and Mediametrie Internet Year 2025, which ranks sites and groups but does not split games conversation by platform.",
+          "card_text": "",
+          "year": "",
+          "source": "Sources checked and found not to contain the needed data, documented gap",
+          "link": ""
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "SELL, L Essentiel du Jeu Video. The trade body twice yearly publication gives market sizing with named data panels in spring and the player study in autumn, free, the standard reference for the French consumer market.",
+          "card_text": "SELL, L'Essentiel du Jeu Vidéo",
+          "year": "",
+          "source": "SELL, trade body publication series",
+          "link": "https://www.sell.fr/news/le-bilan-marche-2025"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Les Francais et le Jeu Video, SELL with Mediametrie. The annual player study gives player counts, demographics, devices, frequency and spending with a documented representative methodology, the reference for who plays in France.",
+          "card_text": "Les Français et le Jeu Vidéo",
+          "year": "",
+          "source": "SELL and Mediametrie, annual survey publication",
+          "link": "https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_septembre_2025_vdefpdf_0.pdf"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "SNJV sector publications. The development trade body publishes the annual Barometre du jeu video, a census of French development companies, and monthly employment data, the production side complement to SELL consumer data.",
+          "card_text": "SNJV sector publications",
+          "year": "",
+          "source": "SNJV, trade body sector census and employment series",
+          "link": "https://www.snjv.org/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "CNC games funding pages. The public cultural agency pages give the rules and process for the credit d impot jeu video and its selective games aid, the reference for how French games production is publicly financed.",
+          "card_text": "CNC games funding",
+          "year": "",
+          "source": "Centre national du cinema et de l image animee, public cultural agency",
+          "link": "https://www.cnc.fr/professionnels/aides-et-financements/jeu-video/credit-dimpot-jeu-video_121078"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "ANJ JONUM pages. The gambling regulator pages carry the legal framework, decrees and the list of declared operators for the experimental web3 games regime, the primary record of the fastest moving regulation in this market.",
+          "card_text": "ANJ JONUM pages",
+          "year": "",
+          "source": "Autorite nationale des jeux, state regulator",
+          "link": "https://anj.fr/jeux-objets-numeriques-monetisables-jonum"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Mediametrie internet audience publications. The audience measurement body free releases give monthly and annual internet audience for France at site and group level with documented methodology, the independent check on any French platform or media scale claim.",
+          "card_text": "Médiamétrie internet audience",
+          "year": "",
+          "source": "Mediametrie, audience measurement body",
+          "link": "https://www.mediametrie.fr/en/internet-year-2025"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        }
+      ]
+    },
+    "player_population": {
+      "figure": "40.2 million",
+      "value": 40.2,
+      "year": "2025",
+      "direction": "",
+      "source": "SELL and Médiamétrie, L'Essentiel du Jeu Vidéo, April 2026",
+      "link": "https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_avril_2026_final_.pdf",
+      "measure": "Played in past 12 months",
+      "definition": "The figure counts people in France aged 10 to 80 who played a video game at least once in the year. SELL states 76 percent of them play at least weekly and 24 percent play occasionally. The data comes from Médiamétrie, an online survey of 4,001 individuals representative of the French population aged 10 to 80, with fieldwork from 19 June to 13 July 2025."
+    }
+  },
+  {
+    "market": "IT",
+    "sections": {
+      "Standing": [
+        {
+          "kind": "Narrative",
+          "claim": "The national trade body states no rank among games markets. IIDEA 2024 annual report release describes video games as among the most loved entertainment forms of Italians and presents domestic figures without ranking Italy among games markets, so the fixed form sentence cannot be sourced.",
+          "card_text": "",
+          "year": "",
+          "source": "IIDEA annual report press release, trade body",
+          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "Italian consumer spending on video games reaches nearly 2.4 billion euros in 2024, up 3 percent year on year, per IIDEA annual report presented at the Ministry of Culture in April 2025.",
+          "card_text": "~€2.4 billion",
+          "year": "2024",
+          "source": "IIDEA annual report press release, trade body",
+          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "Spending concentrates in software. Software grows 11 percent to 1.8 billion euros and represents 77 percent of the total, with apps at 903 million euros and digital at 715 million euros, while hardware falls 18 percent to 548 million euros.",
+          "card_text": "",
+          "year": "",
+          "source": "IIDEA annual report press release, trade body",
+          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "14 million people in Italy identify as players in 2024, up about 8 percent, representing 33 percent of the population aged 6 to 64, with an average age of about 31, and 8.2 million men against 5.7 million women, the latter up 14 percent.",
+          "card_text": "",
+          "year": "",
+          "source": "IIDEA annual report press release, trade body",
+          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The production sector is small relative to consumption. Italian games companies number 200, up 25 percent over two years, employ 2,800 people, up 17 percent, and generate estimated revenue between 180 and 200 million euros, up 36 percent since 2022.",
+          "card_text": "",
+          "year": "",
+          "source": "IIDEA annual report press release, trade body",
+          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Italian studios build for export and fund themselves. Europe takes 42 percent of the destination market for Italian published games and North America 37 percent, while Italy takes 12 percent, and 88 percent of studios rely on self financing.",
+          "card_text": "",
+          "year": "",
+          "source": "IIDEA annual report press release, trade body",
+          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Narrative",
+          "claim": "Games production carries a statutory cultural tax credit. The credito d imposta for the production of video games of Italian nationality with cultural value rests on article 15 of law 220 of 2016, the cinema law, and ministerial decree 187 of 12 May 2021, and is administered by the Direzione generale Cinema e audiovisivo of the Ministry of Culture, which publishes beneficiary decrees.",
+          "card_text": "Games funding runs through the cinema law",
+          "year": "",
+          "source": "Ministry of Culture, DGCA tax credit notices index, government primary source",
+          "link": "https://cinema.cultura.gov.it/comunicazione/avvisi/avvisi-tax-credit/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Classification is mandatory but sale is not restricted. An AGCOM regulation from 2019 introduces for the first time an obligation to classify video games distributed in Italy, recognising PEGI with an AGCOM scheme for unrated titles, and selling an 18 rated game to a minor is not an offence, since the obligation is to classify, not to restrict sale.",
+          "card_text": "Ratings are mandatory, sales are not restricted",
+          "year": "",
+          "source": "AESVI clarification as reported by Tom s Hardware Italia, tech outlet",
+          "link": "https://www.tomshw.it/videogioco/giochi-pegi-18-no-proibiti-minori"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "The largest games outlet is domestically owned and founder led. Multiplayer.it is operated by NetAddiction srl of Terni, founded by Andrea Pucci, and the publisher reports over 3 million monthly unique users for the site.",
+          "card_text": "",
+          "year": "",
+          "source": "NetAddiction corporate news page, company self description",
+          "link": "https://www.netaddiction.it/news/multiplayer_estate2023/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "NetAddiction is a diversified domestic digital publisher rather than a games only company, controlling Multiplayer.it, Movieplayer.it, Dissapore.com and LegaNerd.com among others, and sold its Multiplayer.com ecommerce operation to the distributor Cidiverte to refocus on editorial and advertising services.",
+          "card_text": "",
+          "year": "",
+          "source": "Engage, advertising trade press",
+          "link": "https://www.engage.it/media-industry/netaddiction-vende-il-sito-multiplayercom-a-cidiverte.aspx"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "International brands have retreated. Eurogamer Italia suspended publication on 4 November 2022, with its farewell note citing changed times and financial constraints.",
+          "card_text": "",
+          "year": "",
+          "source": "GamerClick reporting quoting the farewell note, games site",
+          "link": "https://www.gamerclick.it/news/96921-eurogamer-chiude-in-italia-la-fine-di-un-pilastro-della-stampa-agoraclick-198"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Whether the Italian consumer games press is unusually healthy could not be established either way. One large domestically owned outlet with self reported multi million audience and named editorial staff is verified, as is the closure of an international brand Italian edition in 2022, but the ownership and audience of the other major outlets including Everyeye, Spaziogames and IGN Italia are not verified.",
+          "card_text": "",
+          "year": "",
+          "source": "Assessment against the sourced rows above, no single source",
+          "link": ""
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "Mobile leads device use. 10.4 million Italian players use smartphones and tablets in 2024, up 12 percent, followed by 6.2 million on console, up 11.5 percent, and 4.8 million on PC, up 5 percent.",
+          "card_text": "Mobile leads, then console, then PC",
+          "year": "",
+          "source": "IIDEA annual report press release, trade body",
+          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The venue planning base is broad. Italy total digital audience is 43.99 million monthly users in September 2025, 75.4 percent of the population aged 2 to 74, measured across smartphone, tablet and computer by the Audiweb system distributed by Audicom.",
+          "card_text": "43.99m monthly digital audience (Audicom)",
+          "year": "",
+          "source": "Audicom, Audiweb total digital audience release, industry measurement body",
+          "link": "https://www.audiweb.it/news/comunicati-stampa/Comunicato-Stampa-total-digital-audience-Settembre2025.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The one venue hierarchy datum available places Twitch first. The publisher of Multiplayer.it cites Comscore data ranking gaming information sites in Italy with Twitch first and Multiplayer.it second in the category in 2023.",
+          "card_text": "",
+          "year": "",
+          "source": "NetAddiction corporate news page citing Comscore, company self description",
+          "link": "https://www.netaddiction.it/news/multiplayer_estate2023/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The fuller games venue hierarchy could not be sourced. Checked, Audicom free monthly communiques for May, June and September 2025, which publish category level audiences for news, sport, government and broadcasters but broke out no games category, with per brand data behind registration, and IIDEA 2024 report release, which covers players, market and industry but publishes no venue shares. AGCOM communications reports were not reached.",
+          "card_text": "",
+          "year": "",
+          "source": "Sources checked and found not to contain the needed data, documented gap",
+          "link": ""
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "IIDEA annual report, I videogiochi in Italia. The trade body free annual gives market value, player demographics and an industry census of Italian companies, presented each spring, the standard reference for the Italian market.",
+          "card_text": "IIDEA annual report",
+          "year": "",
+          "source": "IIDEA, trade body annual",
+          "link": "https://iideassociation.com/dati/pubblicazioni/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Ministry of Culture DGCA tax credit notices. The permanent notices index carries every session opening and beneficiary decree for the games tax credit, letting a researcher see which Italian studios and games receive public production support and when.",
+          "card_text": "Ministry of Culture tax credit notices",
+          "year": "",
+          "source": "Direzione generale Cinema e audiovisivo, government body",
+          "link": "https://cinema.cultura.gov.it/comunicazione/avvisi/avvisi-tax-credit/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Audicom, the Audiweb system. Italy joint industry internet audience measurement publishes free monthly communiques with total and category level digital audience, with per brand data available behind registration, the independent check on any Italian site or platform scale claim.",
+          "card_text": "Audicom, Audiweb internet audience",
+          "year": "",
+          "source": "Audicom, industry measurement body",
+          "link": "https://www.audiweb.it/cosa-misuriamo/internet-audience.html"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Digital Bros financial reports. The Milan listed parent of 505 Games publishes full annual and interim reports with revenue split across premium games, free to play and Italian distribution, primary disclosure from Italy largest listed games company.",
+          "card_text": "Digital Bros financial reports",
+          "year": "",
+          "source": "Digital Bros S.p.A., primary corporate disclosure",
+          "link": "https://digitalbros-com.b-cdn.net/wp-content/uploads/2025/10/Digital-Bros-Bilancio-desercizio-al-30-giugno-2025.pdf"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        }
+      ]
+    },
+    "player_population": {
+      "figure": "14.2 million",
+      "value": 14.2,
+      "year": "2025",
+      "direction": "",
+      "source": "IIDEA, I Videogiochi in Italia nel 2025",
+      "link": "https://iideassociation.com/wp-content/uploads/2026/05/IIDEA_I-Videogiochi-in-Italia-nel-2025-1.pdf",
+      "measure": "Played in past 12 months",
+      "definition": "The figure counts people in Italy aged 6 to 75 who played a video game or game app on any device at least once in the previous 12 months, including occasional play, which IIDEA states is 29 percent of that age group. The data comes from the Ipsos GameTrack panel, with fieldwork in January and February 2026 among about 3,000 online respondents."
+    }
+  },
+  {
+    "market": "CA",
+    "sections": {
+      "Standing": [
+        {
+          "kind": "Narrative",
+          "claim": "The national trade body states no rank. ESAC 2024 industry report release describes Canada as a global leader in video game development without ranking the sector or the consumer market, so the fixed form sentence cannot be sourced from current material.",
+          "card_text": "",
+          "year": "",
+          "source": "ESAC industry report release via CNW, trade body",
+          "link": "https://www.newswire.ca/news-releases/canada-s-video-game-industry-contributed-5-1-billion-to-gdp-in-2024-888181811.html"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "The best available Canadian anchor sizes the industry rather than consumer spending. The video game industry contributes 5.1 billion dollars to Canada GDP in 2024, up 3 percent since 2021, per an economic impact study by Nordicity for ESAC.",
+          "card_text": "$5.1 billion GDP contribution",
+          "year": "2024",
+          "source": "ESAC and Nordicity industry report release via CNW, trade body commissioned study",
+          "link": "https://www.newswire.ca/news-releases/canada-s-video-game-industry-contributed-5-1-billion-to-gdp-in-2024-888181811.html"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "The production sector is large and well paid. Canada has 821 active studios employing 34,010 full time equivalents in 2024 at an average salary of 102,000 dollars, with 86 percent full time and an average age of 34.",
+          "card_text": "",
+          "year": "",
+          "source": "ESAC and Nordicity industry report release via CNW, trade body commissioned study",
+          "link": "https://www.newswire.ca/news-releases/canada-s-video-game-industry-contributed-5-1-billion-to-gdp-in-2024-888181811.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Production is export facing. 88 percent of the industry revenue comes from exports.",
+          "card_text": "",
+          "year": "",
+          "source": "ESAC and Nordicity industry report release via CNW, trade body commissioned study",
+          "link": "https://www.newswire.ca/news-releases/canada-s-video-game-industry-contributed-5-1-billion-to-gdp-in-2024-888181811.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Employment concentrates in three provinces. Quebec has 15,220 games industry employees, British Columbia 10,930 and Ontario 6,090, together about 94 percent of the national total.",
+          "card_text": "",
+          "year": "",
+          "source": "ESAC and Nordicity industry report release via CNW, trade body commissioned study",
+          "link": "https://www.newswire.ca/news-releases/canada-s-video-game-industry-contributed-5-1-billion-to-gdp-in-2024-888181811.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Ownership by count skews domestic in Quebec. The Guilde du jeu video du Quebec states that Quebec studios are 86 percent Quebec owned.",
+          "card_text": "",
+          "year": "",
+          "source": "Guilde du jeu video du Quebec communique as reproduced by Le Beta-Testeur, games site",
+          "link": "https://www.lebetatesteur.ca/budget-2024-quebec-coupe-dans-les-credits-dimpots-aux-studios-de-jeux-video/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Around 20 million Canadians play video games as of 2025, spending roughly eight hours per week playing.",
+          "card_text": "",
+          "year": "",
+          "source": "Canada Media Fund Perspectives analysis, public private funding body research",
+          "link": "https://cmf-fmc.ca/perspectives/pass-the-controller-demographics-and-the-future-of-gameplay/"
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Narrative",
+          "claim": "Quebec games credit is generous and shrinking on a published schedule. The credit d impot pour la production de titres multimedias, which cost Quebec 409 million dollars in 2023 at a maximum refundable rate of 37.5 percent on salaries, is being reshaped from the March 2024 budget, with the refundable portion falling to 27.5 percent by 2028 and a new 10 percent non refundable portion payable only against Quebec tax.",
+          "card_text": "Quebec is cutting its credit through 2028",
+          "year": "",
+          "source": "La Presse reporting on the 2024 Quebec budget, national daily",
+          "link": "https://www.lapresse.ca/affaires/2024-03-14/reduction-du-credit-d-impot-en-jeu-video/on-coupe-l-herbe-sous-le-pied-de-tous-les-studios.php"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Quebec second relevant credit is also being reshaped. The credit d impot pour le developpement des affaires electroniques pays 30 percent on eligible salaries, with significant calculation changes applying to financial years beginning after 31 December 2024 including replacement of the salary cap by an annual exclusion threshold.",
+          "card_text": "",
+          "year": "",
+          "source": "Investissement Quebec CDAE information sheet, provincial agency primary source",
+          "link": "https://www.investquebec.com/Documents/qc/FichesDetaillees/FTCDAE_fr.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Ontario credit rewards owning the product. The Ontario Interactive Digital Media Tax Credit pays 40 percent on eligible Ontario labour plus marketing and distribution costs for products a company develops and markets itself, and 35 percent for fee for service work and for qualifying digital game corporations.",
+          "card_text": "Ontario pays more if you own the product",
+          "year": "",
+          "source": "Ontario Creates OIDMTC page, provincial agency primary source",
+          "link": "https://www.ontariocreates.ca/tax-incentives/oidmtc"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "British Columbia raised its credit. The interactive digital media tax credit pays 25 percent of eligible salary and wages incurred after 31 August 2025, up from 17.5 percent before that date.",
+          "card_text": "British Columbia raised its credit to 25%",
+          "year": "",
+          "source": "Government of British Columbia IDMTC page, provincial primary source",
+          "link": "https://www2.gov.bc.ca/gov/content/taxes/income-taxes/corporate/credits/interactive-digital-media"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Age ratings are a United States industry system carrying Canadian legal force. Peer reviewed analysis records that provincial statutes in Ontario, Manitoba, New Brunswick, Nova Scotia and Saskatchewan enforce the ESRB age restrictions on the sale and rental of games, despite those provinces having no involvement in the ESRB classification decisions.",
+          "card_text": "A US rating system with Canadian legal force",
+          "year": "",
+          "source": "Canadian Journal of Communication, peer reviewed article",
+          "link": "https://cjc.utppublishing.com/doi/10.3138/cjc.2022-0008"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "A dedicated Canadian consumer games press exists. CGMagazine, published by CGMagazine Publishing Inc. of St. Catharines, Ontario, is a Canadian print and digital games and comics publication founded in 2010, with named editorial staff and issues published through the end of 2025.",
+          "card_text": "",
+          "year": "",
+          "source": "CGMagazine corporate release via CNW, publisher own release on the official wire",
+          "link": "https://www.newswire.ca/news-releases/cgmagazine-crowns-game-of-the-year-2025-amp-releases-the-final-issue-of-2025-898618653.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Canadian general interest technology media cover games as a regular beat, with MobileSyrup detailed reporting on the ESAC industry report, including an interview with the association chief executive, as a verified example.",
+          "card_text": "",
+          "year": "",
+          "source": "MobileSyrup reporting, Canadian technology outlet",
+          "link": "https://mobilesyrup.com/2025/01/28/canadian-video-game-industry-2024-economic-impact-report/"
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "Playtime concentrates in the youngest players. Canadian players aged 13 to 17 spend the most time playing, with boys averaging 11.5 hours and girls 7.3 hours per week.",
+          "card_text": "",
+          "year": "",
+          "source": "Canada Media Fund Perspectives analysis citing ESAC data, funding body research",
+          "link": "https://cmf-fmc.ca/perspectives/pass-the-controller-demographics-and-the-future-of-gameplay/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Games conversation runs substantially inside play itself. In ESAC 2022 player survey, 67 percent of Canadian players say games can introduce them to new friends and relationships, 48 percent spent time with people they would not have otherwise, and 38 percent met a good friend or spouse through games.",
+          "card_text": "Conversation runs inside play itself",
+          "year": "",
+          "source": "ESAC Essential Facts 2022 release, trade body survey by NPD Group",
+          "link": "https://theesa.ca/bringing-canadians-together-through-gaming/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The platform hierarchy of Canadian games conversation could not be sourced. Checked, ESAC Essential Facts 2022 release, which covers social play but publishes no platform venue shares, the Canada Media Fund synthesis, which covers playtime by demographic but not venues, and Statistics Canada cultural indicators, which covers GDP and jobs only. The CRTC communications monitoring reports and the Statistics Canada internet use survey were not reached.",
+          "card_text": "",
+          "year": "",
+          "source": "Sources checked and found not to contain the needed data, documented gap",
+          "link": ""
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "ESAC industry reports. The trade body Nordicity conducted economic studies give studio counts, employment by province, salaries, GDP contribution and export share for the production sector, the standard reference on Canada as a maker of games.",
+          "card_text": "ESAC industry reports",
+          "year": "",
+          "source": "ESAC with Nordicity, trade body commissioned series",
+          "link": "https://canadasvideogameindustry.ca/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "ESAC player research. The trade body player survey series gives Canadian player counts, demographics, habits and attitudes.",
+          "card_text": "ESAC player research",
+          "year": "",
+          "source": "ESAC, trade body player survey series",
+          "link": "https://theesa.ca/bringing-canadians-together-through-gaming/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Ontario Creates OIDMTC pages. The provincial agency pages give the credit rules, rates and eligibility tracks, and its certification role makes it the reference point for Ontario games production support.",
+          "card_text": "Ontario Creates OIDMTC",
+          "year": "",
+          "source": "Ontario Creates, provincial agency",
+          "link": "https://www.ontariocreates.ca/tax-incentives/oidmtc"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "British Columbia IDMTC page. The province tax page states the current credit rate and eligibility for interactive digital media, the primary record for British Columbia games production support.",
+          "card_text": "British Columbia IDMTC",
+          "year": "",
+          "source": "Government of British Columbia, provincial primary source",
+          "link": "https://www2.gov.bc.ca/gov/content/taxes/income-taxes/corporate/credits/interactive-digital-media"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Investissement Quebec tax measure sheets. The agency fiches detaillees state the terms of Quebec credits including the CDAE, in French, the primary reference for the province at the centre of Canadian games production.",
+          "card_text": "Investissement Québec tax sheets",
+          "year": "",
+          "source": "Investissement Quebec, provincial agency primary source",
+          "link": "https://www.investquebec.com/Documents/qc/FichesDetaillees/FTCDAE_fr.pdf"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Canada Media Fund research and Perspectives. The public private fund publishes free games relevant research syntheses with footnoted sources, and its funding programs reach interactive digital media, a federal complement to provincial production data.",
+          "card_text": "Canada Media Fund research",
+          "year": "",
+          "source": "Canada Media Fund, public private funding body",
+          "link": "https://cmf-fmc.ca/perspectives/pass-the-controller-demographics-and-the-future-of-gameplay/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        }
+      ]
+    },
+    "player_population": {
+      "figure": "23 million",
+      "value": 23,
+      "year": "",
+      "direction": "",
+      "source": "Entertainment Software Association of Canada (ESAC)",
+      "link": "https://theesa.ca/",
+      "measure": "Identify as gamers",
+      "definition": "About 23 million Canadians – roughly 61% of the country’s population – identify as gamers."
+    }
+  }
+]

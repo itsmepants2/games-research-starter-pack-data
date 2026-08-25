@@ -1,0 +1,1063 @@
+[
+  {
+    "name": "Industry layoff era",
+    "stage": "Dominant",
+    "category": "Money & business model",
+    "markets": [
+      "Global"
+    ],
+    "what_it_is": "Sustained mass layoffs since 2022: crowd-sourced trackers recorded ~8,500 job losses in 2022, 10,500 in 2023, and 14,600 in 2024, with ~4,000 by mid-2025 as the pace slowed. Studio closures and cancellations continued into 2026.",
+    "why_it_matters": "Nearly every business, labor, and creative-risk story of 2023 to 2026 traces back to this contraction. Indispensable for context, as it informs almost everything else.",
+    "further_reading": [
+      {
+        "source": "Data points to slowing layoffs, but doesn't capture true harm to game industry",
+        "link": "https://www.gamedeveloper.com/business/industry-layoffs-are-seemingly-slowing-but-the-damage-has-already-been-done",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "GDC 2026 State of the Game Industry Reveals Impact of Layoffs",
+        "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
+        "type": "Data",
+        "format": ""
+      },
+      {
+        "source": "WTF Is Happening To The Video Game Industry?",
+        "link": "https://www.youtube.com/watch?v=Sx-lddna-qg",
+        "type": "Analysis",
+        "format": "video"
+      }
+    ],
+    "as_of": "2026-08-01 00:00:00",
+    "where_to_follow": "Game Developer's business desk, GDC State of the Game Industry (annual), Farhan Noor's videogamelayoffs.com tracker, GamesIndustry.biz"
+  },
+  {
+    "name": "Monetization on flat player base",
+    "stage": "Dominant",
+    "category": "Money & business model",
+    "markets": [
+      "Global"
+    ],
+    "what_it_is": "Analyst Matthew Ball's annual reports argue gaming's decade of growth engines is exhausted: revenue and cultural weight are at record highs, yet growth is elusive and player counts are retreating across much of the developed world, so revenue gains come from monetizing existing players harder rather than adding new ones.",
+    "why_it_matters": "Explains why record industry revenue coexists with layoffs and player complaints about aggressive monetization, which is the central paradox of the current era.",
+    "further_reading": [
+      {
+        "source": "Matthew Ball / Epyllion, industry report, May 2026",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "type": "Research",
+        "format": ""
+      },
+      {
+        "source": "Roblox chose retention over short-term spend",
+        "link": "https://www.pcgamer.com/games/roblox-shares-plummet-by-70-percent-after-the-company-reports-persistent-decline-in-player-numbers-and-of-course-the-solution-involves-ai/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "What is a monetization scheme you actually support?",
+        "link": "https://www.reddit.com/r/pcgaming/comments/1vqka44/what_is_a_monetization_scheme_you_actually_support/",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Circana (Mat Piscatella), Newzoo"
+  },
+  {
+    "name": "Premium price ceiling",
+    "stage": "Dominant",
+    "category": "Money & business model",
+    "markets": [
+      "US",
+      "UK",
+      "DE",
+      "FR",
+      "JP",
+      "Global"
+    ],
+    "what_it_is": "GTA 6 launched at $80, settling speculation about $100 base games. Only Mario Kart World, GTA 6, and Elden Ring on Switch 2 have cleared $70 — Microsoft tried and retreated to $70 after backlash. Meanwhile a RAM-driven hardware crunch pushed consoles past $600 and GPUs, monitors, and memory sharply higher.",
+    "why_it_matters": "The ceiling held on software but broke on hardware, and buyers responded by waiting. Very important for researchers tracking monetization, substitution behavior, or consumer resistance.",
+    "further_reading": [
+      {
+        "source": "Nintendo exec says Mario Kart World justifies its shock $80 price",
+        "link": "https://www.gamesradar.com/games/racing/amid-switch-2-price-backlash-nintendo-exec-says-mario-kart-world-justifies-its-shock-usd80-price-because-its-probably-the-richest-mario-kart-experience-fans-will-have-ever-had/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Grand Theft Auto 6's $80 price settles the $100 question",
+        "link": "https://www.gamedeveloper.com/console/grand-theft-auto-6-s-80-price-settles-the-100-question",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "The affordability crisis has migrated from software to silicon",
+        "link": "https://www.reddit.com/r/Games/comments/1vbui6a/amd_is_reportedly_raising_graphics_card_pricesit/",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "GamesRadar and Eurogamer business coverage, Circana US sales data, Ars Technica gaming desk"
+  },
+  {
+    "name": "Live-service retreat",
+    "stage": "Dominant",
+    "category": "Money & business model",
+    "markets": [
+      "Global"
+    ],
+    "what_it_is": "Live service means games built on an ongoing content and monetization cadence rather than a one-time sale. Entrants keep failing in a crowded field: Anthem went offline in January, Highguard lasted under two months. In 2026 the retreat sharpened — Guerrilla stripped live service out of Horizon Hunters Gathering mid-development, and Amazon exited MMO publishing entirely.",
+    "why_it_matters": "The pattern shapes what gets greenlit and which studios close. The portfolio math is under attacked — greenlight fifteen, assume one hits — though developers argue saturation often just excuses bad games.",
+    "further_reading": [
+      {
+        "source": "Sny will continue to develop live services despite failures",
+        "link": "https://www.pcgamer.com/gaming-industry/sony-games-boss-says-company-will-bravely-keep-sending-live-services-over-the-top-despite-cancelling-8-of-the-12-ones-planned-for-2025-and-wiping-out-most-of-destiny-2s-developers/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Market saturation is a developer concern in GDC's 2026 State of Gaming",
+        "link": "https://reg.gdconf.com/2026-SOTI/",
+        "type": "Data",
+        "format": ""
+      },
+      {
+        "source": "Market saturation is an excuse when level design sucks",
+        "link": "https://www.reddit.com/r/gamedev/comments/1vgg93n/stop_using_market_saturation_as_an_excuse_for/",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Game Developer post-mortems, Circana engagement data, publisher earnings calls (Sony, EA, Take-Two)"
+  },
+  {
+    "name": "Subscription plateau",
+    "stage": "Emerging",
+    "category": "Money & business model",
+    "markets": [
+      "US",
+      "UK",
+      "Global"
+    ],
+    "what_it_is": "Game Pass is reportedly down to about 30 million paying subscribers, against an internal projection of ~77 million by 2026 revealed in FTC proceedings, after a price hike to $30/month drove churn. Sony has stopped reporting PS Plus subscriber counts.",
+    "why_it_matters": "Tests the 'Netflix of games' thesis that drove a decade of acquisitions and strategy. Also a good case of consolidation-era promises meeting reality (no plan survives an encounter with the enemy)",
+    "further_reading": [
+      {
+        "source": "Microsoft's Game Pass performance is far below expectations",
+        "link": "https://www.wsj.com/tech/microsoft-layoffs-xbox-59e7f6df",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Subscriptions are the only growing segment, but barely, inside a market down 21%",
+        "link": "https://gamedevreports.substack.com/p/circana-the-us-video-game-market",
+        "type": "Data",
+        "format": ""
+      },
+      {
+        "source": "Game pass Subscription Coming to an End",
+        "link": "https://www.reddit.com/r/XboxGamePass/comments/1vn4rxr/game_pass_subscription_coming_to_an_end/",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "The Verge Xbox coverage, WSJ tech desk, Circana subscription spending data, Microsoft earnings"
+  },
+  {
+    "name": "Creator platforms as sovereign economies",
+    "stage": "Emerging",
+    "category": "Money & business model",
+    "markets": [
+      "US",
+      "Global"
+    ],
+    "what_it_is": "Roblox pays the users who build its games in a platform currency redeemable for cash (over US$1.5 billion in 2025). Distribution is extreme: the top 1,000 creators take roughly 73% of all payouts, while around 85% of developers earn under US$100 a month.",
+    "why_it_matters": "This economy has a business cycle. Roblox shed roughly US$70 billion in market value and pulled its full-year guidance in 2026 after creators failed to ship hits — i.e., they're a public company whose revenue depends on unsalaried teenagers. Youth labor, private currency, and regulatory scrutiny converge in one structure",
+    "further_reading": [
+      {
+        "source": "Roblox loses $70 billion in value as company blames lack of viral games",
+        "link": "https://www.dexerto.com/roblox/roblox-loses-70-billion-in-value-as-company-blames-lack-of-viral-games-3395064/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Annual Roblox Economic Impact Report",
+        "link": "https://about.roblox.com/newsroom/2025/09/roblox-annual-economic-impact-report",
+        "type": "Primary",
+        "format": ""
+      },
+      {
+        "source": "Increasing DevEx — Creators Will Now Earn 8.5% More",
+        "link": "https://devforum.roblox.com/t/increasing-devex-%E2%80%94-creators-will-now-earn-85-more/3920159",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Roblox quarterly earnings and annual reports, Game Developer, Naavik deep dives, Matthew Ball"
+  },
+  {
+    "name": "Child safety enforcement in game platforms",
+    "stage": "Dominant",
+    "category": "Regulation, safety & age",
+    "markets": [
+      "Global",
+      "US",
+      "UK",
+      "MENA",
+      "TR",
+      "RU",
+      "AU",
+      "CN"
+    ],
+    "what_it_is": "Regulators have shifted from suing Roblox to compelling it: state AG suits and a 148-case federal MDL were joined in August 2026 by a Senate Judiciary probe with a records deadline and an Australian court-enforceable undertaking. Roblox disputes the claims and now requires facial age estimation for chat. Abroad the response is blunter - outright blocks in Turkey, Russia, Egypt and the Gulf. And it is no longer only Roblox: Brazil suspended Discord livestreaming after a teenager's death, a Texas judge ordered Discord age checks, and Minecraft, Fortnite and Steam have been served.",
+    "why_it_matters": "The defining child safety story in games right now, and the wedge that will push age verification from platform policy into binding law, hardware, and parental trust for years.",
+    "further_reading": [
+      {
+        "source": "Brazil Suspends Discord's Livestreams in First Enforcement Test of Child Protection Law",
+        "link": "https://www.techpolicy.press/brazil-suspends-discords-livestreams-in-first-enforcement-test-of-child-protection-law/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "US Senate to investigate Roblox following claims it \"prioritises revenue and engagement\" over child safety",
+        "link": "https://www.reddit.com/r/gaming/comments/1vqw694/us_senate_to_investigate_roblox_following_claims/",
+        "type": "Community",
+        "format": ""
+      },
+      {
+        "source": "Banning the pred-catcher instead of the pred",
+        "link": "https://www.tiktok.com/@jthefrog0/video/7675005958430493984",
+        "type": "Community",
+        "format": "video"
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "State AG press offices, Bloomberg Businessweek investigations, The Guardian tech desk, The National (Gulf regulator coverage), Revealing Reality (UK research), Roblox's safety blog and earnings calls"
+  },
+  {
+    "name": "Age assurance comes for gaming",
+    "stage": "Emerging",
+    "category": "Regulation, safety & age",
+    "markets": [
+      "AU",
+      "UK",
+      "EU",
+      "US"
+    ],
+    "what_it_is": "Australia's under-16 social ban formally excluded games, but regulators reached them anyway. Microsoft now requires Australians to verify age — selfie, ID, or credit card — before buying 18+ titles on the Xbox Store. eSafety served transparency notices on Roblox, Minecraft, Fortnite and Steam, then extracted a court-enforceable undertaking from Roblox, while Ofcom and the EU tighten in parallel. Community pushback centers on breach risk, not child safety.",
+    "why_it_matters": "Age verification is no longer adjacent to games, but inside them.",
+    "further_reading": [
+      {
+        "source": "Australians must now prove their age to buy R18+ games",
+        "link": "https://www.pcgamer.com/gaming-industry/australians-must-now-prove-their-age-to-buy-r18-games-on-the-xbox-store/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Xbox lets 'longstanding' accounts bypass age verification checks",
+        "link": "https://www.reddit.com/r/pcgaming/comments/1vlorr7/xbox_lets_longstanding_accounts_bypass_age/",
+        "type": "Community",
+        "format": ""
+      },
+      {
+        "source": "eSafety secures court-enforceable undertaking from Roblox",
+        "link": "https://www.esafety.gov.au/newsroom/media-releases/esafety-secures-court-enforceable-undertaking-from-roblox-to-do-more-to-protect-australian-kids-from-grooming-and-sexual-exploitation",
+        "type": "Primary",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "eSafety Commissioner (AU), Ofcom Online Safety Act updates (UK), Pixalate/AVPA trade coverage, Platformer"
+  },
+  {
+    "name": "India's real-money gaming ban",
+    "stage": "Emerging",
+    "category": "Regulation, safety & age",
+    "markets": [
+      "IN"
+    ],
+    "what_it_is": "India's parliament passed a law banning online games played with money, threatening the survival of the fantasy-gaming sector that had been projected to reach $3.6 billion by 2029. Industry groups are challenging it constitutionally, and critics argue players will shift to offshore platforms.",
+    "why_it_matters": "The largest single market prohibition in gaming, which makes it a template case for how fast a 'growth market' can be legislated away.",
+    "further_reading": [
+      {
+        "source": "India bans real-money gaming, threatening a $23 billion industry",
+        "link": "https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Challenge to the Promotion and Regulation of Online Gaming Act, 2025",
+        "link": "https://www.scobserver.in/cases/challenge-to-the-promotion-and-regulation-of-online-gaming-act-2025/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "The shutdown from a lawyer's POV",
+        "link": "https://www.youtube.com/watch?v=1UoKPb6qKRY",
+        "type": "Analysis",
+        "format": "video"
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Reuters India tech desk, MediaNama, AGB (Asia Gaming Brief), Indian Supreme Court proceedings"
+  },
+  {
+    "name": "The loot box age gate",
+    "stage": "Perennial",
+    "category": "Regulation, safety & age",
+    "markets": [
+      "BE",
+      "NL",
+      "UK",
+      "DE",
+      "ES",
+      "PL",
+      "BR",
+      "AU",
+      "Global"
+    ],
+    "what_it_is": "Regulators stopped waiting for a gambling verdict and started age-gating. PEGI now rates any game with paid random items 16+; Brazil's Law 15211 forces 18+ ratings with fines up to 10% of local revenue; South Korea mandates odds disclosure and has fined publishers billions of won. The EU's Digital Fairness Act, due late 2026, may go further. America is still arguing definitions in court.",
+    "why_it_matters": "Compliance now varies by passport, not by platform. Studios are redesigning monetization market by market, or exiting.",
+    "further_reading": [
+      {
+        "source": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer",
+        "link": "https://www.videogameschronicle.com/news/all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-16-starting-this-summer/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "South Korea's loot box law shows strong results, but players still left in the dark",
+        "link": "https://techxplore.com/news/2025-09-south-korea-loot-law-strong.html",
+        "type": "Research",
+        "format": ""
+      },
+      {
+        "source": "TIL, in Brazil, most gacha games are +18 due to the loot box mechanic",
+        "link": "https://x.com/genshinmains_/status/2091189145381323092",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Leon Y. Xiao's annual 'Loot Box State of Play' papers, Gaming Law Review, PEGI/ESRB notices, national regulators (Belgian Gaming Commission, Kansspelautoriteit)"
+  },
+  {
+    "name": "Playtime caps and age gates for minors",
+    "stage": "Perennial",
+    "category": "Regulation, safety & age",
+    "markets": [
+      "CN",
+      "VN",
+      "KR"
+    ],
+    "what_it_is": "State-mandated limits on minors' play, now enforced through identity. China restricts minors to limited weekend/holiday hours behind real-name login; Vietnam's Decree 147 caps sessions at 60 minutes; South Korea repealed its shutdown law in 2021 — the region is not monolithic. The live mechanism in 2026 is age verification: Sony and Microsoft now demand ID or face scans in Australia and the UK.",
+    "why_it_matters": "No longer just a contrast case for the West. The US House-passed KIDS Act mandates default-on parental time controls, and the strongest evidence says caps do not actually reduce heavy play.",
+    "further_reading": [
+      {
+        "source": "Tech Policy Press, policy tracker updated intermittently, Feb 2026",
+        "link": "https://www.techpolicy.press/tracking-efforts-to-restrict-or-ban-teens-from-social-media-across-the-globe/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "No evidence that Chinese playtime mandates reduced heavy gaming",
+        "link": "https://www.nature.com/articles/s41562-023-01669-8",
+        "type": "Research",
+        "format": ""
+      },
+      {
+        "source": "Age verification = Digital ID",
+        "link": "https://www.reddit.com/r/playstation/comments/1vtgdzh/age_verification_digital_id/",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Niko Partners China/SEA research, TechNode, AGB, national regulator announcements (NPPA, Vietnam MIC)"
+  },
+  {
+    "name": "Publishers split on gambling money in esports",
+    "stage": "Perennial",
+    "category": "Regulation, safety & age",
+    "markets": [
+      "Global",
+      "US",
+      "EU",
+      "BR",
+      "CN"
+    ],
+    "what_it_is": "Betting and skin-gambling money has long underwritten esports, but publishers are now moving in opposite directions. Valve's December 2025 licensing update barred case-opening, skin-trading and skin-gambling advertising in any capacity, jerseys included. Riot went the other way in January 2026, approving betting sponsors for the first time — Winamax with G2 and Team Heretics — while keeping the brands off jerseys and broadcasts.",
+    "why_it_matters": "Follow the money: team solvency, youth exposure, and platform policy all hinge on gambling revenue. The argument has moved from whether to take it to who gets blamed for waiting.",
+    "further_reading": [
+      {
+        "source": "CS2 Sponsorship Landscape 2026: Gambling Brands Control Majority of Title Sponsorships",
+        "link": "https://escharts.com/news/betting-and-gambling-companies-lead-title-sponsorships-2026-counter-strike-esports",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Why We're Opening Betting Sponsorships in Esports & How We're Doing It Responsibly",
+        "link": "https://www.riotgames.com/en/news/esports-betting-sponsorships",
+        "type": "Primary",
+        "format": ""
+      },
+      {
+        "source": "The only companies that want to sponsor me are gambling companies",
+        "link": "https://www.tiktok.com/@nathanli1236/video/7671398335902895368",
+        "type": "Community",
+        "format": "video"
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Esports Charts sponsorship analyses, HLTV Counter-Strike business coverage, Esports Legal News, SportBusiness"
+  },
+  {
+    "name": "Children's data, privacy & the age-assurance bargain",
+    "stage": "Perennial",
+    "category": "Regulation, safety & age",
+    "markets": [
+      "US",
+      "EU",
+      "UK"
+    ],
+    "what_it_is": "The FTC's amended COPPA Rule took effect June 23, 2025. Its April 22, 2026 compliance deadline has now passed, expanding protected data to biometrics and unbundling consent for child-directed services, including many games. Enforcement, not drafting, is now the story: TikTok settled with DOJ for $400M in August 2026, following Epic's $275M and HoYoverse's $20M. Parallel regimes - UK Age Appropriate Design Code, EU GDPR, and Australia's eSafety Act - are converging on audited age assurance rather than self-attestation.",
+    "why_it_matters": "Data rules quietly determine what game features (chat, ads, AI) can legally exist for kids under 13 - and platforms are answering by collecting children's faces to prove they aren't collecting children's data, a trade the privacy-technical community is mobilizing against.",
+    "further_reading": [
+      {
+        "source": "Roblox to face external audits to prove it is safe for Australian children",
+        "link": "https://www.abc.net.au/news/2026-08-20/roblox-esafety-court-enforceable-undertaking/107056294",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Understanding the updated COPPA rules and their impact on child safety",
+        "link": "https://gamesbeat.com/understanding-the-updated-coppa-rules-and-their-impact-on-child-safety/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Roblox is Being Forced To Fix Their Safety Issues",
+        "link": "https://www.tiktok.com/@justsaysteven/video/7676171623145229582",
+        "type": "Community",
+        "format": "video"
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "FTC press releases and enforcement actions, IAPP coverage, ICO (UK), law-firm COPPA trackers"
+  },
+  {
+    "name": "Addiction & screen-time discourse",
+    "stage": "Perennial",
+    "category": "Regulation, safety & age",
+    "markets": [
+      "Global"
+    ],
+    "what_it_is": "The WHO's ICD-11 \"gaming disorder\" diagnosis remains scientifically contested, but the argument has moved underneath it. The live question in 2026 is no longer how many hours, it is whether use is compulsive and whether the product was built to make it so. A JAMA cohort of 4,300 youths tied addictive-use trajectories, not total screen time, to more than doubled suicide risk; an eight-year Finnish study found more screen time predicted better teen cognition. Regulation is following: US litigation, 100+ cases with two MDL denials, pleads predatory monetization rather than duration. Market framings still diverge (KR and CN pathologized and regulated, US and EU parenting anxiety, JP moderation by prefecture) but all four are time-based instruments now aimed at a design problem.",
+    "why_it_matters": "Identical play data still reads as disease, discipline, or moral panic depending on the market. But every lens is migrating from \"how long\" to \"how it was built,\" which moves the exposure from player behavior onto the design and monetization layer.",
+    "further_reading": [
+      {
+        "source": "Study Finds Addictive Screen Use, Not Total Screen Time, Linked to Youth Suicide Risk",
+        "link": "https://news.weill.cornell.edu/news/2025/06/study-finds-addictive-screen-use-not-total-screen-time-linked-to-youth-suicide-risk",
+        "type": "Research",
+        "format": ""
+      },
+      {
+        "source": "W66 days clean. I might stop. This is just not doing anything for me (r/StopGaming)",
+        "link": "https://www.reddit.com/r/StopGaming/comments/1vuf5jh/66_days_clean_i_might_stop_this_is_just_not_doing/",
+        "type": "Community",
+        "format": ""
+      },
+      {
+        "source": "New Study Challenges Common Assumptions About Screen Time For Kids",
+        "link": "https://hardware.slashdot.org/story/26/08/19/2231240/new-study-challenges-common-assumptions-about-screen-time-for-kids",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Journal of Behavioral Addictions, BMC Psychiatry, Oxford Internet Institute (Przybylski), KOCCA white papers for the Korean framing"
+  },
+  {
+    "name": "China's original-IP franchise build-out",
+    "stage": "Dominant",
+    "category": "Geography & power",
+    "markets": [
+      "CN",
+      "Global"
+    ],
+    "what_it_is": "After Black Myth: Wukong made China's AAA case, studios moved from one-off proof to franchise construction. Game Science skipped a Wukong sequel for Black Myth: Zhong Kui, meaning that mythology is being treated as a catalog, not a hook. S-GAME, Everstone/NetEase and miHoYo ship parallel original IP. Beijing formalized it: gaming entered the 15th Five-Year Plan, and overseas revenue hit $12.37B in H1 2026, up 30%.",
+    "why_it_matters": "Premium games are no longer a JP/US/EU default. It resets competitive analysis, soft-power framing, and talent flows — while rising AAA costs, publicly acknowledged by studios, become the first real constraint.",
+    "further_reading": [
+      {
+        "source": "“China’s K-pop moment”: Wukong’s global success sparks government embrace of video games as soft power",
+        "link": "https://restofworld.org/2024/wukong-china-gaming-strategy/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "China's game makers split as giants chase prestige and others target profit",
+        "link": "https://kr-asia.com/chinas-game-makers-split-as-giants-chase-prestige-and-others-target-profit",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Black Myth: Zhong Kui might be the best looking game ever made... Chinese devs are cooking",
+        "link": "https://www.tiktok.com/@okami.games/video/7675962319934852365",
+        "type": "Community",
+        "format": "video"
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Rest of World China tech desk, Niko Partners, SCMP tech coverage, Naavik"
+  },
+  {
+    "name": "Gulf capital & the leveraged EA buyout",
+    "stage": "Dominant",
+    "category": "Geography & power",
+    "markets": [
+      "MENA",
+      "US",
+      "Global"
+    ],
+    "what_it_is": "Saudi Arabia's PIF has assembled a layered gaming portfolio (Savvy, Scopely, ESL FACEIT, listed stakes) capped by taking EA private, closed August 2026. PIF holds 93.4% directly, held outside Savvy alongside Silver Lake and Affinity Partners. Roughly $20B of purchase debt now sits on EA's own books, so the debate has shifted from sportswashing and esports capture toward layoffs, cancelled projects, and quiet self-censorship.",
+    "why_it_matters": "Sovereign capital is now the industry's biggest single buyer, and it arrived leveraged. Ownership questions touch labor, esports, and content decisions across the West.",
+    "further_reading": [
+      {
+        "source": "Naavik, industry analysis, May 2026",
+        "link": "https://naavik.co/digest/inside-saudi-arabias-38-billion-gaming-empire/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "EA could be set for 'mass layoffs' as it aims to cut costs following Saudi acquisition",
+        "link": "https://www.videogameschronicle.com/news/ea-could-be-set-for-mass-layoffs-as-it-aims-to-cut-costs-following-saudi-acquisition/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "'Hard to feel good about being bought out by a regime that's very much at odds with progressive society'",
+        "link": "https://www.reddit.com/r/gaming/comments/1vsviuy/ea_employees_brace_for_the_worst_under_saudi/",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Naavik, SportBusiness esports desk, Reuters M&A coverage, Esports Insider"
+  },
+  {
+    "name": "Growth without Western access",
+    "stage": "Emerging",
+    "category": "Geography & power",
+    "markets": [
+      "CN",
+      "Global",
+      "BR",
+      "IN",
+      "SEA"
+    ],
+    "what_it_is": "Matthew Ball's analysis of where 2025's growth actually went: of the ~$10 billion industry increase versus 2021, about $4 billion was in China and another $1.5 billion went to China-made games in global markets, with 84% of Chinese game revenue going to domestically made games. This means that growth is concentrated in places and platforms many Western publishers can't reach.",
+    "why_it_matters": "Prevents the classic error of citing 'industry growth' as if it were evenly distributed. The divergence between player growth and accessible revenue is the real story.",
+    "further_reading": [
+      {
+        "source": "The Game Business, interview/analysis, Feb 2026",
+        "link": "https://www.thegamebusiness.com/p/the-state-of-video-games-with-matthew",
+        "type": "Analysis",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "The Game Business (Dring), Matthew Ball / Epyllion, Niko Partners, Newzoo regional reports"
+  },
+  {
+    "name": "China's banhao throttles games",
+    "stage": "Perennial",
+    "category": "Geography & power",
+    "markets": [
+      "CN"
+    ],
+    "what_it_is": "Every game monetized in China needs an NPPA publication license (版号, banhao), and only a licensed Chinese publisher can hold one — foreign studios apply through a partner or not at all. Supply is a dial the regulator turns: total freeze in 2021-22, then 1,771 approvals in 2025, and 2026 running ~19% ahead of that pace at 1,110 domestic and 37 imported licenses by the July batch. Imports now clear on a roughly two-month cadence. The binding constraint has quietly moved downstream — real-name verification SDKs and server-side minor-cutoff enforcement are now the harder half.",
+    "why_it_matters": "Batch cadence is the cleanest public read on Chinese market access and regulatory mood — but approvals rose while H1 gacha revenue fell 8.97%, so permission and commercial outcome have decoupled.",
+    "further_reading": [
+      {
+        "source": "Niko Partners, analyst research note, Jan 2026",
+        "link": "https://substack.nikopartners.com/p/chinas-nppa-approved-1771-video-games",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Chinese gacha games recorded an 8.97% decline, despite growth in the gaming industry as a whole",
+        "link": "https://www.reddit.com/r/gachagaming/comments/1vauysu/china_game_industry_report_for_januaryjune_2026/",
+        "type": "Community",
+        "format": ""
+      },
+      {
+        "source": "China Game Approval (Banhao) requirements for apps in CN, 2026",
+        "link": "https://clearlaunch.dev/regulations/china-game-approval",
+        "type": "Primary",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Niko Partners' monthly approval trackers, TechNode, Digital Policy Alert, SCMP"
+  },
+  {
+    "name": "Generative AI in development: the enforcement turn",
+    "stage": "Dominant",
+    "category": "Technology",
+    "markets": [
+      "Global"
+    ],
+    "what_it_is": "Adoption keeps rising while sentiment collapses: 52% of surveyed game professionals now say generative AI is harming the industry, up from 30% the year before and 18% the year prior, with art and narrative roles most negative. Company-level use (52%) has decoupled from individual use (36%), and the argument has moved from opinion to enforcement.",
+    "why_it_matters": "Anti-AI clauses are now contract boilerplate, EU disclosure rules went live August 2, and players punish undisclosed AI at review-score speed. The conflict is being settled by lawyers and storefronts, not debate.",
+    "further_reading": [
+      {
+        "source": "GDC 2026 State of the Game Industry Reveals Impact of Layoffs, Generative AI, and More",
+        "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
+        "type": "Primary",
+        "format": ""
+      },
+      {
+        "source": "AI is a copyright landmine: \"I think we're going to see lawsuits\"",
+        "link": "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "r/gamedev Policy on AI Use",
+        "link": "https://www.reddit.com/r/gamedev/comments/1vrnqyt/rgamedev_policy_on_ai_use/",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "GDC State of the Game Industry (annual), Game Developer, Wired gaming/AI coverage, a16z Games (for the pro-adoption view)"
+  },
+  {
+    "name": "The rise of AI companions & co-playable NPCs",
+    "stage": "Emerging",
+    "category": "Technology",
+    "markets": [
+      "US",
+      "Global",
+      "JP",
+      "KR"
+    ],
+    "what_it_is": "LLM-driven characters have moved past dialogue into agency. Epic's Fortnite characters use AI voices licensed from consenting professional actors, while NVIDIA's ACE stack and KRAFTON's PUBG Ally put an on-device AI teammate that talks strategy, fetches items and revives you into a live shooter, with the same tooling opening to creators. Debate covers consent, live-speech moderation, child-facing risk, and disclosure.",
+    "why_it_matters": "The first mass-market test of conversational AI inside play spaces heavily used by minors, landing in a community that now punishes undisclosed AI harder than AI itself. Safety, labor, and trust collide.",
+    "further_reading": [
+      {
+        "source": "How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
+        "link": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "r/gamedev Policy on AI Use",
+        "link": "https://www.reddit.com/r/gamedev/comments/1vrnqyt/rgamedev_policy_on_ai_use/",
+        "type": "Community",
+        "format": ""
+      },
+      {
+        "source": "dev stress-tests their game's voice recognition after a player calls it bad",
+        "link": "https://www.tiktok.com/@monchiistudio/video/7676265366301019393",
+        "type": "Community",
+        "format": "video"
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "VGC and The Verge AI-in-games coverage, Epic's Creator ecosystem announcements, Inworld/ElevenLabs product news, Kotaku (critical coverage)"
+  },
+  {
+    "name": "AI disclosure fights & unprotected creative labor",
+    "stage": "Emerging",
+    "category": "Technology",
+    "markets": [
+      "US"
+    ],
+    "what_it_is": "SAG-AFTRA members ratified the 2025 Interactive Media Agreement, ending the nearly yearlong video game strike, with consent and disclosure requirements for digital-replica use plus pay increases.The live disputes now involve people theagreement never covered — non-union writers like Saber's Stella Sacco, streamers auto-enrolled in Amazon's AI training, modded voices. Studios deny AI use, get caught, and disclose late. No-AI clauses are becoming contract boilerplate.",
+    "why_it_matters": "The question at hand is no longer consent on paper. Instead, it's disclosure, detection, and who's left outside the contract.",
+    "further_reading": [
+      {
+        "source": "SAG-AFTRA Overwhelmingly Approves Video Game Agreement, Marking Official End To Nearly Yearlong Strike",
+        "link": "https://deadline.com/2025/07/sag-aftra-video-game-agreement-approved-strike-1236453741/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Saber's AI Rideshare Stimulator controversy almost closes on high note",
+        "link": "https://www.pcgamer.com/gaming-industry/sabers-ai-rideshare-stimulator-controversy-almost-closes-on-high-note-with-ceo-apology-then-he-calls-portal-scribe-who-mocked-him-an-unsuccessful-writer/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Video game lawyer says all her clients have anti-AI contracts because gamers hate it",
+        "link": "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/",
+        "type": "Reporting",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "SAG-AFTRA's interactive media page, Deadline/Variety labor desks, Game Developer labor coverage"
+  },
+  {
+    "name": "App-store unbundling under court supervision",
+    "stage": "Dominant",
+    "category": "Platform & distribution",
+    "markets": [
+      "US",
+      "EU",
+      "JP",
+      "UK"
+    ],
+    "what_it_is": "Courts are unwinding app-store control asymmetrically. Google, having lost on all counts, must carry rival stores inside Play/ Aptoide arrived in August, and a judge ordered install friction stripped within a week. Apple, having won most counts, is re-pricing rather than losing commissions: tiered external-link fees in the US, a flat 5% replacing the EU's Core Technology Fee. Enforcement is now continuous.",
+    "why_it_matters": "he 30% cut shaped mobile game design for 15 years. Its replacement is a supervised patchwork of tiered fees — and gatekeeping has migrated from distribution to attestation.",
+    "further_reading": [
+      {
+        "source": "Following Epic loss, Google has started hosting rival app stores in Play Store",
+        "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "'That is not acceptable': Judge orders Google to make rival app store installs easier",
+        "link": "https://www.reddit.com/r/Android/comments/1vnvxod/that_is_not_acceptable_judge_orders_google_to/",
+        "type": "Community",
+        "format": ""
+      },
+      {
+        "source": "Apple just rewrote its App Store fees in the EU",
+        "link": "https://www.tiktok.com/@bigcribs/video/7675512577903938837",
+        "type": "Community",
+        "format": "video"
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "The Verge policy desk, MacRumors legal coverage, mobilegamer.biz, European Commission DMA enforcement updates"
+  },
+  {
+    "name": "Streaming fragmentation & the multi-homed creator",
+    "stage": "Dominant",
+    "category": "Platform & distribution",
+    "markets": [
+      "Global",
+      "US",
+      "BR",
+      "KR",
+      "JP"
+    ],
+    "what_it_is": "The live-streaming audience is un-bundling from any single platform. Twitch stayed the most-watched at 19.2 billion hours in 2025 but shed 8.3 points of share, its Q4 the lowest since early 2020, while Kick grew 131% and Korea's Chzzk 44%. Creators now multi-home by default: Twitch anchors ~56% of the average simulcaster's hours, but the clip layer driving discovery runs through TikTok and YouTube.",
+    "why_it_matters": "Fragmentation is the end state, not a transition. Korea settled into a SOOP/Chzzk duopoly two years after Twitch left. And Kick's growth is IRL and combat sports, not the gaming audience Twitch lost, so share charts mislead. Single-platform reads of \"streaming culture\" break.",
+    "further_reading": [
+      {
+        "source": "Multistreaming Audience Split: Twitch, YouTube & Kick in H1 2026",
+        "link": "https://streamscharts.com/news/multistreaming-audience-split-twitch-youtube-kick-h1-2026",
+        "type": "Data",
+        "format": ""
+      },
+      {
+        "source": "SOOP Korea and Chzzk: One Year After Twitch's Shutdown",
+        "link": "https://streamhatchet.com/blog/the-state-of-korean-live-streaming/",
+        "type": "Data",
+        "format": ""
+      },
+      {
+        "source": "Twitch now uses channel VODs, clips and chat messages to train generative AI by default",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1vmnkfz/twitch_now_uses_channel_vods_clips_and_chat/",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Stream Hatchet quarterly and annual reports, Streams Charts, Netinfluencer, Bloomberg's creator-economy coverage"
+  },
+  {
+    "name": "Handheld PC resurgence",
+    "stage": "Emerging",
+    "category": "Platform & distribution",
+    "markets": [
+      "US",
+      "EU",
+      "JP",
+      "Global"
+    ],
+    "what_it_is": "Omdia forecasted 2.3 million PC gaming handhelds sold globally in 2025, up 32% from 1.7 million in 2024, boosted by Xbox-branded devices. Rival IDC data shows the category shrank in 2024 before recovering, volumes stay small next to consoles, and the Xbox-branded lift has since faded, with Steam Deck holding roughly half of shipments. Platform shift or niche remains the argument.",
+    "why_it_matters": "Handhelds are reshaping where PC play happens, and the firmer signal is software: SteamOS now ships beyond Valve hardware, and owners are re-flashing Windows devices themselves. Treat growth claims skeptically and cite whose numbers.",
+    "further_reading": [
+      {
+        "source": "Asus ROG Xbox Ally sales stall with Steam Deck still the preferred handheld gaming PC",
+        "link": "https://www.notebookcheck.net/Asus-ROG-Xbox-Ally-sales-stall-with-Steam-Deck-still-the-preferred-handheld-gaming-PC.1230155.0.html",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "SteamOS expands beyond Steam Deck",
+        "link": "https://store.steampowered.com/news/app/593110/view/529834914570306831",
+        "type": "Primary",
+        "format": ""
+      },
+      {
+        "source": "PC Gaming Handhelds just keep getting better",
+        "link": "https://www.tiktok.com/@gg.sheed/video/7675986246526700814",
+        "type": "Community",
+        "format": "video"
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Omdia games research, The Verge hardware desk, Circana (Piscatella), Valve Steam Hardware Survey"
+  },
+  {
+    "name": "Metaverse & blockchain gaming hype",
+    "stage": "Receding",
+    "category": "Platform & distribution",
+    "markets": [
+      "Global"
+    ],
+    "what_it_is": "The 2021 to 2022 wave of metaverse platforms and NFT/play-to-earn games has largely collapsed or rebranded. Matthew Ball's retrospective analysis groups web3 among growth engines that failed to deliver on their hype, leaving the industry stalled. Persistent worlds and UGC ideas have survived inside Roblox/Fortnite, but the token economics mostly did not.",
+    "why_it_matters": "You will hit mountains of 2021 to 2022 coverage presenting the metaverse as the future, but it's dated intel. The surviving ideas migrated to other places, games, and platforms.",
+    "further_reading": [
+      {
+        "source": "Matthew Ball / Epyllion, industry report, May 2026",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "More than 90% of Web3 games failed after $15 billion boom",
+        "link": "https://www.coindesk.com/markets/2026/04/23/more-than-90-of-web3-games-failed-after-usd15-billion-boom-as-gamers-never-showed-up-caladan",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Stablecoins Gain Ground in Blockchain Gaming as Studios Tighten Spending, Study Finds",
+        "link": "https://finance.yahoo.com/news/stablecoins-gain-ground-blockchain-gaming-023901223.html",
+        "type": "Reporting",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Matthew Ball (who wrote the book and the post-mortems), Naavik, Digiday's Gaming Advertising coverage for brand-metaverse residue"
+  },
+  {
+    "name": "Multigenerational play & the household question",
+    "stage": "Emerging",
+    "category": "Culture & audience",
+    "markets": [
+      "US",
+      "JP",
+      "DE",
+      "UK",
+      "Global"
+    ],
+    "what_it_is": "Play now spans generations: 212.3 million Americans play weekly, the average player age has risen to 37, half of Boomers play weekly, and over a third of adults 80+ play, with Boomer women out-playing Boomer men. Adults were always the core; what is new is the span at both ends. Earlier editions found most parent-players play with their kids. The unit of analysis is shifting from 'gamers' to households.",
+    "why_it_matters": "he youth-centric frame is obsolete, but a simple 'aging' frame is too. Co-play, generational span, and household spending are where audience research is heading.",
+    "further_reading": [
+      {
+        "source": "2026 Essential Facts About the U.S. Video Game Industry",
+        "link": "https://www.theesa.com/resources/essential-facts-about-the-us-video-game-industry/2026-data/",
+        "type": "Data",
+        "format": ""
+      },
+      {
+        "source": "The Myth of the Aging Playerbase",
+        "link": "https://www.youtube.com/watch?v=N8tdqi-x9OI",
+        "type": "Analysis",
+        "format": "video"
+      },
+      {
+        "source": "Why older gamers could be the key to saving the games industry",
+        "link": "https://news.northeastern.edu/2026/06/02/old-gamers-video-game-industry/",
+        "type": "Analysis",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "ESA Essential Facts (annual), Circana demographics, VGM/GWI audience panels, Pew Research internet & tech"
+  },
+  {
+    "name": "Game preservation and digital ownership",
+    "stage": "Perennial",
+    "category": "Culture & audience",
+    "markets": [
+      "EU",
+      "UK",
+      "FR",
+      "US",
+      "IT",
+      "Global"
+    ],
+    "what_it_is": "A long-running argument about whether buying a game confers ownership, reignited each time a publisher shuts down servers and renders a purchased title unplayable. Its most visible chapter, Stop Killing Games, gathered 1,294,188 verified signatures across 24 EU member states. On 16 June 2026 the Commission declined to propose a legal obligation, citing intellectual property constraints, offering a voluntary industry code of conduct instead; the campaign has pivoted to amending the Digital Fairness Act, due Q4 2026. The fight has since globalised into three tracks. Legislation: Brazil's PL 3612/2026 would mandate point-of-sale disclosure of server dependence, a two-year minimum support window, and a state preservation fund framed as digital cultural heritage. Litigation: UFC-Que Choisir is suing Ubisoft over The Crew, and a Dutch class action targets the PlayStation Store. Archives: Japan mandates legal deposit yet bars access without rightsholder consent, pushing its Game Preservation Society to open a US office. Sony's 2028 disc cutoff has pulled the question mainstream.",
+    "why_it_matters": "The clearest current test of what consumers believe they are buying, and a natural experiment in which legal systems convert organised player sentiment into binding rules. So far the answer is neither Brussels nor Washington, but civil-law jurisdictions using heritage framing and consumer litigation.",
+    "further_reading": [
+      {
+        "source": "Stop Destroying Videogames - Commission's reply to the European citizens' initiative",
+        "link": "https://citizens-initiative.europa.eu/stop-destroying-videogames-commissions-reply-european-citizens-initiative_en",
+        "type": "Primary",
+        "format": ""
+      },
+      {
+        "source": "When did StopKillingGames turn into WeWantPhysical",
+        "link": "https://www.reddit.com/r/StopKillingGames/comments/1vri0w0/when_did_stopkillinggames_turn_into_wewantphysical/",
+        "type": "Community",
+        "format": ""
+      },
+      {
+        "source": "Projeto de lei inspirado no Stop Killing Games é apresentado no Brasil para evitar que jogos morram",
+        "link": "https://www.tecmundo.com.br/voxel/504819-projeto-de-lei-inspirado-no-stop-killing-games-e-apresentado-no-brasil-para-evitar-que-jogos-morram.htm",
+        "type": "Reporting",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "European Citizens' Initiative register, stopkillinggames.com, r/StopKillingGames, Bellular News (YouTube), Digital Fairness Act consultations, UFC-Que Choisir, Video Games Europe statements"
+  },
+  {
+    "name": "Organized game labor",
+    "stage": "Dominant",
+    "category": "Culture & audience",
+    "markets": [
+      "US",
+      "CA",
+      "UK",
+      "Nordics"
+    ],
+    "what_it_is": "Union drives hardened into institutions during the layoff era: 82% of US-based respondents to GDC's 2026 survey support unionisation, and one in four were laid off in the last two years. Microsoft's studios host the largest US unions and CWA's direct-join model now recruits across employers. Six European unions signed a cross-border action plan; France struck nationally. Nordic sectoral agreements remain the mature template.",
+    "why_it_matters": "Labor is becoming a durable counterparty on layoffs, AI disclosure, and crunch, with legal precedent now in play.",
+    "further_reading": [
+      {
+        "source": "Game Worker Solidarity: Mapping and documenting collective movements by game workers",
+        "link": "https://gameworkersolidarity.com/",
+        "type": "Primary",
+        "format": ""
+      },
+      {
+        "source": "One industry, one fight – Video Game Unions Present a United Front Across Western Europe",
+        "link": "https://www.stjv.fr/en/2025/12/one-industry-one-fight-video-game-unions-present-a-united-front-across-western-europe/",
+        "type": "Primary",
+        "format": ""
+      },
+      {
+        "source": "Rockstar faces union busting allegations",
+        "link": "https://www.pcgamer.com/gaming-industry/rockstar-faces-legal-setback-as-uk-tribunal-allows-its-fired-workers-to-bring-every-one-of-their-union-busting-allegations-to-trial/",
+        "type": "Reporting",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Game Workers of America / CWA announcements, Game Developer labor desk, GDC State of the Game Industry, IGDA"
+  },
+  {
+    "name": "Culture-war discourse & the weaponized review score",
+    "stage": "Perennial",
+    "category": "Culture & audience",
+    "markets": [
+      "US",
+      "UK",
+      "JP",
+      "Global"
+    ],
+    "what_it_is": "A recurring conflict over \"politics in games,\" running from Gamergate through today. Peer-reviewed analysis finds critics perceive left-leaning \"woke\" perspectives as forced into games by an organized campaign, while opponents characterize the backlash as harassment. Japan's Assassin's Creed Shadows fight showed the same conflict refracted through national representation rather than US partisan lines. The current mutation is that the payload has moved from content to personnel: Slay the Spire 2 fell from \"Overwhelmingly Positive\" to \"Mostly Negative\" — roughly 65% of ~52,000 recent reviews — over a consultant credit, with nothing shipped. Platforms are responding by hiding the signal rather than policing it, and the tactic has proven politically portable, with anti-AI backlash using the same weapon.",
+    "why_it_matters": "Review scores, community sentiment, and marketing decisions are all contaminated by this topic — and the contamination now runs both ways, since a culture-war frame also makes ordinary criticism unspeakable, so the scores stop measuring the game at all.",
+    "further_reading": [
+      {
+        "source": "Forced: Perceptions of “Woke” Politics in Video Games",
+        "link": "https://ijoc.org/index.php/ijoc/article/view/23165",
+        "type": "Research",
+        "format": ""
+      },
+      {
+        "source": "Steam review bombing is gaming's most powerful method of protest",
+        "link": "https://www.pcgamer.com/games/third-person-shooter/steam-review-bombing-is-gamings-most-powerful-method-of-protest-3-takeaways-from-helldivers-2s-weekend-meltdown/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "I hate what the culture wars have done to the discourse surrounding this game",
+        "link": "https://www.reddit.com/r/ShitHaloSays/comments/1vaslzl/i_hate_what_the_culture_wars_have_done_to_the/",
+        "type": "Community",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "IJoC and Games & Culture (scholarly), Aftermath and 404 Media (critical journalism), Wired culture desk, SteamDB review-anomaly data"
+  },
+  {
+    "name": "Esports after the reckoning",
+    "stage": "Receding",
+    "category": "Culture & audience",
+    "markets": [
+      "Global",
+      "KR",
+      "MENA",
+      "US",
+      "EU"
+    ],
+    "what_it_is": "The VC money is gone and the correction is over — this is the aftermath. What's left is a two-pillar economy: publisher-run circuits and Saudi-funded events (Esports World Cup, $75m prize pool, ~$20m distributed to 40 partner clubs). Global revenue is ~$5.34b and growing, but teams are the weakest link. Break-even is now a headline achievement, not a baseline: DRX is filing for a Singapore listing on the strength of $8.6m revenue and two consecutive break-even years. Franchising starts unwinding into open qualifiers in 2027.",
+    "why_it_matters": "Two traps. First, 2019-2021 \"next NBA\" content is worthless — but so is 2023-2024 \"esports winter\" content, which describes a collapse that already resolved. Second, sovereign capital is now the ecosystem's floor, which makes Gulf geopolitics a scheduling risk: the inaugural Esports Nations Cup just slipped a full year. Fans read consolidation and IPOs as founder exits, not growth.",
+    "further_reading": [
+      {
+        "source": "Esports Business H1 2026: 4 Shifts Reshaping the Industry",
+        "link": "https://escharts.com/news/esports-business-h1-2026",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Kiwoom aims to become the first publicly listed Korean eSports team",
+        "link": "https://www.reddit.com/r/leagueoflegends/comments/1v46rdr/investchosun_kiwoom_drx_krx_files_for_ipo_on_the/",
+        "type": "Community",
+        "format": ""
+      },
+      {
+        "source": "First Esports Nations Cup delayed until 2027",
+        "link": "https://www.tiktok.com/@bbcnews/video/7675483418607619330",
+        "type": "Community",
+        "format": "video"
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "SportBusiness, Esports Insider, Sports Business Journal esports desk, Esports Charts viewership data"
+  },
+  {
+    "name": "Games media capture",
+    "stage": "Emerging",
+    "category": "Culture & audience",
+    "markets": [
+      "Global",
+      "NL",
+      "UK",
+      "AU",
+      "FR",
+      "BR",
+      "MX",
+      "IN",
+      "TW"
+    ],
+    "what_it_is": "Games outlets increasingly answer to parties with a direct stake in what they cover. Four owners — Ziff Davis, Fandom, Valnet, Future — hold most surviving English-language sites; publishers own the trade press. Dead and dying domains are bought for their residual search authority and refilled with AI-written casino and affiliate content. The prize has shifted from audience to citation: whoever owns the page owns what an AI says about a game. A worker-owned tier (Aftermath, Defector, Remap) is the only structurally independent alternative, at a fraction of the scale.",
+    "why_it_matters": "Ownership now shapes what surfaces in AI answers, not just what gets published. Readers never see the masthead. Check who owns a source before citing it.",
+    "further_reading": [
+      {
+        "source": "Aftermath (Jackson Ryan), eight-month investigation, Mar 2026",
+        "link": "https://aftermath.site/gameshub-clickout-media-seo-gambling-ai/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "our Companies Control Your Favorite Gaming Media",
+        "link": "https://spilled.gg/companies-gaming-media/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Future, Ziff Davis to Struggle Most From Traffic Drops",
+        "link": "https://www.amediaoperator.com/analysis/future-ziff-davis-to-struggle-most-from-traffic-drops/",
+        "type": "Analysis",
+        "format": ""
+      }
+    ],
+    "as_of": "Jul 2026",
+    "where_to_follow": "Aftermath, Press Gazette (media business beat), Game File, local trade-body statements, WHOIS/company filings for suspect domains"
+  }
+]

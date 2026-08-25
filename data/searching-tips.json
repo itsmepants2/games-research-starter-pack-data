@@ -1,0 +1,361 @@
+[
+  {
+    "tip": "Search filetype:pdf for white papers",
+    "markets": [
+      "Global"
+    ],
+    "how": "Add filetype:pdf + year to queries",
+    "example": "ゲーム白書 2025 filetype:pdf",
+    "why": "Industry reports and government studies surface as PDFs that normal search buries"
+  },
+  {
+    "tip": "Bound results by date with before: and after:",
+    "markets": [
+      "Global"
+    ],
+    "how": "after:2024-01-01 before:2025-01-01",
+    "example": "loot box regulation after:2024-01-01",
+    "why": "Cuts SEO evergreen content. Isolates coverage windows around events"
+  },
+  {
+    "tip": "Restrict a search to one outlet with site:",
+    "markets": [
+      "Global"
+    ],
+    "how": "site:domain + keywords",
+    "example": "site:4gamer.net Switch 2 発売",
+    "why": "Outlet-native search is often worse than Google's index of it"
+  },
+  {
+    "tip": "Use Wikipedia interlanguage links to find local terms",
+    "markets": [
+      "JP",
+      "KR",
+      "DE",
+      "FR",
+      "IT"
+    ],
+    "how": "Find EN article → switch language → harvest the local title + terms",
+    "example": "Gacha EN → ガチャ JP article → related JP vocabulary",
+    "why": "The fastest reliable translation of domain terms, better than machine-translating your query"
+  },
+  {
+    "tip": "Search Naver, not Google, for Korea",
+    "markets": [
+      "KR"
+    ],
+    "how": "Naver News search + Naver DataLab for trend data",
+    "example": "search.naver.com → 뉴스 tab. datalab.naver.com",
+    "why": "Google has partial KR coverage. Naver is where KR web activity actually is"
+  },
+  {
+    "tip": "Search Yahoo! Japan realtime for the Japanese social pulse",
+    "markets": [
+      "JP"
+    ],
+    "how": "search.yahoo.co.jp/realtime for X/Twitter in JP",
+    "example": "Game title in JP during a launch or controversy",
+    "why": "JP Twitter/X is the national town square for games. Realtime search reads it without an X account"
+  },
+  {
+    "tip": "Filter X and Twitter advanced search with the lang: operator",
+    "markets": [
+      "JP",
+      "KR",
+      "DE",
+      "FR"
+    ],
+    "how": "lang:ja / lang:ko + keyword",
+    "example": "フォートナイト lang:ja min_faves:100",
+    "why": "Language filter + engagement floor surfaces genuine discourse over spam"
+  },
+  {
+    "tip": "Run Google Trends with country and category filters",
+    "markets": [
+      "Global"
+    ],
+    "how": "trends.google.com → set country, category Games",
+    "example": "Compare game titles within one country, not across countries",
+    "why": "CAVEAT: cross-country comparison of absolute interest is invalid. Normalize within-country only"
+  },
+  {
+    "tip": "Machine-translate the SERP, not just the page",
+    "markets": [
+      "JP",
+      "KR"
+    ],
+    "how": "Google Translate the results page of a local-language query",
+    "example": "Paste 모바일게임 확률형 아이템 규제 into Google, translate results page",
+    "why": "Lets you triage which local articles are worth full translation"
+  },
+  {
+    "tip": "Check the Wayback Machine for dead pages and changed claims",
+    "markets": [
+      "Global"
+    ],
+    "how": "web.archive.org. Also use it to document UI states over time",
+    "example": "Storefront pages before/after a monetization change",
+    "why": "Platform UI and store pages are evidence that vanishes. Archive them at capture time"
+  },
+  {
+    "tip": "Set Google Scholar alerts on niche terms",
+    "markets": [
+      "Global"
+    ],
+    "how": "Set alerts for market + topic terms",
+    "example": "alert: \"mobile gaming\" Korea monetization",
+    "why": "New academic work arrives before it is findable by browsing journals"
+  },
+  {
+    "tip": "Prefer DeepL over Google Translate for Japanese long-form",
+    "markets": [
+      "JP"
+    ],
+    "how": "DeepL for articles. Google for SERPs/speed",
+    "example": "note.com developer post-mortems",
+    "why": "Materially better JP prose translation. Still verify names and numbers"
+  },
+  {
+    "tip": "Search Telegram for Korean market analysts",
+    "markets": [
+      "KR"
+    ],
+    "how": "Korean securities-firm analysts run PUBLIC Telegram channels as their primary venue (130+ official brokerage channels): daily digests of KR games news, grossing-rank moves, coverage notes",
+    "example": "e.g., sell-side games analysts posting daily digests (Mirae Asset et al.)",
+    "why": "The KR analyst conversation is invisible to X/Bluesky/Substack sweeps. Telegram is where it actually lives. Finding surfaced during Jul 2026 people-sourcing run"
+  },
+  {
+    "tip": "Follow Chinese analyst discourse on WeChat 公众号 (gōngzhòng hào) rather than the open web",
+    "markets": [
+      "CN"
+    ],
+    "how": "Domestic Chinese games analysis publishes through WeChat public accounts (公众号), not Western-visible platforms. Requires WeChat access and Chinese-language search",
+    "example": "Trade outlets (GameLook 游戏葡萄 etc.) mirror some 公众号 content to the open web",
+    "why": "From outside CN, route through the open-web mirrors and EN specialists (Niko, Omdia) rather than attempting direct 公众号 research"
+  },
+  {
+    "tip": "Search in pt-BR using both \"games\" and \"jogos\", because the two surface different layers",
+    "markets": [
+      "BR"
+    ],
+    "how": "Run parallel queries. \"jogos\" pulls policy/academic/legal material and \"games\" pulls consumer press and industry marketing. Add \"mercado de\" for business coverage",
+    "example": "\"mercado de games Brasil\" vs \"indústria de jogos digitais pesquisa\"",
+    "why": "Portuguese sources dominate the useful layer (Abragames, ClassInd, SBGames barely exist in English). Caveat: \"jogos\" alone also returns gambling (\"jogos de azar\", \"bets\"), a live regulatory topic in Brazil that heavily pollutes results. Add \"eletrônicos\" or \"digitais\" to disambiguate"
+  },
+  {
+    "tip": "Verify Brazilian domains carefully, separating portal-hosted originals from SEO clones",
+    "markets": [
+      "BR"
+    ],
+    "how": "Check whether the outlet lives under a portal subdomain (uai.com.br, ge.globo.com etc.) and whether a standalone .com.br twin exists",
+    "example": "Real: dropsdejogos.uai.com.br · Clone-style SEO site: dropsdejogos.com.br",
+    "why": "Brazilian outlets often live inside larger portals, and abandoned/parallel domains get taken over by SEO content farms with the same name. Always confirm the masthead before citing"
+  },
+  {
+    "tip": "Filter deliberately in Indian sources, where \"gaming\" usually means real-money gaming",
+    "markets": [
+      "IN"
+    ],
+    "how": "Add \"video games\", \"esports\", or specific titles (BGMI, Free Fire) to queries. Treat bare \"online gaming India\" results as RMG/policy coverage by default",
+    "example": "\"India video games market\" vs \"India online gaming\" (returns RMG ban coverage)",
+    "why": "Pre-ban, RMG was 80 to 86% of revenue and dominates business/legal coverage. Post-Aug 2025 the ban swamps all \"gaming\" queries. Caveat: some genuinely useful policy sources only use the RMG-inflected vocabulary"
+  },
+  {
+    "tip": "Look for Indian player culture on YouTube and Discord in Hindi and regional languages rather than on the open web",
+    "markets": [
+      "IN"
+    ],
+    "how": "Search YouTube directly in Hindi/Hinglish for player sentiment. Web search in English for industry/business layers",
+    "example": "YouTube: \"BGMI नया अपडेट\" or \"Free Fire India\" vs web: \"Krafton India revenue\"",
+    "why": "English web search finds the business layer but misses the vernacular mainstream (Rooter streams in 10+ languages). Caveat: Hinglish spelling is inconsistent, so try both Latin and Devanagari forms"
+  },
+  {
+    "tip": "Force the Mexican layer, because Spanish-language search defaults to Spain",
+    "markets": [
+      "MX"
+    ],
+    "how": "Add \"México\", \"MXN\", or peso amounts to queries. Prefer .mx domains. Note es-ES outlets (Vandal, 3DJuegos, HobbyConsolas) dominate generic Spanish game queries",
+    "example": "\"precio PS5 México MXN\" vs \"precio PS5\" (returns Spain results in EUR)",
+    "why": "Spain's games press vastly outweighs Mexico's in Spanish-language search ranking, so unlocalized queries bury Mexican sources entirely. Caveat: some LatAm editions of Spain outlets (3djuegos.lat) cover Mexico well but aren't Mexican"
+  },
+  {
+    "tip": "Split vocabulary by layer, using \"videojuegos\" for official Mexico and \"gaming\" or \"gamer\" for market Mexico",
+    "markets": [
+      "MX"
+    ],
+    "how": "Use \"videojuegos\" + \"DOF/SEGOB/clasificación\" for regulatory material, \"gamers México\" or \"mercado gaming\" for consumer/business data, and \"desarrolladores de videojuegos\" for the industry side",
+    "example": "\"clasificación videojuegos DOF\" vs \"mercado gamer México The CIU\"",
+    "why": "Government documents never say \"gaming\". Business press rarely says \"videojuegos\" in headlines. Caveat: \"juegos\" alone pulls in casinos and the newly legal betting sector (\"juegos con apuestas\"). Add \"video\" to disambiguate"
+  },
+  {
+    "tip": "Search Indonesian sources twice, since official documents say \"gim\" and the consumer web says \"game\"",
+    "markets": [
+      "SEA"
+    ],
+    "how": "Use \"gim\" (\"industri gim\", \"klasifikasi gim\") for regulation, ministries and academic material, and \"game\" for press and community content. Run both for anything policy-adjacent",
+    "example": "\"Perpres industri gim\" vs \"berita game Indonesia\"",
+    "why": "\"Gim\" is the KBBI-standard spelling used in all legislation (Perpres 19/2024, Permenkominfo 2/2024), so policy material is invisible to \"game\"-only queries. Caveat: some outlets mix both within one article"
+  },
+  {
+    "tip": "Search platform-native and per country across SEA, because the conversation lives off the indexable web",
+    "markets": [
+      "SEA"
+    ],
+    "how": "For sentiment, go to the national venue directly: Facebook groups and Discord (ID/PH), VOZ and Zalo groups (VN), Facebook and LINE OpenChat (TH). Web search finds press and policy, not players",
+    "example": "Facebook search \"Mobile Legends Indonesia\" groups vs web search (returns top-up SEO)",
+    "why": "Web queries for popular SEA titles are saturated with top-up/affiliate SEO precisely because the real conversation isn't on the open web. Caveat: LINE and Zalo content is unsearchable from outside, so plan for in-app fieldwork or native-speaker help"
+  },
+  {
+    "tip": "Filter Turkish gaming queries hard, because illegal-betting SEO dominates the results",
+    "markets": [
+      "TR"
+    ],
+    "how": "Use \"video oyunu\", \"oyun sektörü\", \"espor\" or platform names. Avoid bare \"oyun\" + money terms (\"oyun para kazanma\" is a bet-site swamp). Add site names (Oyungezer, Mobidictum) to business queries",
+    "example": "\"oyun sektörü raporu Türkiye\" vs \"oyun kazanç\" (returns betting spam)",
+    "why": "Turkey has a large illegal online-betting economy whose SEO machinery aggressively targets gaming vocabulary. \"oyun\" alone also means gambling/play generally. Caveat: legitimate epin platforms and bet-adjacent spam can look similar, so check for TC-ID/company registration"
+  },
+  {
+    "tip": "Use Ekşi Sözlük entry histories as a cultural index, and mind Turkish spelling variants",
+    "markets": [
+      "TR"
+    ],
+    "how": "Search a game/company name on Ekşi Sözlük and read entries chronologically for the cultural arc. Try both \"espor\"/\"e-spor\" and correct diacritics (ı vs i changes results)",
+    "example": "eksisozluk.com entry for \"merlin'in kazanı\" shows 20 years of reputation shifts",
+    "why": "Ekşi entry histories are the closest thing to a longitudinal cultural record of Turkish internet opinion. Caveat: heavy irony register, so sentiment needs native-level reading. Diacritic-less queries silently match wrong words"
+  },
+  {
+    "tip": "Search \"video games\" rather than \"gaming\" for Australia, where official English uses gaming to mean gambling",
+    "markets": [
+      "AU"
+    ],
+    "how": "Use \"video games\", \"interactive games\", or \"computer games\" (the statutory term) for policy/regulatory material. Treat \"gaming\" results as pokies/casino/wagering regulation by default",
+    "example": "\"computer games classification guidelines\" vs \"gaming regulation NSW\" (returns liquor & gaming/pokies authorities)",
+    "why": "Every state has a \"Liquor & Gaming\" or \"Gaming Commission\" regulating gambling, and national \"gaming reform\" coverage is about pokies. The vocabulary collision is total at the official layer. Caveat: consumer press uses \"gaming\" for video games, so flip vocabulary by layer"
+  },
+  {
+    "tip": "Use the public classification database as a primary source",
+    "markets": [
+      "AU"
+    ],
+    "how": "Search any title at classification.gov.au to see its rating, consumer advice, classification date and whether it was board-reviewed or IARC-automated. Watch for post-Sep-2024 M/R18+ decisions driven by loot boxes/simulated gambling",
+    "example": "Searching a social-casino title shows the mandatory R18+ under the 2024 rules",
+    "why": "Australia is one of the few markets where every legally sold game has a searchable public rating record, a genuine Tier-A dataset for content-regulation research. Caveat: pre-Sep-2024 classifications weren't retroactively updated"
+  },
+  {
+    "tip": "Force the Spain layer against Latin American results, the mirror of the Mexico problem",
+    "markets": [
+      "ES"
+    ],
+    "how": "Add \"España\", \"€\"/EUR amounts, or .es domains. For industry material use the associations' vocabulary (\"desarrollo español de videojuegos\", \"industria del videojuego en España\")",
+    "example": "\"mercado videojuegos España AEVI\" vs \"mercado videojuegos\" (mixes six countries' coverage)",
+    "why": "Spanish-language search blends Spain and LatAm freely, and Spain's own outlets run LatAm editions, so provenance must be checked per article. Caveat: DeVuego's database is the fastest way to confirm whether an outlet/person is actually Spanish"
+  },
+  {
+    "tip": "Avoid \"juego\" alone in Spanish regulatory search, where it means gambling, and look for Spain's loot-box politics under consumer law",
+    "markets": [
+      "ES"
+    ],
+    "how": "Use \"videojuegos\" for this sector. Treat \"juego\"/\"juego online\" + regulation as gambling material (DGOJ, Ley del Juego). For loot-box policy search \"cajas botín anteproyecto\"",
+    "example": "\"regulación videojuegos España\" vs \"regulación juego online\" (returns gambling authority DGOJ)",
+    "why": "Spain's gambling regulator (DGOJ) owns the word \"juego\". Meanwhile the world-noticed Spanish loot-box bill was driven by the Consumer Affairs ministry: different vocabulary, different ministry. Caveat: that anteproyecto's current status is unresolved. Verify before citing it as law"
+  },
+  {
+    "tip": "Treat Dutch games sites as ownership-suspect until verified, since several are now gambling-owned AI mills",
+    "markets": [
+      "NL"
+    ],
+    "how": "Before citing any NL games site, check whether its editorial team still exists: look for named bylines, a masthead, and 2026 staff activity. Be alert to gambling affiliate links between articles. Power Unlimited, Gamer.nl and Playsense were sold to foreign (incl. Maltese) gambling operators and refilled with AI content",
+    "example": "Compare a bylined Unpause or Gameliner piece against the current Power Unlimited output",
+    "why": "This is the most extreme ownership-capture case in this directory: established brands with decades of archive now serve gambling SEO, while their archives still rank. Caveat: the old archives may still be legitimate. The break is recent, so date-check before dismissing older articles"
+  },
+  {
+    "tip": "Search Dutch only for policy, industry and community, because Dutch gamers read English",
+    "markets": [
+      "NL"
+    ],
+    "how": "Use Dutch (\"kansspelautoriteit loot boxes\", \"games industrie Nederland\", \"gamejournalistiek\") for regulation, trade and media-sector material. Expect Dutch consumer game discussion to be sparse because the audience reads international outlets directly",
+    "example": "\"Games Monitor Nederland\" (Dutch, essential) vs a game review (mostly consumed in English)",
+    "why": "The Netherlands has among Europe's highest English proficiency, so the Dutch-language layer is thin by choice on consumer content but irreplaceable on law, industry and media-sector reporting. Caveat: don't read the thin consumer layer as a small market. NL is a high-spend market that consumes in English"
+  },
+  {
+    "tip": "Disambiguate Swedish \"spel\", which means both games and gambling, and read \"spelbolag\" as a betting company",
+    "markets": [
+      "Nordics"
+    ],
+    "how": "Use \"dataspel\" or \"tv-spel\" for video games, \"spelutveckling\"/\"spelutvecklare\" for development, and \"spelbranschen\" only with context. Treat bare \"spel\"/\"spelbolag\"/\"spelmarknad\" results as gambling (Spelinspektionen, Svenska Spel) by default. The same trap applies in Danish and Norwegian: Denmark's Spillebranchen and Norway's NBO are gambling bodies, not games bodies",
+    "example": "\"dataspelsbranschen spelutvecklarindex\" vs \"spelbolag Sverige\" (returns betting operators)",
+    "why": "Sweden's gambling regulator and state monopoly own the generic vocabulary, and Sweden has a large listed betting sector. The collision is worse here than in Australia or Turkey. Caveat: the industry body itself is called Dataspelsbranschen precisely to disambiguate"
+  },
+  {
+    "tip": "Use Swedish and Finnish annual-report data directly, since the reports come in English",
+    "markets": [
+      "Nordics"
+    ],
+    "how": "Go to the English editions of the Game Developer Index and Finnish Game Industry Report rather than press summaries. For company-level detail, Nordic listed companies publish full English quarterly reports and transcripts",
+    "example": "\"Game Developer Index 2025 ENG\" PDF. Embracer/Paradox/Remedy IR pages",
+    "why": "The Nordics have unusually high public disclosure: an accounts-based national index plus multiple listed pure-play games companies means company-level and sector-level data can be cross-checked, which is rare anywhere. Caveat: Swedish index counts companies registered in Sweden, so foreign-owned studios and foreign subsidiaries need care when comparing to listed-company figures"
+  },
+  {
+    "tip": "Try Polish case forms, because declension breaks exact-match search",
+    "markets": [
+      "PL"
+    ],
+    "how": "\"Gra\" (game) declines: gra / gry / grze / grę / gier / grach. Use \"gier\" for most genitive constructions (\"branża gier\", \"rynek gier\", \"producent gier\"), the form that appears in nearly all industry and policy phrasing",
+    "example": "\"kondycja polskiej branży gier\" and \"rynek gier wideo\" find the reports. \"gra wideo Polska\" finds much less",
+    "why": "Polish inflection means a query in the nominative silently misses most published material. \"gier\" is the highest-yield single word for industry research. Caveat: \"gry\" also returns gambling (\"gry hazardowe\"). Add \"wideo\" or \"komputerowe\" to disambiguate"
+  },
+  {
+    "tip": "Use the Warsaw exchange as a research tool, not just a finance one",
+    "markets": [
+      "PL"
+    ],
+    "how": "Track WIG.GAMES constituents and read GPW/ESPI filings (many issued in English) for release dates, delays, wishlist figures and write-offs that studios disclose as price-sensitive information before announcing them elsewhere",
+    "example": "ESPI/current reports from CD Projekt, 11 bit, PlayWay and CI Games",
+    "why": "Polish listing rules force disclosure of material development news, so Polish studios routinely publish operational detail that private studios elsewhere never reveal. Caveat: disclosure is framed for investors, so commercially convenient timing and wording apply"
+  },
+  {
+    "tip": "Search in Traditional Chinese with Taiwanese terms, not Mainland ones",
+    "markets": [
+      "TW"
+    ],
+    "how": "Use 電玩 / 遊戲 / 手遊 and Taiwan-specific vocabulary (影片 not 视频, 網路 not 网络). Simplified-character queries pull Mainland results with different terminology, regulation and market structure entirely",
+    "example": "「台灣遊戲產業」 or 「電玩展」 vs simplified 「游戏产业」 (returns PRC coverage)",
+    "why": "Taiwan and the PRC share a language but not a games market, vocabulary or regulatory system, so a simplified-character query silently answers a different question. Caveat: some Taiwanese sites serve both audiences. Check the domain (.tw) and currency (NT$)"
+  },
+  {
+    "tip": "Use Bahamut as a research index, not just a news site",
+    "markets": [
+      "TW"
+    ],
+    "how": "Search within gamer.com.tw: the 巴哈大百科 wiki for title-level data, 哈拉區 boards for per-game sentiment, and the annual 巴哈姆特遊戲大賞 (community-voted awards, since 2008) for what Taiwanese players actually valued each year",
+    "example": "Site-restricted search: site:forum.gamer.com.tw plus a title name",
+    "why": "Because one platform holds news, wiki, forum and awards, Bahamut is effectively Taiwan's games archive. The awards in particular give an 18-year run of player-voted preference data available nowhere else. Caveat: forum threads can be permanently lost once pushed off a board, so archive anything important"
+  },
+  {
+    "tip": "Check the games-specific national subreddit, never assume the country subreddit",
+    "markets": [
+      "Global"
+    ],
+    "how": "Search Reddit for the local word for games or gaming plus the country, then confirm activity by recent post dates on the sub itself",
+    "example": "German discussion lives on r/zocken not r/de. Italian on r/italygames not r/italy. Brazilian on r/gamesEcultura not r/brasil",
+    "why": "National subreddits are general-interest and bury games talk. Where no games sub exists the absence is real: KR and JP have none and their discourse sits on domestic platforms"
+  },
+  {
+    "tip": "Ask Reddit Answers in the local language, then click every name it returns",
+    "markets": [
+      "Global"
+    ],
+    "how": "Prompt the on-site AI in the target language with a 30-day activity requirement. Open every subreddit it names and check recent post dates before use",
+    "example": "An English query missed r/zocken, the largest German gaming sub. The same question in German surfaced it",
+    "why": "It fabricates subreddits with precise member counts, swaps categories rather than reporting absence, and its member counts vary between runs. As of Jul 2026 it answers in EN, DE, FR, IT, ES and PT and refuses Polish, Turkish and Arabic. Never cite it, never carry its numbers"
+  },
+  {
+    "tip": "Route into Discord through official links, never through server directories",
+    "markets": [
+      "Global"
+    ],
+    "how": "Find a game, team or community first, then follow its own linked Discord invite from the official site or pinned socials",
+    "example": "A publisher help page or an esports federation site carries the live invite. BATTLEGROUNDS MOBILE INDIA and ESFI both do",
+    "why": "Servers are unindexable and unenumerable, invite links rot, and a dead server looks identical to a live one from outside. Treat any invite older than a few months as probably dead. Server content is texture, never citation"
+  }
+]

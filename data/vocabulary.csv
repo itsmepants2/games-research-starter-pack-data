@@ -1,0 +1,159 @@
+facet,within_group,value,rows
+medium,,News outlet,321
+medium,,Organisation,92
+medium,,Forum or community,66
+medium,,Video channel,59
+medium,,Data tool,46
+medium,,Podcast,43
+medium,,Person,43
+medium,,Book or paper,42
+medium,,Company disclosure,35
+medium,,Report or document,24
+medium,,Newsletter,23
+medium,,Research firm,12
+medium,,Link list,7
+group,,Press,344
+group,,Media,144
+group,,Data,110
+group,,Institutions,99
+group,,Communities,66
+group,,People,50
+markets,,JP,127
+markets,,US,116
+markets,,Global,109
+markets,,KR,85
+markets,,Not market specific,59
+markets,,UK,47
+markets,,DE,47
+markets,,FR,34
+markets,,CN,31
+markets,,MENA,24
+markets,,IT,23
+markets,,SEA,23
+markets,,BR,19
+markets,,IN,19
+markets,,Nordics,19
+markets,,MX,18
+markets,,ES,18
+markets,,CA,17
+markets,,TR,14
+markets,,NL,12
+markets,,PL,11
+markets,,TW,11
+markets,,AU,10
+markets,,EU,5
+markets,,LATAM,4
+markets,,Asia,2
+language,,English,433
+language,,Japanese,105
+language,,Korean,74
+language,,German,49
+language,,Spanish,46
+language,,French,45
+language,,Portuguese,24
+language,,Arabic,20
+language,,Italian,20
+language,,Chinese,17
+language,,Turkish,14
+language,,Traditional Chinese,11
+language,,Dutch,10
+language,,Polish,10
+language,,Bahasa Indonesia,9
+language,,Multilingual,8
+language,,Swedish,7
+language,,Vietnamese,4
+language,,Finnish,4
+language,,Thai,3
+language,,Danish,3
+language,,Norwegian,3
+language,,Hindi,3
+language,,Indonesian,2
+language,,Malay,1
+format,Data,Corporate IR,30
+format,Data,Creator tracking,21
+format,Data,Industry report,15
+format,Data,Analytics platform,14
+format,Data,Market research firm,6
+format,Data,Genre taxonomy,6
+format,Data,Adjacent research body,6
+format,Data,Corporate filings,5
+format,Data,Sales tracking,4
+format,Data,Database,2
+format,Data,Sector index,1
+format,Institutions,Industry association,31
+format,Institutions,Government agency,16
+format,Institutions,Rating body,11
+format,Institutions,Esports body,9
+format,Institutions,Research institute,7
+format,Institutions,Report or data series,5
+format,Institutions,Safety and advocacy org,5
+format,Institutions,Regulator,4
+format,Institutions,Parent guidance platform,3
+format,Institutions,Event or awards,3
+format,Institutions,Funding body,2
+format,Institutions,Regulation or law,2
+format,Institutions,Cultural institution,1
+format,Press,Games news site,79
+format,Press,Tech news site,38
+format,Press,National daily,35
+format,Press,Trade press,26
+format,Press,Broadcaster,25
+format,Press,Magazine or weekly,24
+format,Press,Culture and entertainment outlet,21
+format,Press,Games magazine,14
+format,Press,Esports news site,13
+format,Press,Desk or vertical of a larger outlet,12
+format,Press,Digital news outlet,11
+format,Press,Analyst newsletter,9
+format,Press,Business daily,8
+format,Press,Wire agency,6
+format,Press,Creator-led outlet,6
+format,Press,Journalist newsletter,6
+format,Press,Aggregator,3
+format,Press,Developer newsletter,3
+format,Press,Personal newsletter,3
+format,Press,Academic newsletter,2
+format,Media,Let's Play and playthrough,18
+format,Media,News and roundup,16
+format,Media,Criticism and analysis,13
+format,Media,Video essays and analysis,11
+format,Media,Consumer reviews and recommendations,9
+format,Media,Popular nonfiction,9
+format,Media,Academic (readable),9
+format,Media,News and industry reporting,8
+format,Media,Reviews and first impressions,8
+format,Media,Academic monograph,7
+format,Media,"Creation, modding and game dev",6
+format,Media,Industry journalism,5
+format,Media,Memoir,5
+format,Media,Community commentary,4
+format,Media,Games history and preservation,4
+format,Media,Business history,3
+format,Media,Esports and competitive coverage,2
+format,Media,VTuber and persona-led,2
+format,Media,Peer-reviewed journal,2
+format,Media,Industry and business,1
+format,Media,Conference proceedings,1
+format,Media,Industry yearbook,1
+format,People,Individual,43
+format,People,List,7
+format,Communities,Subreddit,26
+format,Communities,Forum,21
+format,Communities,Community wiki,4
+format,Communities,Platform-native,4
+format,Communities,Discord server,3
+format,Communities,Imageboard,2
+format,Communities,Social platform,2
+format,Communities,Aggregation blog,2
+format,Communities,Collaborative dictionary,1
+format,Communities,BBS,1
+trend_stage,,Dominant,11
+trend_stage,,Emerging,10
+trend_stage,,Perennial,8
+trend_stage,,Receding,2
+trend_category,,"Regulation, safety & age",8
+trend_category,,Money & business model,6
+trend_category,,Culture & audience,6
+trend_category,,Geography & power,4
+trend_category,,Platform & distribution,4
+trend_category,,Technology,3
