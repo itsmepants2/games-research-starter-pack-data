@@ -29,11 +29,11 @@
   {
     "tip": "Use Wikipedia interlanguage links to find local terms",
     "markets": [
-      "JP",
-      "KR",
       "DE",
       "FR",
-      "IT"
+      "IT",
+      "JP",
+      "KR"
     ],
     "how": "Find EN article → switch language → harvest the local title + terms",
     "example": "Gacha EN → ガチャ JP article → related JP vocabulary",
@@ -60,10 +60,10 @@
   {
     "tip": "Filter X and Twitter advanced search with the lang: operator",
     "markets": [
-      "JP",
-      "KR",
       "DE",
-      "FR"
+      "FR",
+      "JP",
+      "KR"
     ],
     "how": "lang:ja / lang:ko + keyword",
     "example": "フォートナイト lang:ja min_faves:100",

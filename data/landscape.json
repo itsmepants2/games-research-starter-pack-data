@@ -1,6 +1,7 @@
 {
   "platforms": [
     {
+      "slug": "steam",
       "name": "Steam",
       "category": "Storefront",
       "owner": "Valve",
@@ -11,6 +12,7 @@
       "link": "https://store.steampowered.com/"
     },
     {
+      "slug": "epic-games-store",
       "name": "Epic Games Store",
       "category": "Storefront",
       "owner": "Epic Games",
@@ -21,6 +23,7 @@
       "link": "https://store.epicgames.com/"
     },
     {
+      "slug": "dmm-games",
       "name": "DMM GAMES",
       "category": "Storefront",
       "owner": "DMM.com",
@@ -31,6 +34,7 @@
       "link": "https://games.dmm.com/"
     },
     {
+      "slug": "nintendo",
       "name": "Nintendo (Switch ecosystem)",
       "category": "Console ecosystem",
       "owner": "Nintendo",
@@ -42,30 +46,33 @@
       "link": "https://www.nintendo.co.jp/ir/en/"
     },
     {
+      "slug": "playstation",
       "name": "PlayStation",
       "category": "Console ecosystem",
       "owner": "Sony",
       "markets": [
-        "Global",
-        "US",
         "EU",
-        "JP"
+        "Global",
+        "JP",
+        "US"
       ],
       "what_it_is": "The default premium console in most Big 8 markets. Segment aggregation hides per-title detail. MAU definitions shift between reports.",
       "link": "https://blog.playstation.com/"
     },
     {
+      "slug": "xbox",
       "name": "Xbox",
       "category": "Console ecosystem",
       "owner": "Microsoft",
       "markets": [
-        "US",
-        "UK"
+        "UK",
+        "US"
       ],
       "what_it_is": "Post-Activision, it is more a subscription/service layer (Game Pass) than a box. It is the platform whose strategy is hardest to read from data. The most opaque major platform. Treat all Game Pass impact claims as unverifiable.",
       "link": "https://www.xbox.com/"
     },
     {
+      "slug": "apple-app-store",
       "name": "Apple App Store",
       "category": "Mobile store",
       "owner": "Apple",
@@ -78,6 +85,7 @@
       "link": "https://www.apple.com/app-store/"
     },
     {
+      "slug": "google-play",
       "name": "Google Play",
       "category": "Mobile store",
       "owner": "Google",
@@ -88,6 +96,7 @@
       "link": "https://play.google.com/"
     },
     {
+      "slug": "one-store",
       "name": "One Store (원스토어)",
       "category": "Mobile store",
       "owner": "One Store Inc. (carrier JV)",
@@ -98,17 +107,19 @@
       "link": "https://onesto.re/"
     },
     {
+      "slug": "twitch",
       "name": "Twitch",
       "category": "Livestreaming",
       "owner": "Amazon",
       "markets": [
-        "US",
-        "EU"
+        "EU",
+        "US"
       ],
       "what_it_is": "The EN-default live platform and the reference culture most streaming research wrongly assumes to be universal. Twitch exited Korea in Feb 2024 (network costs), and KR live culture now lives on Chzzk/SOOP. Twitch data tells you nothing about Korea.",
       "link": "https://www.twitch.tv/"
     },
     {
+      "slug": "youtube",
       "name": "YouTube (Gaming / Live)",
       "category": "Video and live hybrid",
       "owner": "Google",
@@ -120,17 +131,19 @@
       "link": "https://www.youtube.com/gaming"
     },
     {
+      "slug": "kick",
       "name": "Kick",
       "category": "Livestreaming",
       "owner": "Stake-adjacent (Easygo)",
       "markets": [
-        "Global",
-        "BR"
+        "BR",
+        "Global"
       ],
       "what_it_is": "A Twitch-lookalike with structurally different culture and moderation posture. Its economics are gambling-adjacent. Culturally unrelated to Twitch despite the identical format. Never merge Kick and Twitch creator lists into one \"streaming\" ranking. Gambling adjacency makes this a family-brand avoid zone.",
       "link": "https://kick.com/"
     },
     {
+      "slug": "tiktok-live",
       "name": "TikTok Live",
       "category": "Livestreaming",
       "owner": "ByteDance",
@@ -142,6 +155,7 @@
       "link": "https://www.tiktok.com/live"
     },
     {
+      "slug": "soop",
       "name": "SOOP (ex-AfreecaTV)",
       "category": "Livestreaming",
       "owner": "SOOP Co.",
@@ -152,6 +166,7 @@
       "link": "https://www.sooplive.co.kr/"
     },
     {
+      "slug": "chzzk",
       "name": "Chzzk (치지직)",
       "category": "Livestreaming",
       "owner": "Naver",
@@ -162,17 +177,19 @@
       "link": "https://chzzk.naver.com/"
     },
     {
+      "slug": "facebook-gaming",
       "name": "Facebook Gaming",
       "category": "Livestreaming",
       "owner": "Meta",
       "markets": [
-        "SEA",
-        "LATAM"
+        "LATAM",
+        "SEA"
       ],
       "what_it_is": "Residual live platform after the 2022 app shutdown. It matters mainly in SEA/LatAm creator economies. Never forget that Facebook is popular for non-normies outside the US. Declining and thinly instrumented. Audience-location data is sparse.",
       "link": "https://www.facebook.com/gaming/"
     },
     {
+      "slug": "niconico",
       "name": "niconico (ニコニコ動画)",
       "category": "Video and live hybrid",
       "owner": "KADOKAWA (Dwango)",
@@ -183,18 +200,20 @@
       "link": "https://www.nicovideo.jp/"
     },
     {
+      "slug": "roblox",
       "name": "Roblox",
       "category": "UGC platform",
       "owner": "Roblox Corp.",
       "markets": [
-        "US",
         "Global",
-        "KR"
+        "KR",
+        "US"
       ],
       "what_it_is": "The sandbox economy at scale, and the rare platform that publishes real engagement data (public company). Bookings are not revenue. The 13+/under-13 split is coarse. Creator-economy payout framing is IR-managed. KR adoption is notable.",
       "link": "https://ir.roblox.com/"
     },
     {
+      "slug": "minecraft",
       "name": "Minecraft",
       "category": "UGC platform",
       "owner": "Microsoft (Mojang)",
@@ -205,17 +224,19 @@
       "link": "https://www.minecraft.net/"
     },
     {
+      "slug": "fortnite",
       "name": "Fortnite (Creative / UEFN)",
       "category": "UGC platform",
       "owner": "Epic Games",
       "markets": [
-        "US",
-        "EU"
+        "EU",
+        "US"
       ],
       "what_it_is": "Creator islands with real payout economics. It is the third sandbox alongside Roblox and Minecraft. The community tracker reads Epic's public API, so coverage is what Epic exposes. Payout economics are known only from Epic announcements.",
       "link": "https://fortnite.gg/"
     },
     {
+      "slug": "discord",
       "name": "Discord",
       "category": "Social infrastructure",
       "owner": "Discord Inc.",
@@ -226,6 +247,7 @@
       "link": "https://discord.com/"
     },
     {
+      "slug": "bilibili",
       "name": "Bilibili",
       "category": "Video and live hybrid",
       "owner": "Bilibili Inc.",
@@ -236,6 +258,7 @@
       "link": "https://ir.bilibili.com/"
     },
     {
+      "slug": "douyin-huya-douyu",
       "name": "Douyin / Huya / DouYu",
       "category": "Livestreaming",
       "owner": "ByteDance / Tencent-linked",
@@ -246,6 +269,7 @@
       "link": "https://www.huya.com/"
     },
     {
+      "slug": "nuuvem",
       "name": "Nuuvem",
       "category": "Storefront",
       "owner": "Nuuvem Jogos Digitais S.A. (Square Enix investment 2025)",
@@ -257,6 +281,7 @@
       "link": "https://www.nuuvem.com/"
     },
     {
+      "slug": "gamers-club",
       "name": "Gamers Club",
       "category": "Competitive and community platform",
       "owner": "Siprocal",
@@ -268,6 +293,7 @@
       "link": "https://gamersclub.com.br/"
     },
     {
+      "slug": "rooter",
       "name": "Rooter",
       "category": "Livestreaming",
       "owner": "Rooter Sports Technologies",
@@ -278,6 +304,7 @@
       "link": "https://rooter.gg/"
     },
     {
+      "slug": "jiogames",
       "name": "JioGames",
       "category": "Storefront",
       "owner": "Reliance Jio",
@@ -288,18 +315,20 @@
       "link": "https://www.jiogames.com/"
     },
     {
+      "slug": "codashop",
       "name": "Codashop",
       "category": "Top-up and marketplace",
       "owner": "Coda Payments",
       "markets": [
-        "SEA",
         "LATAM",
-        "MENA"
+        "MENA",
+        "SEA"
       ],
       "what_it_is": "The region's dominant top-up layer, this is how SEA actually pays for games outside app stores. Official publisher partnerships (Moonton, Garena, Krafton, HoYoverse) plus every local payment rail (GoPay, Dana, OVO, GCash, convenience-store cash). Also active across South Asia. Direct carrier billing is core to the model. Coda Payments is Singapore-based. Owner Coda also builds publishers' own webstores, so it sits on both sides of the third-party-payment shift. There is no published data.",
       "link": "https://www.codashop.com/"
     },
     {
+      "slug": "unipin",
       "name": "UniPin",
       "category": "Top-up and marketplace",
       "owner": "UniPin",
@@ -310,6 +339,7 @@
       "link": "https://www.unipin.com/"
     },
     {
+      "slug": "oyunfor",
       "name": "Oyunfor",
       "category": "Top-up and marketplace",
       "owner": "Oyunfor",
@@ -320,6 +350,7 @@
       "link": "https://www.oyunfor.com/"
     },
     {
+      "slug": "bynogame",
       "name": "ByNoGame",
       "category": "Top-up and marketplace",
       "owner": "ByNoGame Bilişim Ltd.",
@@ -330,6 +361,7 @@
       "link": "https://www.bynogame.com/"
     },
     {
+      "slug": "gog-com",
       "name": "GOG.com",
       "category": "Storefront",
       "owner": "GOG sp. z o.o. (sold by CD Projekt to co-founder Michał Kiciński, December 2025)",
@@ -341,6 +373,7 @@
       "link": "https://www.gog.com/"
     },
     {
+      "slug": "taptap",
       "name": "TapTap",
       "category": "Mobile store",
       "owner": "XD Inc. (心动)",
@@ -354,6 +387,7 @@
   ],
   "genres": [
     {
+      "slug": "puzzle",
       "name": "Puzzle",
       "segment": "Mobile, cross-platform",
       "definition": "Logic and pattern games solved one problem at a time, covering matching, sorting, words, physics and riddles. Short sessions, low commitment.",
@@ -375,6 +409,7 @@
       ]
     },
     {
+      "slug": "simulation",
       "name": "Simulation",
       "segment": "Mobile",
       "definition": "Games that model a system to build, manage or inhabit, covering creative sandboxes, light tycoon and management, idle loops and life sims.",
@@ -396,6 +431,7 @@
       ]
     },
     {
+      "slug": "arcade",
       "name": "Arcade",
       "segment": "Mobile",
       "definition": "Fast, reflex-driven single-session games with simple controls, covering endless runners, rhythm and casual action.",
@@ -417,6 +453,7 @@
       ]
     },
     {
+      "slug": "rpg",
       "name": "RPG",
       "segment": "Mobile, PC, console",
       "definition": "Character progression, collection and persistent advancement, usually gacha-monetised on mobile.",
@@ -438,6 +475,7 @@
       ]
     },
     {
+      "slug": "strategy",
       "name": "Strategy",
       "segment": "Mobile, PC",
       "definition": "Planning, resource management and competition, covering base-building, real-time tactics, 4X empire, tower defense and card battlers.",
@@ -459,6 +497,7 @@
       ]
     },
     {
+      "slug": "casino",
       "name": "Casino",
       "segment": "Mobile",
       "definition": "Social-casino and chance-based games, covering slots, poker, bingo, coin-pusher, dice and board formats, and mahjong. Gambling-adjacent with no real-money payout.",
@@ -480,6 +519,7 @@
       ]
     },
     {
+      "slug": "lifestyle",
       "name": "Lifestyle",
       "segment": "Mobile",
       "definition": "Expressive, identity and care-oriented play, covering avatar and character customisation, dress-up, home design and virtual pets.",
@@ -501,6 +541,7 @@
       ]
     },
     {
+      "slug": "tabletop",
       "name": "Tabletop",
       "segment": "Mobile, PC",
       "definition": "Digital versions of classic table and card games, covering solitaire, chess, board games and coloring. Includes culturally specific variants such as Korea's 고스톱 (Go-Stop) and 맞고 (Matgo).",
@@ -522,6 +563,7 @@
       ]
     },
     {
+      "slug": "sports",
       "name": "Sports",
       "segment": "Mobile, console, PC",
       "definition": "Realistic and arcade sports simulations, covering football, pool, basketball and management titles.",
@@ -543,6 +585,7 @@
       ]
     },
     {
+      "slug": "shooter",
       "name": "Shooter",
       "segment": "Mobile, PC, console",
       "definition": "Aim-and-fire combat, covering battle royale and first and third-person shooters.",
@@ -564,6 +607,7 @@
       ]
     },
     {
+      "slug": "racing",
       "name": "Racing",
       "segment": "Mobile, console",
       "definition": "Driving and racing games, mostly arcade-style on mobile.",
@@ -585,6 +629,7 @@
       ]
     },
     {
+      "slug": "action",
       "name": "Action",
       "segment": "Mobile",
       "definition": "Real-time combat and reflex games outside the shooter and arcade buckets, covering hack-and-slash, action sandbox and shoot-'em-up.",
@@ -606,6 +651,7 @@
       ]
     },
     {
+      "slug": "geolocation",
       "name": "Geolocation",
       "segment": "Mobile",
       "definition": "Location-based games using real-world movement, GPS and AR.",
@@ -627,6 +673,7 @@
       ]
     },
     {
+      "slug": "adventure-and-narrative",
       "name": "Adventure & narrative",
       "segment": "PC, console, stores",
       "definition": "Story-led games where progress comes from exploration, dialogue and puzzle-solving rather than combat systems.",
@@ -648,6 +695,7 @@
       ]
     },
     {
+      "slug": "survival-and-crafting",
       "name": "Survival & crafting",
       "segment": "PC, console",
       "definition": "Games built on resource gathering, base construction and persistent threat, usually in an open world with heavy loss on death.",
@@ -669,6 +717,7 @@
       ]
     },
     {
+      "slug": "fighting",
       "name": "Fighting",
       "segment": "Console, arcade, esports",
       "definition": "One-on-one or small-team melee combat with per-character movesets, built around competitive skill expression.",
@@ -690,6 +739,7 @@
       ]
     },
     {
+      "slug": "platformer",
       "name": "Platformer",
       "segment": "Console, PC",
       "definition": "Movement-led games where traversal, jumping and level geometry are the core challenge.",
@@ -711,6 +761,7 @@
       ]
     },
     {
+      "slug": "horror",
       "name": "Horror",
       "segment": "PC, console, streaming",
       "definition": "Games organised around fear, dread and threat. Defined by tone rather than mechanic, which is what makes it unstable as a category.",
@@ -732,6 +783,7 @@
       ]
     },
     {
+      "slug": "roguelike-and-roguelite",
       "name": "Roguelike & roguelite",
       "segment": "PC",
       "definition": "Run-based games with procedural generation and loss of progress on death, where some progress carries across runs in the roguelite variant.",
@@ -753,6 +805,7 @@
       ]
     },
     {
+      "slug": "party-and-social-deduction",
       "name": "Party & social deduction",
       "segment": "Cross-platform",
       "definition": "Short-session multiplayer games designed for groups, including hidden-role and social-deduction formats.",
@@ -774,6 +827,7 @@
       ]
     },
     {
+      "slug": "visual-novel",
       "name": "Visual novel",
       "segment": "Japan, PC",
       "definition": "Text-led games where the primary interaction is reading and branching choice, often with limited or no other mechanics.",
@@ -795,6 +849,7 @@
       ]
     },
     {
+      "slug": "rhythm-and-music",
       "name": "Rhythm & music",
       "segment": "Japan, Korea, arcade, mobile",
       "definition": "Games where input is timed to music, with a strong arcade and mobile presence in Japan and Korea.",
@@ -816,6 +871,7 @@
       ]
     },
     {
+      "slug": "mmo",
       "name": "MMO",
       "segment": "PC, Korea, console",
       "definition": "Persistent shared-world games supporting large simultaneous populations, usually subscription or item-shop monetised.",
@@ -837,6 +893,7 @@
       ]
     },
     {
+      "slug": "sandbox-and-ugc-platform",
       "name": "Sandbox & UGC platform",
       "segment": "Cross-platform",
       "definition": "Platforms where most playable content is made by users rather than the operator. Function as storefronts and social spaces as much as games.",
@@ -858,6 +915,7 @@
       ]
     },
     {
+      "slug": "simulation-vehicle-and-management",
       "name": "Simulation, vehicle and management",
       "segment": "PC, console",
       "definition": "High-fidelity simulation of vehicles, farming, industry and sports management, usually with long sessions and steep learning curves.",
@@ -879,6 +937,7 @@
       ]
     },
     {
+      "slug": "educational-and-kids",
       "name": "Educational & kids",
       "segment": "Stores, mobile",
       "definition": "Games made for children and for learning contexts, distributed through store categories rather than vendor genre trees.",
@@ -900,6 +959,7 @@
       ]
     },
     {
+      "slug": "indie",
       "name": "Indie",
       "segment": "Cross-platform",
       "definition": "Not a genre at all. A production and funding descriptor, meaning a game made outside major-publisher structures, which vendor trees carry alongside genres as though it were one.",
@@ -921,6 +981,7 @@
       ]
     },
     {
+      "slug": "pinball",
       "name": "Pinball",
       "segment": "Cross-platform, arcade",
       "definition": "Digital recreations of physical pinball tables, plus original tables built to the same physics conventions.",
@@ -942,6 +1003,7 @@
       ]
     },
     {
+      "slug": "quiz-and-trivia",
       "name": "Quiz and trivia",
       "segment": "Mobile, cross-platform",
       "definition": "Question-and-answer games scored on knowledge and speed, including live and asynchronous multiplayer formats.",
@@ -963,6 +1025,7 @@
       ]
     },
     {
+      "slug": "word",
       "name": "Word",
       "segment": "Mobile",
       "definition": "Games built on vocabulary, spelling and letter manipulation, including crosswords, anagrams and guessing formats.",
