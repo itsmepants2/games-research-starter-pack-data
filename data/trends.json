@@ -40,7 +40,7 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "Analyst Matthew Ball's annual reports argue gaming's decade of growth engines is exhausted: revenue and cultural weight are at record highs, yet growth is elusive and player counts are retreating across much of the developed world, so revenue gains come from monetizing existing players harder rather than adding new ones.",
+    "what_it_is": "Analyst Matthew Ball's annual reports argue gaming's decade of growth engines is exhausted: revenue and cultural weight are at record highs, yet growth is elusive and player counts are retreating across much of the developed world, so revenue gains come from monetizing existing players harder rather than adding new ones. The revenue half of that picture has since softened in the largest market: Circana put US spending down 10% year-on-year in July 2026 at $4.5bn, with hardware down 29% and new physical software at an all-time July low, even as average hardware selling prices rose 16%.",
     "why_it_matters": "Explains why record industry revenue coexists with layoffs and player complaints about aggressive monetization, which is the central paradox of the current era.",
     "further_reading": [
       {
@@ -62,7 +62,7 @@
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Circana (Mat Piscatella), Newzoo"
   },
   {
@@ -78,7 +78,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "GTA 6 launched at $80, settling speculation about $100 base games. Only Mario Kart World, GTA 6, and Elden Ring on Switch 2 have cleared $70 — Microsoft tried and retreated to $70 after backlash. Meanwhile a RAM-driven hardware crunch pushed consoles past $600 and GPUs, monitors, and memory sharply higher.",
+    "what_it_is": "GTA 6 launched at $80, settling speculation about $100 base games. Only Mario Kart World, GTA 6, and Elden Ring on Switch 2 have cleared $70 — Microsoft tried and retreated to $70 after backlash. Meanwhile a RAM-driven hardware crunch pushed consoles past $600 and GPUs, monitors, and memory sharply higher. Nintendo raised Switch 2 to $500 in the US, Canada and Europe from 1 September 2026 (Japan from 25 May), citing memory and component costs, and said the new price still does not cover build cost; it put the hardware-cost impact on FY2027 earnings at about ¥100bn.",
     "why_it_matters": "The ceiling held on software but broke on hardware, and buyers responded by waiting. Very important for researchers tracking monetization, substitution behavior, or consumer resistance.",
     "further_reading": [
       {
@@ -94,13 +94,13 @@
         "format": ""
       },
       {
-        "source": "The affordability crisis has migrated from software to silicon",
-        "link": "https://www.reddit.com/r/Games/comments/1vbui6a/amd_is_reportedly_raising_graphics_card_pricesit/",
-        "type": "Community",
+        "source": "How a surge in memory prices will affect the games industry",
+        "link": "https://www.gamedeveloper.com/business/how-a-surge-in-memory-prices-will-affect-the-games-industry",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "GamesRadar and Eurogamer business coverage, Circana US sales data, Ars Technica gaming desk"
   },
   {
@@ -1086,7 +1086,7 @@
         "format": ""
       }
     ],
-    "as_of": "46235",
+    "as_of": "Aug 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Game Developer's business desk, GameDiscoverCo"
   },
   {
@@ -1122,7 +1122,7 @@
         "format": ""
       }
     ],
-    "as_of": "46235",
+    "as_of": "Aug 2026",
     "where_to_follow": "The Game Business (Christopher Dring), Game File (Stephen Totilo), Video Games Chronicle, Circana consumer surveys"
   },
   {
@@ -1162,7 +1162,7 @@
         "format": ""
       }
     ],
-    "as_of": "46235",
+    "as_of": "Aug 2026",
     "where_to_follow": "Sensor Tower State of Mobile (annual), Naavik, Deconstructor of Fun, PocketGamer.biz monthly charts, AppMagic"
   },
   {
@@ -1196,7 +1196,7 @@
         "format": ""
       }
     ],
-    "as_of": "46235",
+    "as_of": "Aug 2026",
     "where_to_follow": "GameDiscoverCo (Simon Carless), Naavik, GDC State of the Game Industry (annual), Gamalytic, SteamDB"
   },
   {
@@ -1229,7 +1229,7 @@
         "format": ""
       }
     ],
-    "as_of": "46235",
+    "as_of": "Aug 2026",
     "where_to_follow": "Newzoo PC and Console Gaming Report (annual), GameDiscoverCo, Circana Player Engagement Tracker, Valve's Steam Replay"
   },
   {
@@ -1263,7 +1263,7 @@
         "format": ""
       }
     ],
-    "as_of": "46235",
+    "as_of": "Aug 2026",
     "where_to_follow": "GameDiscoverCo's annual PC and console sales roundups, Game Developer's design desk, PC Gamer, AppMagic retention studies"
   },
   {
@@ -1297,7 +1297,7 @@
         "format": ""
       }
     ],
-    "as_of": "46235",
+    "as_of": "Aug 2026",
     "where_to_follow": "Naavik, Deconstructor of Fun, PocketGamer.biz, GDC live ops talks, Game Developer's production desk"
   }
 ]

@@ -6,7 +6,7 @@ A directory of the press, institutions, datasets, media, people and communities 
 
 The site is at **https://games.thisisdelightful.com** — this repository is the data behind it, in the same files the site offers for download.
 
-Directory last compiled 28 August 2026.
+Directory last compiled 1 September 2026.
 
 ## Licence
 
