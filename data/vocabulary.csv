@@ -5,7 +5,7 @@ medium,,Forum or community,66
 medium,,Video channel,59
 medium,,Person,59
 medium,,Podcast,48
-medium,,Data tool,46
+medium,,Data tool,47
 medium,,Book or paper,42
 medium,,Company disclosure,35
 medium,,Report or document,31
@@ -15,11 +15,11 @@ medium,,Link list,7
 group,,Press,344
 group,,Media,149
 group,,Institutions,138
-group,,Data,110
+group,,Data,111
 group,,People,66
 group,,Communities,66
-markets,,US,139
-markets,,Global,135
+markets,,US,140
+markets,,Global,136
 markets,,JP,129
 markets,,KR,86
 markets,,UK,59
@@ -44,8 +44,8 @@ markets,,TW,12
 markets,,EU,7
 markets,,LATAM,4
 markets,,Asia,2
-market_kind,profiled,US,139
-market_kind,scope,Global,135
+market_kind,profiled,US,140
+market_kind,scope,Global,136
 market_kind,profiled,JP,129
 market_kind,profiled,KR,86
 market_kind,profiled,UK,59
@@ -70,7 +70,7 @@ market_kind,tagged,TW,12
 market_kind,tagged,EU,7
 market_kind,tagged,LATAM,4
 market_kind,tagged,Asia,2
-language,,English,488
+language,,English,489
 language,,Japanese,107
 language,,Korean,75
 language,,German,51
@@ -104,7 +104,7 @@ format,Data,Genre taxonomy,6
 format,Data,Adjacent research body,6
 format,Data,Corporate filings,5
 format,Data,Sales tracking,4
-format,Data,Database,2
+format,Data,Database,3
 format,Data,Sector index,1
 format,Institutions,Industry association,34
 format,Institutions,Government agency,16
@@ -177,7 +177,7 @@ format,Communities,Social platform,2
 format,Communities,Aggregation blog,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,381
+cost,,Free,382
 cost,,Paid,53
 cost,,Freemium,45
 cost,,Unknown,7
@@ -191,18 +191,18 @@ trend_category,,Platform & distribution,7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,4
 trend_category,,Technology,3
-coverage,sources,slug,873
-coverage,sources,name,873
-coverage,sources,group,873
-coverage,sources,medium,873
-coverage,sources,format,873
-coverage,sources,what_it_lets_you_find_out,873
-coverage,sources,markets,873
-coverage,sources,language,873
-coverage,sources,cost,486
-coverage,sources,link,873
+coverage,sources,slug,874
+coverage,sources,name,874
+coverage,sources,group,874
+coverage,sources,medium,874
+coverage,sources,format,874
+coverage,sources,what_it_lets_you_find_out,874
+coverage,sources,markets,874
+coverage,sources,language,874
+coverage,sources,cost,487
+coverage,sources,link,874
 coverage,sources,extra_links,0
-coverage,sources,owner,493
+coverage,sources,owner,494
 coverage,sources,ownership_note,117
 coverage,sources,beat,66
 coverage,sources,where_they_post,66

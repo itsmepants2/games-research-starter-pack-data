@@ -1803,6 +1803,31 @@
     "audience": []
   },
   {
+    "slug": "gamedevmap",
+    "name": "GameDevMap",
+    "group": "Data",
+    "medium": "Data tool",
+    "format": "Database",
+    "what_it_lets_you_find_out": "The world's first and largest curated map and dataset of game development organizations.",
+    "markets": [
+      "Global",
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.gamedevmap.com/",
+    "extra_links": [],
+    "owner": "Gaurav Mathur",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "nintendo-ir",
     "name": "Nintendo IR",
     "group": "Data",

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-01T20:44:01Z",
+  "as_of": "2026-09-06T18:00:21Z",
   "medium": {
     "News outlet": 321,
     "Organisation": 124,
@@ -7,7 +7,7 @@
     "Video channel": 59,
     "Person": 59,
     "Podcast": 48,
-    "Data tool": 46,
+    "Data tool": 47,
     "Book or paper": 42,
     "Company disclosure": 35,
     "Report or document": 31,
@@ -19,13 +19,13 @@
     "Press": 344,
     "Media": 149,
     "Institutions": 138,
-    "Data": 110,
+    "Data": 111,
     "People": 66,
     "Communities": 66
   },
   "markets": {
-    "US": 139,
-    "Global": 135,
+    "US": 140,
+    "Global": 136,
     "JP": 129,
     "KR": 86,
     "UK": 59,
@@ -80,7 +80,7 @@
     "Asia": "tagged"
   },
   "language": {
-    "English": 488,
+    "English": 489,
     "Japanese": 107,
     "Korean": 75,
     "German": 51,
@@ -117,7 +117,7 @@
       "Adjacent research body": 6,
       "Corporate filings": 5,
       "Sales tracking": 4,
-      "Database": 2,
+      "Database": 3,
       "Sector index": 1
     },
     "Institutions": {
@@ -203,7 +203,7 @@
     }
   },
   "cost": {
-    "Free": 381,
+    "Free": 382,
     "Paid": 53,
     "Freemium": 45,
     "Unknown": 7
@@ -224,18 +224,18 @@
   },
   "coverage": {
     "sources": {
-      "slug": 873,
-      "name": 873,
-      "group": 873,
-      "medium": 873,
-      "format": 873,
-      "what_it_lets_you_find_out": 873,
-      "markets": 873,
-      "language": 873,
-      "cost": 486,
-      "link": 873,
+      "slug": 874,
+      "name": 874,
+      "group": 874,
+      "medium": 874,
+      "format": 874,
+      "what_it_lets_you_find_out": 874,
+      "markets": 874,
+      "language": 874,
+      "cost": 487,
+      "link": 874,
       "extra_links": 0,
-      "owner": 493,
+      "owner": 494,
       "ownership_note": 117,
       "beat": 66,
       "where_they_post": 66,
