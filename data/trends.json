@@ -7,8 +7,8 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "Sustained mass layoffs since 2022: crowd-sourced trackers recorded ~8,500 job losses in 2022, 10,500 in 2023, and 14,600 in 2024, with ~4,000 by mid-2025 as the pace slowed. Studio closures and cancellations continued into 2026.",
-    "why_it_matters": "Nearly every business, labor, and creative-risk story of 2023 to 2026 traces back to this contraction. Indispensable for context, as it informs almost everything else.",
+    "what_it_is": "Sustained mass layoffs since 2022: crowd-sourced trackers recorded ~8,500 job losses in 2022, 10,500 in 2023, 14,600 in 2024 and 9,175 in 2025. The pace did not hold there. Satvat's tracker counted 10,140 confirmed losses by 11 August 2026 — past the whole of 2025 with four months left — and lifted its year-end forecast to 14,666, up about 83% from the 8,025 it projected on 6 January and just under 2024's record 15,631. Treat the forecast as one tracker's projection; the confirmed count is the firmer number. Two trackers run: Satvat's, the count quoted here, and Farhan Noor's videogamelayoffs.com, which counts differently and updates less often, so name which tracker a figure comes from.",
+    "why_it_matters": "Nearly every business, labor, and creative-risk story of 2023 to 2026 traces back to this contraction. Indispensable for context, as it informs almost everything else. Note that the 2025 dip was widely read at the time as the end of the era; 2026 says it was a trough, so date any “layoffs are slowing” claim before repeating it.",
     "further_reading": [
       {
         "source": "Data points to slowing layoffs, but doesn't capture true harm to game industry",
@@ -23,14 +23,14 @@
         "format": ""
       },
       {
-        "source": "WTF Is Happening To The Video Game Industry?",
-        "link": "https://www.youtube.com/watch?v=Sx-lddna-qg",
-        "type": "Analysis",
-        "format": "video"
+        "source": "Amir Satvat: Layoffs in the Gaming Industry in 2026",
+        "link": "https://gamedevreports.substack.com/p/amir-satvat-layoffs-in-the-gaming",
+        "type": "Data",
+        "format": ""
       }
     ],
-    "as_of": "Aug 2026",
-    "where_to_follow": "Game Developer's business desk, GDC State of the Game Industry (annual), Farhan Noor's videogamelayoffs.com tracker, GamesIndustry.biz"
+    "as_of": "Sep 2026",
+    "where_to_follow": "Game Developer's business desk, GDC State of the Game Industry (annual), Satvat's layoff tracker, Farhan Noor's videogamelayoffs.com tracker, GamesIndustry.biz"
   },
   {
     "slug": "monetization-on-flat-player-base",
@@ -146,7 +146,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Game Pass is reportedly down to about 30 million paying subscribers, against an internal projection of ~77 million by 2026 revealed in FTC proceedings, after a price hike to $30/month drove churn. Sony has stopped reporting PS Plus subscriber counts.",
+    "what_it_is": "Game Pass is reportedly down to about 30 million paying subscribers, against an internal projection of ~77 million by 2026 revealed in FTC proceedings, after a price hike to $30/month drove churn. Sony has stopped reporting PS Plus subscriber counts. From November 2026 Xbox meters cloud streaming rather than bundling it: 15 hours a month on Ultimate, 10 on Premium, 5 on Essential, with extra hours sold separately. Microsoft puts the affected share at 4% of subscribers.",
     "why_it_matters": "Tests the 'Netflix of games' thesis that drove a decade of acquisitions and strategy. Also a good case of consolidation-era promises meeting reality (no plan survives an encounter with the enemy)",
     "further_reading": [
       {
@@ -162,13 +162,13 @@
         "format": ""
       },
       {
-        "source": "Game pass Subscription Coming to an End",
-        "link": "https://www.reddit.com/r/XboxGamePass/comments/1vn4rxr/game_pass_subscription_coming_to_an_end/",
-        "type": "Community",
+        "source": "Xbox introduces cloud streaming limits for Game Pass, purchase options for ad-hoc use",
+        "link": "https://thisweekinvideogames.com/news/xbox-introduces-cloud-streaming-limits-for-game-pass-purchase-options-for-ad-hoc-use/",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "The Verge Xbox coverage, WSJ tech desk, Circana subscription spending data, Microsoft earnings"
   },
   {
@@ -504,7 +504,7 @@
       "MENA",
       "US"
     ],
-    "what_it_is": "Saudi Arabia's PIF has assembled a layered gaming portfolio (Savvy, Scopely, ESL FACEIT, listed stakes) capped by taking EA private, closed August 2026. PIF holds 93.4% directly, held outside Savvy alongside Silver Lake and Affinity Partners. Roughly $20B of purchase debt now sits on EA's own books, so the debate has shifted from sportswashing and esports capture toward layoffs, cancelled projects, and quiet self-censorship.",
+    "what_it_is": "Saudi Arabia's PIF has assembled a layered gaming portfolio (Savvy, Scopely, ESL FACEIT, listed stakes) capped by taking EA private, closed August 2026. PIF holds 93.4% directly, held outside Savvy alongside Silver Lake and Affinity Partners. Roughly $20B of purchase debt now sits on EA's own books, so the debate has shifted from sportswashing and esports capture toward layoffs, cancelled projects, and quiet self-censorship. Brian Ward, who built the portfolio from 2021, stepped down as Savvy's CEO on 1 September 2026, twelve days after the EA deal closed; PIF deputy governor Turqi Alnowaiser took over on an interim basis, moving day-to-day control closer to the fund.",
     "why_it_matters": "Sovereign capital is now the industry's biggest single buyer, and it arrived leveraged. Ownership questions touch labor, esports, and content decisions across the West.",
     "further_reading": [
       {
@@ -520,13 +520,13 @@
         "format": ""
       },
       {
-        "source": "'Hard to feel good about being bought out by a regime that's very much at odds with progressive society'",
-        "link": "https://www.reddit.com/r/gaming/comments/1vsviuy/ea_employees_brace_for_the_worst_under_saudi/",
-        "type": "Community",
+        "source": "Saudi video game giant Savvy CEO Brian Ward is stepping down",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-01/saudi-video-game-giant-savvy-ceo-brian-ward-is-stepping-down",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Naavik, SportBusiness esports desk, Reuters M&A coverage, Esports Insider"
   },
   {
@@ -700,7 +700,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Courts are unwinding app-store control asymmetrically. Google, having lost on all counts, must carry rival stores inside Play/ Aptoide arrived in August, and a judge ordered install friction stripped within a week. Apple, having won most counts, is re-pricing rather than losing commissions: tiered external-link fees in the US, a flat 5% replacing the EU's Core Technology Fee. Enforcement is now continuous.",
+    "what_it_is": "Courts are unwinding app-store control asymmetrically. Google, having lost on all counts, must carry rival stores inside Play/ Aptoide arrived in August, and a judge ordered install friction stripped within a week. Apple, having won most counts, is re-pricing rather than losing commissions: tiered external-link fees in the US, a flat 5% replacing the EU's Core Technology Fee. Enforcement is now continuous. Japan moved by statute rather than by court: the Mobile Software Competition Act took full effect on 18 December 2025, and Apple's Japan changes of the day before opened iOS to rival marketplaces and outside payments, with App Store commissions cut to 10% or 21%.",
     "why_it_matters": "he 30% cut shaped mobile game design for 15 years. Its replacement is a supervised patchwork of tiered fees — and gatekeeping has migrated from distribution to attestation.",
     "further_reading": [
       {
@@ -711,19 +711,19 @@
       },
       {
         "source": "'That is not acceptable': Judge orders Google to make rival app store installs easier",
-        "link": "https://www.reddit.com/r/Android/comments/1vnvxod/that_is_not_acceptable_judge_orders_google_to/",
+        "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
         "type": "Community",
         "format": ""
       },
       {
-        "source": "Apple just rewrote its App Store fees in the EU",
-        "link": "https://www.tiktok.com/@bigcribs/video/7675512577903938837",
+        "source": "Apple announces changes to iOS in Japan",
+        "link": "https://www.apple.com/newsroom/2025/12/apple-announces-changes-to-ios-in-japan/",
         "type": "Community",
-        "format": "video"
+        "format": ""
       }
     ],
     "as_of": "Jul 2026",
-    "where_to_follow": "The Verge policy desk, MacRumors legal coverage, mobilegamer.biz, European Commission DMA enforcement updates"
+    "where_to_follow": "The Verge policy desk, MacRumors legal coverage, mobilegamer.biz, European Commission DMA enforcement updates, Japan Fair Trade Commission MSCA enforcement"
   },
   {
     "slug": "streaming-fragmentation-and-the-multi-homed-creator",

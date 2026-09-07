@@ -592,8 +592,8 @@
           "claim": "The two flagship legacy games media brands, Famitsu and Dengeki, are operated by a single company, KADOKAWA Game Linkage, inside the KADOKAWA group.",
           "card_text": "",
           "year": "",
-          "source": "KADOKAWA corporate topics page, primary corporate disclosure",
-          "link": "https://www.kadokawa.co.jp/topics/3811"
+          "source": "KADOKAWA Game Linkage company site (出資比率 株式会社KADOKAWA 100%), primary corporate disclosure",
+          "link": "https://kadokawagamelinkage.jp/"
         },
         {
           "kind": "Narrative",
@@ -760,7 +760,7 @@
       "value": 54.75,
       "year": "2024",
       "direction": "down",
-      "source": "一般社団法人コンピュータエンターテインメント協会 CESA, CESAゲーム白書 2025",
+      "source": "一般社団法人コンピュータエンターテインメント協会 CESA, CESAゲーム産業レポート2025 (CESA Game Industry Report 2025)",
       "link": "https://www.cesa.or.jp/action/industry-research/2025/",
       "measure": "Game population",
       "definition": "The figure is the game population, ゲーム人口, stated as 5,475万人, against 5,553万人 the previous year, which CESA calls a slight decline, 微減. The platform split is 4,278万 mobile, 2,951万 home console and 1,452万 PC, which sum well above the total, so a person playing on more than one platform is counted in each. The page does not state the age range surveyed or the fieldwork method."
