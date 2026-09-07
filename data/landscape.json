@@ -383,6 +383,28 @@
       ],
       "what_it_is": "China's leading third-party Android game store and review community. TapTap China passed 41 million monthly active users in 2022 per owner XD's annual report, and publishers use it as a direct launch channel, miHoYo distributed Genshin Impact there at launch. It is the most legible public surface for what CN players are playing, rating and tagging. ByteDance, miHoYo and Bilibili have held investment stakes, per 2021 TechCrunch reporting. The CN edition (taptap.cn) and global edition (taptap.io) are distinct services, do not merge their numbers. A swarm of lookalike mirror domains exists, use the two official domains only. Ratings and reviews are community sentiment, not evidence of fact. iOS distribution is not part of the model, so TapTap views skew Android.",
       "link": "https://www.taptap.cn/about-us"
+    },
+    {
+      "slug": "mellow-fan",
+      "name": "mellow-fan (formerly OPENREC.tv)",
+      "category": "Livestreaming",
+      "owner": "OPENREC, Inc., a DONUTS subsidiary (spun out of CyberZ Dec 2022, acquired Feb 2023)",
+      "markets": [
+        "JP"
+      ],
+      "what_it_is": "Japan's domestic game and esports live platform, relaunched on 1 July 2026 as mellow-fan, a fan-community service, with free streaming wound down. Matters as the talent and esports venue outside YouTube and Twitch, and as a warning that a platform can change name and model mid-research; older coverage says OPENREC.",
+      "link": "https://www.mellow-fan.com/"
+    },
+    {
+      "slug": "mirrativ",
+      "name": "Mirrativ (ミラティブ)",
+      "category": "Livestreaming",
+      "owner": "Mirrativ, Inc. (株式会社ミラティブ); the app began under DeNA in 2015 and its Android package is still com.dena.mirrativ",
+      "markets": [
+        "JP"
+      ],
+      "what_it_is": "Smartphone screen-share game streaming with avatars (エモモ) and live games. The company calls it Japan's largest smartphone game streaming platform: 5.7 million cumulative streamers and about 30% of active users also stream, both company figures. Matters because a large slice of Japanese mobile play is broadcast here and on no platform the global trackers measure.",
+      "link": "https://www.mirrativ.com/"
     }
   ],
   "genres": [

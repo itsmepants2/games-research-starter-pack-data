@@ -1,35 +1,35 @@
 {
-  "as_of": "2026-09-07T15:56:46Z",
+  "as_of": "2026-09-07T16:48:02Z",
   "medium": {
     "News outlet": 321,
     "Organisation": 124,
-    "Forum or community": 66,
-    "Video channel": 59,
-    "Person": 59,
+    "Forum or community": 68,
+    "Video channel": 63,
+    "Person": 62,
     "Podcast": 48,
     "Data tool": 47,
     "Book or paper": 42,
     "Company disclosure": 35,
     "Report or document": 31,
-    "Newsletter": 23,
+    "Newsletter": 26,
     "Research firm": 12,
     "Link list": 7
   },
   "group": {
-    "Press": 344,
-    "Media": 149,
+    "Press": 347,
+    "Media": 153,
     "Institutions": 138,
     "Data": 111,
-    "People": 66,
-    "Communities": 66
+    "People": 69,
+    "Communities": 68
   },
   "markets": {
     "US": 140,
-    "Global": 136,
-    "JP": 129,
+    "Global": 138,
+    "JP": 137,
     "KR": 86,
+    "Not market specific": 63,
     "UK": 59,
-    "Not market specific": 59,
     "DE": 49,
     "FR": 36,
     "CN": 33,
@@ -56,8 +56,8 @@
     "Global": "scope",
     "JP": "profiled",
     "KR": "profiled",
-    "UK": "profiled",
     "Not market specific": "scope",
+    "UK": "profiled",
     "DE": "profiled",
     "FR": "profiled",
     "CN": "profiled",
@@ -80,8 +80,8 @@
     "Asia": "tagged"
   },
   "language": {
-    "English": 489,
-    "Japanese": 107,
+    "English": 491,
+    "Japanese": 117,
     "Korean": 75,
     "German": 51,
     "French": 49,
@@ -150,25 +150,25 @@
       "Esports news site": 13,
       "Desk or vertical of a larger outlet": 12,
       "Digital news outlet": 11,
+      "Journalist newsletter": 9,
       "Analyst newsletter": 9,
       "Business daily": 8,
       "Wire agency": 6,
       "Creator-led outlet": 6,
-      "Journalist newsletter": 6,
       "Aggregator": 3,
       "Developer newsletter": 3,
       "Personal newsletter": 3,
       "Academic newsletter": 2
     },
     "Media": {
-      "Let's Play and playthrough": 18,
+      "Let's Play and playthrough": 21,
       "News and roundup": 16,
       "Criticism and analysis": 13,
       "Video essays and analysis": 11,
+      "News and industry reporting": 9,
       "Consumer reviews and recommendations": 9,
       "Popular nonfiction": 9,
       "Academic (readable)": 9,
-      "News and industry reporting": 8,
       "Reviews and first impressions": 8,
       "Academic monograph": 7,
       "Creation, modding and game dev": 6,
@@ -186,7 +186,7 @@
       "Industry yearbook": 1
     },
     "People": {
-      "Individual": 59,
+      "Individual": 62,
       "List": 7
     },
     "Communities": {
@@ -198,14 +198,15 @@
       "Imageboard": 2,
       "Social platform": 2,
       "Aggregation blog": 2,
+      "Walkthrough and guide site": 2,
       "Collaborative dictionary": 1,
       "BBS": 1
     }
   },
   "cost": {
-    "Free": 382,
+    "Free": 390,
     "Paid": 53,
-    "Freemium": 45,
+    "Freemium": 46,
     "Unknown": 7
   },
   "trend_stage": {
@@ -224,24 +225,24 @@
   },
   "coverage": {
     "sources": {
-      "slug": 874,
-      "name": 874,
-      "group": 874,
-      "medium": 874,
-      "format": 874,
-      "what_it_lets_you_find_out": 874,
-      "markets": 874,
-      "language": 874,
-      "cost": 487,
-      "link": 874,
+      "slug": 886,
+      "name": 886,
+      "group": 886,
+      "medium": 886,
+      "format": 886,
+      "what_it_lets_you_find_out": 886,
+      "markets": 886,
+      "language": 886,
+      "cost": 496,
+      "link": 886,
       "extra_links": 0,
-      "owner": 494,
+      "owner": 497,
       "ownership_note": 117,
-      "beat": 66,
-      "where_they_post": 66,
+      "beat": 69,
+      "where_they_post": 69,
       "year": 39,
       "isbn": 38,
-      "audience": 59
+      "audience": 63
     }
   }
 }

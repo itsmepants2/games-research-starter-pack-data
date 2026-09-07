@@ -553,11 +553,11 @@
       "Market size": [
         {
           "kind": "Narrative",
-          "claim": "The domestic game content market is 2.3961 trillion yen in 2024, up 3.4 percent year on year, per the Famitsu Game White Paper 2025, announced August 2025.",
-          "card_text": "~2.4 trillion yen",
-          "year": "2024",
-          "source": "Famitsu Game White Paper 2025, Kadokawa ASCII Research Institute, publisher release",
-          "link": "https://prtimes.jp/main/html/rd/p/000000197.000017610.html"
+          "claim": "The domestic game content market is 2.5885 trillion yen in 2025, up 8.0 percent year on year, per the Famitsu Game White Paper 2026, announced 6 August 2026. The 2024 figure was 2.3961 trillion yen.",
+          "card_text": "~2.6 trillion yen",
+          "year": "2025",
+          "source": "Famitsu Game White Paper 2026, Kadokawa ASCII Research Institute, publisher release",
+          "link": "https://prtimes.jp/main/html/rd/p/000000257.000017610.html"
         }
       ],
       "Shape": [
@@ -681,8 +681,8 @@
         },
         {
           "kind": "Narrative",
-          "claim": "The national data annuals are premium paid products. The CESA Game Industry Report costs 55,000 yen and the Famitsu Game White Paper costs 48,400 to 53,900 yen, so free access to headline national data runs through press releases only.",
-          "card_text": "National data annuals are paid, 48,000 to 55,000 yen",
+          "claim": "The national data annuals are premium paid products. The CESA Game Industry Report costs 55,000 yen and the Famitsu Game White Paper 2026 costs 48,400 yen as a PDF, 57,200 as a book and 99,000 as the set, so free access to headline national data runs through press releases only.",
+          "card_text": "National data annuals are paid, 48,000 to 99,000 yen",
           "year": "",
           "source": "CESA official report page, industry association",
           "link": "https://www.cesa.or.jp/action/industry-research/"
@@ -711,7 +711,7 @@
           "card_text": "ファミ通ゲーム白書 (Famitsu Game White Paper)",
           "year": "",
           "source": "Kadokawa ASCII Research Institute, publisher release",
-          "link": "https://prtimes.jp/main/html/rd/p/000000197.000017610.html"
+          "link": "https://prtimes.jp/main/html/rd/p/000000257.000017610.html"
         },
         {
           "kind": "Card entry",

@@ -14405,6 +14405,79 @@
     "audience": []
   },
   {
+    "slug": "nikkei-gaming-newsletter",
+    "name": "日経Gaming メール",
+    "group": "Press",
+    "medium": "Newsletter",
+    "format": "Journalist newsletter",
+    "what_it_lets_you_find_out": "Nikkei BP's Friday letter from 日経Gaming, launched 1 Jul 2025: the week's business, technology and marketing stories on games in Japan and abroad, and the monthly Sensor Tower Japan rankings the site runs. Articles are free with registration; the premium tier is paid.",
+    "markets": [
+      "JP"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "cost": "Freemium",
+    "link": "https://info.nikkei.com/nxr/guide/gaming/",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "gamebiz-newsletter",
+    "name": "gamebiz 公式メールマガジン",
+    "group": "Press",
+    "medium": "Newsletter",
+    "format": "Journalist newsletter",
+    "what_it_lets_you_find_out": "gamebiz's near-daily digest of the previous day's Japanese games-business news: earnings, financing, tie-ups, personnel and store-ranking moves, with breaking news between issues. Delivered through mag2. Owner is a game company (Bushiroad), as on the gamebiz row.",
+    "markets": [
+      "JP"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "cost": "Free",
+    "link": "https://www.mag2.com/m/0001695567",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "the-oq-weekly",
+    "name": "The OQ Weekly",
+    "group": "Press",
+    "medium": "Newsletter",
+    "format": "Journalist newsletter",
+    "what_it_lets_you_find_out": "OTAQUEST's weekly curation of Japanese pop-culture news in English, games included: a fast orientation for a reader who does not read Japanese, not a source of figures.",
+    "markets": [
+      "Global",
+      "JP"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://otaquest.substack.com/",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "game-makers-toolkit-youtube",
     "name": "Game Maker's Toolkit",
     "group": "Media",
@@ -15936,6 +16009,110 @@
     "isbn": "",
     "audience": [
       "Industry"
+    ]
+  },
+  {
+    "slug": "hikakingames",
+    "name": "HikakinGames (ヒカキンゲームズ)",
+    "group": "Media",
+    "medium": "Video channel",
+    "format": "Let's Play and playthrough",
+    "what_it_lets_you_find_out": "HIKAKIN's game channel, the largest Japanese gaming channel by subscribers (6.64 million, May 2026) and the one primary-school children name most often; watch it for what mainstream Japanese kids and families see, not for the core audience.",
+    "markets": [
+      "Not market specific"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "cost": "Free",
+    "link": "https://www.youtube.com/@HikakinGames",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": [
+      "Children"
+    ]
+  },
+  {
+    "slug": "2bro",
+    "name": "兄者弟者 (2BRO.)",
+    "group": "Media",
+    "medium": "Video channel",
+    "format": "Let's Play and playthrough",
+    "what_it_lets_you_find_out": "Two-brother playthrough channel (3.15 million) run as its own company, 2BRO. Entertainment: the adult-male Let's Play culture the kids' channels miss.",
+    "markets": [
+      "Not market specific"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "cost": "Free",
+    "link": "https://www.youtube.com/@2BRO",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": [
+      "Adults"
+    ]
+  },
+  {
+    "slug": "kiyo",
+    "name": "キヨ。(Kiyo.)",
+    "group": "Media",
+    "medium": "Video channel",
+    "format": "Let's Play and playthrough",
+    "what_it_lets_you_find_out": "Japan's second-largest solo Let's Play channel (5.7 million), a member of the group 最終兵器俺達; horror and story games, with new releases reaching millions of views in days.",
+    "markets": [
+      "Not market specific"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "cost": "Free",
+    "link": "https://www.youtube.com/@KIYOisGOD",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": [
+      "Adults"
+    ]
+  },
+  {
+    "slug": "nintendo-official-channel",
+    "name": "Nintendo 公式チャンネル",
+    "group": "Media",
+    "medium": "Video channel",
+    "format": "News and industry reporting",
+    "what_it_lets_you_find_out": "Nintendo's Japanese official channel (3.73 million): every Direct, trailer and Japan-only campaign, first and in Japanese. The Switch 2 Direct drew a 3.4 million Japanese peak audience.",
+    "markets": [
+      "Not market specific"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "cost": "Free",
+    "link": "https://www.youtube.com/user/NintendoJPofficial",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": [
+      "Adults"
     ]
   },
   {
@@ -19736,6 +19913,79 @@
     "audience": []
   },
   {
+    "slug": "hideki-yasuda",
+    "name": "安田秀樹 (Hideki Yasuda)",
+    "group": "People",
+    "medium": "Person",
+    "format": "Individual",
+    "what_it_lets_you_find_out": "The most-quoted Japanese sell-side voice on Nintendo, Sony and Bandai Namco, with columns on Diamond Online, Kabutan and Business Insider Japan; reads results the way the Tokyo market does.",
+    "markets": [
+      "JP"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "cost": "",
+    "link": "https://diamond.jp/ud/authors/674d136da53aef7fc7000000",
+    "extra_links": [],
+    "owner": "Analyst, Toyo Research Advice from April 2026 (Toyo Securities 2022 to 2026, Ace Securities and Ace Research before that)",
+    "ownership_note": "",
+    "beat": "Market analysts",
+    "where_they_post": "Diamond Online, Kabutan, Business Insider Japan",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "yoshiki-okamoto",
+    "name": "岡本吉起 (Yoshiki Okamoto)",
+    "group": "People",
+    "medium": "Person",
+    "format": "Individual",
+    "what_it_lets_you_find_out": "A veteran creator talking budgets, deals and failures on camera in plain Japanese; 72,400 subscribers, so the influence is on the industry, not the mass audience.",
+    "markets": [
+      "JP"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "cost": "",
+    "link": "https://www.youtube.com/channel/UCjuSyACqtoJEm3A1X87Zi6Q",
+    "extra_links": [],
+    "owner": "Game producer (Street Fighter II at Capcom, Monster Strike at Mixi); runs the YouTube channel 岡本吉起 ゲームch from Malaysia",
+    "ownership_note": "",
+    "beat": "Japan",
+    "where_they_post": "YouTube",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "sal-romano",
+    "name": "Sal Romano",
+    "group": "People",
+    "medium": "Person",
+    "format": "Individual",
+    "what_it_lets_you_find_out": "Runs the fastest English read on Japanese publisher announcements and posts the Famitsu chart every week; one person, so the coverage is what he chooses.",
+    "markets": [
+      "Global",
+      "JP"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "",
+    "link": "https://x.com/salromano",
+    "extra_links": [],
+    "owner": "Editor-in-chief and sole operator, Gematsu (New York)",
+    "ownership_note": "",
+    "beat": "Japan",
+    "where_they_post": "X, Gematsu",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "namu-wiki",
     "name": "Namu Wiki (나무위키)",
     "group": "Communities",
@@ -21316,6 +21566,54 @@
     ],
     "cost": "Free",
     "link": "https://www.reddit.com/r/VietnamGaming",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "game8",
+    "name": "Game8 (ゲームエイト)",
+    "group": "Communities",
+    "medium": "Forum or community",
+    "format": "Walkthrough and guide site",
+    "what_it_lets_you_find_out": "Japan's largest walkthrough media by its own count (42 million monthly unique users, up to 500 million page views), a 100% Gunosy subsidiary with an English edition. Traffic per title is a proxy for which mobile and console games have active players. Guide sites are ad-funded and built to rank in search, so read traffic as engagement, not sentiment.",
+    "markets": [
+      "JP"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "cost": "Free",
+    "link": "https://game8.jp/",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "gamewith",
+    "name": "GameWith (ゲームウィズ)",
+    "group": "Communities",
+    "medium": "Forum or community",
+    "format": "Walkthrough and guide site",
+    "what_it_lets_you_find_out": "The other national-scale guide site, run by GameWith, Inc., listed on the Tokyo Stock Exchange (6552) since 2017 and so the one guide business with public accounts; its results are a window on the guide-media economy, and it has expanded into esports and a gamer ISP.",
+    "markets": [
+      "JP"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "cost": "Free",
+    "link": "https://gamewith.jp/",
     "extra_links": [],
     "owner": "",
     "ownership_note": "",
