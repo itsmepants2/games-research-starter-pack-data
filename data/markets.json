@@ -322,7 +322,7 @@
       "Venues": [
         {
           "kind": "Research note",
-          "claim": "Podbbang, the leading Korean podcast platform, lists no games or gaming category in its podcast category browser, confirmed August 2026.",
+          "claim": "Do not look for Korean games podcasts by category on Podbbang. The leading Korean podcast platform lists no games or gaming category in its category browser, confirmed August 2026.",
           "card_text": "",
           "year": "",
           "source": "Podbbang podcast category browser, platform primary source",
@@ -330,7 +330,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "Twitch is dead in Korea. The platform ended its Korean operations on 27 February 2024, about six and a half years after entering, citing network usage fees roughly ten times other countries, a figure Korean network operators dispute.",
+          "claim": "Twitch is dead in Korea, so Twitch data says nothing about Korean streaming. The platform ended its Korean operations on 27 February 2024, about six and a half years after entering, citing network usage fees roughly ten times other countries, a figure Korean network operators dispute.",
           "card_text": "Twitch is dead here, exited Feb 2024",
           "year": "",
           "source": "KISO Journal, internet self governance organisation publication",
@@ -346,7 +346,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "Anonymous community boards including 디시인사이드 (DC Inside) galleries, 에펨코리아 (FMKorea) and 아카라이브 (Arca.live) are commonly described as major games discussion venues, but their current scale and games activity could not be verified to standard. Do not assert them without verification.",
+          "claim": "Do not assert the scale of the anonymous boards without checking. 디시인사이드 (DC Inside) galleries, 에펨코리아 (FMKorea) and 아카라이브 (Arca.live) are commonly described as major games discussion venues, but their current scale and games activity could not be verified to standard.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
@@ -364,7 +364,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "The fourth-place rank is the white paper's own. It is a 7.2 percent share of a world market the paper estimates at 220.071 billion dollars for 2024, measured against Korean industry sales rather than consumer spend, so it is not the rank a Newzoo or Ball table gives and the two should not be mixed in one sentence.",
+          "claim": "The fourth-place world rank is the white paper's own. It is a 7.2 percent share of a world market the paper estimates at 220.071 billion dollars for 2024, measured against Korean industry sales rather than consumer spend, so it is not the rank a Newzoo or Ball table gives, and the two do not belong in one sentence.",
           "card_text": "",
           "year": "2024",
           "source": "Digital Today report of the 2025 White Paper on Korean Games, named news outlet",
@@ -382,7 +382,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "The white paper's 23.8515 trillion won is industry sales by platform, mobile 14.071 trillion, PC 6.0094 trillion, console 1.1836 trillion and arcade 275.9 billion won, with PC bang and arcade venue takings inside the PC and arcade lines. It is a producer-side figure, not consumer spend, so do not set it beside a Newzoo or Sensor Tower estimate for Korea without saying which basis each is on.",
+          "claim": "The white paper's revenue is industry sales, not consumer spend. Its 23.8515 trillion won for 2024 is sales by platform, mobile 14.071 trillion, PC 6.0094 trillion, console 1.1836 trillion and arcade 275.9 billion won, with PC bang and arcade venue takings inside the PC and arcade lines. Do not set it beside a Newzoo or Sensor Tower estimate without saying which basis each is on.",
           "card_text": "",
           "year": "2024",
           "source": "Digital Today report of the 2025 White Paper on Korean Games, named news outlet",
@@ -424,10 +424,18 @@
         },
         {
           "kind": "Research note",
-          "claim": "The game user survey's 50.2 percent is the share of people aged 10 to 69 who played in the past year. Its platform rates, mobile 89.1, PC 58.1 and console 28.6 percent, are shares of those users rather than of Koreans, and they overlap, so they do not sum and are not a device split.",
+          "claim": "The user survey's platform rates overlap and do not sum. Its 50.2 percent is the share of people aged 10 to 69 who played in the past year; mobile 89.1, PC 58.1 and console 28.6 percent are shares of those users rather than of Koreans, and a person on two platforms is counted in both, so they are not a device split.",
           "card_text": "",
           "year": "2025",
           "source": "KOCCA, 2025 Game User Survey (게임이용자 실태조사), government agency",
+          "link": "https://welcon.kocca.kr/ko/info/business/1956858"
+        },
+        {
+          "kind": "Research note",
+          "claim": "KOCCA's two annuals carry different years, so quote the year with the figure. The 2025 White Paper on Korean Games, published in March 2026, reports 2024 revenue and exports; the 2025 Game User Survey, published on 18 December 2025, reports play in the year to its fieldwork. There is no white-paper revenue figure for 2025 yet.",
+          "card_text": "",
+          "year": "",
+          "source": "KOCCA press release for the 2025 Game User Survey, 22 December 2025, government agency",
           "link": "https://welcon.kocca.kr/ko/info/business/1956858"
         }
       ],
@@ -450,7 +458,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "루리웹 (Ruliweb), the largest console focused community, is widely described as having passed through a series of portal owners before becoming independent in 2016, but that history could not be verified beyond community wikis and the site own posts. Do not assert the ownership history without primary confirmation.",
+          "claim": "Do not assert Ruliweb's ownership history. 루리웹 (Ruliweb), the largest console-focused community, is widely described as having passed through a series of portal owners before becoming independent in 2016, but that history could not be verified beyond community wikis and the site's own posts.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
@@ -484,7 +492,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "Reports indicate the current administration is moving to abolish or reorganise GRAC and establish a game promotion agency, which if enacted changes the rating system, but this could not be verified beyond a community wiki. HOLD until confirmed by ministry or Assembly sources.",
+          "claim": "HOLD: do not report a GRAC reorganisation as decided. Reports indicate the current administration is moving to abolish or reorganise GRAC and establish a game promotion agency, which if enacted changes the rating system, but this could not be verified beyond a community wiki. Confirm at ministry or Assembly sources first.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
@@ -497,6 +505,30 @@
           "year": "",
           "source": "Sensor Tower Korea market report, vendor own free publication",
           "link": "https://sensortower.com/ko/blog/state-of-gaming-in-korea-2025-report-KR"
+        },
+        {
+          "kind": "Research note",
+          "claim": "State whether One Store is in scope. Sensor Tower's Korea report says all its data excludes third-party Android markets, so its 5.3 billion dollar projection for 2025 and its 75 percent Google Play share cover the App Store and Google Play only; One Store, Korea's domestic Android store, is outside it and outside any global tracker's default view.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Sensor Tower Korea market report, November 2025, vendor own free publication",
+          "link": "https://sensortower.com/ko/blog/state-of-gaming-in-korea-2025-report-KR"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The shutdown law is gone. The midnight-to-6am ban on under-16s' online play under the Youth Protection Act ended at midnight on 31 December 2021, after the National Assembly repealed it in November 2021, and was replaced by a choice system in which under-18s or their guardians pick their own hours. English coverage still describes Korea as the curfew country.",
+          "card_text": "",
+          "year": "2021",
+          "source": "The Korea Herald, 31 December 2021, national daily",
+          "link": "https://www.koreaherald.com/article/2748203"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Foreign publishers need a domestic agent. Since 23 October 2025, under Article 31-2 of the Game Industry Promotion Act as amended on 22 October 2024, an overseas game company with annual sales of 1 trillion won or more, or 100,000 average domestic users over three months, must designate a domestic agent; the Game Rating and Administration Committee checks, and the fine for failing to is up to 20 million won.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Ministry of Culture, Sports and Tourism press release, 24 April 2025, government body",
+          "link": "https://www.mcst.go.kr/english/policy/pressView.jsp?pSeq=515"
         }
       ],
       "Where the data lives": [
@@ -550,6 +582,24 @@
         }
       ]
     },
+    "known_gaps": [
+      {
+        "gap": "PC bang share. No PC bang tracker is held, and the ones that exist publish share of usage hours, not revenue.",
+        "instead": "Read a PC bang share as what is played in public, not what is paid for. Venue takings sit inside the white paper's PC line."
+      },
+      {
+        "gap": "What players think. No Korean user-review venue is held, and the community boards are unverified for scale.",
+        "instead": "Use the Naver-not-Google and translate-the-SERP techniques for reaction; read Inven and ThisIsGame as press with communities attached; treat a board thread as temperature, never as size."
+      },
+      {
+        "gap": "Sell-side research. The directory holds one analyst's public Telegram digest, not the brokerage sector notes themselves.",
+        "instead": "Follow the Telegram technique to the analysts, then ask each for the note; the digests say which house wrote what."
+      },
+      {
+        "gap": "Arca.live has no source row. The profile names it beside DC Inside and FMKorea as unverified.",
+        "instead": "Check a gallery's recent post dates before naming it as a venue."
+      }
+    ],
     "player_population": {
       "figure": "About 20 million",
       "value": 20,
@@ -1098,8 +1148,8 @@
     "sections": {
       "Standing": [
         {
-          "kind": "Narrative",
-          "claim": "The national industry body states no world rank. The ESA 2026 Essential Facts report and its February 2026 spending release describe video games as the country most popular form of entertainment and quantify spending, but neither states a rank among markets, so the fixed form Standing sentence cannot be sourced.",
+          "kind": "Research note",
+          "claim": "Do not look for a US world rank in the industry body's data, because the ESA states none. Its 2026 Essential Facts report and its February 2026 spending release call video games the country's most popular form of entertainment and quantify spending, but neither ranks the US among markets. A rank comes from an analyst, on that analyst's basis.",
           "card_text": "",
           "year": "",
           "source": "ESA annual consumer spending release, industry association",
@@ -1113,6 +1163,14 @@
           "card_text": "$60.8 billion",
           "year": "2025",
           "source": "ESA annual consumer spending release, industry association",
+          "link": "https://www.theesa.com/2025-u-s-consumer-spending-on-video-games-nears-pandemic-level-peak-at-60-7-billion-second-highest-on-record/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The 60.8 billion dollar figure is consumer spend on one stated basis. The ESA compiles it from Circana and Sensor Tower: 52.4 billion of content, covering physical and digital full games, DLC and microtransactions and subscriptions across console, cloud, mobile, portable, PC and VR, with mobile at 26.7 billion from Sensor Tower, plus 5.4 billion of hardware and 2.9 billion of accessories. The release lists what is counted and advertising is not on the list, so a figure that includes mobile ad revenue is on a different basis.",
+          "card_text": "",
+          "year": "2025",
+          "source": "ESA annual consumer spending release, 11 February 2026, corrected March 2026, industry association",
           "link": "https://www.theesa.com/2025-u-s-consumer-spending-on-video-games-nears-pandemic-level-peak-at-60-7-billion-second-highest-on-record/"
         }
       ],
@@ -1148,12 +1206,20 @@
           "year": "",
           "source": "ESA 2026 Essential Facts as reported by Game Developer, trade press",
           "link": "https://www.gamedeveloper.com/business/total-consumer-spending-on-games-topped-60b-in-the-us-in-2025"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The player count is the industry association's own survey. 212.3 million Americans playing weekly comes from the ESA's 2026 Essential Facts with YouGov, and each edition is that year's survey rather than a series, so quote the edition with the count and use Pew's independent teen research as the check.",
+          "card_text": "",
+          "year": "2026",
+          "source": "ESA 2026 Essential Facts report, industry association survey with YouGov",
+          "link": "https://www.theesa.com/two-thirds-of-americans-play-video-games-every-week-according-tonew-report-from-the-entertainment-software-association/"
         }
       ],
       "Unique to this market": [
         {
-          "kind": "Narrative",
-          "claim": "Age ratings are self regulatory, not statutory. The ESRB is an industry established body founded in 1994, and the Supreme Court held in Brown v. Entertainment Merchants Association, 564 U.S. 786, decided 2011, that video games are protected speech under the First Amendment, striking down a state law restricting sales of violent games to minors. Rating enforcement runs through retailer and platform policy rather than law.",
+          "kind": "Research note",
+          "claim": "ESRB ratings are not law. Age ratings are self-regulatory: the ESRB is an industry-established body founded in 1994, and the Supreme Court held in Brown v. Entertainment Merchants Association, 564 U.S. 786, decided 2011, that video games are protected speech under the First Amendment, striking down a state law restricting sales of violent games to minors. Enforcement runs through retailer and platform policy rather than law.",
           "card_text": "Age ratings are self-regulatory, not statutory",
           "year": "",
           "source": "Supreme Court opinion via Justia, primary legal text",
@@ -1220,8 +1286,8 @@
       ],
       "Venues": [
         {
-          "kind": "Narrative",
-          "claim": "Among US teens, the most widely used platforms are YouTube, TikTok, Snapchat and Instagram, and use of Facebook and X sits far below its level of a decade ago. Do not default to X when looking for younger American players games conversation.",
+          "kind": "Research note",
+          "claim": "Do not default to X for younger American players' games talk. Among US teens the most widely used platforms are YouTube, TikTok, Snapchat and Instagram, and use of Facebook and X sits far below its level of a decade ago.",
           "card_text": "YouTube, TikTok, Snapchat and Instagram lead among teens",
           "year": "",
           "source": "Pew Research Center, Teens and Tech topic page, independent research organisation",
@@ -1236,8 +1302,8 @@
           "link": "https://www.pewresearch.org/internet/2024/05/09/teens-and-video-games-today/"
         },
         {
-          "kind": "Narrative",
-          "claim": "Reddit games communities, YouTube creator channels and games podcasts are widely treated as the centre of adult US games conversation, but no citable current source establishing their scale or share was found. Do not assert their centrality without verification.",
+          "kind": "Research note",
+          "claim": "Do not assert that Reddit, YouTube creators and podcasts are the centre of adult US games conversation without evidence. They are widely treated as such, but no citable current source establishing their scale or share was found.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
@@ -1303,6 +1369,24 @@
         }
       ]
     },
+    "known_gaps": [
+      {
+        "gap": "Who spends. Payer demographics and the share of spend from heavy payers are not held; the ESA gives player counts and totals, not who pays.",
+        "instead": "Publisher filings give revenue without demographics; read any free payer figure as one vendor's panel."
+      },
+      {
+        "gap": "Advertising revenue. The spending figure counts content, hardware and accessories, and no source held measures mobile ad revenue.",
+        "instead": "Say the basis with every mobile figure: in-app purchases from Sensor Tower are not the same as a total that adds advertising."
+      },
+      {
+        "gap": "Independent adult play surveys. The player count is the industry association's; Pew's rows are the teen series.",
+        "instead": "Quote the ESA count as the ESA's, with the edition, and use Pew for teens only."
+      },
+      {
+        "gap": "Communities. Five community rows for the largest market, and the profile could not verify the centrality of Reddit, creator channels and podcasts.",
+        "instead": "Use the games-specific subreddit and official-Discord techniques, and confirm activity by recent post dates."
+      }
+    ],
     "player_population": {
       "figure": "212.3 million",
       "value": 212.3,
@@ -1528,6 +1612,14 @@
           "year": "",
           "source": "Nordicity report commissioned by Ukie, trade body commissioned research",
           "link": "https://cms.ukie.org.uk/wp-content/uploads/2025/04/VGEC-Business-Case-Nordicity-Final-Report-to-Ukie.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The world rank is a trade body's. Sixth largest by game revenue comes from a Nordicity report commissioned by Ukie, for 2023, published in 2025; quote it as Ukie's, with the year, and do not set it beside another ranker's table.",
+          "card_text": "",
+          "year": "2023",
+          "source": "Nordicity report commissioned by Ukie, trade body commissioned research",
+          "link": "https://cms.ukie.org.uk/wp-content/uploads/2025/04/VGEC-Business-Case-Nordicity-Final-Report-to-Ukie.pdf"
         }
       ],
       "Market size": [
@@ -1566,12 +1658,20 @@
           "link": "https://ukie.org.uk/news/uk-video-games-market-reaches-8-76-billion-growing-7-4-in-2025/"
         },
         {
-          "kind": "Narrative",
-          "claim": "Whether the largest UK development studios are domestically or foreign owned could not be verified from a reliable single source. Do not characterise the ownership of the UK development base without that verification.",
+          "kind": "Research note",
+          "claim": "Do not characterise the ownership of the UK development base. Whether the largest UK studios are domestically or foreign owned could not be verified from a reliable single source.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
           "link": ""
+        },
+        {
+          "kind": "Research note",
+          "claim": "The Ukie headline is not software spend. Of the 8.76 billion pounds for 2025, software is 6.03 billion, hardware 2.17 billion and the game culture line 566 million. Quote the software line when you mean games and the total when you mean the valuation.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Ukie market valuation announcement, trade body annual",
+          "link": "https://ukie.org.uk/news/uk-video-games-market-reaches-8-76-billion-growing-7-4-in-2025/"
         }
       ],
       "Unique to this market": [
@@ -1600,8 +1700,8 @@
           "link": "https://www.bfi.org.uk/apply-british-certification-expenditure-credits/about-uk-creative-industry-expenditure-credits"
         },
         {
-          "kind": "Narrative",
-          "claim": "Loot boxes are not regulated in law. The government July 2022 response to its call for evidence found an association between loot boxes and harms, declined to legislate, and set an industry led approach with a technical working group convened by DCMS, holding legislation in reserve.",
+          "kind": "Research note",
+          "claim": "Loot boxes are not regulated by law in the UK. The government's July 2022 response to its call for evidence found an association between loot boxes and harms, declined to legislate, and set an industry-led approach with a technical working group convened by DCMS, holding legislation in reserve.",
           "card_text": "Loot boxes are not regulated in law",
           "year": "",
           "source": "UK government response, primary policy document",
@@ -1614,6 +1714,14 @@
           "year": "",
           "source": "Ukie principles announcement, trade body",
           "link": "https://ukie.org.uk/news/new-loot-box-principles-agreed-by-industry"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The rater changed its name. The Video Standards Council became the Games Rating Authority on 2 June 2023, so a source naming the VSC Rating Board is describing the same statutory body under its old name. Its statutory role covers boxed games; digital storefronts use IARC.",
+          "card_text": "",
+          "year": "2023",
+          "source": "VSC announcement of the renaming, via Games Press, industry press-release wire",
+          "link": "https://www.gamespress.com/VSC-RENAMED-AS-GAMES-RATING-AUTHORITY"
         }
       ],
       "Press structure": [
@@ -1668,8 +1776,8 @@
           "link": "https://www.gov.uk/government/calls-for-evidence/loot-boxes-in-video-games-call-for-evidence/outcome/government-response-to-the-call-for-evidence-on-loot-boxes-in-video-games"
         },
         {
-          "kind": "Narrative",
-          "claim": "Which platforms carry UK games conversation, and in what proportion, could not be established from a citable UK specific source. Do not assert a UK venue hierarchy without that evidence.",
+          "kind": "Research note",
+          "claim": "Do not assert a UK venue hierarchy. Which platforms carry UK games conversation, and in what proportion, could not be established from a citable UK-specific source.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
@@ -1732,9 +1840,35 @@
           "year": "",
           "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
           "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The weekly UK chart is not the UK market. GSD, run by Sparkers, covers physical sales plus the digital sales of participating publishers, and Nintendo does not participate in digital, so Switch digital is a hole; mobile is outside the chart altogether.",
+          "card_text": "",
+          "year": "",
+          "source": "Sparkers GSD, per the directory's Sparkers row, data vendor",
+          "link": "https://www.sparkers.com/"
         }
       ]
     },
+    "known_gaps": [
+      {
+        "gap": "Communities. No UK community row is held, and the profile could not establish which platforms carry UK games conversation.",
+        "instead": "Use the games-specific subreddit and official-Discord techniques; the UK's English-language discourse mixes with the US's, so a venue found is rarely UK-only."
+      },
+      {
+        "gap": "Current play participation. The profile's 60 percent of adults is Ofcom's 2021 figure, and no later UK play figure is held.",
+        "instead": "Ofcom's Online Nation and children's media series are the rows to check for a newer edition; quote the year with the figure."
+      },
+      {
+        "gap": "Workforce reconciliation. Headcount comes from TIGA, Ukie's census and DCMS on three definitions, and no reconciliation is held.",
+        "instead": "Cite one series with its definition and year, and record the spread between them as a finding rather than an error."
+      },
+      {
+        "gap": "Boxed retail chart. The weekly physical chart is not held as a row; the directory's UK sales data is GSD via Sparkers and Ampere.",
+        "instead": "Treat the trade-press weekly chart as GSD's, with its participating-publisher digital coverage, and say so."
+      }
+    ],
     "player_population": {
       "figure": "38 million",
       "value": 38,
