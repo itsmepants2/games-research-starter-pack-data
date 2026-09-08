@@ -567,7 +567,7 @@
       "Standing": [
         {
           "kind": "Research note",
-          "claim": "No free in-market source states Japan world rank by consumer spend. CESA and the Famitsu Game White Paper publish a domestic market size and a global total but present regional tables rather than a country ranking, so the fixed form Standing sentence cannot be sourced.",
+          "claim": "Do not look for Japan's world rank in a Japanese source, because none states one. CESA and the Famitsu Game White Paper publish a domestic market size and a global total in regional tables, not a country ranking. A rank for Japan has to come from an analyst outside Japan, on that analyst's basis.",
           "card_text": "",
           "year": "",
           "source": "Kadokawa ASCII Research Institute release for Famitsu Game White Paper 2025, publisher release",
@@ -611,7 +611,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "The two annuals publish the same game-population series a year apart. The Famitsu Game White Paper 2026, released 6 August 2026, estimates 56.39 million for 2025, up 3.0 percent on 54.75 million for 2024, while the CESA Game Industry Report, released each December, still carries 2024. Quote the year with the figure, and take the newer year from Famitsu rather than reading the gap between the two houses as a difference of method.",
+          "claim": "The two annuals carry different years for the same series, so quote the year with the figure. Famitsu's white paper lands in August with the previous calendar year: the 2026 edition gives 56.39 million players for 2025, up 3.0 percent on 54.75 million for 2024. CESA's report lands in December with the year before that: the 2025 edition still carries 2024. The gap between them is the calendar, not the method.",
           "card_text": "",
           "year": "2025",
           "source": "Famitsu Game White Paper 2026, Kadokawa ASCII Research Institute, publisher release",
@@ -628,8 +628,8 @@
           "link": "https://kadokawagamelinkage.jp/"
         },
         {
-          "kind": "Narrative",
-          "claim": "The industry association annual data report is produced and sold by KADOKAWA research arm. Kadokawa ASCII Research Institute makes and distributes the CESA Game Industry Report under commission from CESA, while the same group separately publishes the Famitsu Game White Paper.",
+          "kind": "Research note",
+          "claim": "One research house sits behind both national annuals. Kadokawa ASCII Research Institute publishes the Famitsu Game White Paper and produces and sells the CESA Game Industry Report under commission from CESA. Treat the two as one methodology family rather than two independent measurements, and credit the institute, not an older producer name.",
           "card_text": "",
           "year": "",
           "source": "KADOKAWA group release for CESA Game Industry Report 2025, primary corporate disclosure",
@@ -671,7 +671,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "X reaches 44.7 percent of Japanese people aged 13 to 79 and Facebook reaches 27.0 percent, the lowest of the major platforms measured. Do not default to Facebook for Japanese games discourse. The guidance rests on the usage gap, not on a games specific measure.",
+          "claim": "Do not default to Facebook for Japanese games talk. X reaches 44.7 percent of people aged 13 to 79 and is the main open text venue; Facebook reaches 27.0 percent, the lowest of the platforms measured. The guidance rests on reach, not on a games-specific measure.",
           "card_text": "X, the main open text venue. Facebook is marginal",
           "year": "",
           "source": "Ministry of Internal Affairs and Communications media usage survey, government survey",
@@ -679,7 +679,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "LINE reaches 92.9 percent of Japanese people aged 13 to 79, but it is a closed messaging service, so its conversation is not publicly searchable. The closed venue characterisation is an interpretation of the product type, not a survey finding.",
+          "claim": "LINE is closed. It reaches 92.9 percent of people aged 13 to 79, more than any other service, and none of its conversation is publicly searchable, so it is not a listening venue. That LINE is closed is a reading of the product type, not a survey finding.",
           "card_text": "LINE, closed messaging, not publicly searchable",
           "year": "",
           "source": "Ministry of Internal Affairs and Communications media usage survey, government survey",
@@ -695,7 +695,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "Anonymous boards under 5ちゃんねる (5channel, formerly 2channel) are commonly described as a games discussion venue, but current scale, ownership and games board activity could not be verified to standard from outside Japan. Do not assert 5channel as a live venue without verification.",
+          "claim": "Do not name 5channel as a live games venue without checking it yourself. The anonymous boards under 5ちゃんねる (formerly 2channel) are commonly described as one, but their current scale, ownership and games-board activity could not be verified to standard from outside Japan.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
@@ -703,7 +703,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "The MIC survey measures each platform's reach among people aged 13 to 79, not games use on it. It ranks the venues to look at and cannot say how many players are on any of them, so pair it with a games-specific source before quoting an audience size for a platform.",
+          "claim": "The MIC survey measures reach, not games use. Its percentages say how many people aged 13 to 79 use each platform at all, so use them to choose which venues to read and not to size a games audience on any of them.",
           "card_text": "",
           "year": "",
           "source": "Ministry of Internal Affairs and Communications media usage survey, government survey",
@@ -721,7 +721,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "The national data annuals are premium paid products. The CESA Game Industry Report costs 55,000 yen and the Famitsu Game White Paper 2026 costs 48,400 yen as a PDF, 57,200 as a book and 99,000 as the set, so free access to headline national data runs through press releases only.",
+          "claim": "The national annuals are paid, and only their headlines are free. The CESA Game Industry Report is 55,000 yen; the Famitsu Game White Paper 2026 is 48,400 yen as a PDF, 57,200 as a book and 99,000 as the set. What circulates free is each publisher's press release.",
           "card_text": "National data annuals are paid, 48,000 to 99,000 yen",
           "year": "",
           "source": "CESA official report page, industry association",
@@ -729,7 +729,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "Japanese player statistics count people per platform with overlap by design, so platform figures do not sum to the total game population. 24.78 million people are counted on two or more platforms in 2024.",
+          "claim": "Platform player counts overlap and do not sum. A person who plays on two platforms is counted on both, so the mobile, console and PC figures add up to far more than the game population; 24.78 million people were counted on two or more platforms in 2024.",
           "card_text": "Platform player counts overlap and do not sum",
           "year": "",
           "source": "Famitsu Game White Paper 2025, Kadokawa ASCII Research Institute",
@@ -737,7 +737,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "Famitsu's weekly ranking counts packaged software, download cards and pre-installed copies, as estimated unit sales. Purchases made directly on a digital store are not in it, so a chart position understates a digital-heavy release, and the chart says nothing about mobile or PC.",
+          "claim": "The Famitsu weekly chart is not total sales. It estimates units of packaged software, download cards and pre-installed copies; purchases made directly on a digital store are outside it, and so are mobile and PC. A chart position understates a digital-heavy release.",
           "card_text": "",
           "year": "",
           "source": "Famitsu.com weekly sales report, games trade media",
@@ -800,9 +800,43 @@
           "year": "",
           "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
           "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        },
+        {
+          "kind": "Research note",
+          "claim": "There is no CESA white paper any more. The CESA ゲーム白書 ran to 2023 and was replaced in 2024 by the CESA ゲーム産業レポート (Game Industry Report), out each December; the 2025 edition was released on 15 December 2025 at 55,000 yen. Anything that cites the white paper is citing a pre-2024 source.",
+          "card_text": "",
+          "year": "",
+          "source": "CESA industry research page, industry association",
+          "link": "https://www.cesa.or.jp/action/industry-research/"
         }
       ]
     },
+    "known_gaps": [
+      {
+        "gap": "How people play. Spend per head, session length, solo against social play and the device mix by age are not held: the profile counts players and the directory holds no consumer-survey rows for Japan.",
+        "instead": "The user-survey chapters of the CESA report and the Famitsu white paper are behind the paywall. Japanese research houses publish free consumer surveys as PDFs; use the filetype:pdf technique on ゲーム 利用実態 調査 and treat each as that house's sample."
+      },
+      {
+        "gap": "What players think. No Japanese user-review or reader-review venue is held, and nothing here measures sentiment.",
+        "instead": "For reaction to a launch use the Yahoo! Japan realtime and lang:ja techniques; for reviews open the store page or the outlet's own review section directly."
+      },
+      {
+        "gap": "Who spends. Payer demographics, the share of spend from heavy payers and gacha spend by age are not held. Publisher IR gives revenue without demographics.",
+        "instead": "The Famitsu white paper's user survey is the paid source. Read any free figure on payers as one vendor's panel."
+      },
+      {
+        "gap": "Mobile revenue tracking is not tagged to Japan. Sensor Tower and AppMagic are Global rows, so a JP-filtered search does not return them.",
+        "instead": "Search the Data group without a market filter. The Famitsu white paper's mobile chapter is Sensor Tower-supervised, which is one house's estimate, not a second one."
+      },
+      {
+        "gap": "Arcades and amusement. No source for arcade revenue is held.",
+        "instead": "Sega Sammy and Bandai Namco report amusement segments in their IR, each on its own definition; the directory holds both IR rows."
+      },
+      {
+        "gap": "Video channels carry no market tag by design, so a JP-filtered search returns none.",
+        "instead": "Search channels by language Japanese instead."
+      }
+    ],
     "player_population": {
       "figure": "54.75 million",
       "value": 54.75,

@@ -496,7 +496,7 @@
     "group": "Data",
     "medium": "Data tool",
     "format": "Sales tracking",
-    "what_it_lets_you_find_out": "The Japan physical sales standard with weekly hardware and software charts. Physical only Figures are trade-reported rather than sold as a product.",
+    "what_it_lets_you_find_out": "The Japan sales standard: weekly hardware and software charts as estimated units of packaged software, download cards and pre-installed copies. Direct digital-store purchases, mobile and PC are outside it. Figures are trade-reported rather than sold as a product.",
     "markets": [
       "JP"
     ],
@@ -20063,7 +20063,7 @@
     "group": "Communities",
     "medium": "Forum or community",
     "format": "Imageboard",
-    "what_it_lets_you_find_out": "JP anonymous forum culture, where the game boards show unfiltered player discourse. The substrate the matome ecosystem feeds on.",
+    "what_it_lets_you_find_out": "JP anonymous forum culture, where the game boards show unfiltered player discourse; the substrate the matome ecosystem feeds on. Its current scale, ownership and games-board activity could not be verified from outside Japan as of Sep 2026, so check a board's recent post dates before treating it as a live venue.",
     "markets": [
       "JP"
     ],
