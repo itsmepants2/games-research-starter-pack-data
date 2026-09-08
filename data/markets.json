@@ -321,7 +321,7 @@
     "sections": {
       "Venues": [
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "Podbbang, the leading Korean podcast platform, lists no games or gaming category in its podcast category browser, confirmed August 2026.",
           "card_text": "",
           "year": "",
@@ -329,7 +329,7 @@
           "link": "https://www.podbbang.com/podcasts/newest-episode?categoryId=0"
         },
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "Twitch is dead in Korea. The platform ended its Korean operations on 27 February 2024, about six and a half years after entering, citing network usage fees roughly ten times other countries, a figure Korean network operators dispute.",
           "card_text": "Twitch is dead here, exited Feb 2024",
           "year": "",
@@ -345,7 +345,7 @@
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=0028840509"
         },
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "Anonymous community boards including 디시인사이드 (DC Inside) galleries, 에펨코리아 (FMKorea) and 아카라이브 (Arca.live) are commonly described as major games discussion venues, but their current scale and games activity could not be verified to standard. Do not assert them without verification.",
           "card_text": "",
           "year": "",
@@ -361,6 +361,14 @@
           "year": "",
           "source": "2025 대한민국 게임백서, government and public agency annual, reported by Digital Today, named tech outlet",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=645491"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The fourth-place rank is the white paper's own. It is a 7.2 percent share of a world market the paper estimates at 220.071 billion dollars for 2024, measured against Korean industry sales rather than consumer spend, so it is not the rank a Newzoo or Ball table gives and the two should not be mixed in one sentence.",
+          "card_text": "",
+          "year": "2024",
+          "source": "Digital Today report of the 2025 White Paper on Korean Games, named news outlet",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=645491"
         }
       ],
       "Market size": [
@@ -370,6 +378,14 @@
           "card_text": "~23.9 trillion won",
           "year": "2024",
           "source": "2025 대한민국 게임백서, reported by Digital Today, named tech outlet",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=645491"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The white paper's 23.8515 trillion won is industry sales by platform, mobile 14.071 trillion, PC 6.0094 trillion, console 1.1836 trillion and arcade 275.9 billion won, with PC bang and arcade venue takings inside the PC and arcade lines. It is a producer-side figure, not consumer spend, so do not set it beside a Newzoo or Sensor Tower estimate for Korea without saying which basis each is on.",
+          "card_text": "",
+          "year": "2024",
+          "source": "Digital Today report of the 2025 White Paper on Korean Games, named news outlet",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=645491"
         }
       ],
@@ -405,6 +421,14 @@
           "year": "",
           "source": "2025 대한민국 게임백서, reported by Digital Today, named tech outlet",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=645491"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The game user survey's 50.2 percent is the share of people aged 10 to 69 who played in the past year. Its platform rates, mobile 89.1, PC 58.1 and console 28.6 percent, are shares of those users rather than of Koreans, and they overlap, so they do not sum and are not a device split.",
+          "card_text": "",
+          "year": "2025",
+          "source": "KOCCA, 2025 Game User Survey (게임이용자 실태조사), government agency",
+          "link": "https://welcon.kocca.kr/ko/info/business/1956858"
         }
       ],
       "Press structure": [
@@ -425,7 +449,7 @@
           "link": "https://www.gamejob.co.kr/Company/Detail?M=11531230"
         },
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "루리웹 (Ruliweb), the largest console focused community, is widely described as having passed through a series of portal owners before becoming independent in 2016, but that history could not be verified beyond community wikis and the site own posts. Do not assert the ownership history without primary confirmation.",
           "card_text": "",
           "year": "",
@@ -459,7 +483,7 @@
           "link": "https://zdnet.co.kr/view/?no=20240102151926"
         },
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "Reports indicate the current administration is moving to abolish or reorganise GRAC and establish a game promotion agency, which if enacted changes the rating system, but this could not be verified beyond a community wiki. HOLD until confirmed by ministry or Assembly sources.",
           "card_text": "",
           "year": "",
@@ -542,7 +566,7 @@
     "sections": {
       "Standing": [
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "No free in-market source states Japan world rank by consumer spend. CESA and the Famitsu Game White Paper publish a domestic market size and a global total but present regional tables rather than a country ranking, so the fixed form Standing sentence cannot be sourced.",
           "card_text": "",
           "year": "",
@@ -584,6 +608,14 @@
           "year": "",
           "source": "CESA Game Industry Report 2025, industry association",
           "link": "https://www.cesa.or.jp/action/industry-research/2025/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The two annuals publish the same game-population series a year apart. The Famitsu Game White Paper 2026, released 6 August 2026, estimates 56.39 million for 2025, up 3.0 percent on 54.75 million for 2024, while the CESA Game Industry Report, released each December, still carries 2024. Quote the year with the figure, and take the newer year from Famitsu rather than reading the gap between the two houses as a difference of method.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Famitsu Game White Paper 2026, Kadokawa ASCII Research Institute, publisher release",
+          "link": "https://prtimes.jp/main/html/rd/p/000000257.000017610.html"
         }
       ],
       "Press structure": [
@@ -638,7 +670,7 @@
           "link": "https://www.soumu.go.jp/menu_news/s-news/01iicp01_02000130.html"
         },
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "X reaches 44.7 percent of Japanese people aged 13 to 79 and Facebook reaches 27.0 percent, the lowest of the major platforms measured. Do not default to Facebook for Japanese games discourse. The guidance rests on the usage gap, not on a games specific measure.",
           "card_text": "X, the main open text venue. Facebook is marginal",
           "year": "",
@@ -646,7 +678,7 @@
           "link": "https://www.soumu.go.jp/menu_news/s-news/01iicp01_02000130.html"
         },
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "LINE reaches 92.9 percent of Japanese people aged 13 to 79, but it is a closed messaging service, so its conversation is not publicly searchable. The closed venue characterisation is an interpretation of the product type, not a survey finding.",
           "card_text": "LINE, closed messaging, not publicly searchable",
           "year": "",
@@ -662,12 +694,20 @@
           "link": "https://group.kadokawa.co.jp/system_failure/"
         },
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "Anonymous boards under 5ちゃんねる (5channel, formerly 2channel) are commonly described as a games discussion venue, but current scale, ownership and games board activity could not be verified to standard from outside Japan. Do not assert 5channel as a live venue without verification.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
           "link": ""
+        },
+        {
+          "kind": "Research note",
+          "claim": "The MIC survey measures each platform's reach among people aged 13 to 79, not games use on it. It ranks the venues to look at and cannot say how many players are on any of them, so pair it with a games-specific source before quoting an audience size for a platform.",
+          "card_text": "",
+          "year": "",
+          "source": "Ministry of Internal Affairs and Communications media usage survey, government survey",
+          "link": "https://www.soumu.go.jp/menu_news/s-news/01iicp01_02000130.html"
         }
       ],
       "Unique to this market": [
@@ -680,7 +720,7 @@
           "link": "https://www.famitsu.com/article/202607/82960"
         },
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "The national data annuals are premium paid products. The CESA Game Industry Report costs 55,000 yen and the Famitsu Game White Paper 2026 costs 48,400 yen as a PDF, 57,200 as a book and 99,000 as the set, so free access to headline national data runs through press releases only.",
           "card_text": "National data annuals are paid, 48,000 to 99,000 yen",
           "year": "",
@@ -688,12 +728,20 @@
           "link": "https://www.cesa.or.jp/action/industry-research/"
         },
         {
-          "kind": "Narrative",
+          "kind": "Research note",
           "claim": "Japanese player statistics count people per platform with overlap by design, so platform figures do not sum to the total game population. 24.78 million people are counted on two or more platforms in 2024.",
           "card_text": "Platform player counts overlap and do not sum",
           "year": "",
           "source": "Famitsu Game White Paper 2025, Kadokawa ASCII Research Institute",
           "link": "https://prtimes.jp/main/html/rd/p/000000197.000017610.html"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Famitsu's weekly ranking counts packaged software, download cards and pre-installed copies, as estimated unit sales. Purchases made directly on a digital store are not in it, so a chart position understates a digital-heavy release, and the chart says nothing about mobile or PC.",
+          "card_text": "",
+          "year": "",
+          "source": "Famitsu.com weekly sales report, games trade media",
+          "link": "https://www.famitsu.com/article/202607/82960"
         }
       ],
       "Where the data lives": [
