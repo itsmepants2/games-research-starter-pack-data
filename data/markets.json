@@ -1527,18 +1527,26 @@
     "sections": {
       "Standing": [
         {
-          "kind": "Narrative",
-          "claim": "No authoritative in region source sizing the Gulf or MENA games market to standard was located. Regional revenue and player figures in circulation trace to paid vendor estimates or to promotional material produced by parties invested in the region growth, and no free figure naming its methodology was found.",
+          "kind": "Research note",
+          "claim": "Do not size the Gulf or MENA games market from a free figure, because none meets this directory's standard. Regional revenue and player figures in circulation trace to paid vendor estimates or to promotional material produced by parties invested in the region's growth, and no free figure naming its methodology was found.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
           "link": ""
+        },
+        {
+          "kind": "Research note",
+          "claim": "State the border before quoting a MENA figure. Niko Partners models MENA-3, Saudi Arabia, the United Arab Emirates and Egypt, and other vendors draw the region differently, with or without Turkey, Iran and Israel; this profile's sourced claims cover Saudi Arabia and the UAE. Two MENA totals that differ by billions usually differ by border, not by measurement.",
+          "card_text": "",
+          "year": "",
+          "source": "Niko Partners MENA market page, data vendor",
+          "link": "https://nikopartners.com/middle-east-north-africa-games-market/"
         }
       ],
       "Market size": [
         {
-          "kind": "Narrative",
-          "claim": "The largest national market in scope is Saudi Arabia, where the National Gaming and Esports Strategy states a base of 23.5 million game enthusiasts, 67 percent of the population, at the strategy launch in September 2022. No free revenue figure meeting sourcing standards exists for the market.",
+          "kind": "Research note",
+          "claim": "The 23.5 million Saudi players is the strategy's own figure. Saudi Arabia, the largest national market in scope, stated a base of 23.5 million game enthusiasts, 67 percent of the population, at the launch of its National Gaming and Esports Strategy in September 2022, with no published definition of an enthusiast; ask players or payers before quoting it. No free revenue figure meeting sourcing standards exists for the market.",
           "card_text": "23.5m Saudi game enthusiasts",
           "year": "2022",
           "source": "Saudi National Gaming and Esports Strategy launch coverage, Sabq, Saudi news outlet",
@@ -1585,6 +1593,14 @@
           "year": "",
           "source": "Naavik analysis of the Savvy portfolio, specialist games analyst",
           "link": "https://naavik.co/digest/inside-saudi-arabias-38-billion-gaming-empire/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not read sovereign investment as domestic market size. Savvy Games Group's 38 billion dollar commitment and its purchases, Scopely for 4.9 billion dollars and ESL FACEIT Group, are outbound investment by the Public Investment Fund, and no free figure sizes Saudi domestic consumer spend to standard; the investment vehicle is tens of billions and the consumption market is not.",
+          "card_text": "",
+          "year": "",
+          "source": "PIF corporate newswire, sovereign fund press releases, primary corporate disclosure",
+          "link": "https://www.pif.gov.sa/en/news-and-insights/press-releases/"
         }
       ],
       "Unique to this market": [
@@ -1605,8 +1621,8 @@
           "link": "https://nmc.gov.ae/en-us/Media-Center/Events/Pages/Age-Classification-System.aspx"
         },
         {
-          "kind": "Narrative",
-          "claim": "There is no single Gulf wide games rating scheme. Saudi Arabia and the United Arab Emirates each run their own regulator operated binding classification, and no operating GCC wide games rating scheme was verified.",
+          "kind": "Research note",
+          "claim": "There is no single Gulf-wide games rating scheme. Saudi Arabia and the United Arab Emirates each run their own regulator-operated binding classification, and no operating GCC-wide games rating scheme was verified, so a rating in one is not a rating in the other.",
           "card_text": "No GCC-wide rating scheme",
           "year": "",
           "source": "Saudi and UAE regulator sources cited in the rows above, government primary sources",
@@ -1619,12 +1635,20 @@
           "year": "",
           "source": "Esports World Cup Foundation press release, event operator",
           "link": "https://esportsworldcup.com/en/news/ewc-2025-kicks-off-in-riyadh-with-70-million-prize-pool-international-superstars-and-global-broadcast"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Regulation here moves in both directions, so date every regulatory claim. The General Commission for Audiovisual Media announced a ban on 47 games in July 2018, the cause reported at the time disputed by people in the regional industry, and the same commission now runs the statutory age classification while the state funds the Esports World Cup; anything older than a couple of years on Gulf games regulation needs checking.",
+          "card_text": "",
+          "year": "2018",
+          "source": "Game Developer report of the GCAM announcement, July 2018, trade press",
+          "link": "https://www.gamedeveloper.com/business/saudi-arabia-appears-to-ban-47-video-games-after-deaths-of-children"
         }
       ],
       "Press structure": [
         {
-          "kind": "Narrative",
-          "claim": "A meaningful share of English language material on the Gulf games market is paid or partner content produced for state entities, including sponsored editorial hubs for the Public Investment Fund carried on international business media. Treat glossy English language coverage of this market as promotional until its funding is checked.",
+          "kind": "Research note",
+          "claim": "Treat glossy English-language coverage of the Gulf games market as promotional until its funding is checked. A meaningful share of it is paid or partner content produced for state entities, including sponsored editorial hubs for the Public Investment Fund carried on international business media.",
           "card_text": "",
           "year": "",
           "source": "Bloomberg sponsored content hub for PIF, paid partner content",
@@ -1639,8 +1663,8 @@
           "link": "https://esportsadvocate.net/2025/04/esports-world-cup-to-feature-70-million-total-prize-pool/"
         },
         {
-          "kind": "Narrative",
-          "claim": "Long running Arabic language games sites exist, including سعودي جيمر (Saudi Gamer) and ترو جيمنج (True Gaming), and both show recent output, but their scale, ownership and funding could not be verified from citable sources. Do not characterise the Arabic games press layer without that verification.",
+          "kind": "Research note",
+          "claim": "Do not characterise the Arabic-language games press without verification. Long-running Arabic games sites exist, including سعودي جيمر (Saudi Gamer) and ترو جيمنج (True Gaming), and both show recent output, but their scale, ownership and funding could not be verified from citable sources.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
@@ -1657,8 +1681,8 @@
           "link": "https://datareportal.com/reports/digital-2025-saudi-arabia"
         },
         {
-          "kind": "Narrative",
-          "claim": "Which platforms carry Arabic language games discourse specifically, and the balance between Arabic and English in that discourse, could not be established from citable sources. Do not assert a games venue hierarchy for the Gulf without that evidence.",
+          "kind": "Research note",
+          "claim": "Do not assert a games venue hierarchy for the Gulf. Which platforms carry Arabic-language games discourse, and the balance between Arabic and English in it, could not be established from citable sources.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
@@ -1723,7 +1747,25 @@
           "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
         }
       ]
-    }
+    },
+    "known_gaps": [
+      {
+        "gap": "Egypt, the Levant and the Maghreb. The profile's sourced claims cover Saudi Arabia and the UAE; the rest of the region has community rows and no claims.",
+        "instead": "Use Niko's MENA-3 framing for Egypt with its basis named, and say the profile does not reach the Levant or North Africa."
+      },
+      {
+        "gap": "Market size. No free figure is held; the two data rows are Niko Partners, paid, and Power League Gaming.",
+        "instead": "Quote a MENA figure only with its vendor, its border and its year, and treat a free number as promotional until its method is found."
+      },
+      {
+        "gap": "Arabic-language discourse. The Arabic press rows are unverified for scale, no Arabic channels, podcasts or newsletters are held as MENA rows, and the venue hierarchy could not be established.",
+        "instead": "Search channels by language Arabic; read DataReportal's platform audiences from the profile card as reach, not games use."
+      },
+      {
+        "gap": "Turkey, Iran and Israel. Turkey is its own market tag here and Iran and Israel are not tagged, so a vendor's MENA that includes any of them will not match this profile.",
+        "instead": "State the border with every figure and check which countries the vendor folds in."
+      }
+    ]
   },
   {
     "market": "UK",
@@ -2288,8 +2330,8 @@
     "sections": {
       "Standing": [
         {
-          "kind": "Narrative",
-          "claim": "The national trade body states no rank among games markets. IIDEA 2024 annual report release describes video games as among the most loved entertainment forms of Italians and presents domestic figures without ranking Italy among games markets, so the fixed form sentence cannot be sourced.",
+          "kind": "Research note",
+          "claim": "Do not look for an Italian world rank in the trade body's data, because IIDEA states none. Its annual report describes video games as among the most loved entertainment forms of Italians and presents domestic figures without ranking Italy among games markets. A rank comes from an analyst, on that analyst's basis.",
           "card_text": "",
           "year": "",
           "source": "IIDEA annual report press release, trade body",
@@ -2299,11 +2341,19 @@
       "Market size": [
         {
           "kind": "Narrative",
-          "claim": "Italian consumer spending on video games reaches nearly 2.4 billion euros in 2024, up 3 percent year on year, per IIDEA annual report presented at the Ministry of Culture in April 2025.",
-          "card_text": "~€2.4 billion",
-          "year": "2024",
-          "source": "IIDEA annual report press release, trade body",
-          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+          "claim": "Italian consumer spending on video games is about 2.4 billion euros in 2025, down 1 percent year on year, per IIDEA's annual report I videogiochi in Italia nel 2025, produced by Ipsos for the association and presented at the Ministry of Enterprises and Made in Italy in Rome on 13 May 2026. The 2024 edition had put it at nearly 2.4 billion, up 3 percent.",
+          "card_text": "~2.4 billion euros",
+          "year": "2025",
+          "source": "IIDEA annual report press release, 13 May 2026, trade body",
+          "link": "https://iideassociation.com/videogiochi-in-italia-mercato-stabile-a-24-miliardi-cresce-il-tempo-di-gioco-digitale-e-abbonamenti-in-espansione-fisico-ancora-rilevante/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The Italian market figure is the trade body's research, run by Ipsos. IIDEA commissions its annual I videogiochi in Italia from Ipsos and presents it at a ministry each spring; quote it as IIDEA's with Ipsos, with the year, and do not set its 2.4 billion euros beside a vendor's Italy estimate without naming both bases.",
+          "card_text": "",
+          "year": "2025",
+          "source": "IIDEA annual report press release, 13 May 2026, trade body",
+          "link": "https://iideassociation.com/videogiochi-in-italia-mercato-stabile-a-24-miliardi-cresce-il-tempo-di-gioco-digitale-e-abbonamenti-in-espansione-fisico-ancora-rilevante/"
         }
       ],
       "Shape": [
@@ -2338,6 +2388,14 @@
           "year": "",
           "source": "IIDEA annual report press release, trade body",
           "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "IIDEA's report lands each spring for the previous year, so quote the edition with the figure. The edition for 2025, presented on 13 May 2026, puts players at 14.2 million, 60 percent male and about 60 percent under 35, playing 7 hours 53 minutes a week on average, with software at 1.8 billion euros, consoles near 400 million and subscriptions at 153 million; the 2024 rows in this profile carry the earlier edition's demographics.",
+          "card_text": "",
+          "year": "2025",
+          "source": "IIDEA annual report press release, 13 May 2026, trade body",
+          "link": "https://iideassociation.com/videogiochi-in-italia-mercato-stabile-a-24-miliardi-cresce-il-tempo-di-gioco-digitale-e-abbonamenti-in-espansione-fisico-ancora-rilevante/"
         }
       ],
       "Unique to this market": [
@@ -2350,8 +2408,8 @@
           "link": "https://cinema.cultura.gov.it/comunicazione/avvisi/avvisi-tax-credit/"
         },
         {
-          "kind": "Narrative",
-          "claim": "Classification is mandatory but sale is not restricted. An AGCOM regulation from 2019 introduces for the first time an obligation to classify video games distributed in Italy, recognising PEGI with an AGCOM scheme for unrated titles, and selling an 18 rated game to a minor is not an offence, since the obligation is to classify, not to restrict sale.",
+          "kind": "Research note",
+          "claim": "Italian classification is mandatory, but sale is not restricted. An AGCOM regulation from 2019 introduced for the first time an obligation to classify video games distributed in Italy, recognising PEGI with an AGCOM scheme for unrated titles, and selling an 18-rated game to a minor is not an offence, because the obligation is to classify, not to restrict sale.",
           "card_text": "Ratings are mandatory, sales are not restricted",
           "year": "",
           "source": "AESVI clarification as reported by Tom s Hardware Italia, tech outlet",
@@ -2384,12 +2442,20 @@
           "link": "https://www.gamerclick.it/news/96921-eurogamer-chiude-in-italia-la-fine-di-un-pilastro-della-stampa-agoraclick-198"
         },
         {
-          "kind": "Narrative",
-          "claim": "Whether the Italian consumer games press is unusually healthy could not be established either way. One large domestically owned outlet with self reported multi million audience and named editorial staff is verified, as is the closure of an international brand Italian edition in 2022, but the ownership and audience of the other major outlets including Everyeye, Spaziogames and IGN Italia are not verified.",
+          "kind": "Research note",
+          "claim": "Do not call the Italian consumer games press unusually healthy, or unusually weak. One large domestically owned outlet with a self-reported multi-million audience and named editorial staff is verified, as is the closure of an international brand's Italian edition in 2022, but the wider picture could not be established either way.",
           "card_text": "",
           "year": "",
           "source": "Assessment against the sourced rows above, no single source",
           "link": ""
+        },
+        {
+          "kind": "Research note",
+          "claim": "Search under the old name for anything before 2020. The trade body was AESVI until February 2020, when it became IIDEA, Italian Interactive Digital Entertainment Association, so earlier market reports, censuses and coverage sit under AESVI and a search on IIDEA alone cuts the history off.",
+          "card_text": "",
+          "year": "2020",
+          "source": "Everyeye report of the renaming, games press",
+          "link": "https://www.everyeye.it/notizie/aesvi-cambia-nome-nasce-iidea-italian-interactive-digital-entertainment-association-428942.html"
         }
       ],
       "Venues": [
@@ -2418,8 +2484,8 @@
           "link": "https://www.netaddiction.it/news/multiplayer_estate2023/"
         },
         {
-          "kind": "Narrative",
-          "claim": "The fuller games venue hierarchy could not be sourced. Checked, Audicom free monthly communiques for May, June and September 2025, which publish category level audiences for news, sport, government and broadcasters but broke out no games category, with per brand data behind registration, and IIDEA 2024 report release, which covers players, market and industry but publishes no venue shares. AGCOM communications reports were not reached.",
+          "kind": "Research note",
+          "claim": "Do not assert an Italian venue hierarchy beyond one datum. Audicom's free monthly communiques for May, June and September 2025 publish category audiences for news, sport, government and broadcasters and break out no games category, with per-brand data behind registration, and IIDEA's report publishes no venue shares; the one available figure is a publisher-cited Comscore ranking with Twitch first.",
           "card_text": "",
           "year": "",
           "source": "Sources checked and found not to contain the needed data, documented gap",
@@ -2469,6 +2535,24 @@
         }
       ]
     },
+    "known_gaps": [
+      {
+        "gap": "Public funding beneficiaries. No row for Invitalia's First Playable Fund or the tax-credit beneficiary lists; the Ministry of Culture notices are a profile card only.",
+        "instead": "Open the DGCA notices from the profile card and read announced budgets and paid-out lists as different figures."
+      },
+      {
+        "gap": "Company filings. No route to Italian company accounts is held, and Digital Bros is a profile card rather than a row.",
+        "instead": "Read a studio count as a census figure, not a set of accounts, and open the Digital Bros reports from the card for the one audited series."
+      },
+      {
+        "gap": "People and communities. No Italian people rows, two subreddits and three podcasts for the whole market, and the profile could not rank venues beyond one Comscore datum.",
+        "instead": "Use the games-specific subreddit technique, r/italygames not r/italy, and the outlets' own comment sections; treat any venue share as unsourced."
+      },
+      {
+        "gap": "Physical retail and platform mix. The profile carries device use by player counts but no sales-by-channel or platform-share figure.",
+        "instead": "GSD via Sparkers is the held sales panel for Italy; say which panel a platform share comes from."
+      }
+    ],
     "player_population": {
       "figure": "14.2 million",
       "value": 14.2,
@@ -2485,8 +2569,8 @@
     "sections": {
       "Standing": [
         {
-          "kind": "Narrative",
-          "claim": "The national trade body states no rank. ESAC 2024 industry report release describes Canada as a global leader in video game development without ranking the sector or the consumer market, so the fixed form sentence cannot be sourced from current material.",
+          "kind": "Research note",
+          "claim": "Do not look for a Canadian world rank in the trade body's data, because ESAC states none. Its 2024 industry report release describes Canada as a global leader in video game development without ranking the sector or the consumer market. A rank comes from an analyst, on that analyst's basis.",
           "card_text": "",
           "year": "",
           "source": "ESAC industry report release via CNW, trade body",
@@ -2495,11 +2579,19 @@
       ],
       "Market size": [
         {
-          "kind": "Narrative",
-          "claim": "The best available Canadian anchor sizes the industry rather than consumer spending. The video game industry contributes 5.1 billion dollars to Canada GDP in 2024, up 3 percent since 2021, per an economic impact study by Nordicity for ESAC.",
+          "kind": "Research note",
+          "claim": "There is no free Canadian consumer-spend figure to standard, so the anchor here sizes the industry. The video game industry contributes 5.1 billion dollars to Canada's GDP in 2024, up 3 percent since 2021, per an economic impact study by Nordicity for ESAC; that is production, not what Canadians spend.",
           "card_text": "$5.1 billion GDP contribution",
           "year": "2024",
           "source": "ESAC and Nordicity industry report release via CNW, trade body commissioned study",
+          "link": "https://www.newswire.ca/news-releases/canada-s-video-game-industry-contributed-5-1-billion-to-gdp-in-2024-888181811.html"
+        },
+        {
+          "kind": "Research note",
+          "claim": "ESAC's figures are Canadian dollars and the study compares three years apart. The 5.1 billion dollar GDP contribution, 821 studios, 34,010 full-time equivalents and 102,000 dollar average salary come from Nordicity's study for ESAC released on 28 January 2025, and its changes are against 2021, not the previous year, so a year-on-year does not exist and a US-dollar conversion moves every figure by the exchange rate.",
+          "card_text": "",
+          "year": "2024",
+          "source": "ESAC and Nordicity industry report release via CNW, 28 January 2025, trade body commissioned study",
           "link": "https://www.newswire.ca/news-releases/canada-s-video-game-industry-contributed-5-1-billion-to-gdp-in-2024-888181811.html"
         }
       ],
@@ -2543,6 +2635,14 @@
           "year": "",
           "source": "Canada Media Fund Perspectives analysis, public private funding body research",
           "link": "https://cmf-fmc.ca/perspectives/pass-the-controller-demographics-and-the-future-of-gameplay/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Two Canadian player counts circulate, so say whose. ESAC's own site says 23 million Canadians are gamers; the Canada Media Fund's synthesis says around 20 million as of 2025, playing roughly eight hours a week. Neither page states its definition of a player, so quote one with its source and do not read the gap as growth.",
+          "card_text": "",
+          "year": "2026",
+          "source": "ESAC site, trade body, as read 8 Sep 2026",
+          "link": "https://theesa.ca/"
         }
       ],
       "Unique to this market": [
@@ -2579,8 +2679,8 @@
           "link": "https://www2.gov.bc.ca/gov/content/taxes/income-taxes/corporate/credits/interactive-digital-media"
         },
         {
-          "kind": "Narrative",
-          "claim": "Age ratings are a United States industry system carrying Canadian legal force. Peer reviewed analysis records that provincial statutes in Ontario, Manitoba, New Brunswick, Nova Scotia and Saskatchewan enforce the ESRB age restrictions on the sale and rental of games, despite those provinces having no involvement in the ESRB classification decisions.",
+          "kind": "Research note",
+          "claim": "ESRB ratings carry Canadian legal force in some provinces. Peer-reviewed analysis records that provincial statutes in Ontario, Manitoba, New Brunswick, Nova Scotia and Saskatchewan enforce the ESRB age restrictions on the sale and rental of games, a United States industry system given statutory effect province by province, so do not assume the US self-regulatory model travels north unchanged.",
           "card_text": "A US rating system with Canadian legal force",
           "year": "",
           "source": "Canadian Journal of Communication, peer reviewed article",
@@ -2623,8 +2723,8 @@
           "link": "https://theesa.ca/bringing-canadians-together-through-gaming/"
         },
         {
-          "kind": "Narrative",
-          "claim": "The platform hierarchy of Canadian games conversation could not be sourced. Checked, ESAC Essential Facts 2022 release, which covers social play but publishes no platform venue shares, the Canada Media Fund synthesis, which covers playtime by demographic but not venues, and Statistics Canada cultural indicators, which covers GDP and jobs only. The CRTC communications monitoring reports and the Statistics Canada internet use survey were not reached.",
+          "kind": "Research note",
+          "claim": "Do not assert a Canadian venue hierarchy. The platform hierarchy of Canadian games conversation could not be sourced: ESAC's Essential Facts 2022 release covers social play but publishes no platform venue shares, the Canada Media Fund synthesis covers playtime by demographic but not venues, and Statistics Canada's cultural indicators do not break out games conversation.",
           "card_text": "",
           "year": "",
           "source": "Sources checked and found not to contain the needed data, documented gap",
@@ -2690,6 +2790,24 @@
         }
       ]
     },
+    "known_gaps": [
+      {
+        "gap": "Consumer spend. No free Canadian consumer-spend figure is held to standard; the one data row, Circana, is US-centric.",
+        "instead": "Size the industry from ESAC and say so, or take a vendor's Canada estimate with its basis named; do not extrapolate from a US ratio without saying you did."
+      },
+      {
+        "gap": "Communities and media. No community rows and no Canadian channels, podcasts or newsletters are held as CA rows.",
+        "instead": "Use the games-specific subreddit and official-Discord techniques; the English-language discourse mixes with the US's, and the French-language layer needs French search."
+      },
+      {
+        "gap": "Ownership of the big studios. The profile states Quebec studios are 86 percent Quebec-owned by count and nothing on who owns the largest employers.",
+        "instead": "Publisher filings, held for the foreign parents, give country headcount; read a Canadian studio's name as a location until its owner is checked."
+      },
+      {
+        "gap": "Provincial data beyond Quebec and Ontario. Interactive Ontario and the Guilde are held; no British Columbia or Atlantic association row.",
+        "instead": "Read the ESAC provincial split as the only national series and the province's own tax page for BC."
+      }
+    ],
     "player_population": {
       "figure": "23 million",
       "value": 23,
