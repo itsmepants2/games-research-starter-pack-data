@@ -1180,7 +1180,7 @@
       "Global",
       "US"
     ],
-    "what_it_is": "Paid reach is contracting while creator-led discovery grows. GDC's 2026 survey of more than 2,300 professionals put streamers ahead of paid advertising as a user-acquisition channel, 39% against 31%, behind social media at 65%. On mobile, 68% of the top 100 US-grossing games running acquisition in 2025 lost at least 10% of their US channel impression share year over year. On Steam, a game that would have opened to 500 concurrent players eight years ago now opens to 100 or fewer, against a record 18,597 releases in 2024.",
+    "what_it_is": "Paid reach is contracting while creator-led discovery grows. GDC's 2026 survey of more than 2,300 professionals put streamers ahead of paid advertising as a user-acquisition channel, 39% against 31%, behind social media at 65%. On mobile, 68% of the top 100 US-grossing games running acquisition in 2025 lost at least 10% of their US channel impression share year over year. On Steam, a game that would have opened to 500 concurrent players eight years ago now opens to 100 or fewer, against a record 18,597 releases in 2024. GameDiscoverCo's read of 2,569 Steam launches from January 2024 to August 2026 puts the median ratio of peak demo concurrent users to peak launch concurrent users at 3.0x, 6.2x for the strongest demos and 1.3x for the weakest, which makes the demo the discovery instrument a launch is judged by before it happens.",
     "why_it_matters": "Visibility rather than production is now the binding constraint on a game reaching anyone, and the cheapest remaining channel is a creator deciding to play it, which nobody can buy reliably.",
     "further_reading": [
       {
@@ -1190,9 +1190,9 @@
         "format": ""
       },
       {
-        "source": "14 trends for the next 5 years of PC/console games",
-        "link": "https://newsletter.gamediscover.co/p/14-trends-for-the-next-5-years-of",
-        "type": "Analysis",
+        "source": "Does your Steam demo CCU 'predict' your game's success?",
+        "link": "https://newsletter.gamediscover.co/p/does-your-steam-demo-ccu-predict",
+        "type": "Data",
         "format": ""
       },
       {
@@ -1202,7 +1202,7 @@
         "format": ""
       }
     ],
-    "as_of": "Aug 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "GameDiscoverCo (Simon Carless), Naavik, GDC State of the Game Industry (annual), Gamalytic, SteamDB"
   },
   {
