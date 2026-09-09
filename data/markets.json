@@ -118,16 +118,16 @@
           "link": "https://steady.page/de/debuff/about"
         },
         {
-          "kind": "Narrative",
-          "claim": "German games journalists are largely dormant on X and sparse on Bluesky, so personal social profiles function as calling cards rather than venues.",
+          "kind": "Research note",
+          "claim": "Do not read German journalists' social profiles as venues. They are largely dormant on X and sparse on Bluesky, so a personal profile is a calling card rather than a place where the conversation happens.",
           "card_text": "Not on X or Bluesky",
           "year": "",
           "source": "GameStar team Bluesky starter pack, Dec 2024",
           "link": "https://bsky.app/starter-pack/did:plc:tlc5nn3tvwwncohvnjj2uv3u/3lbhyocm72r2b"
         },
         {
-          "kind": "Narrative",
-          "claim": "On the audience side, WhatsApp, YouTube and Facebook are the most relevant platforms for news in Germany, and X does not register.",
+          "kind": "Research note",
+          "claim": "Do not default to X for German games talk. On the audience side, WhatsApp, YouTube and Facebook are the most relevant platforms for news in Germany, and X does not register.",
           "card_text": "",
           "year": "",
           "source": "Leibniz Institute, Digital News Report 2026 German substudy",
@@ -206,6 +206,14 @@
           "year": "",
           "source": "game Verband annual market figures, industry association",
           "link": "https://www.game.de/deutscher-games-markt-waechst-2025-um-4-prozent/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The German headline is not software spend. Of 9.382 billion euros in 2025, games, meaning purchases plus in-game and in-app spending, are 4.948 billion, hardware is 3.403 billion and online gaming services, subscriptions, cloud and network fees, are 1.031 billion.",
+          "card_text": "",
+          "year": "2025",
+          "source": "game Verband annual market figures, industry association",
+          "link": "https://www.game.de/deutscher-games-markt-waechst-2025-um-4-prozent/"
         }
       ],
       "Market size": [
@@ -216,12 +224,20 @@
           "year": "2025",
           "source": "game Verband annual market figures, industry association",
           "link": "https://www.game.de/deutscher-games-markt-waechst-2025-um-4-prozent/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The association's market figure is not a GfK panel. game builds it from YouGov Shopper, 25,000 representative consumer surveys, NielsenIQ's hardware retail panel and Sensor Tower for mobile, and publishes it each March, the 2025 figure on 26 March 2026, before the August Jahresreport compiles it. The 2025 release restated earlier years after Sensor Tower revised its mobile method and NielsenIQ widened hardware coverage to more physical retail, so take earlier years from the same release.",
+          "card_text": "",
+          "year": "2025",
+          "source": "game Verband annual market figures, 26 March 2026, industry association",
+          "link": "https://www.game.de/deutscher-games-markt-waechst-2025-um-4-prozent/"
         }
       ],
       "Unique to this market": [
         {
-          "kind": "Narrative",
-          "claim": "Age ratings on games sold in Germany are statutory, not advisory: state youth authority representatives issue the legal USK age label under the Jugendschutzgesetz, and retailers are bound by it.",
+          "kind": "Research note",
+          "claim": "USK ratings are law. Age ratings on games sold in Germany are statutory, not advisory: state youth authority representatives issue the legal USK age label under the Jugendschutzgesetz, and retailers are bound by it.",
           "card_text": "Age ratings are statutory, not advisory",
           "year": "",
           "source": "elternguide.online, USK information service",
@@ -242,6 +258,22 @@
           "year": "",
           "source": "game Verband download share figures, industry association",
           "link": "https://www.game.de/7-von-10-games-in-deutschland-werden-als-download-gekauft/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The live German regulatory story is the youth-protection reform, not the old bans. Since 1 May 2021 the reformed Jugendschutzgesetz lets interaction risks count in an age rating, open chats, purchase incentives and gambling-like elements such as loot boxes, and the Bundespruefstelle fuer jugendgefaehrdende Medien became the Bundeszentrale fuer Kinder- und Jugendmedienschutz (BzKJ).",
+          "card_text": "",
+          "year": "2021",
+          "source": "BzKJ announcement of the reform entering into force, federal agency",
+          "link": "https://www.bzkj.de/bzkj/service/alle-meldungen/reform-des-jugendschutzgesetzes-tritt-in-kraft-178740"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Nazi symbols are no longer an automatic bar to a rating. Since 9 August 2018 the USK applies the social-adequacy clause of section 86a of the criminal code to games case by case, after the state youth authorities dropped the requirement that a submission certify it contains no such symbols. The Germany-bans-violent-games story is older still.",
+          "card_text": "",
+          "year": "2018",
+          "source": "GamesWirtschaft report of the USK and OLJB decision, 9 August 2018, games trade press",
+          "link": "https://www.gameswirtschaft.de/politik/hakenkreuze-in-games-sozialadaequanz-usk-oljb/"
         }
       ],
       "Where the data lives": [
@@ -292,6 +324,14 @@
           "year": "",
           "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
           "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        },
+        {
+          "kind": "Research note",
+          "claim": "USK labels do not cover every store. The USK's 2025 statistics name Apple and Steam as large platforms not connected to its system, so a title sold there may carry no USK label even though the label is statutory at retail.",
+          "card_text": "",
+          "year": "2025",
+          "source": "USK annual statistics 2025, ratings self-regulation body",
+          "link": "https://usk.de/usk-jahresstatistik-2025-usk-alterskennzeichen-auf-nahezu-allen-grossen-plattformen/"
         }
       ],
       "Standing": [
@@ -305,6 +345,28 @@
         }
       ]
     },
+    "known_gaps": [
+      {
+        "gap": "Sales charts. GfK Entertainment's weekly charts are a profile card, not a source row; the directory's German sales data row is GSD via Sparkers.",
+        "instead": "Open the GfK charts from the profile card and say which panel a chart comes from; the two do not share a method."
+      },
+      {
+        "gap": "Federal games funding. The rules have changed more than once and no note here states the current ones.",
+        "instead": "GamesWirtschaft is the held beat on funding and politics; check its latest piece before quoting a rate, a freeze or a ministry."
+      },
+      {
+        "gap": "Where German players talk. The profile says WhatsApp, YouTube and Facebook carry news, and the community rows are two subreddits.",
+        "instead": "Use the games-specific subreddit technique, r/zocken not r/de, and the outlets' own forums and Discords the profile names."
+      },
+      {
+        "gap": "Austria and Switzerland. No Austrian or Swiss rows are held, and the statistics are Germany-only while the German-language conversation is not.",
+        "instead": "Say which country a figure covers when the source is DACH-wide, and do not read a DACH publisher as a German one."
+      },
+      {
+        "gap": "Adult play behaviour. JIM covers ages 12 to 19; no adult play survey row is held beyond the association's own demographics.",
+        "instead": "Quote the Jahresreport's player figures as the association's, with the year, and use JIM for the young cohort only."
+      }
+    ],
     "player_population": {
       "figure": "41.2 million",
       "value": 41.2,
@@ -903,8 +965,8 @@
     "sections": {
       "Standing": [
         {
-          "kind": "Narrative",
-          "claim": "The current authoritative in-market source states no world rank. The 2025 China Game Industry Report (中国游戏产业报告) summary presents domestic revenue and user figures without a ranking claim, so the fixed form Standing sentence cannot be sourced to a current edition.",
+          "kind": "Research note",
+          "claim": "Do not look for a Chinese world rank in the in-market source, because it states none. The 2025 China Game Industry Report summary presents domestic revenue and user figures without a ranking claim. A rank comes from an analyst outside China, on that analyst's basis.",
           "card_text": "",
           "year": "",
           "source": "2025年中国游戏产业报告 summary as distributed by Xinhua, state news agency",
@@ -918,6 +980,14 @@
           "card_text": "~350.8 billion yuan",
           "year": "2025",
           "source": "CGIGC annual report via Xinhua, state news agency",
+          "link": "https://www.news.cn/20251219/71b9f7db89c84eee968cddeeeb86baf1/c.html"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The 350.789 billion yuan is the committee's actual sales revenue, published before the year it describes had ended. The report calls the figure 实际销售收入, and the 2025 report was released on 19 December 2025 with the full-year 2025 figure; it does not say how the remaining days are counted. It is not a consumer-spend estimate from Newzoo or Niko and not a publisher's net revenue after channel fees, so name the basis with the number.",
+          "card_text": "",
+          "year": "2025",
+          "source": "2025 China Game Industry Report as distributed by Xinhua, 19 December 2025, state news agency",
           "link": "https://www.news.cn/20251219/71b9f7db89c84eee968cddeeeb86baf1/c.html"
         }
       ],
@@ -945,6 +1015,22 @@
           "year": "",
           "source": "CNNIC 第56次中国互联网络发展状况统计报告 via China Daily, state media",
           "link": "https://cn.chinadaily.com.cn/a/202507/21/WS687deb03a310028a84abee5d.html"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not add overseas revenue to the domestic market. The 20.455 billion dollars self-developed games earn overseas is reported separately from the 350.789 billion yuan domestic figure; a chart that folds a Chinese publisher's overseas earnings into the Chinese market is measuring Chinese companies, not Chinese players.",
+          "card_text": "",
+          "year": "2025",
+          "source": "CGIGC annual report via Xinhua, state news agency",
+          "link": "https://www.news.cn/20251219/71b9f7db89c84eee968cddeeeb86baf1/c.html"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Mini-program games are their own line. The report gives 53.535 billion yuan for mini-program games beside 257.076 billion yuan for mobile games, and the summary does not say whether one sits inside the other, so do not add the two and do not read the mini-game growth as extra to mobile.",
+          "card_text": "",
+          "year": "2025",
+          "source": "CGIGC annual report via 证券时报, securities daily",
+          "link": "https://stcn.com/article/detail/3549442.html"
         }
       ],
       "Unique to this market": [
@@ -987,12 +1073,28 @@
           "year": "",
           "source": "NPPA approval data via 证券时报, securities daily",
           "link": "https://www.stcn.com/article/detail/1073800.html"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Sensor Tower's China figures are App Store only. Google Play is not available in China and Sensor Tower's rankings exclude third-party Android stores, which its own charts label China (App Store only), so an iOS-derived China figure covers one store in a market where Android spend runs through domestic stores.",
+          "card_text": "",
+          "year": "",
+          "source": "Sensor Tower blog, worldwide revenue ranking with its China footnote, September 2022, vendor publication",
+          "link": "https://sensortower.com/blog/top-mobile-games-by-worldwide-revenue-august-2022"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The minors rules matter for compliance, not for the revenue model. Tencent says minors were 0.2 percent of its domestic game time in 2024, a record low, so read the play-hour and spending caps as regulatory exposure and enforcement cost rather than as a driver of revenue.",
+          "card_text": "",
+          "year": "2024",
+          "source": "Yicai report of Tencent Games' announcement, 24 February 2025, financial news outlet",
+          "link": "https://www.yicai.com/brief/102484267.html"
         }
       ],
       "Press structure": [
         {
-          "kind": "Narrative",
-          "claim": "Independent games journalism in the sense used elsewhere in this directory does not exist in mainland China. All domestic media and platforms operate under government censorship requirements.",
+          "kind": "Research note",
+          "claim": "Read every mainland Chinese source as operating under censorship. Independent games journalism in the sense used elsewhere in this directory does not exist in mainland China; all domestic media and platforms operate under government censorship requirements.",
           "card_text": "",
           "year": "",
           "source": "Freedom House, Freedom on the Net 2024 China report, US research NGO",
@@ -1033,8 +1135,8 @@
       ],
       "Venues": [
         {
-          "kind": "Narrative",
-          "claim": "Most international platforms are inaccessible in mainland China. Facebook, X, Instagram, YouTube, WhatsApp and Telegram are blocked, Reddit since August 2018, all languages of Wikipedia since April 2019, and Google search since 2012. Do not reach for any of these when researching Chinese games discourse.",
+          "kind": "Research note",
+          "claim": "Do not reach for the international platforms when researching Chinese games discourse. Facebook, X, Instagram, YouTube, WhatsApp and Telegram are blocked, Reddit since August 2018, all languages of Wikipedia since April 2019, and Google search since 2012.",
           "card_text": "Most international platforms are blocked",
           "year": "",
           "source": "Freedom House, Freedom on the Net 2024 China report, US research NGO",
@@ -1057,16 +1159,16 @@
           "link": "https://stcn.com/article/detail/3549442.html"
         },
         {
-          "kind": "Narrative",
-          "claim": "bilibili (哔哩哔哩) operates as a major video community and simultaneously holds game publication approvals as a licensed publisher, with both imported and domestic titles on 2025 approval lists. Disclose the dual role wherever bilibili is cited as a venue.",
+          "kind": "Research note",
+          "claim": "Disclose bilibili's dual role wherever you cite it as a venue. bilibili operates as a major video community and simultaneously holds game publication approvals as a licensed publisher, with both imported and domestic titles on 2025 approval lists.",
           "card_text": "bilibili, also a licensed publisher",
           "year": "",
           "source": "证券时报 coverage of August 2025 approval lists, securities daily",
           "link": "https://www.stcn.com/article/detail/3260312.html"
         },
         {
-          "kind": "Narrative",
-          "claim": "The live streaming layer (虎牙 Huya, 斗鱼 Douyu, 抖音 Douyin live) and the forum layer (NGA, TapTap, 百度贴吧 Baidu Tieba) are widely described as core games venues, but their current scale and games activity could not be verified to standard from outside the country. Do not assert them without verification.",
+          "kind": "Research note",
+          "claim": "Do not assert the Chinese streaming and forum layer without verification. Huya, Douyu and Douyin live, and the forums NGA, TapTap and Baidu Tieba, are widely described as core games venues, but their current scale and games activity could not be verified to standard from outside the country.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
@@ -1132,6 +1234,28 @@
         }
       ]
     },
+    "known_gaps": [
+      {
+        "gap": "Communities. No Chinese community rows are held, and the forum and streaming layer named in the profile is unverified for scale.",
+        "instead": "TapTap is held as a data row and store; treat any board or streaming figure as that platform's own claim."
+      },
+      {
+        "gap": "Android store data. No held source covers third-party Android stores or direct distribution, and Sensor Tower is App Store only.",
+        "instead": "Niko Partners, held and paid, and Gamma Data, the report's own partner, are the routes beyond iOS; say which store set a mobile figure covers."
+      },
+      {
+        "gap": "Private publishers. The private giants file nothing, and the directory holds Tencent and NetEase investor relations only.",
+        "instead": "Read any figure for a private Chinese publisher as an estimate, however precise it looks, and name whose."
+      },
+      {
+        "gap": "Approval history. The NPPA monthly lists are held; no note summarises the pauses between them.",
+        "instead": "Count the gaps from the lists themselves rather than quoting a freeze from memory."
+      },
+      {
+        "gap": "Trade press. GameLook is cited in the profile and has no source row; the CN press rows are nine.",
+        "instead": "Open it from the profile's press-structure row, and read the B2B trade layer as republishing official texts alongside its own coverage."
+      }
+    ],
     "player_population": {
       "figure": "683 million",
       "value": 683,
@@ -1885,8 +2009,8 @@
     "sections": {
       "Standing": [
         {
-          "kind": "Narrative",
-          "claim": "The national trade body states no rank among games markets. SELL describes video games as the country first cultural and creative industry by revenue, a standing among French cultural industries rather than a rank among games markets, so the fixed form sentence cannot be sourced.",
+          "kind": "Research note",
+          "claim": "Do not look for a French world rank in the trade body's data, because SELL states none. It describes video games as the country's first cultural and creative industry by revenue, a standing among French cultural industries rather than a rank among games markets. A rank comes from an analyst, on that analyst's basis.",
           "card_text": "",
           "year": "",
           "source": "SELL market results as reported by AFJV, trade press",
@@ -1901,6 +2025,14 @@
           "year": "2025",
           "source": "SELL market results as reported by AFJV, trade press",
           "link": "https://afjv.com/news/11956_chiffres-marche-francais-jeux-video-sell.htm"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The 5.856 billion euros is the publishers' body's assembly from named panels. SELL uses GSD for physical sales, GSD and Ipsos GameTrack for digital, Sensor Tower and GameTrack for mobile and IDC for hardware. In 2025 a GameTrack methodology change moved the perimeter of on-demand services, MMO subscriptions, free-to-play MMO, social and browser games and subscriptions, and 2024 hardware history was revised, so take earlier years from the April 2026 edition rather than from an older one.",
+          "card_text": "",
+          "year": "2025",
+          "source": "SELL, L'Essentiel du Jeu Video, Bilan du marche francais 2025, April 2026, trade body publication",
+          "link": "https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_avril_2026_final_.pdf"
         }
       ],
       "Shape": [
@@ -1935,6 +2067,14 @@
           "year": "",
           "source": "SNJV Barometre annuel du jeu video 2024, trade body sector census",
           "link": "https://veille-travail.anact.fr/osiros/result/notice.php?queryosiros=id%3A103475"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The player count is the publishers' body's own study. 40.2 million players comes from the SELL and Mediametrie survey of 4,001 people aged 10 to 80, run online from 19 June to 13 July 2025; quote it as SELL's with Mediametrie, with the year, and do not set it beside another country's count, which will define a player differently.",
+          "card_text": "",
+          "year": "2025",
+          "source": "SELL and Mediametrie, Les Francais et le Jeu Video 2025, as printed in the April 2026 Bilan, trade body survey",
+          "link": "https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_avril_2026_final_.pdf"
         }
       ],
       "Unique to this market": [
@@ -1955,8 +2095,8 @@
           "link": "https://www.cnc.fr/professionnels/aides-et-financements/jeu-video/credit-dimpot-jeu-video_121078"
         },
         {
-          "kind": "Narrative",
-          "claim": "Official French games terminology exists and its force is narrower than commonly reported. Terms published through the language enrichment process, including jeu video de competition for e-sport and joueur-animateur en direct for streamer, are required of government bodies and officials, not of the public, the press, or companies.",
+          "kind": "Research note",
+          "claim": "The official French games terminology binds officials, not you. Terms published through the language enrichment process, including jeu video de competition for e-sport and joueur-animateur en direct for streamer, are required of government bodies and officials, not of the public, the press or companies, so their force is narrower than commonly reported.",
           "card_text": "Official games terminology binds the state only",
           "year": "",
           "source": "BBC reporting on the official terminology, international news outlet",
@@ -1977,6 +2117,14 @@
           "year": "",
           "source": "SELL market results as reported by AFJV, trade press",
           "link": "https://afjv.com/news/11956_chiffres-marche-francais-jeux-video-sell.htm"
+        },
+        {
+          "kind": "Research note",
+          "claim": "PEGI is not voluntary in France. Homologated by the Ministry of the Interior since 2015, the PEGI classification is required for any game distributed in France, and PEGI in France is administered by SELL's delegue general, so the publishers' body runs the rating it reports on.",
+          "card_text": "",
+          "year": "2015",
+          "source": "AFJV report on PEGI classification in France, 10 December 2018, trade press",
+          "link": "https://afjv.com/news/9412_pegi-dans-les-coulisses-de-la-classification-des-jeux-video.htm"
         }
       ],
       "Press structure": [
@@ -2005,8 +2153,8 @@
           "link": "https://www.jeuxvideo.com/news/1671977/la-redaction-de-gamekult-demissionne-une-reflexion-que-l-on-conduit-depuis-plusieurs-mois.htm"
         },
         {
-          "kind": "Narrative",
-          "claim": "Whether a significant independent or subscriber funded games press layer remains at scale, around titles such as Canard PC, could not be verified from citable sources. Do not characterise the independent layer without that verification.",
+          "kind": "Research note",
+          "claim": "Do not characterise the independent French games press. Whether a significant independent or subscriber-funded layer remains at scale, around titles such as Canard PC, could not be verified from citable sources.",
           "card_text": "",
           "year": "",
           "source": "No source meeting this directory's standard",
@@ -2039,8 +2187,8 @@
           "link": "https://www.mediametrie.fr/en/internet-year-2025"
         },
         {
-          "kind": "Narrative",
-          "claim": "The hierarchy of games conversation venues, meaning the relative weight of YouTube games content, Discord, jeuxvideo.com forums and other spaces, could not be sourced. Checked, the SELL and Mediametrie 2025 study materials, which cover play practice, devices and motivations but publish no venue shares, and Mediametrie Internet Year 2025, which ranks sites and groups but does not split games conversation by platform.",
+          "kind": "Research note",
+          "claim": "Do not assert a French venue hierarchy. The relative weight of YouTube games content, Discord, jeuxvideo.com forums and other spaces could not be sourced: the SELL and Mediametrie 2025 study covers play practice, devices and motivations but publishes no venue shares, and Mediametrie's Internet Year 2025 ranks sites and groups without splitting games conversation by platform.",
           "card_text": "",
           "year": "",
           "source": "Sources checked and found not to contain the needed data, documented gap",
@@ -2106,6 +2254,24 @@
         }
       ]
     },
+    "known_gaps": [
+      {
+        "gap": "Media. No French video channels, podcasts or newsletters are held as FR rows.",
+        "instead": "Channels are found by language French rather than by market; podcasts and newsletters are not held at all."
+      },
+      {
+        "gap": "Mobile publishers. The French mobile publishing layer, hypercasual and browser-era publishers included, has no rows.",
+        "instead": "Publisher filings for the listed ones and the Global Sensor Tower rows are the route; say the directory does not hold the layer."
+      },
+      {
+        "gap": "Streaming and esports. The profile carries Twitch's French peak from Mediametrie but no French streamer, esports organisation or event rows.",
+        "instead": "Treat the Mediametrie figure as the only sourced scale here, and open an organisation's own site for anything else."
+      },
+      {
+        "gap": "Communities and people. One community row, r/jeuxvideo, and one people row for the whole market, and the profile could not rank venues.",
+        "instead": "Use the games-specific subreddit technique and the outlets' own forums; treat any venue share as unsourced."
+      }
+    ],
     "player_population": {
       "figure": "40.2 million",
       "value": 40.2,
