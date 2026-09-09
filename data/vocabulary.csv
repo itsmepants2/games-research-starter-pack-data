@@ -1,6 +1,6 @@
 facet,within_group,value,rows
 medium,,News outlet,321
-medium,,Organisation,124
+medium,,Organisation,125
 medium,,Forum or community,68
 medium,,Video channel,63
 medium,,Person,62
@@ -14,7 +14,7 @@ medium,,Research firm,12
 medium,,Link list,7
 group,,Press,347
 group,,Media,153
-group,,Institutions,138
+group,,Institutions,139
 group,,Data,111
 group,,People,69
 group,,Communities,68
@@ -23,7 +23,7 @@ markets,,Global,138
 markets,,JP,137
 markets,,KR,86
 markets,,Not market specific,63
-markets,,UK,59
+markets,,UK,60
 markets,,DE,49
 markets,,FR,36
 markets,,CN,33
@@ -49,7 +49,7 @@ market_kind,scope,Global,138
 market_kind,profiled,JP,137
 market_kind,profiled,KR,86
 market_kind,scope,Not market specific,63
-market_kind,profiled,UK,59
+market_kind,profiled,UK,60
 market_kind,profiled,DE,49
 market_kind,profiled,FR,36
 market_kind,profiled,CN,33
@@ -70,7 +70,7 @@ market_kind,tagged,TW,12
 market_kind,tagged,EU,7
 market_kind,tagged,LATAM,4
 market_kind,tagged,Asia,2
-language,,English,491
+language,,English,492
 language,,Japanese,117
 language,,Korean,75
 language,,German,51
@@ -109,9 +109,9 @@ format,Data,Sector index,1
 format,Institutions,Industry association,34
 format,Institutions,Government agency,16
 format,Institutions,Rating body,11
+format,Institutions,Safety and advocacy org,11
 format,Institutions,Report or data series,10
 format,Institutions,Research institute,10
-format,Institutions,Safety and advocacy org,10
 format,Institutions,Esports body,9
 format,Institutions,Learned society,8
 format,Institutions,Archive or museum,7
@@ -178,7 +178,7 @@ format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,390
+cost,,Free,391
 cost,,Paid,53
 cost,,Freemium,46
 cost,,Unknown,7
@@ -192,16 +192,16 @@ trend_category,,Platform & distribution,7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,4
 trend_category,,Technology,3
-coverage,sources,slug,886
-coverage,sources,name,886
-coverage,sources,group,886
-coverage,sources,medium,886
-coverage,sources,format,886
-coverage,sources,what_it_lets_you_find_out,886
-coverage,sources,markets,886
-coverage,sources,language,886
-coverage,sources,cost,496
-coverage,sources,link,886
+coverage,sources,slug,887
+coverage,sources,name,887
+coverage,sources,group,887
+coverage,sources,medium,887
+coverage,sources,format,887
+coverage,sources,what_it_lets_you_find_out,887
+coverage,sources,markets,887
+coverage,sources,language,887
+coverage,sources,cost,497
+coverage,sources,link,887
 coverage,sources,extra_links,0
 coverage,sources,owner,497
 coverage,sources,ownership_note,117

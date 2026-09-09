@@ -5300,6 +5300,30 @@
     "audience": []
   },
   {
+    "slug": "thrive-digital-alliance",
+    "name": "Thrive Digital Alliance",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Safety and advocacy org",
+    "what_it_lets_you_find_out": "Children's Digital Wellbeing Framework, a manifesto against protection-only design, and a Resource Bank of research and toolkits on children's digital play. Use it for the design-standards side of kids-and-games research, beside Internet Matters for safety and Ofcom for the data. | OWNERSHIP FLAG: hosted by Fundamentally Children, a UK child-development consultancy, and it sells accreditation against its own framework, so it has a stake in the standards it promotes.",
+    "markets": [
+      "UK"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://sites.google.com/fundamentallychildren.com/thrivedigitalalliance/home",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "bafta-games",
     "name": "BAFTA Games",
     "group": "Institutions",
