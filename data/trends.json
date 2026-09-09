@@ -78,7 +78,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "GTA 6 launched at $80, settling speculation about $100 base games. Only Mario Kart World, GTA 6, and Elden Ring on Switch 2 have cleared $70 — Microsoft tried and retreated to $70 after backlash. Meanwhile a RAM-driven hardware crunch pushed consoles past $600 and GPUs, monitors, and memory sharply higher. Nintendo raised Switch 2 to $500 in the US, Canada and Europe from 1 September 2026 (Japan from 25 May), citing memory and component costs, and said the new price still does not cover build cost; it put the hardware-cost impact on FY2027 earnings at about ¥100bn.",
+    "what_it_is": "GTA 6 launched at $80, settling speculation about $100 base games. Only Mario Kart World, GTA 6, and Elden Ring on Switch 2 have cleared $70 — Microsoft tried and retreated to $70 after backlash. Meanwhile a RAM-driven hardware crunch pushed consoles past $600 and GPUs, monitors, and memory sharply higher. Nintendo raised Switch 2 to $500 in the US, Canada and Europe from 1 September 2026 (Japan from 25 May), citing memory and component costs, and said the new price still does not cover build cost; it put the hardware-cost impact on FY2027 earnings at about ¥100bn. By September the crunch was moving both ways: Framework cut its LPCAMM2 memory prices retroactively while a 10 percent Intel CPU rise was reported for October and Chinese GPU prices rose again.",
     "why_it_matters": "The ceiling held on software but broke on hardware, and buyers responded by waiting. Very important for researchers tracking monetization, substitution behavior, or consumer resistance.",
     "further_reading": [
       {
@@ -111,7 +111,7 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "Live service means games built on an ongoing content and monetization cadence rather than a one-time sale. Entrants keep failing in a crowded field: Anthem went offline in January, Highguard lasted under two months. In 2026 the retreat sharpened — Guerrilla stripped live service out of Horizon Hunters Gathering mid-development, and Amazon exited MMO publishing entirely.",
+    "what_it_is": "Live service means games built on an ongoing content and monetization cadence rather than a one-time sale. Entrants keep failing in a crowded field: Anthem went offline in January, Highguard lasted under two months. In 2026 the retreat sharpened — Guerrilla stripped live service out of Horizon Hunters Gathering mid-development, and Amazon exited MMO publishing entirely. In September 2026 Sega said it had cancelled its Super Game, a live-service project it judged too big to reach service scale, and Riot's co-founder said the free-to-play publisher is considering premium titles.",
     "why_it_matters": "The pattern shapes what gets greenlit and which studios close. The portfolio math is under attack — greenlight fifteen, assume one hits — though developers argue saturation often just excuses bad games.",
     "further_reading": [
       {
@@ -127,13 +127,13 @@
         "format": ""
       },
       {
-        "source": "Market saturation is an excuse when level design sucks",
-        "link": "https://www.reddit.com/r/gamedev/comments/1vgg93n/stop_using_market_saturation_as_an_excuse_for/",
-        "type": "Community",
+        "source": "Sega cancelled its \"risky\" Super Game project",
+        "link": "https://www.gamesindustry.biz/sega-cancelled-its-risky-super-game-project-as-it-would-have-to-grow-enormously-to-match-the-scale-of-the-service",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Game Developer post-mortems, Circana engagement data, publisher earnings calls (Sony, EA, Take-Two)"
   },
   {
@@ -146,7 +146,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Game Pass is reportedly down to about 30 million paying subscribers, against an internal projection of ~77 million by 2026 revealed in FTC proceedings, after a price hike to $30/month drove churn. Sony has stopped reporting PS Plus subscriber counts. From November 2026 Xbox meters cloud streaming rather than bundling it: 15 hours a month on Ultimate, 10 on Premium, 5 on Essential, with extra hours sold separately. Microsoft puts the affected share at 4% of subscribers.",
+    "what_it_is": "Game Pass is reportedly down to about 30 million paying subscribers, against an internal projection of ~77 million by 2026 revealed in FTC proceedings, after a price hike to $29.99 a month in October 2025 drove churn; Microsoft rolled Ultimate back to $22.99 on 26 April 2026. Sony has stopped reporting PS Plus subscriber counts. From November 2026 Xbox meters cloud streaming rather than bundling it: 15 hours a month on Ultimate, 10 on Premium, 5 on Essential, with extra hours sold separately. Microsoft puts the affected share at 4% of subscribers. Within a week of the cloud cap Microsoft began offering lapsed and some current Ultimate subscribers 12-month discounts reported at $16 to $20 a month against list, a segmented win-back test rather than a price change.",
     "why_it_matters": "Tests the 'Netflix of games' thesis that drove a decade of acquisitions and strategy. Also a good case of consolidation-era promises meeting reality (no plan survives an encounter with the enemy)",
     "further_reading": [
       {
@@ -221,7 +221,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Regulators shifted from suing Roblox to compelling it: state AG suits and a 148-case federal MDL were joined in August 2026 by a Senate Judiciary probe with a records deadline, while Australia's eSafety served transparency notices on Roblox, Minecraft, Fortnite and Steam and then extracted a court-enforceable undertaking. Roblox disputes the claims and now requires facial age estimation for chat. The mechanics followed the enforcement: Microsoft makes Australians verify age by selfie, ID or credit card before buying 18+ titles on the Xbox Store, while Ofcom and the EU tighten in parallel. Elsewhere the response is blunter, with outright blocks in Turkey, Russia, Egypt and the Gulf. And it is no longer only Roblox: Brazil suspended Discord livestreaming after a teenager's death, and a Texas judge ordered Discord age checks.",
+    "what_it_is": "Regulators shifted from suing Roblox to compelling it: state AG suits and a 148-case federal MDL were joined in August 2026 by a Senate Judiciary probe with a records deadline, while Australia's eSafety served transparency notices on Roblox, Minecraft, Fortnite and Steam and then extracted a court-enforceable undertaking. Roblox disputes the claims and now requires facial age estimation for chat. The mechanics followed the enforcement: Microsoft makes Australians verify age by selfie, ID or credit card before buying 18+ titles on the Xbox Store; in September 2026 Steam began requiring a credit card for R18+ purchases in Australia and the Epic Games Store announced age checks for R18+ titles, while Ofcom and the EU tighten in parallel. Elsewhere the response is blunter, with outright blocks in Turkey, Russia, Egypt and the Gulf. And it is no longer only Roblox: Brazil suspended Discord livestreaming after a teenager's death, and a Texas judge ordered Discord age checks.",
     "why_it_matters": "The defining child-safety story in games, and the one that turned age verification from platform policy into something players meet at the point of purchase. Community pushback centres on breach risk rather than on child safety.",
     "further_reading": [
       {
@@ -237,13 +237,13 @@
         "format": ""
       },
       {
-        "source": "Xbox lets 'longstanding' accounts bypass age verification checks",
-        "link": "https://www.reddit.com/r/pcgaming/comments/1vlorr7/xbox_lets_longstanding_accounts_bypass_age/",
-        "type": "Community",
+        "source": "Steam implements age verification for R18+ games in Australia, credit card required",
+        "link": "https://thisweekinvideogames.com/news/steam-implements-age-verification-for-r18-games-in-australia-credit-card-required/",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Aug 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "eSafety Commissioner (AU), Ofcom Online Safety Act updates (UK), state AG press offices, The Guardian tech desk, Roblox's safety blog and earnings calls"
   },
   {
@@ -541,7 +541,7 @@
       "IN",
       "SEA"
     ],
-    "what_it_is": "Matthew Ball's analysis of where 2025's growth actually went: of the ~$10 billion industry increase versus 2021, about $4 billion was in China and another $1.5 billion went to China-made games in global markets, with 84% of Chinese game revenue going to domestically made games. This means that growth is concentrated in places and platforms many Western publishers can't reach.",
+    "what_it_is": "Matthew Ball's analysis of where 2025's growth actually went: of the ~$10 billion industry increase versus 2021, about $4 billion was in China and another $1.5 billion went to China-made games in global markets, with 84% of Chinese game revenue going to domestically made games. This means that growth is concentrated in places and platforms many Western publishers can't reach. Niko Partners puts China's 2025 games revenue at $51.8 billion, up 5.4 percent and above $50 billion for the first time, with annual ARPU past $70 and mini games near a fifth of mobile spend; it forecasts $53.9 billion for 2026 and $59.8 billion by 2030.",
     "why_it_matters": "Prevents the classic error of citing 'industry growth' as if it were evenly distributed. The divergence between player growth and accessible revenue is the real story.",
     "further_reading": [
       {
@@ -549,9 +549,15 @@
         "link": "https://www.thegamebusiness.com/p/the-state-of-video-games-with-matthew",
         "type": "Analysis",
         "format": ""
+      },
+      {
+        "source": "Chinese gaming market surpasses $50 billion",
+        "link": "https://nikopartners.com/chinese-gaming-market-surpasses-50-billion-as-ai-premium-gaming-and-new-monetization-models-reshape-growth/",
+        "type": "Data",
+        "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "The Game Business (Dring), Matthew Ball / Epyllion, Niko Partners, Newzoo regional reports"
   },
   {
@@ -595,7 +601,7 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "Adoption keeps rising while sentiment collapses: 52% of surveyed game professionals now say generative AI is harming the industry, up from 30% the year before and 18% the year prior, with art and narrative roles most negative. Company-level use (52%) has decoupled from individual use (36%), and the argument has moved from opinion to enforcement.",
+    "what_it_is": "Adoption keeps rising while sentiment collapses: 52% of surveyed game professionals now say generative AI is harming the industry, up from 30% the year before and 18% the year prior, with art and narrative roles most negative. Company-level use (52%) has decoupled from individual use (36%), and the argument has moved from opinion to enforcement. A European survey by Values Value and InGame Job, reported in September 2026, found the fear is pace before replacement: 61 percent expect generative AI to push them to work faster against 35 percent who fear for their role, and 35 percent of founders say they have already declined a hire because AI could do the work.",
     "why_it_matters": "Anti-AI clauses are now contract boilerplate, EU disclosure rules went live August 2, and players punish undisclosed AI at review-score speed. The conflict is being settled by lawyers and storefronts, not debate.",
     "further_reading": [
       {
@@ -611,13 +617,13 @@
         "format": ""
       },
       {
-        "source": "r/gamedev Policy on AI Use",
-        "link": "https://www.reddit.com/r/gamedev/comments/1vrnqyt/rgamedev_policy_on_ai_use/",
-        "type": "Community",
+        "source": "European game developers are more concerned that AI will pressure them to work faster rather than take their job",
+        "link": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "GDC State of the Game Industry (annual), Game Developer, Wired gaming/AI coverage, a16z Games (for the pro-adoption view)"
   },
   {
@@ -700,7 +706,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Courts are unwinding app-store control asymmetrically. Google, having lost on all counts, must carry rival stores inside Play/ Aptoide arrived in August, and a judge ordered install friction stripped within a week. Apple, having won most counts, is re-pricing rather than losing commissions: tiered external-link fees in the US, a flat 5% replacing the EU's Core Technology Fee. Enforcement is now continuous. Japan moved by statute rather than by court: the Mobile Software Competition Act took full effect on 18 December 2025, and Apple's Japan changes of the day before opened iOS to rival marketplaces and outside payments, with App Store commissions cut to 10% or 21%.",
+    "what_it_is": "Courts are unwinding app-store control asymmetrically. Google, having lost on all counts, must carry rival stores inside Play/ Aptoide arrived in August, and a judge ordered install friction stripped within a week. Apple, having won most counts, is re-pricing rather than losing commissions: tiered external-link fees in the US, a flat 5% Core Technology Commission and a 15% steering fee replacing the EU's Core Technology Fee from 18 August 2026, terms eighteen developer groups including the EGDF rejected in September as a breach of the DMA's free-steering article. Enforcement is now continuous. Japan moved by statute rather than by court: the Mobile Software Competition Act took full effect on 18 December 2025, and Apple's Japan changes of the day before opened iOS to rival marketplaces and outside payments, with App Store commissions cut to 10% or 21%.",
     "why_it_matters": "he 30% cut shaped mobile game design for 15 years. Its replacement is a supervised patchwork of tiered fees — and gatekeeping has migrated from distribution to attestation.",
     "further_reading": [
       {
@@ -722,7 +728,7 @@
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "The Verge policy desk, MacRumors legal coverage, mobilegamer.biz, European Commission DMA enforcement updates, Japan Fair Trade Commission MSCA enforcement"
   },
   {
@@ -806,7 +812,7 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "The 2021 to 2022 wave of metaverse platforms and NFT/play-to-earn games has largely collapsed or rebranded. Matthew Ball's retrospective analysis groups web3 among growth engines that failed to deliver on their hype, leaving the industry stalled. Persistent worlds and UGC ideas have survived inside Roblox/Fortnite, but the token economics mostly did not.",
+    "what_it_is": "The 2021 to 2022 wave of metaverse platforms and NFT/play-to-earn games has largely collapsed or rebranded. Matthew Ball's retrospective analysis groups web3 among growth engines that failed to deliver on their hype, leaving the industry stalled. Persistent worlds and UGC ideas have survived inside Roblox/Fortnite, but the token economics mostly did not. The exceptions are publisher-backed: Nexon's NEXPACE reported 30.98 million NXPC of first-half 2026 protocol revenue from MapleStory Universe, a running token economy inside a live IP.",
     "why_it_matters": "You will hit mountains of 2021 to 2022 coverage presenting the metaverse as the future, but it's dated intel. The surviving ideas migrated to other places, games, and platforms.",
     "further_reading": [
       {
@@ -822,13 +828,13 @@
         "format": ""
       },
       {
-        "source": "Stablecoins Gain Ground in Blockchain Gaming as Studios Tighten Spending, Study Finds",
-        "link": "https://finance.yahoo.com/news/stablecoins-gain-ground-blockchain-gaming-023901223.html",
+        "source": "NEXPACE posts 30.98 million NXPC in first-half protocol revenue",
+        "link": "https://www.invenglobal.com/articles/25725/nexpace-posts-3098-million-nxpc-in-first-half-protocol-revenue",
         "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball (who wrote the book and the post-mortems), Naavik, Digiday's Gaming Advertising coverage for brand-metaverse residue"
   },
   {
@@ -881,7 +887,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "A long-running argument about whether buying a game confers ownership, reignited each time a publisher shuts down servers and renders a purchased title unplayable. Its most visible chapter, Stop Killing Games, gathered 1,294,188 verified signatures across 24 EU member states. On 16 June 2026 the Commission declined to propose a legal obligation, citing intellectual property constraints, offering a voluntary industry code of conduct instead; the campaign has pivoted to amending the Digital Fairness Act, due Q4 2026. The fight has since globalised into three tracks. Legislation: Brazil's PL 3612/2026 would mandate point-of-sale disclosure of server dependence, a two-year minimum support window, and a state preservation fund framed as digital cultural heritage. Litigation: UFC-Que Choisir is suing Ubisoft over The Crew, and a Dutch class action targets the PlayStation Store. Archives: Japan mandates legal deposit yet bars access without rightsholder consent, pushing its Game Preservation Society to open a US office. Sony's 2028 disc cutoff has pulled the question mainstream.",
+    "what_it_is": "A long-running argument about whether buying a game confers ownership, reignited each time a publisher shuts down servers and renders a purchased title unplayable. Its most visible chapter, Stop Killing Games, gathered 1,294,188 verified signatures across 24 EU member states. On 16 June 2026 the Commission declined to propose a legal obligation, citing intellectual property constraints, offering a voluntary industry code of conduct instead; the campaign has pivoted to amending the Digital Fairness Act, due Q4 2026. The fight has since globalised into three tracks. Legislation: Brazil's PL 3612/2026 would mandate point-of-sale disclosure of server dependence, a two-year minimum support window, and a state preservation fund framed as digital cultural heritage. Litigation: UFC-Que Choisir is suing Ubisoft over The Crew, and a Dutch class action targets the PlayStation Store. Archives: Japan mandates legal deposit yet bars access without rightsholder consent, pushing its Game Preservation Society to open a US office. Sony's 2028 disc cutoff has pulled the question mainstream. In September 2026 the argument reached the console itself: Xbox's Disc-to-Digital, which converts a disc into a digital licence, launched to Insiders with Sega, Square Enix, Ubisoft and Bandai Namco discs returning \"not participating\", while GOG began printing big-box artwork under its preservation programme.",
     "why_it_matters": "The clearest current test of what consumers believe they are buying, and a natural experiment in which legal systems convert organised player sentiment into binding rules. So far the answer is neither Brussels nor Washington, but civil-law jurisdictions using heritage framing and consumer litigation.",
     "further_reading": [
       {
@@ -891,9 +897,9 @@
         "format": ""
       },
       {
-        "source": "When did StopKillingGames turn into WeWantPhysical",
-        "link": "https://www.reddit.com/r/StopKillingGames/comments/1vri0w0/when_did_stopkillinggames_turn_into_wewantphysical/",
-        "type": "Community",
+        "source": "GOG brings back \"big box\" PC games, one printable template at a time",
+        "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+        "type": "Reporting",
         "format": ""
       },
       {
@@ -903,7 +909,7 @@
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "European Citizens' Initiative register, stopkillinggames.com, r/StopKillingGames, Bellular News (YouTube), Digital Fairness Act consultations, UFC-Que Choisir, Video Games Europe statements"
   },
   {
@@ -917,7 +923,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Union drives hardened into institutions during the layoff era: 82% of US-based respondents to GDC's 2026 survey support unionisation, and one in four were laid off in the last two years. Microsoft's studios host the largest US unions and CWA's direct-join model now recruits across employers. Six European unions signed a cross-border action plan; France struck nationally. Nordic sectoral agreements remain the mature template.",
+    "what_it_is": "Union drives hardened into institutions during the layoff era: 82% of US-based respondents to GDC's 2026 survey support unionisation, and one in four were laid off in the last two years. Microsoft's studios host the largest US unions and CWA's direct-join model now recruits across employers. Six European unions signed a cross-border action plan; France struck nationally. Nordic sectoral agreements remain the mature template. In September 2026 about 1,900 Blizzard workers ratified a CWA master contract with layoff recall rights, four extra weeks of severance and a duty on Microsoft to bargain over AI use, while the final tribunal hearing over Rockstar North's dismissal of union members opened in the UK.",
     "why_it_matters": "Labor is becoming a durable counterparty on layoffs, AI disclosure, and crunch, with legal precedent now in play.",
     "further_reading": [
       {
@@ -933,13 +939,13 @@
         "format": ""
       },
       {
-        "source": "Rockstar faces union busting allegations",
-        "link": "https://www.pcgamer.com/gaming-industry/rockstar-faces-legal-setback-as-uk-tribunal-allows-its-fired-workers-to-bring-every-one-of-their-union-busting-allegations-to-trial/",
+        "source": "Blizzard union workers ratify historic contract covering 1,900 employees",
+        "link": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
         "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Game Workers of America / CWA announcements, Game Developer labor desk, GDC State of the Game Industry, IGDA"
   },
   {
@@ -990,7 +996,7 @@
       "MENA",
       "US"
     ],
-    "what_it_is": "The VC money is gone and the correction is over — this is the aftermath. What's left is a two-pillar economy: publisher-run circuits and Saudi-funded events (Esports World Cup, $75m prize pool, ~$20m distributed to 40 partner clubs). Global revenue is ~$5.34b and growing, but teams are the weakest link. Break-even is now a headline achievement, not a baseline: DRX is filing for a Singapore listing on the strength of $8.6m revenue and two consecutive break-even years. Franchising starts unwinding into open qualifiers in 2027.",
+    "what_it_is": "The VC money is gone and the correction is over — this is the aftermath. What's left is a two-pillar economy: publisher-run circuits and Saudi-funded events (Esports World Cup, $75m prize pool, ~$20m distributed to 40 partner clubs). Global revenue is ~$5.34b and growing, but teams are the weakest link. Break-even is now a headline achievement, not a baseline: DRX is filing for a Singapore listing on the strength of $8.6m revenue and two consecutive break-even years. Franchising starts unwinding into open qualifiers in 2027. Streams Charts' read of EWC 2026's co-streams put India first by hours watched at 12.2 percent, the top three countries only 32 percent combined and English 30 percent of the language mix, before an audience 89 percent male and a third aged 20 to 24.",
     "why_it_matters": "Two traps. First, 2019-2021 \"next NBA\" content is worthless — but so is 2023-2024 \"esports winter\" content, which describes a collapse that already resolved. Second, sovereign capital is now the ecosystem's floor, which makes Gulf geopolitics a scheduling risk: the inaugural Esports Nations Cup just slipped a full year. Fans read consolidation and IPOs as founder exits, not growth.",
     "further_reading": [
       {
@@ -1006,13 +1012,13 @@
         "format": ""
       },
       {
-        "source": "First Esports Nations Cup delayed until 2027",
-        "link": "https://www.tiktok.com/@bbcnews/video/7675483418607619330",
-        "type": "Community",
-        "format": "video"
+        "source": "Who watched EWC 2026 co-streams? Audience demographics and key markets",
+        "link": "https://streamscharts.com/news/who-watched-ewc-2026-co-streams",
+        "type": "Data",
+        "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "SportBusiness, Esports Insider, Sports Business Journal esports desk, Esports Charts viewership data"
   },
   {
@@ -1207,7 +1213,7 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "New releases take 12 to 13% of total player time across PC and console and have for three years, with Xbox highest at 18% on Game Pass availability. Playtime is concentrated, 80% of it in 79 games on PC, 74 on PlayStation and 91 on Xbox, but that concentration loosened in 2025 and PC playtime growth since 2022 has come entirely from titles outside the top 20. Price architecture differs sharply: 76 to 79% of console revenue comes from games above $50, while PC splits near-evenly across sub-$30, $30 to $50 and above.",
+    "what_it_is": "New releases take 12 to 13% of total player time across PC and console and have for three years, with Xbox highest at 18% on Game Pass availability. Playtime is concentrated, 80% of it in 79 games on PC, 74 on PlayStation and 91 on Xbox, but that concentration loosened in 2025 and PC playtime growth since 2022 has come entirely from titles outside the top 20. Price architecture differs sharply: 76 to 79% of console revenue comes from games above $50, while PC splits near-evenly across sub-$30, $30 to $50 and above. On the money side, Alinea Analytics estimates Steam took more than $15 billion gross in the first eight months of 2026 with the top 100 new 2026 releases about 16 percent of it, Forza Horizon 6 the largest at roughly $210 million.",
     "why_it_matters": "A new game competes against the back catalogue for attention and against its own discounted history on price. “Record catalog revenue” in an earnings release and a struggling launch are often the same fact seen twice.",
     "further_reading": [
       {
@@ -1223,13 +1229,13 @@
         "format": ""
       },
       {
-        "source": "Steam users spent only 15% of their time on games released in 2024",
-        "link": "https://gamedevreports.substack.com/p/steam-users-spent-only-15-of-their",
-        "type": "Data",
+        "source": "Valve has reportedly made £11bn from Steam already in 2026, and biggest earning new arrival is Forza Horizon 6",
+        "link": "https://www.eurogamer.net/forza-horizon-6-biggest-steam-new-release-11-billion-gbp",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Aug 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Newzoo PC and Console Gaming Report (annual), GameDiscoverCo, Circana Player Engagement Tracker, Valve's Steam Replay"
   },
   {

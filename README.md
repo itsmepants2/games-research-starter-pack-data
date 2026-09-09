@@ -42,7 +42,7 @@ There is no ID column. Rows are identified by name, and row order is export orde
 | [`data/sources.json`](data/sources.json) | 887 | The same rows, as JSON. |
 | [`data/markets.json`](data/markets.json) | 10 | Per-market claims and population figures, nested. Every claim carries the source and link it came from; every population figure carries the definition saying who was counted. |
 | [`data/trends.csv`](data/trends.csv) | 37 | The trends currently moving the industry, with stage, category and the markets each lands in. |
-| [`data/trend-reading.csv`](data/trend-reading.csv) | 109 | The further reading attached to each trend. One row per link. |
+| [`data/trend-reading.csv`](data/trend-reading.csv) | 110 | The further reading attached to each trend. One row per link. |
 | [`data/trends.json`](data/trends.json) | 37 | Trends with their reading attached. |
 | [`data/platforms.csv`](data/platforms.csv) | 35 | Storefronts, consoles, livestreaming and UGC platforms, with who owns each. |
 | [`data/genres.csv`](data/genres.csv) | 30 | Genre definitions, local-language terms and subgenres. |
