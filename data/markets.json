@@ -185,11 +185,11 @@
       "Shape": [
         {
           "kind": "Narrative",
-          "claim": "Games are a mainstream medium in Germany, with around 37.5 million people playing, six in ten of those aged 6 to 69, and an average player age of about 40.",
+          "claim": "Games are a mainstream medium in Germany, with 41.2 million people playing, six in ten of those aged 6 to 69, an average age of 38.3, 79 percent of players adults and 46 percent women, per the game Jahresreport 2026, published on 12 August 2026 and covering 2025. The 2025 report had put it at around 37.5 million with an average age of about 40.",
           "card_text": "",
-          "year": "",
-          "source": "game Jahresreport der deutschen Games-Branche 2025, industry association report",
-          "link": "https://www.game.de/wp-content/uploads/2025/08/Jahresreport-der-deutschen-Games-Branche-2025.pdf"
+          "year": "2025",
+          "source": "game Jahresreport der deutschen Games-Branche 2026, industry association annual report, 12 August 2026",
+          "link": "https://www.game.de/wp-content/uploads/2026/08/Jahresreport-der-deutschen-Games-Branche-2026-1-1.pdf"
         },
         {
           "kind": "Narrative",
@@ -337,11 +337,11 @@
       "Standing": [
         {
           "kind": "Narrative",
-          "claim": "Europe's largest games market, according to the game Jahresreport der deutschen Games-Branche 2025, August 2025.",
+          "claim": "Europe's largest games market and the fifth largest in the world, according to the game Jahresreport der deutschen Games-Branche 2026, published 12 August 2026.",
           "card_text": "",
           "year": "",
-          "source": "game Verband Jahresreport 2025, industry association annual report",
-          "link": "https://www.game.de/wp-content/uploads/2025/08/Jahresreport-der-deutschen-Games-Branche-2025.pdf"
+          "source": "game Jahresreport der deutschen Games-Branche 2026, industry association annual report, 12 August 2026",
+          "link": "https://www.game.de/wp-content/uploads/2026/08/Jahresreport-der-deutschen-Games-Branche-2026-1-1.pdf"
         }
       ]
     },
@@ -679,11 +679,11 @@
       "Standing": [
         {
           "kind": "Research note",
-          "claim": "Do not look for Japan's world rank in a Japanese source, because none states one. CESA and the Famitsu Game White Paper publish a domestic market size and a global total in regional tables, not a country ranking. A rank for Japan has to come from an analyst outside Japan, on that analyst's basis.",
+          "claim": "Do not look for Japan's world rank in a Japanese source, because none states one. CESA and the Famitsu Game White Paper 2026 publish a domestic market size and a global total, 32.1024 trillion yen or 214.56 billion dollars for 2025, in regional tables rather than a country ranking. A rank for Japan has to come from an analyst outside Japan, on that analyst's basis.",
           "card_text": "",
           "year": "",
-          "source": "Kadokawa ASCII Research Institute release for Famitsu Game White Paper 2025, publisher release",
-          "link": "https://prtimes.jp/main/html/rd/p/000000197.000017610.html"
+          "source": "Kadokawa ASCII Research Institute release for Famitsu Game White Paper 2026, 6 August 2026, publisher release",
+          "link": "https://prtimes.jp/main/html/rd/p/000000257.000017610.html"
         }
       ],
       "Market size": [
@@ -1309,11 +1309,11 @@
         },
         {
           "kind": "Narrative",
-          "claim": "The player base is middle aged and long tenured. The average player is 36 years old and has played for 18 years, 60 percent of adults play weekly, and play persists into late life with 49 percent of boomers and 36 percent of the Silent Generation playing weekly.",
+          "claim": "The player base is middle aged and long tenured. The average player is 37 years old, 71 percent of millennials, 56 percent of Gen X and 50 percent of boomers play weekly, and play persists into late life with 32 percent of the Silent Generation, aged 81 to 90, playing weekly, per the ESA 2026 Essential Facts report, surveyed by YouGov among 13,545 people in February 2026.",
           "card_text": "",
-          "year": "",
-          "source": "ESA 2025 Essential Facts report, industry association survey",
-          "link": "https://www.theesa.com/annual-esa-study-reveals-video-games-universal-appeal-across-generations/"
+          "year": "2026",
+          "source": "ESA 2026 Essential Facts report, industry association survey with YouGov, 3 June 2026",
+          "link": "https://www.theesa.com/two-thirds-of-americans-play-video-games-every-week-according-tonew-report-from-the-entertainment-software-association/"
         },
         {
           "kind": "Narrative",
@@ -2359,19 +2359,19 @@
       "Shape": [
         {
           "kind": "Narrative",
-          "claim": "Spending concentrates in software. Software grows 11 percent to 1.8 billion euros and represents 77 percent of the total, with apps at 903 million euros and digital at 715 million euros, while hardware falls 18 percent to 548 million euros.",
+          "claim": "Spending concentrates in software. Software is about 1.8 billion euros in 2025, down 1 percent and 77 percent of the total; smartphone games take 929 million euros, and among console and PC games digital is 59 percent at 328 million euros against 41 percent physical at 231 million; consoles grow 3 percent to about 400 million euros and accessories fall 5 percent to 152 million.",
           "card_text": "",
-          "year": "",
-          "source": "IIDEA annual report press release, trade body",
-          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+          "year": "2025",
+          "source": "IIDEA annual report press release, 13 May 2026, trade body",
+          "link": "https://iideassociation.com/videogiochi-in-italia-mercato-stabile-a-24-miliardi-cresce-il-tempo-di-gioco-digitale-e-abbonamenti-in-espansione-fisico-ancora-rilevante/"
         },
         {
           "kind": "Narrative",
-          "claim": "14 million people in Italy identify as players in 2024, up about 8 percent, representing 33 percent of the population aged 6 to 64, with an average age of about 31, and 8.2 million men against 5.7 million women, the latter up 14 percent.",
+          "claim": "14.2 million people in Italy play video games in 2025, stable on the previous year, 60 percent men and 40 percent women, about 60 percent under 35, playing 7 hours 53 minutes a week on average and up to 15 hours among 12 to 17 year olds.",
           "card_text": "",
-          "year": "",
-          "source": "IIDEA annual report press release, trade body",
-          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+          "year": "2025",
+          "source": "IIDEA annual report press release, 13 May 2026, trade body",
+          "link": "https://iideassociation.com/videogiochi-in-italia-mercato-stabile-a-24-miliardi-cresce-il-tempo-di-gioco-digitale-e-abbonamenti-in-espansione-fisico-ancora-rilevante/"
         },
         {
           "kind": "Narrative",
@@ -2391,7 +2391,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "IIDEA's report lands each spring for the previous year, so quote the edition with the figure. The edition for 2025, presented on 13 May 2026, puts players at 14.2 million, 60 percent male and about 60 percent under 35, playing 7 hours 53 minutes a week on average, with software at 1.8 billion euros, consoles near 400 million and subscriptions at 153 million; the 2024 rows in this profile carry the earlier edition's demographics.",
+          "claim": "IIDEA's report lands each spring for the previous year, so quote the edition with the figure. The edition for 2025 was presented on 13 May 2026, and this profile's 2025 figures are that edition's; the studio census figures still carry the earlier edition, which the 2025 release does not restate.",
           "card_text": "",
           "year": "2025",
           "source": "IIDEA annual report press release, 13 May 2026, trade body",
@@ -2461,11 +2461,11 @@
       "Venues": [
         {
           "kind": "Narrative",
-          "claim": "Mobile leads device use. 10.4 million Italian players use smartphones and tablets in 2024, up 12 percent, followed by 6.2 million on console, up 11.5 percent, and 4.8 million on PC, up 5 percent.",
+          "claim": "Mobile leads device use. 11.1 million Italian players use a smartphone in 2025, followed by 6.5 million on console and 3.7 million on PC.",
           "card_text": "Mobile leads, then console, then PC",
-          "year": "",
-          "source": "IIDEA annual report press release, trade body",
-          "link": "https://iideassociation.com/videogiochi-nel-2024-consumi-per-quasi-24-miliardi-di-euro-e-14-milioni-di-appassionati-cresce-il-made-in-italy-con-un-25-di-imprese-17-di-occupati-e-36-di-fatturato/"
+          "year": "2025",
+          "source": "IIDEA annual report press release, 13 May 2026, trade body",
+          "link": "https://iideassociation.com/videogiochi-in-italia-mercato-stabile-a-24-miliardi-cresce-il-tempo-di-gioco-digitale-e-abbonamenti-in-espansione-fisico-ancora-rilevante/"
         },
         {
           "kind": "Narrative",
