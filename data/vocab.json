@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-09T18:56:10Z",
+  "as_of": "2026-09-10T20:55:24Z",
   "medium": {
     "News outlet": 321,
     "Organisation": 125,
@@ -8,17 +8,17 @@
     "Person": 62,
     "Podcast": 48,
     "Data tool": 47,
-    "Book or paper": 42,
+    "Book or paper": 41,
     "Company disclosure": 35,
-    "Report or document": 31,
+    "Report or document": 32,
     "Newsletter": 26,
     "Research firm": 12,
     "Link list": 7
   },
   "group": {
     "Press": 347,
-    "Media": 153,
-    "Institutions": 139,
+    "Media": 152,
+    "Institutions": 140,
     "Data": 111,
     "People": 69,
     "Communities": 68
@@ -136,7 +136,8 @@
       "Parent guidance platform": 3,
       "Union or worker organisation": 3,
       "Funding body": 2,
-      "Cultural institution": 1
+      "Cultural institution": 1,
+      "Conference proceedings": 1
     },
     "Press": {
       "Games news site": 79,
@@ -182,7 +183,6 @@
       "VTuber and persona-led": 2,
       "Peer-reviewed journal": 2,
       "Industry and business": 1,
-      "Conference proceedings": 1,
       "Industry yearbook": 1
     },
     "People": {

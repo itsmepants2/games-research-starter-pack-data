@@ -6134,6 +6134,30 @@
     "audience": []
   },
   {
+    "slug": "digra-digital-library",
+    "name": "DiGRA digital library",
+    "group": "Institutions",
+    "medium": "Report or document",
+    "format": "Conference proceedings",
+    "what_it_lets_you_find_out": "Open conference papers where emerging games-research topics appear first: the DiGRA and DiGRA/FDG proceedings. The papers carry no DOI, so citation indexes see few of them; search the library itself.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://dl.digra.org",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "this-week-in-video-games",
     "name": "This Week in Video Games",
     "group": "Press",
@@ -17561,30 +17585,6 @@
     ],
     "cost": "Free",
     "link": "https://gamestudies.org",
-    "extra_links": [],
-    "owner": "",
-    "ownership_note": "",
-    "beat": "",
-    "where_they_post": "",
-    "year": "",
-    "isbn": "",
-    "audience": []
-  },
-  {
-    "slug": "digra-digital-library",
-    "name": "DiGRA digital library",
-    "group": "Media",
-    "medium": "Book or paper",
-    "format": "Conference proceedings",
-    "what_it_lets_you_find_out": "Open conference papers where emerging games-research topics appear first",
-    "markets": [
-      "Global"
-    ],
-    "language": [
-      "English"
-    ],
-    "cost": "Free",
-    "link": "https://dl.digra.org",
     "extra_links": [],
     "owner": "",
     "ownership_note": "",
