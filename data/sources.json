@@ -5,7 +5,7 @@
     "group": "Data",
     "medium": "Data tool",
     "format": "Analytics platform",
-    "what_it_lets_you_find_out": "The reference standard for mobile downloads and revenue estimates, with annual Mobile Gaming reports, genre taxonomies and ad intelligence. Time-spent figures roll up from top-20 subgenre lists (~62 to 74% coverage), so treat them as lower-bound floors. Excludes China Android. The ESA's data partner for US spending figures. Enterprise pricing is custom. Some free reports.",
+    "what_it_lets_you_find_out": "The reference standard for mobile downloads and revenue estimates, with annual Mobile Gaming reports, genre taxonomies and ad intelligence. The paid usage product also estimates each app's audience by age bracket and gender per country, modelled from its own panel of mobile users, so check the panel's age floor before using it for children. Time-spent figures roll up from top-20 subgenre lists (~62 to 74% coverage), so treat them as lower-bound floors. Excludes China Android. The ESA's data partner for US spending figures. Enterprise pricing is custom. Some free reports.",
     "markets": [
       "Global"
     ],
@@ -367,7 +367,7 @@
     "group": "Data",
     "medium": "Research firm",
     "format": "Market research firm",
-    "what_it_lets_you_find_out": "Free Global Games Market Reports with standard industry market-sizing language and some gamer segmentation models. Headline numbers are widely cited but the methodology is opaque Free reports and rankings, paid platform and custom work.",
+    "what_it_lets_you_find_out": "Free Global Games Market Reports with standard industry market-sizing language and some gamer segmentation models. The paid platform tracks per-game monthly and daily actives across PC, console and mobile with age and gender by market, built on a consumer study of ages 10 to 65 in 36 markets, which makes it one of the few places a game's audience profile by age can be bought. Headline numbers are widely cited but the methodology is opaque. Free reports and rankings, paid platform and custom work.",
     "markets": [
       "Global",
       "NL"
@@ -418,7 +418,7 @@
     "group": "Data",
     "medium": "Data tool",
     "format": "Sales tracking",
-    "what_it_lets_you_find_out": "US physical+digital games retail tracking. Monthly US charts via analyst social posts. US-centric, and digital coverage depends on publisher participation Enterprise pricing is custom. Some free press releases.",
+    "what_it_lets_you_find_out": "US physical+digital games retail tracking. Monthly US charts via analyst social posts. PlayerPulse, its monthly survey of US players aged 13 and over, gives per-title player demographics including age, and the Player Engagement Tracker counts weekly US players per title; both surface only through analyst posts unless you subscribe. US-centric, and digital coverage depends on publisher participation. Enterprise pricing is custom. Some free press releases.",
     "markets": [
       "CA",
       "US"
@@ -471,7 +471,7 @@
     "group": "Data",
     "medium": "Research firm",
     "format": "Market research firm",
-    "what_it_lets_you_find_out": "Console/subscription market analysis and forecasts with good free commentary on platform economics. Paid product, and the free layer is analyst quotes and summaries",
+    "what_it_lets_you_find_out": "Console/subscription market analysis and forecasts with good free commentary on platform economics. Games Consumer, its online survey of about 46,000 respondents aged 13 to 64 across 22 markets, profiles who plays what by age and market, and Games Analytics tracks title activity on Xbox, PlayStation and Steam. Paid product, and the free layer is analyst quotes and summaries.",
     "markets": [
       "Global",
       "UK"
@@ -484,6 +484,80 @@
     "extra_links": [],
     "owner": "Independent",
     "ownership_note": "Private UK research firm.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "gwi",
+    "name": "GWI",
+    "group": "Data",
+    "medium": "Research firm",
+    "format": "Market research firm",
+    "what_it_lets_you_find_out": "Syndicated consumer survey across 50-plus markets, with a GWI Gaming module run twice a year in 18 markets among internet users aged 16 to 64 (65-plus added in eight markets from 2024). Asked identically everywhere with localised brand lists, so it can profile a game's players by age and market where the questionnaire names the title. Under-16s are outside the panel, so it cannot answer a children's question. Paid, with free trend reports.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Paid",
+    "link": "https://www.gwi.com/gaming",
+    "extra_links": [],
+    "owner": "GWI",
+    "ownership_note": "Private, London. Founded 2009 by Tom Smith; a Permira-led Series B of over $180M in 2021 valued it above $850M.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "yougov",
+    "name": "YouGov",
+    "group": "Data",
+    "medium": "Research firm",
+    "format": "Market research firm",
+    "what_it_lets_you_find_out": "Profiles, its audience platform, treats games as brands and gives a title's audience by age, gender and media habits across 49 markets from a panel of 30 million. The free Ratings pages rank video games by fame and popularity among US adults, filterable by generation and gender, which is the cheapest per-game audience read that exists. Adults only, so nothing on children. Also the survey partner behind game's official German market data.",
+    "markets": [
+      "Global",
+      "UK",
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Freemium",
+    "link": "https://yougov.com/business/products/profiles",
+    "extra_links": [],
+    "owner": "YouGov plc",
+    "ownership_note": "Listed on the London Stock Exchange.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "quantic-foundry",
+    "name": "Quantic Foundry",
+    "group": "Data",
+    "medium": "Research firm",
+    "format": "Market research firm",
+    "what_it_lets_you_find_out": "The Gamer Motivation Profile, an opt-in survey, and the free blog and reports built on it: an age report from 177,410 gamers aged 13 to 74 showing how motivations, genres and named games shift with age, plus per-game audience profiles. Self-selected respondents rather than a panel, so shares are indicative. Free findings, paid analytics.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Freemium",
+    "link": "https://quanticfoundry.com/",
+    "extra_links": [],
+    "owner": "Quantic Foundry",
+    "ownership_note": "Private, co-founded in 2015 by Nick Yee and Nicolas Ducheneaut, both formerly of PARC.",
     "beat": "",
     "where_they_post": "",
     "year": "",
@@ -2090,7 +2164,7 @@
     "group": "Data",
     "medium": "Company disclosure",
     "format": "Corporate IR",
-    "what_it_lets_you_find_out": "DAU by region and age (13+ split), hours engaged, developer payouts",
+    "what_it_lets_you_find_out": "DAUs, hours engaged, bookings and developer payouts, with DAUs by region every quarter. The under-13 and 13-and-over DAU split, self-reported, ran in the quarterly supplemental deck through Q3 2025 and was dropped for the move to age checks; since Q1 2026 the shareholder letter gives only a percentage split of age-checked users, with a note that it is not comparable to the old series. The supplemental deck lives on ir.roblox.com, not in the 10-Q.",
     "markets": [
       "Global",
       "US"

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-11T17:52:19Z",
+  "as_of": "2026-09-11T19:37:53Z",
   "medium": {
     "News outlet": 321,
     "Organisation": 125,
@@ -12,24 +12,24 @@
     "Company disclosure": 35,
     "Report or document": 32,
     "Newsletter": 26,
-    "Research firm": 12,
+    "Research firm": 15,
     "Link list": 7
   },
   "group": {
     "Press": 347,
     "Media": 152,
     "Institutions": 140,
-    "Data": 111,
+    "Data": 114,
     "Communities": 95,
     "People": 69
   },
   "markets": {
-    "US": 167,
-    "Global": 138,
+    "US": 168,
+    "Global": 141,
     "JP": 137,
     "KR": 86,
     "Not market specific": 63,
-    "UK": 60,
+    "UK": 61,
     "DE": 49,
     "FR": 36,
     "CN": 33,
@@ -80,7 +80,7 @@
     "Asia": "tagged"
   },
   "language": {
-    "English": 519,
+    "English": 522,
     "Japanese": 117,
     "Korean": 75,
     "German": 51,
@@ -112,7 +112,7 @@
       "Creator tracking": 21,
       "Industry report": 15,
       "Analytics platform": 14,
-      "Market research firm": 6,
+      "Market research firm": 9,
       "Genre taxonomy": 6,
       "Adjacent research body": 6,
       "Corporate filings": 5,
@@ -205,8 +205,8 @@
   },
   "cost": {
     "Free": 418,
-    "Paid": 53,
-    "Freemium": 46,
+    "Paid": 54,
+    "Freemium": 48,
     "Unknown": 7
   },
   "trend_stage": {
@@ -225,19 +225,19 @@
   },
   "coverage": {
     "sources": {
-      "slug": 914,
-      "name": 914,
-      "group": 914,
-      "medium": 914,
-      "format": 914,
-      "what_it_lets_you_find_out": 914,
-      "markets": 914,
-      "language": 914,
-      "cost": 524,
-      "link": 914,
+      "slug": 917,
+      "name": 917,
+      "group": 917,
+      "medium": 917,
+      "format": 917,
+      "what_it_lets_you_find_out": 917,
+      "markets": 917,
+      "language": 917,
+      "cost": 527,
+      "link": 917,
       "extra_links": 0,
-      "owner": 497,
-      "ownership_note": 117,
+      "owner": 500,
+      "ownership_note": 120,
       "beat": 69,
       "where_they_post": 69,
       "year": 39,
