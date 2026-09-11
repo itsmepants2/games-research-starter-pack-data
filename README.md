@@ -2,11 +2,11 @@
 
 A directory of the press, institutions, datasets, media, people and communities behind the video games industry across **ten markets**, plus the trends, platforms and genres that frame them.
 
-**887 sources. 10 markets. 37 trends. 35 platforms. 30 genres.** Every source was opened and read before its description was written.
+**914 sources. 10 markets. 37 trends. 35 platforms. 30 genres.** Every source was opened and read before its description was written.
 
 The site is at **https://games.thisisdelightful.com** — this repository is the data behind it, in the same files the site offers for download.
 
-Directory last compiled 10 September 2026.
+Directory last compiled 11 September 2026.
 
 ## Licence
 
@@ -38,8 +38,8 @@ There is no ID column. Rows are identified by name, and row order is export orde
 
 | File | Rows | What it is |
 |---|---|---|
-| [`data/sources.csv`](data/sources.csv) | 887 | Every source in the directory: outlet, institution, dataset, podcast, book, person or community, with what it lets you find out, who owns it, what it costs, which markets it covers and what to watch for. |
-| [`data/sources.json`](data/sources.json) | 887 | The same rows, as JSON. |
+| [`data/sources.csv`](data/sources.csv) | 914 | Every source in the directory: outlet, institution, dataset, podcast, book, person or community, with what it lets you find out, who owns it, what it costs, which markets it covers and what to watch for. |
+| [`data/sources.json`](data/sources.json) | 914 | The same rows, as JSON. |
 | [`data/markets.json`](data/markets.json) | 10 | Per-market claims and population figures, nested. Every claim carries the source and link it came from; every population figure carries the definition saying who was counted. |
 | [`data/trends.csv`](data/trends.csv) | 37 | The trends currently moving the industry, with stage, category and the markets each lands in. |
 | [`data/trend-reading.csv`](data/trend-reading.csv) | 110 | The further reading attached to each trend. One row per link. |
@@ -64,7 +64,7 @@ Brazil and India are next. Nine further markets — Australia, Spain, Mexico, Ne
 
 The files are small enough to hand to a model directly, and `sources.csv` is the one to start with. Two things worth putting in the prompt:
 
-- **Ask it to quote rows rather than summarise them.** A model handed 887 rows in a chat window starts summarising, and summarising is where invented rows come from.
+- **Ask it to quote rows rather than summarise them.** A model handed 914 rows in a chat window starts summarising, and summarising is where invented rows come from.
 - **Tell it not to compare market-size figures.** See the warning above; it is the mistake this data makes easiest.
 
 The site's [data and download page](https://games.thisisdelightful.com/doc/data-and-download) carries a field-by-field dictionary and several ready-made prompts.

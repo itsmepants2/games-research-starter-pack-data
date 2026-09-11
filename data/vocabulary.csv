@@ -1,7 +1,7 @@
 facet,within_group,value,rows
 medium,,News outlet,321
 medium,,Organisation,125
-medium,,Forum or community,68
+medium,,Forum or community,95
 medium,,Video channel,63
 medium,,Person,62
 medium,,Podcast,48
@@ -16,9 +16,9 @@ group,,Press,347
 group,,Media,152
 group,,Institutions,140
 group,,Data,111
+group,,Communities,95
 group,,People,69
-group,,Communities,68
-markets,,US,140
+markets,,US,167
 markets,,Global,138
 markets,,JP,137
 markets,,KR,86
@@ -44,7 +44,7 @@ markets,,TW,12
 markets,,EU,7
 markets,,LATAM,4
 markets,,Asia,2
-market_kind,profiled,US,140
+market_kind,profiled,US,167
 market_kind,scope,Global,138
 market_kind,profiled,JP,137
 market_kind,profiled,KR,86
@@ -70,7 +70,7 @@ market_kind,tagged,TW,12
 market_kind,tagged,EU,7
 market_kind,tagged,LATAM,4
 market_kind,tagged,Asia,2
-language,,English,492
+language,,English,519
 language,,Japanese,117
 language,,Korean,75
 language,,German,51
@@ -167,7 +167,7 @@ format,Media,Industry and business,1
 format,Media,Industry yearbook,1
 format,People,Individual,62
 format,People,List,7
-format,Communities,Subreddit,26
+format,Communities,Subreddit,53
 format,Communities,Forum,21
 format,Communities,Community wiki,4
 format,Communities,Platform-native,4
@@ -178,7 +178,7 @@ format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,391
+cost,,Free,418
 cost,,Paid,53
 cost,,Freemium,46
 cost,,Unknown,7
@@ -192,16 +192,16 @@ trend_category,,Platform & distribution,7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,4
 trend_category,,Technology,3
-coverage,sources,slug,887
-coverage,sources,name,887
-coverage,sources,group,887
-coverage,sources,medium,887
-coverage,sources,format,887
-coverage,sources,what_it_lets_you_find_out,887
-coverage,sources,markets,887
-coverage,sources,language,887
-coverage,sources,cost,497
-coverage,sources,link,887
+coverage,sources,slug,914
+coverage,sources,name,914
+coverage,sources,group,914
+coverage,sources,medium,914
+coverage,sources,format,914
+coverage,sources,what_it_lets_you_find_out,914
+coverage,sources,markets,914
+coverage,sources,language,914
+coverage,sources,cost,524
+coverage,sources,link,914
 coverage,sources,extra_links,0
 coverage,sources,owner,497
 coverage,sources,ownership_note,117

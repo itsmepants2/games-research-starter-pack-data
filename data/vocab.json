@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-09-10T20:55:24Z",
+  "as_of": "2026-09-11T17:52:19Z",
   "medium": {
     "News outlet": 321,
     "Organisation": 125,
-    "Forum or community": 68,
+    "Forum or community": 95,
     "Video channel": 63,
     "Person": 62,
     "Podcast": 48,
@@ -20,11 +20,11 @@
     "Media": 152,
     "Institutions": 140,
     "Data": 111,
-    "People": 69,
-    "Communities": 68
+    "Communities": 95,
+    "People": 69
   },
   "markets": {
-    "US": 140,
+    "US": 167,
     "Global": 138,
     "JP": 137,
     "KR": 86,
@@ -80,7 +80,7 @@
     "Asia": "tagged"
   },
   "language": {
-    "English": 492,
+    "English": 519,
     "Japanese": 117,
     "Korean": 75,
     "German": 51,
@@ -190,7 +190,7 @@
       "List": 7
     },
     "Communities": {
-      "Subreddit": 26,
+      "Subreddit": 53,
       "Forum": 21,
       "Community wiki": 4,
       "Platform-native": 4,
@@ -204,7 +204,7 @@
     }
   },
   "cost": {
-    "Free": 391,
+    "Free": 418,
     "Paid": 53,
     "Freemium": 46,
     "Unknown": 7
@@ -225,16 +225,16 @@
   },
   "coverage": {
     "sources": {
-      "slug": 887,
-      "name": 887,
-      "group": 887,
-      "medium": 887,
-      "format": 887,
-      "what_it_lets_you_find_out": 887,
-      "markets": 887,
-      "language": 887,
-      "cost": 497,
-      "link": 887,
+      "slug": 914,
+      "name": 914,
+      "group": 914,
+      "medium": 914,
+      "format": 914,
+      "what_it_lets_you_find_out": 914,
+      "markets": 914,
+      "language": 914,
+      "cost": 524,
+      "link": 914,
       "extra_links": 0,
       "owner": 497,
       "ownership_note": 117,
