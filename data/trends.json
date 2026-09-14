@@ -111,7 +111,7 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "Live service means games built on an ongoing content and monetization cadence rather than a one-time sale. Entrants keep failing in a crowded field: Anthem went offline in January, Highguard lasted under two months. In 2026 the retreat sharpened — Guerrilla stripped live service out of Horizon Hunters Gathering mid-development, and Amazon exited MMO publishing entirely. In September 2026 Sega said it had cancelled its Super Game, a live-service project it judged too big to reach service scale, and Riot's co-founder said the free-to-play publisher is considering premium titles.",
+    "what_it_is": "Live service means games built on an ongoing content and monetization cadence rather than a one-time sale. Entrants keep failing in a crowded field: Anthem went offline in January, Highguard lasted under two months. In 2026 the retreat sharpened — Guerrilla stripped live service out of Horizon Hunters Gathering mid-development, and Amazon exited MMO publishing entirely. In September 2026 Sega said it had cancelled its Super Game, a live-service project it judged too big to reach service scale, and Riot's co-founder said the free-to-play publisher is considering premium titles. The incumbents are not absorbing the space the entrants vacate: Newzoo's first-half 2026 read, reported in September 2026, found most established live-service and evergreen titles flat or down year on year, with growth confined to a handful of them.",
     "why_it_matters": "The pattern shapes what gets greenlit and which studios close. The portfolio math is under attack — greenlight fifteen, assume one hits — though developers argue saturation often just excuses bad games.",
     "further_reading": [
       {
@@ -121,8 +121,8 @@
         "format": ""
       },
       {
-        "source": "Market saturation is a developer concern in GDC's 2026 State of Gaming",
-        "link": "https://reg.gdconf.com/2026-SOTI/",
+        "source": "Newzoo: Most established live-service and evergreen titles were flat or down year over year in H1 2026",
+        "link": "https://www.gamesindustry.biz/newzoo-most-established-live-service-and-evergreen-titles-were-flat-or-down-year-over-year-in-h1-2026",
         "type": "Data",
         "format": ""
       },
@@ -146,7 +146,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Game Pass is reportedly down to about 30 million paying subscribers, against an internal projection of ~77 million by 2026 revealed in FTC proceedings, after a price hike to $29.99 a month in October 2025 drove churn; Microsoft rolled Ultimate back to $22.99 on 26 April 2026. Sony has stopped reporting PS Plus subscriber counts. From November 2026 Xbox meters cloud streaming rather than bundling it: 15 hours a month on Ultimate, 10 on Premium, 5 on Essential, with extra hours sold separately. Microsoft puts the affected share at 4% of subscribers. Within a week of the cloud cap Microsoft began offering lapsed and some current Ultimate subscribers 12-month discounts reported at $16 to $20 a month against list, a segmented win-back test rather than a price change.",
+    "what_it_is": "Game Pass is reportedly down to about 30 million paying subscribers, against an internal projection of ~77 million by 2026 revealed in FTC proceedings, after a price hike to $29.99 a month in October 2025 drove churn; Microsoft rolled Ultimate back to $22.99 on 26 April 2026. Sony has stopped reporting PS Plus subscriber counts. From November 2026 Xbox meters cloud streaming rather than bundling it: 15 hours a month on Ultimate, 10 on Premium, 5 on Essential, with extra hours sold separately. Microsoft puts the affected share at 4% of subscribers. Within a week of the cloud cap Microsoft began offering lapsed and some current Ultimate subscribers 12-month discounts reported at $16 to $20 a month against list, a segmented win-back test rather than a price change. Price is now the stated reason: Circana's tracking, reported in September 2026, puts more than 40% of US cancellations of Xbox Game Pass, PlayStation Plus and Nintendo Switch Online down to cost. That is the share of reasons given by people who cancelled, not evidence that more of them are cancelling.",
     "why_it_matters": "Tests the 'Netflix of games' thesis that drove a decade of acquisitions and strategy. Also a good case of consolidation-era promises meeting reality (no plan survives an encounter with the enemy)",
     "further_reading": [
       {
@@ -162,8 +162,8 @@
         "format": ""
       },
       {
-        "source": "Xbox introduces cloud streaming limits for Game Pass, purchase options for ad-hoc use",
-        "link": "https://thisweekinvideogames.com/news/xbox-introduces-cloud-streaming-limits-for-game-pass-purchase-options-for-ad-hoc-use/",
+        "source": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
+        "link": "https://www.eurogamer.net/xbox-game-pass-playstation-plus-nintendo-cancellations-rising-costs",
         "type": "Reporting",
         "format": ""
       }
@@ -180,7 +180,7 @@
       "Global",
       "US"
     ],
-    "what_it_is": "Roblox pays the users who build its games in a platform currency redeemable for cash (over US$1.5 billion in 2025). Distribution is extreme: the top 1,000 creators take roughly 73% of all payouts, while around 85% of developers earn under US$100 a month.",
+    "what_it_is": "Roblox pays the users who build its games in a platform currency redeemable for cash (over US$1.5 billion in 2025, and $1.7 billion across the twelve months to September 2026 on the company’s own count). Distribution is extreme: the top 1,000 creators take roughly 73% of all payouts, while around 85% of developers earn under US$100 a month. At its September 2026 Developers Conference the platform began unbuilding its own walls: creators will be able to export a Roblox game as a standalone app for PC, console and mobile under a programme called Play Roblox Everywhere, and payouts move onto external rails through Roblox Wallet, which pays out every business day to a bank account, and Roblox Card, a debit card spending the Wallet balance directly. Both are US-only for creators 18 and over to start, with global expansion stated for 2027.",
     "why_it_matters": "This economy has a business cycle. Roblox shed roughly US$70 billion in market value and pulled its full-year guidance in 2026 after creators failed to ship hits — i.e., they're a public company whose revenue depends on unsalaried teenagers. Youth labor, private currency, and regulatory scrutiny converge in one structure",
     "further_reading": [
       {
@@ -196,13 +196,13 @@
         "format": ""
       },
       {
-        "source": "Increasing DevEx — Creators Will Now Earn 8.5% More",
-        "link": "https://devforum.roblox.com/t/increasing-devex-%E2%80%94-creators-will-now-earn-85-more/3920159",
-        "type": "Community",
+        "source": "Roblox says it'll help developers release their games as standalone apps across PC, mobile, and consoles",
+        "link": "https://www.tubefilter.com/2026/09/11/roblox-developers-conference-2026-game-apps-creator-payouts-roblox-wallet-roblox-card/",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Roblox quarterly earnings and annual reports, Game Developer, Naavik deep dives, Matthew Ball"
   },
   {
@@ -254,7 +254,7 @@
     "markets": [
       "IN"
     ],
-    "what_it_is": "India's parliament passed a law banning online games played with money, threatening the survival of the fantasy-gaming sector that had been projected to reach $3.6 billion by 2029. Industry groups are challenging it constitutionally, and critics argue players will shift to offshore platforms.",
+    "what_it_is": "India's parliament passed a law banning online games played with money, threatening the survival of the fantasy-gaming sector that had been projected to reach $3.6 billion by 2029. Industry groups are challenging it constitutionally, and critics argue players will shift to offshore platforms. The ban is also collapsing the disputes that sat above the sector: in September 2026 the Competition Commission of India closed WinZO’s antitrust case against Google, the market the complaint concerned having been legislated out of existence.",
     "why_it_matters": "The largest single market prohibition in gaming, which makes it a template case for how fast a 'growth market' can be legislated away.",
     "further_reading": [
       {
@@ -270,13 +270,13 @@
         "format": ""
       },
       {
-        "source": "The shutdown from a lawyer's POV",
-        "link": "https://www.youtube.com/watch?v=1UoKPb6qKRY",
-        "type": "Analysis",
-        "format": "video"
+        "source": "CCI Closes Winzo's Google Antitrust Case After Money Gaming Ban",
+        "link": "https://respawn.outlookindia.com/gaming/gaming-news/cci-closes-winzos-google-antitrust-case-after-money-gaming-ban",
+        "type": "Reporting",
+        "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Reuters India tech desk, MediaNama, AGB (Asia Gaming Brief), Indian Supreme Court proceedings"
   },
   {
@@ -402,7 +402,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "The FTC's amended COPPA Rule took effect June 23, 2025. Its April 22, 2026 compliance deadline has now passed, expanding protected data to biometrics and unbundling consent for child-directed services, including many games. Enforcement, not drafting, is now the story: TikTok settled with DOJ for $400M in August 2026, following Epic's $275M and HoYoverse's $20M. Parallel regimes - UK Age Appropriate Design Code, EU GDPR, and Australia's eSafety Act - are converging on audited age assurance rather than self-attestation.",
+    "what_it_is": "The FTC's amended COPPA Rule took effect June 23, 2025. Its April 22, 2026 compliance deadline has now passed, expanding protected data to biometrics and unbundling consent for child-directed services, including many games. Enforcement, not drafting, is now the story: TikTok settled with DOJ for $400M in August 2026, following Epic's $275M and HoYoverse's $20M. Parallel regimes - UK Age Appropriate Design Code, EU GDPR, and Australia's eSafety Act - are converging on audited age assurance rather than self-attestation. US state law is now a third layer beneath the federal rule: California enacted social media curbs for under-16s in September 2026, and Australia moved in the same week to require user control over algorithmic feeds, so a game with social features meets a different obligation in each jurisdiction it ships to.",
     "why_it_matters": "Data rules quietly determine what game features (chat, ads, AI) can legally exist for kids under 13 - and platforms are answering by collecting children's faces to prove they aren't collecting children's data, a trade the privacy-technical community is mobilizing against.",
     "further_reading": [
       {
@@ -418,13 +418,13 @@
         "format": ""
       },
       {
-        "source": "Roblox is Being Forced To Fix Their Safety Issues",
-        "link": "https://www.tiktok.com/@justsaysteven/video/7676171623145229582",
-        "type": "Community",
-        "format": "video"
+        "source": "California enacts new social media curbs for children under 16",
+        "link": "https://www.pocketgamer.biz/california-enacts-new-social-media-curbs-for-children-under-16/",
+        "type": "Reporting",
+        "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "FTC press releases and enforcement actions, IAPP coverage, ICO (UK), law-firm COPPA trackers"
   },
   {
@@ -504,7 +504,7 @@
       "MENA",
       "US"
     ],
-    "what_it_is": "Saudi Arabia's PIF has assembled a layered gaming portfolio (Savvy, Scopely, ESL FACEIT, listed stakes) capped by taking EA private, closed August 2026. PIF holds 93.4% directly, held outside Savvy alongside Silver Lake and Affinity Partners. Roughly $20B of purchase debt now sits on EA's own books, so the debate has shifted from sportswashing and esports capture toward layoffs, cancelled projects, and quiet self-censorship. Brian Ward, who built the portfolio from 2021, stepped down as Savvy's CEO on 1 September 2026, twelve days after the EA deal closed; PIF deputy governor Turqi Alnowaiser took over on an interim basis, moving day-to-day control closer to the fund.",
+    "what_it_is": "Saudi Arabia's PIF has assembled a layered gaming portfolio (Savvy, Scopely, ESL FACEIT, listed stakes) capped by taking EA private, closed August 2026. PIF holds 93.4% directly, held outside Savvy alongside Silver Lake and Affinity Partners. Roughly $20B of purchase debt now sits on EA's own books, so the debate has shifted from sportswashing and esports capture toward layoffs, cancelled projects, and quiet self-censorship. Brian Ward, who built the portfolio from 2021, stepped down as Savvy's CEO on 1 September 2026, twelve days after the EA deal closed; PIF deputy governor Turqi Alnowaiser took over on an interim basis, moving day-to-day control closer to the fund. Consolidation of the portfolio itself is now reportedly under discussion: in September 2026 Bloomberg reported, and several trade outlets relayed, that PIF is weighing a merger of EA with Savvy that would put EA Sports FC, Madden, Battlefield, The Sims, Pokémon Go and Monopoly Go under one company. Treat it as one outlet’s anonymous sourcing — EA, Savvy and PIF all declined to comment and no decision has been taken.",
     "why_it_matters": "Sovereign capital is now the industry's biggest single buyer, and it arrived leveraged. Ownership questions touch labor, esports, and content decisions across the West.",
     "further_reading": [
       {
@@ -514,8 +514,8 @@
         "format": ""
       },
       {
-        "source": "EA could be set for 'mass layoffs' as it aims to cut costs following Saudi acquisition",
-        "link": "https://www.videogameschronicle.com/news/ea-could-be-set-for-mass-layoffs-as-it-aims-to-cut-costs-following-saudi-acquisition/",
+        "source": "Saudi Arabia's PIF reportedly considering to combine EA with Savvy Games Group",
+        "link": "https://www.gamesindustry.biz/saudi-arabias-pif-reportedly-considering-to-combine-ea-with-savvy-games-group",
         "type": "Reporting",
         "format": ""
       },
@@ -601,7 +601,7 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "Adoption keeps rising while sentiment collapses: 52% of surveyed game professionals now say generative AI is harming the industry, up from 30% the year before and 18% the year prior, with art and narrative roles most negative. Company-level use (52%) has decoupled from individual use (36%), and the argument has moved from opinion to enforcement. A European survey by Values Value and InGame Job, reported in September 2026, found the fear is pace before replacement: 61 percent expect generative AI to push them to work faster against 35 percent who fear for their role, and 35 percent of founders say they have already declined a hire because AI could do the work.",
+    "what_it_is": "Adoption keeps rising while sentiment collapses: 52% of surveyed game professionals now say generative AI is harming the industry, up from 30% the year before and 18% the year prior, with art and narrative roles most negative. Adoption is also moving below the studio's decision: in September 2026 Unity shipped a first-party agentic coding plugin with 29 built-in engine skills, so the question for a team using the engine moves from whether to adopt to whether to switch it off. Company-level use (52%) has decoupled from individual use (36%), and the argument has moved from opinion to enforcement. A European survey by Values Value and InGame Job, reported in September 2026, found the fear is pace before replacement: 61 percent expect generative AI to push them to work faster against 35 percent who fear for their role, and 35 percent of founders say they have already declined a hire because AI could do the work.",
     "why_it_matters": "Anti-AI clauses are now contract boilerplate, EU disclosure rules went live August 2, and players punish undisclosed AI at review-score speed. The conflict is being settled by lawyers and storefronts, not debate.",
     "further_reading": [
       {
@@ -670,7 +670,7 @@
     "markets": [
       "US"
     ],
-    "what_it_is": "SAG-AFTRA members ratified the 2025 Interactive Media Agreement, ending the nearly yearlong video game strike, with consent and disclosure requirements for digital-replica use plus pay increases.The live disputes now involve people the agreement never covered — non-union writers like Saber's Stella Sacco, streamers auto-enrolled in Amazon's AI training, modded voices. Studios deny AI use, get caught, and disclose late.",
+    "what_it_is": "SAG-AFTRA members ratified the 2025 Interactive Media Agreement, ending the nearly yearlong video game strike, with consent and disclosure requirements for digital-replica use plus pay increases.The live disputes now involve people the agreement never covered — non-union writers like Saber's Stella Sacco, streamers auto-enrolled in Amazon's AI training, modded voices, and now sports broadcasters: in September 2026 a commentator said EA had used generative AI to produce commentator voiceover in NHL 27, a category of voice the interactive agreement never reached. Studios deny AI use, get caught, and disclose late.",
     "why_it_matters": "The question at hand is no longer consent on paper. Instead, it's disclosure, detection, and who's left outside the contract.",
     "further_reading": [
       {
@@ -686,13 +686,13 @@
         "format": ""
       },
       {
-        "source": "Video game lawyer says all her clients have anti-AI contracts because gamers hate it",
-        "link": "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/",
+        "source": "Report: EA's NHL 27 is using genAI to create voiceover, claims a sports commentator",
+        "link": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
         "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "SAG-AFTRA's interactive media page, Deadline/Variety labor desks, Game Developer labor coverage"
   },
   {
@@ -743,7 +743,7 @@
       "KR",
       "US"
     ],
-    "what_it_is": "The live-streaming audience is un-bundling from any single platform. Twitch stayed the most-watched at 19.2 billion hours in 2025 but shed 8.3 points of share, its Q4 the lowest since early 2020, while Kick grew 131% and Korea's Chzzk 44%. Creators now multi-home by default: Twitch anchors ~56% of the average simulcaster's hours, but the clip layer driving discovery runs through TikTok and YouTube.",
+    "what_it_is": "The live-streaming audience is un-bundling from any single platform. Twitch stayed the most-watched at 19.2 billion hours in 2025 but shed 8.3 points of share, its Q4 the lowest since early 2020, while Kick grew 131% and Korea's Chzzk 44%. Creators now multi-home by default: Twitch anchors ~56% of the average simulcaster's hours, but the clip layer driving discovery runs through TikTok and YouTube. The money has begun to follow: across comparable brand deals in 2026, YouTube gaming creators commanded about 23% higher rates than Twitch streamers on Collabstr's data, so the hours-watched charts and the earnings charts no longer rank the platforms the same way.",
     "why_it_matters": "Fragmentation is the end state, not a transition. Korea settled into a SOOP/Chzzk duopoly two years after Twitch left. And Kick's growth is IRL and combat sports, not the gaming audience Twitch lost, so share charts mislead. Single-platform reads of \"streaming culture\" break.",
     "further_reading": [
       {
@@ -759,13 +759,13 @@
         "format": ""
       },
       {
-        "source": "Twitch now uses channel VODs, clips and chat messages to train generative AI by default",
-        "link": "https://www.reddit.com/r/LivestreamFail/comments/1vmnkfz/twitch_now_uses_channel_vods_clips_and_chat/",
-        "type": "Community",
+        "source": "YouTube gaming creators \"command 23% higher deal rates than Twitch\"",
+        "link": "https://www.pocketgamer.biz/youtube-gaming-creators-command-23-higher-deal-rates-than-twitch/",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Stream Hatchet quarterly and annual reports, Streams Charts, Netinfluencer, Bloomberg's creator-economy coverage"
   },
   {
@@ -887,7 +887,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "A long-running argument about whether buying a game confers ownership, reignited each time a publisher shuts down servers and renders a purchased title unplayable. Its most visible chapter, Stop Killing Games, gathered 1,294,188 verified signatures across 24 EU member states. On 16 June 2026 the Commission declined to propose a legal obligation, citing intellectual property constraints, offering a voluntary industry code of conduct instead; the campaign has pivoted to amending the Digital Fairness Act, due Q4 2026. The fight has since globalised into three tracks. Legislation: Brazil's PL 3612/2026 would mandate point-of-sale disclosure of server dependence, a two-year minimum support window, and a state preservation fund framed as digital cultural heritage. Litigation: UFC-Que Choisir is suing Ubisoft over The Crew, and a Dutch class action targets the PlayStation Store. Archives: Japan mandates legal deposit yet bars access without rightsholder consent, pushing its Game Preservation Society to open a US office. Sony's 2028 disc cutoff has pulled the question mainstream. In September 2026 the argument reached the console itself: Xbox's Disc-to-Digital, which converts a disc into a digital licence, launched to Insiders with Sega, Square Enix, Ubisoft and Bandai Namco discs returning \"not participating\", while GOG began printing big-box artwork under its preservation programme.",
+    "what_it_is": "A long-running argument about whether buying a game confers ownership, reignited each time a publisher shuts down servers and renders a purchased title unplayable. Its most visible chapter, Stop Killing Games, gathered 1,294,188 verified signatures across 24 EU member states. On 16 June 2026 the Commission declined to propose a legal obligation, citing intellectual property constraints, offering a voluntary industry code of conduct instead; the campaign has pivoted to amending the Digital Fairness Act, due Q4 2026. The fight has since globalised into three tracks. Legislation: Brazil's PL 3612/2026 would mandate point-of-sale disclosure of server dependence, a two-year minimum support window, and a state preservation fund framed as digital cultural heritage. Litigation: UFC-Que Choisir is suing Ubisoft over The Crew, a Dutch class action targets the PlayStation Store, and in a US class action over the PlayStation Store’s “buy” button Sony argued in September 2026 that a reasonable consumer would not be misled into believing a digital purchase is owned — the first time the argument has been put on the record by a platform holder rather than inferred from a licence agreement. Archives: Japan mandates legal deposit yet bars access without rightsholder consent, pushing its Game Preservation Society to open a US office. Sony's 2028 disc cutoff has pulled the question mainstream. In September 2026 the argument reached the console itself: Xbox's Disc-to-Digital, which converts a disc into a digital licence, launched to Insiders with Sega, Square Enix, Ubisoft and Bandai Namco discs returning \"not participating\", while GOG began printing big-box artwork under its preservation programme.",
     "why_it_matters": "The clearest current test of what consumers believe they are buying, and a natural experiment in which legal systems convert organised player sentiment into binding rules. So far the answer is neither Brussels nor Washington, but civil-law jurisdictions using heritage framing and consumer litigation.",
     "further_reading": [
       {
@@ -923,7 +923,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Union drives hardened into institutions during the layoff era: 82% of US-based respondents to GDC's 2026 survey support unionisation, and one in four were laid off in the last two years. Microsoft's studios host the largest US unions and CWA's direct-join model now recruits across employers. Six European unions signed a cross-border action plan; France struck nationally. Nordic sectoral agreements remain the mature template. In September 2026 about 1,900 Blizzard workers ratified a CWA master contract with layoff recall rights, four extra weeks of severance and a duty on Microsoft to bargain over AI use, while the final tribunal hearing over Rockstar North's dismissal of union members opened in the UK.",
+    "what_it_is": "Union drives hardened into institutions during the layoff era: 82% of US-based respondents to GDC's 2026 survey support unionisation, and one in four were laid off in the last two years. Microsoft's studios host the largest US unions and CWA's direct-join model now recruits across employers. Six European unions signed a cross-border action plan; France struck nationally. Nordic sectoral agreements remain the mature template. In September 2026 about 1,900 Blizzard workers ratified a CWA master contract with layoff recall rights, four extra weeks of severance and a duty on Microsoft to bargain over AI use, while the final tribunal hearing over Rockstar North's dismissal of union members opened in the UK, where the company confirmed it had kept an informant inside the union workers' Discord server for over two and a half years. Rockstar rejects the claims and says it will defend itself vigorously.",
     "why_it_matters": "Labor is becoming a durable counterparty on layoffs, AI disclosure, and crunch, with legal precedent now in play.",
     "further_reading": [
       {
@@ -1070,7 +1070,7 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "Studio investment has fallen about 85% from its 2021 peak to below 2019 levels while revenues rose 30 to 40%, and Matthew Ball's 2026 report argues the industry now invests less in new game development, as a share of net revenue, than at any point on record. Marvel's Spider-Man went from just over $100M to more than $300M across three games without proportionate sales. Studios are shipping smaller. The argument is whether that is a chosen strategy or a budget line.",
+    "what_it_is": "Studio investment has fallen about 85% from its 2021 peak to below 2019 levels while revenues rose 30 to 40%, and Matthew Ball's 2026 report argues the industry now invests less in new game development, as a share of net revenue, than at any point on record. Marvel's Spider-Man went from just over $100M to more than $300M across three games without proportionate sales. Studios are shipping smaller. The argument is whether that is a chosen strategy or a budget line. The composition is moving as well as the total: Values Value's Talent Signals report, reported in September 2026, puts European studio spending on external talent up 63% in 2025 against 55% globally, and describes a two-tier team model of a small permanent core with a contractor periphery hired by project phase. A falling investment line and a rising outside-hands line are the same decision seen twice.",
     "why_it_matters": "Determines how to read every “we are focusing on smaller experiences” statement of the next two years. Ball's own data shows capital contraction rather than a design movement, and the two produce identical press releases.",
     "further_reading": [
       {
@@ -1086,13 +1086,13 @@
         "format": ""
       },
       {
-        "source": "GDC: The State of the Game Industry 2026",
-        "link": "https://gamedevreports.substack.com/p/gdc-the-state-of-the-game-industry-fcf",
-        "type": "Data",
+        "source": "European studio expenditure on external talent rises 63% in 2025",
+        "link": "https://www.gamesindustry.biz/european-studio-expenditure-on-external-talent-rises-63-in-2025",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Aug 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Game Developer's business desk, GameDiscoverCo"
   },
   {
@@ -1106,7 +1106,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "After five years of dissolving platform walls, 2026 partly rebuilt them. Xbox, which had begun publishing on PlayStation and Nintendo, named Gears of War: E-Day and Clockwork Revolution as console exclusives that are not timed, while saying multiplayer and live-service titles stay multiplatform. Sony runs the mirror policy, multiplayer everywhere and single-player held back. Circana's Q1 2026 survey finds 41% of US players cite exclusives as their main reason for owning a console.",
+    "what_it_is": "After five years of dissolving platform walls, 2026 partly rebuilt them. Xbox, which had begun publishing on PlayStation and Nintendo, named Gears of War: E-Day and Clockwork Revolution as console exclusives that are not timed, while saying multiplayer and live-service titles stay multiplatform. Sony runs the mirror policy, multiplayer everywhere and single-player held back. Circana's Q1 2026 survey finds 41% of US players cite exclusives as their main reason for owning a console. The rebuilding is not one-directional. In September 2026 Kojima Productions said it had “unexpectedly received notice” from PlayStation that Physint, its Metal Gear successor, would be cancelled, and Xbox Game Studios took over publishing; reporting the following day attributed Sony's exit to budget overruns, missed deadlines, Death Stranding's revenue against expectations, and the fact that Physint was planned for PlayStation and PC rather than as a true exclusive. Read it as the limit of the policy: a platform holder will drop a marquee single-player project when the exclusivity it buys is partial and the budget is not.",
     "why_it_matters": "Cross-platform release had been read as a one-way ratchet. It is not, and the reversal is being argued on hardware economics rather than player demand: God of War Ragnarok drew about 300,000 PC players against 6.9 million on console.",
     "further_reading": [
       {
@@ -1122,13 +1122,13 @@
         "format": ""
       },
       {
-        "source": "Xbox multiplayer and live service games will still be multiplatform, Matt Booty says",
-        "link": "https://www.videogameschronicle.com/news/xbox-multiplayer-and-live-service-games-will-still-be-multiplatform-going-forward-matt-booty-says/",
+        "source": "Xbox to publish Kojima Productions' Physint after PlayStation said it would cancel the project",
+        "link": "https://www.gamesindustry.biz/xbox-to-publish-kojima-productions-physint-after-it-unexpectedly-received-notice-from-playstation-that-it-would-cancel-the-project",
         "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Aug 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "The Game Business (Christopher Dring), Game File (Stephen Totilo), Video Games Chronicle, Circana consumer surveys"
   },
   {
