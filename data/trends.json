@@ -101,7 +101,20 @@
       }
     ],
     "as_of": "Sep 2026",
-    "where_to_follow": "GamesRadar and Eurogamer business coverage, Circana US sales data, Ars Technica gaming desk"
+    "where_to_follow": "GamesRadar and Eurogamer business coverage, Circana US sales data, Ars Technica gaming desk",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "A premium game is sold once at a set price and played without further payment, as opposed to a free-to-play game that costs nothing to start and earns from what players buy inside it. The ceiling is the highest price the market has been shown to bear.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      }
+    ]
   },
   {
     "slug": "live-service-retreat",
@@ -134,7 +147,20 @@
       }
     ],
     "as_of": "Sep 2026",
-    "where_to_follow": "Game Developer post-mortems, Circana engagement data, publisher earnings calls (Sony, EA, Take-Two)"
+    "where_to_follow": "Game Developer post-mortems, Circana engagement data, publisher earnings calls (Sony, EA, Take-Two)",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "A live-service game is built on an ongoing cadence of content and monetization rather than sold once. The studio keeps shipping, and the revenue keeps arriving, for as long as players stay.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      }
+    ]
   },
   {
     "slug": "subscription-plateau",
@@ -277,7 +303,20 @@
       }
     ],
     "as_of": "Sep 2026",
-    "where_to_follow": "Reuters India tech desk, MediaNama, AGB (Asia Gaming Brief), Indian Supreme Court proceedings"
+    "where_to_follow": "Reuters India tech desk, MediaNama, AGB (Asia Gaming Brief), Indian Supreme Court proceedings",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "Real-money gaming is a game played for cash stakes, where money is paid in and money can be won back. In India the largest category is fantasy sport, in which players field notional teams of real athletes and are paid on those athletes’ real performances.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      }
+    ]
   },
   {
     "slug": "the-loot-box-age-gate",
@@ -291,9 +330,11 @@
       "DE",
       "ES",
       "Global",
+      "KR",
       "NL",
       "PL",
-      "UK"
+      "UK",
+      "US"
     ],
     "what_it_is": "Regulators stopped waiting for a gambling verdict and started age-gating. PEGI now rates any game with paid random items 16+; Brazil's Law 15211 forces 18+ ratings with fines up to 10% of local revenue; South Korea mandates odds disclosure and has fined publishers billions of won. The EU's Digital Fairness Act, due late 2026, may go further. America is still arguing definitions in court.",
     "why_it_matters": "Compliance now varies by passport, not by platform. Studios are redesigning monetization market by market, or exiting.",
@@ -318,7 +359,240 @@
       }
     ],
     "as_of": "Jul 2026",
-    "where_to_follow": "Leon Y. Xiao's annual 'Loot Box State of Play' papers, Gaming Law Review, PEGI/ESRB notices, national regulators (Belgian Gaming Commission, Kansspelautoriteit)"
+    "where_to_follow": "Leon Y. Xiao's annual 'Loot Box State of Play' papers, Gaming Law Review, PEGI/ESRB notices, national regulators (Belgian Gaming Commission, Kansspelautoriteit)",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "A loot box is an in-game item bought with money or an in-game currency whose contents are randomised, so a buyer pays a known price for an unknown reward. The argument is whether paying for a randomised outcome is gambling, and regulators have stopped waiting for an answer.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "PEGI",
+        "link": "",
+        "source_slug": "pegi"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "PEGI began rating any game containing paid random items at 16+, applying the threshold across every PEGI territory rather than market by market.",
+        "card_text": "PEGI moves paid random items to 16+",
+        "year": "2026",
+        "market": "",
+        "source": "Video Games Chronicle",
+        "link": "https://www.videogameschronicle.com/news/all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-16-starting-this-summer/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Brazil's Law 15211 came into force, requiring 18+ ratings for games with paid random items and exposing publishers to fines of up to 10% of local revenue.",
+        "card_text": "Brazil Law 15211 forces 18+",
+        "year": "",
+        "market": "",
+        "source": "Law 15211 (Brazil)",
+        "link": "",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "South Korea's mandatory odds-disclosure regime moved from drafting into enforcement, with fines levied against publishers.",
+        "card_text": "Korea enforces odds disclosure",
+        "year": "2025",
+        "market": "",
+        "source": "TechXplore, on South Korea’s loot box law",
+        "link": "https://techxplore.com/news/2025-09-south-korea-loot-law-strong.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The EU's Digital Fairness Act is due, and may go further than age-gating on paid random items.",
+        "card_text": "EU Digital Fairness Act due",
+        "year": "2026",
+        "market": "",
+        "source": "European Commission",
+        "link": "",
+        "source_slug": ""
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "In force. Law 15211 requires an 18+ rating for paid random items and carries fines of up to 10% of local revenue.",
+        "card_text": "In force",
+        "year": "",
+        "market": "BR",
+        "source": "Law 15211 (Brazil)",
+        "link": "",
+        "source_slug": ""
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "In force via PEGI at 16+. The national gambling position is not recorded in this row.",
+        "card_text": "In force",
+        "year": "2026",
+        "market": "BE",
+        "source": "PEGI",
+        "link": "",
+        "source_slug": "pegi"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "In force via PEGI at 16+. The national gambling position is not recorded in this row.",
+        "card_text": "In force",
+        "year": "2026",
+        "market": "NL",
+        "source": "PEGI",
+        "link": "",
+        "source_slug": "pegi"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "In force via PEGI at 16+, alongside USK's own national classification.",
+        "card_text": "In force",
+        "year": "2026",
+        "market": "DE",
+        "source": "USK",
+        "link": "",
+        "source_slug": "usk"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "In force via PEGI at 16+.",
+        "card_text": "In force",
+        "year": "2026",
+        "market": "ES",
+        "source": "PEGI",
+        "link": "",
+        "source_slug": "pegi"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "In force via PEGI at 16+.",
+        "card_text": "In force",
+        "year": "2026",
+        "market": "PL",
+        "source": "PEGI",
+        "link": "",
+        "source_slug": "pegi"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "In force via PEGI at 16+, and outside the Digital Fairness Act.",
+        "card_text": "In force",
+        "year": "2026",
+        "market": "UK",
+        "source": "Ukie",
+        "link": "",
+        "source_slug": "ukie"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Not recorded. This row is tagged AU and states nothing about it; the Classification Board's 2024 gambling-content rules are the likely measure and are unwritten here.",
+        "card_text": "Not recorded",
+        "year": "",
+        "market": "AU",
+        "source": "Australian Classification Board",
+        "link": "",
+        "source_slug": "australian-classification-board-computer-games"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Compliance now varies by passport rather than by platform, so studios are redesigning monetization market by market, or exiting a market rather than complying.",
+        "card_text": "Compliance varies by passport, not platform",
+        "year": "",
+        "market": "",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "South Korea's disclosure regime is producing measurable results, which is the first evidence that odds-disclosure rules change publisher behaviour rather than only documenting it.",
+        "card_text": "Korea's disclosure rules are working",
+        "year": "2025",
+        "market": "KR",
+        "source": "TechXplore, on South Korea's loot box law",
+        "link": "https://techxplore.com/news/2025-09-south-korea-loot-law-strong.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Disclosure is not comprehension: players remain, in the study's words, left in the dark, so a regime measured by compliance may be failing at the thing it was passed to fix.",
+        "card_text": "Disclosure is not comprehension",
+        "year": "2025",
+        "market": "KR",
+        "source": "TechXplore, on South Korea's loot box law",
+        "link": "https://techxplore.com/news/2025-09-south-korea-loot-law-strong.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Age-gating sidesteps the question it was raised to answer. Regulators stopped waiting for a gambling verdict, so the mechanism is now a rating rather than a ruling on whether paid random items are gambling.",
+        "card_text": "Age-gating sidesteps the gambling question",
+        "year": "",
+        "market": "",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "The EU's Digital Fairness Act, due late 2026, may go beyond age-gating.",
+        "card_text": "EU Digital Fairness Act",
+        "year": "2026",
+        "market": "",
+        "source": "European Commission",
+        "link": "",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "US courts are still arguing definitions, and a ruling would settle whether paid random items are gambling rather than a rating matter.",
+        "card_text": "US definitional rulings",
+        "year": "",
+        "market": "US",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "In force. Publishers must disclose the odds on paid random items, and GRAC has levied fines for failing to.",
+        "card_text": "In force",
+        "year": "2025",
+        "market": "KR",
+        "source": "GRAC",
+        "link": "",
+        "source_slug": "grac"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Contested. US courts are still arguing the definition, so there is no national rating or disclosure rule for paid random items.",
+        "card_text": "Contested",
+        "year": "",
+        "market": "US",
+        "source": "ESRB",
+        "link": "",
+        "source_slug": "esrb"
+      }
+    ]
   },
   {
     "slug": "playtime-caps-and-age-gates-for-minors",
@@ -390,7 +664,20 @@
       }
     ],
     "as_of": "Jul 2026",
-    "where_to_follow": "Esports Charts sponsorship analyses, HLTV Counter-Strike business coverage, Esports Legal News, SportBusiness"
+    "where_to_follow": "Esports Charts sponsorship analyses, HLTV Counter-Strike business coverage, Esports Legal News, SportBusiness",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "Skins are cosmetic in-game items with no effect on play, which some games let players trade. Skin gambling is betting with those items as the stake, which turns a cosmetic economy into a currency and is why the practice is regulated as gambling in several markets.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      }
+    ]
   },
   {
     "slug": "childrens-data-privacy-and-the-age-assurance-bargain",
@@ -492,7 +779,20 @@
       }
     ],
     "as_of": "Jul 2026",
-    "where_to_follow": "Rest of World China tech desk, Niko Partners, SCMP tech coverage, Naavik"
+    "where_to_follow": "Rest of World China tech desk, Niko Partners, SCMP tech coverage, Naavik",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "Original IP is a game built on characters and a world the studio owns, rather than licensed or adapted from elsewhere. AAA is the industry’s informal name for its largest budget tier, the games made by hundreds of people over several years.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      }
+    ]
   },
   {
     "slug": "gulf-capital-and-the-leveraged-ea-buyout",
@@ -591,7 +891,20 @@
       }
     ],
     "as_of": "Jul 2026",
-    "where_to_follow": "Niko Partners' monthly approval trackers, TechNode, Digital Policy Alert, SCMP"
+    "where_to_follow": "Niko Partners' monthly approval trackers, TechNode, Digital Policy Alert, SCMP",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "A banhao (版号) is the publication licence the NPPA issues to a game before it may be monetized in China. Only a licensed Chinese publisher can hold one, so a foreign studio applies through a partner or does not release at all.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "NPPA",
+        "link": "",
+        "source_slug": "nppa"
+      }
+    ]
   },
   {
     "slug": "generative-ai-in-development-the-enforcement-turn",
@@ -660,7 +973,20 @@
       }
     ],
     "as_of": "Jul 2026",
-    "where_to_follow": "VGC and The Verge AI-in-games coverage, Epic's Creator ecosystem announcements, Inworld/ElevenLabs product news, Kotaku (critical coverage)"
+    "where_to_follow": "VGC and The Verge AI-in-games coverage, Epic's Creator ecosystem announcements, Inworld/ElevenLabs product news, Kotaku (critical coverage)",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "An NPC, or non-player character, is anyone in a game the player does not control. A co-playable character is an NPC driven by a language model that plays alongside you rather than waiting to be talked to: it takes direction, makes its own moves and reacts to what happens.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "Krafton IR",
+        "link": "",
+        "source_slug": "krafton-ir"
+      }
+    ]
   },
   {
     "slug": "ai-disclosure-fights-and-unprotected-creative-labor",
@@ -835,7 +1161,20 @@
       }
     ],
     "as_of": "Sep 2026",
-    "where_to_follow": "Matthew Ball (who wrote the book and the post-mortems), Naavik, Digiday's Gaming Advertising coverage for brand-metaverse residue"
+    "where_to_follow": "Matthew Ball (who wrote the book and the post-mortems), Naavik, Digiday's Gaming Advertising coverage for brand-metaverse residue",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "Play-to-earn described games whose in-game items were blockchain tokens, so that playing could in principle pay. The metaverse described a single persistent world players would move between games inside. Both were investment theses as much as product ideas.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      }
+    ]
   },
   {
     "slug": "multigenerational-play-and-the-household-question",
@@ -910,7 +1249,20 @@
       }
     ],
     "as_of": "Sep 2026",
-    "where_to_follow": "European Citizens' Initiative register, stopkillinggames.com, r/StopKillingGames, Bellular News (YouTube), Digital Fairness Act consultations, UFC-Que Choisir, Video Games Europe statements"
+    "where_to_follow": "European Citizens' Initiative register, stopkillinggames.com, r/StopKillingGames, Bellular News (YouTube), Digital Fairness Act consultations, UFC-Que Choisir, Video Games Europe statements",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "Digital ownership is the question of whether buying a game gives you the game or a licence to play it while the publisher chooses to run it. Preservation is the matter of what survives when that choice ends.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      }
+    ]
   },
   {
     "slug": "organized-game-labor",
@@ -1019,7 +1371,20 @@
       }
     ],
     "as_of": "Sep 2026",
-    "where_to_follow": "SportBusiness, Esports Insider, Sports Business Journal esports desk, Esports Charts viewership data"
+    "where_to_follow": "SportBusiness, Esports Insider, Sports Business Journal esports desk, Esports Charts viewership data",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "Esports is competitive video gaming played for prize money in front of an audience. Its economy has three parts that are often confused: the publisher that owns the game and licenses the competition, the teams that employ the players, and the events that sell the tickets and the broadcast.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "",
+        "link": "",
+        "source_slug": ""
+      }
+    ]
   },
   {
     "slug": "games-media-capture",
@@ -1304,6 +1669,19 @@
       }
     ],
     "as_of": "Aug 2026",
-    "where_to_follow": "Naavik, Deconstructor of Fun, PocketGamer.biz, GDC live ops talks, Game Developer's production desk"
+    "where_to_follow": "Naavik, Deconstructor of Fun, PocketGamer.biz, GDC live ops talks, Game Developer's production desk",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "Live operations, or live ops, is the standing work of running a released game: the events, offers, experiments and content cadence that keep a running game running. It is a production function rather than a series of updates.",
+        "card_text": "",
+        "year": "",
+        "market": "",
+        "source": "Naavik",
+        "link": "",
+        "source_slug": "naavik"
+      }
+    ]
   }
 ]

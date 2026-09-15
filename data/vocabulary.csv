@@ -1,6 +1,6 @@
 facet,within_group,value,rows
 medium,,News outlet,321
-medium,,Organisation,125
+medium,,Organisation,126
 medium,,Forum or community,95
 medium,,Video channel,63
 medium,,Person,62
@@ -14,7 +14,7 @@ medium,,Research firm,15
 medium,,Link list,7
 group,,Press,347
 group,,Media,152
-group,,Institutions,140
+group,,Institutions,141
 group,,Data,114
 group,,Communities,95
 group,,People,69
@@ -44,6 +44,7 @@ markets,,TW,12
 markets,,EU,7
 markets,,LATAM,4
 markets,,Asia,2
+markets,,BE,1
 market_kind,profiled,US,168
 market_kind,scope,Global,141
 market_kind,profiled,JP,137
@@ -70,20 +71,21 @@ market_kind,tagged,TW,12
 market_kind,tagged,EU,7
 market_kind,tagged,LATAM,4
 market_kind,tagged,Asia,2
-language,,English,522
+market_kind,tagged,BE,1
+language,,English,523
 language,,Japanese,117
 language,,Korean,75
 language,,German,51
-language,,French,49
+language,,French,50
 language,,Spanish,46
 language,,Portuguese,24
 language,,Arabic,20
 language,,Italian,20
 language,,Chinese,18
 language,,Turkish,14
+language,,Dutch,11
 language,,Polish,11
 language,,Traditional Chinese,11
-language,,Dutch,10
 language,,Bahasa Indonesia,9
 language,,Multilingual,8
 language,,Swedish,7
@@ -116,7 +118,7 @@ format,Institutions,Esports body,9
 format,Institutions,Learned society,8
 format,Institutions,Archive or museum,7
 format,Institutions,Event or awards,6
-format,Institutions,Regulator,4
+format,Institutions,Regulator,5
 format,Institutions,Regulation or law,4
 format,Institutions,Parent guidance platform,3
 format,Institutions,Union or worker organisation,3
@@ -178,7 +180,7 @@ format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,418
+cost,,Free,419
 cost,,Paid,54
 cost,,Freemium,48
 cost,,Unknown,7
@@ -192,16 +194,16 @@ trend_category,,Platform & distribution,7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,4
 trend_category,,Technology,3
-coverage,sources,slug,917
-coverage,sources,name,917
-coverage,sources,group,917
-coverage,sources,medium,917
-coverage,sources,format,917
-coverage,sources,what_it_lets_you_find_out,917
-coverage,sources,markets,917
-coverage,sources,language,917
-coverage,sources,cost,527
-coverage,sources,link,917
+coverage,sources,slug,918
+coverage,sources,name,918
+coverage,sources,group,918
+coverage,sources,medium,918
+coverage,sources,format,918
+coverage,sources,what_it_lets_you_find_out,918
+coverage,sources,markets,918
+coverage,sources,language,918
+coverage,sources,cost,528
+coverage,sources,link,918
 coverage,sources,extra_links,0
 coverage,sources,owner,500
 coverage,sources,ownership_note,120

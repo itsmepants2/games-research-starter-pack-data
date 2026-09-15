@@ -1,8 +1,8 @@
 {
-  "as_of": "2026-09-11T19:37:53Z",
+  "as_of": "2026-09-15T23:06:03Z",
   "medium": {
     "News outlet": 321,
-    "Organisation": 125,
+    "Organisation": 126,
     "Forum or community": 95,
     "Video channel": 63,
     "Person": 62,
@@ -18,7 +18,7 @@
   "group": {
     "Press": 347,
     "Media": 152,
-    "Institutions": 140,
+    "Institutions": 141,
     "Data": 114,
     "Communities": 95,
     "People": 69
@@ -49,7 +49,8 @@
     "TW": 12,
     "EU": 7,
     "LATAM": 4,
-    "Asia": 2
+    "Asia": 2,
+    "BE": 1
   },
   "market_kind": {
     "US": "profiled",
@@ -77,23 +78,24 @@
     "TW": "tagged",
     "EU": "tagged",
     "LATAM": "tagged",
-    "Asia": "tagged"
+    "Asia": "tagged",
+    "BE": "tagged"
   },
   "language": {
-    "English": 522,
+    "English": 523,
     "Japanese": 117,
     "Korean": 75,
     "German": 51,
-    "French": 49,
+    "French": 50,
     "Spanish": 46,
     "Portuguese": 24,
     "Arabic": 20,
     "Italian": 20,
     "Chinese": 18,
     "Turkish": 14,
+    "Dutch": 11,
     "Polish": 11,
     "Traditional Chinese": 11,
-    "Dutch": 10,
     "Bahasa Indonesia": 9,
     "Multilingual": 8,
     "Swedish": 7,
@@ -131,7 +133,7 @@
       "Learned society": 8,
       "Archive or museum": 7,
       "Event or awards": 6,
-      "Regulator": 4,
+      "Regulator": 5,
       "Regulation or law": 4,
       "Parent guidance platform": 3,
       "Union or worker organisation": 3,
@@ -204,7 +206,7 @@
     }
   },
   "cost": {
-    "Free": 418,
+    "Free": 419,
     "Paid": 54,
     "Freemium": 48,
     "Unknown": 7
@@ -225,16 +227,16 @@
   },
   "coverage": {
     "sources": {
-      "slug": 917,
-      "name": 917,
-      "group": 917,
-      "medium": 917,
-      "format": 917,
-      "what_it_lets_you_find_out": 917,
-      "markets": 917,
-      "language": 917,
-      "cost": 527,
-      "link": 917,
+      "slug": 918,
+      "name": 918,
+      "group": 918,
+      "medium": 918,
+      "format": 918,
+      "what_it_lets_you_find_out": 918,
+      "markets": 918,
+      "language": 918,
+      "cost": 528,
+      "link": 918,
       "extra_links": 0,
       "owner": 500,
       "ownership_note": 120,

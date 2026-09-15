@@ -6232,6 +6232,32 @@
     "audience": []
   },
   {
+    "slug": "belgian-gaming-commission",
+    "name": "Belgian Gaming Commission (Kansspelcommissie / Commission des jeux de hasard)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Regulator",
+    "what_it_lets_you_find_out": "The Belgian regulator's own record on paid random items: its 2018 loot box report and its 2024 workshop report on paid random items are on the reports page, beside its formal advice to government and parliament and its enforcement decisions. Reports are Dutch and French only, and the English pages are thin.",
+    "markets": [
+      "BE"
+    ],
+    "language": [
+      "Dutch",
+      "English",
+      "French"
+    ],
+    "cost": "Free",
+    "link": "https://www.gamingcommission.be/",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "this-week-in-video-games",
     "name": "This Week in Video Games",
     "group": "Press",
