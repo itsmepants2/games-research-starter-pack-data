@@ -6258,6 +6258,30 @@
     "audience": []
   },
   {
+    "slug": "loot-box-state-of-play-leon-y-xiaos-annual-regulatory-review",
+    "name": "Loot Box State of Play: Leon Y. Xiao's annual regulatory review",
+    "group": "Institutions",
+    "medium": "Report or document",
+    "format": "Report or data series",
+    "what_it_lets_you_find_out": "Annual, jurisdiction-by-jurisdiction rundown of loot box law, regulation and enforcement by an academic lawyer, published each December on GamesIndustry.biz since 2022; the 2023 edition also ran as a Stanford TTLF working paper and in Gaming Law Review. Narrative rather than a count: it dates measures and court decisions but does not tally jurisdictions, so it feeds a timeline and not a chart. | The author is party to several of the enforcement complaints he reports and says so; not legal advice.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://sites.google.com/view/leon-xiao/publications/popular-publications",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "this-week-in-video-games",
     "name": "This Week in Video Games",
     "group": "Press",

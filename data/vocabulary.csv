@@ -8,18 +8,18 @@ medium,,Podcast,48
 medium,,Data tool,47
 medium,,Book or paper,41
 medium,,Company disclosure,35
-medium,,Report or document,32
+medium,,Report or document,33
 medium,,Newsletter,26
 medium,,Research firm,15
 medium,,Link list,7
 group,,Press,347
 group,,Media,152
-group,,Institutions,141
+group,,Institutions,142
 group,,Data,114
 group,,Communities,95
 group,,People,69
 markets,,US,168
-markets,,Global,141
+markets,,Global,142
 markets,,JP,137
 markets,,KR,86
 markets,,Not market specific,63
@@ -46,7 +46,7 @@ markets,,LATAM,4
 markets,,Asia,2
 markets,,BE,1
 market_kind,profiled,US,168
-market_kind,scope,Global,141
+market_kind,scope,Global,142
 market_kind,profiled,JP,137
 market_kind,profiled,KR,86
 market_kind,scope,Not market specific,63
@@ -72,7 +72,7 @@ market_kind,tagged,EU,7
 market_kind,tagged,LATAM,4
 market_kind,tagged,Asia,2
 market_kind,tagged,BE,1
-language,,English,523
+language,,English,524
 language,,Japanese,117
 language,,Korean,75
 language,,German,51
@@ -111,8 +111,8 @@ format,Data,Sector index,1
 format,Institutions,Industry association,34
 format,Institutions,Government agency,16
 format,Institutions,Rating body,11
+format,Institutions,Report or data series,11
 format,Institutions,Safety and advocacy org,11
-format,Institutions,Report or data series,10
 format,Institutions,Research institute,10
 format,Institutions,Esports body,9
 format,Institutions,Learned society,8
@@ -180,7 +180,7 @@ format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,419
+cost,,Free,420
 cost,,Paid,54
 cost,,Freemium,48
 cost,,Unknown,7
@@ -194,16 +194,16 @@ trend_category,,Platform & distribution,7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,4
 trend_category,,Technology,3
-coverage,sources,slug,918
-coverage,sources,name,918
-coverage,sources,group,918
-coverage,sources,medium,918
-coverage,sources,format,918
-coverage,sources,what_it_lets_you_find_out,918
-coverage,sources,markets,918
-coverage,sources,language,918
-coverage,sources,cost,528
-coverage,sources,link,918
+coverage,sources,slug,919
+coverage,sources,name,919
+coverage,sources,group,919
+coverage,sources,medium,919
+coverage,sources,format,919
+coverage,sources,what_it_lets_you_find_out,919
+coverage,sources,markets,919
+coverage,sources,language,919
+coverage,sources,cost,529
+coverage,sources,link,919
 coverage,sources,extra_links,0
 coverage,sources,owner,500
 coverage,sources,ownership_note,120

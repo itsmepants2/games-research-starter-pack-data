@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15T23:06:03Z",
+  "as_of": "2026-09-15T23:42:49Z",
   "medium": {
     "News outlet": 321,
     "Organisation": 126,
@@ -10,7 +10,7 @@
     "Data tool": 47,
     "Book or paper": 41,
     "Company disclosure": 35,
-    "Report or document": 32,
+    "Report or document": 33,
     "Newsletter": 26,
     "Research firm": 15,
     "Link list": 7
@@ -18,14 +18,14 @@
   "group": {
     "Press": 347,
     "Media": 152,
-    "Institutions": 141,
+    "Institutions": 142,
     "Data": 114,
     "Communities": 95,
     "People": 69
   },
   "markets": {
     "US": 168,
-    "Global": 141,
+    "Global": 142,
     "JP": 137,
     "KR": 86,
     "Not market specific": 63,
@@ -82,7 +82,7 @@
     "BE": "tagged"
   },
   "language": {
-    "English": 523,
+    "English": 524,
     "Japanese": 117,
     "Korean": 75,
     "German": 51,
@@ -126,8 +126,8 @@
       "Industry association": 34,
       "Government agency": 16,
       "Rating body": 11,
+      "Report or data series": 11,
       "Safety and advocacy org": 11,
-      "Report or data series": 10,
       "Research institute": 10,
       "Esports body": 9,
       "Learned society": 8,
@@ -206,7 +206,7 @@
     }
   },
   "cost": {
-    "Free": 419,
+    "Free": 420,
     "Paid": 54,
     "Freemium": 48,
     "Unknown": 7
@@ -227,16 +227,16 @@
   },
   "coverage": {
     "sources": {
-      "slug": 918,
-      "name": 918,
-      "group": 918,
-      "medium": 918,
-      "format": 918,
-      "what_it_lets_you_find_out": 918,
-      "markets": 918,
-      "language": 918,
-      "cost": 528,
-      "link": 918,
+      "slug": 919,
+      "name": 919,
+      "group": 919,
+      "medium": 919,
+      "format": 919,
+      "what_it_lets_you_find_out": 919,
+      "markets": 919,
+      "language": 919,
+      "cost": 529,
+      "link": 919,
       "extra_links": 0,
       "owner": 500,
       "ownership_note": 120,
