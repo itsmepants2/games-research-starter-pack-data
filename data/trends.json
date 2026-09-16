@@ -3039,8 +3039,8 @@
       "Global",
       "US"
     ],
-    "what_it_is": "Paid reach is contracting while creator-led discovery grows. GDC's 2026 survey of more than 2,300 professionals put streamers ahead of paid advertising as a user-acquisition channel, 39% against 31%, behind social media at 65%. On mobile, 68% of the top 100 US-grossing games running acquisition in 2025 lost at least 10% of their US channel impression share year over year. On Steam, a game that would have opened to 500 concurrent players eight years ago now opens to 100 or fewer, against a record 18,597 releases in 2024. GameDiscoverCo's read of 2,569 Steam launches from January 2024 to August 2026 puts the median ratio of peak demo concurrent users to peak launch concurrent users at 3.0x, 6.2x for the strongest demos and 1.3x for the weakest, which makes the demo the discovery instrument a launch is judged by before it happens.",
-    "why_it_matters": "Visibility rather than production is now the binding constraint on a game reaching anyone, and the cheapest remaining channel is a creator deciding to play it, which nobody can buy reliably.",
+    "what_it_is": "Paid ads are reaching fewer players, and more people now find games through social media, streamers, and YouTubers. Developers now rate streamers as a better way to find players than paid advertising. Meanwhile, Steam releases far more games each year than it used to, so even good games launch to much smaller crowds. That has made free demos important: how many people play a demo is now the best early sign of how the full game will launch.",
+    "why_it_matters": "Making a game has gotten easier, and Steam, the store where most new PC games come out, now releases so many each year that the hard part is getting anyone to notice an individual title. The cheapest way to get noticed is a streamer or YouTuber choosing to play it, and money can't reliably buy that.",
     "further_reading": [
       {
         "source": "GDC: The State of the Game Industry 2026",
@@ -3064,7 +3064,307 @@
     "as_of": "Sep 2026",
     "where_to_follow": "GameDiscoverCo (Simon Carless), Naavik, GDC State of the Game Industry (annual), Gamalytic, SteamDB",
     "status_label": "",
-    "series_label": ""
+    "series_label": "Games released on Steam, by year",
+    "claims": [
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Games released on Steam in 2018, by Gamalytic's count, the first full year of Steam Direct.",
+        "card_text": "7,062",
+        "year": "2018",
+        "market": "",
+        "source": "Gamalytic, Steam games by year (read 16 September 2026)",
+        "link": "https://gamalytic.com/years",
+        "source_slug": "gamalytic"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Games released on Steam in 2019, the only year in the series lower than the one before.",
+        "card_text": "6,960",
+        "year": "2019",
+        "market": "",
+        "source": "Gamalytic, Steam games by year (read 16 September 2026)",
+        "link": "https://gamalytic.com/years",
+        "source_slug": "gamalytic"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Games released on Steam in 2020, the year the first Next Fest ran in place of the cancelled trade shows.",
+        "card_text": "8,493",
+        "year": "2020",
+        "market": "",
+        "source": "Gamalytic, Steam games by year (read 16 September 2026)",
+        "link": "https://gamalytic.com/years",
+        "source_slug": "gamalytic"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Games released on Steam in 2021, the first year past 10,000.",
+        "card_text": "10,115",
+        "year": "2021",
+        "market": "",
+        "source": "Gamalytic, Steam games by year (read 16 September 2026)",
+        "link": "https://gamalytic.com/years",
+        "source_slug": "gamalytic"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Games released on Steam in 2022.",
+        "card_text": "11,033",
+        "year": "2022",
+        "market": "",
+        "source": "Gamalytic, Steam games by year (read 16 September 2026)",
+        "link": "https://gamalytic.com/years",
+        "source_slug": "gamalytic"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Games released on Steam in 2023.",
+        "card_text": "12,913",
+        "year": "2023",
+        "market": "",
+        "source": "Gamalytic, Steam games by year (read 16 September 2026)",
+        "link": "https://gamalytic.com/years",
+        "source_slug": "gamalytic"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Games released on Steam in 2024, up by more than a third in a year, the biggest jump in the series.",
+        "card_text": "17,416",
+        "year": "2024",
+        "market": "",
+        "source": "Gamalytic, Steam games by year (read 16 September 2026)",
+        "link": "https://gamalytic.com/years",
+        "source_slug": "gamalytic"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Games released on Steam in 2025, the most in any year.",
+        "card_text": "20,676",
+        "year": "2025",
+        "market": "",
+        "source": "Gamalytic, Steam games by year (read 16 September 2026)",
+        "link": "https://gamalytic.com/years",
+        "source_slug": "gamalytic"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Games released on Steam in 2026 through 16 September, already within a few hundred of 2025's whole year.",
+        "card_text": "19,934",
+        "year": "2026",
+        "market": "",
+        "source": "Gamalytic, Steam games by year (read 16 September 2026)",
+        "link": "https://gamalytic.com/years",
+        "source_slug": "gamalytic",
+        "partial": true
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Steam replaces Greenlight, where players voted on which games got in, with Steam Direct, which asks only for paperwork and a $100 fee per game. Steam had been releasing a few thousand games a year, and the gate that kept the number there is gone.",
+        "card_text": "Steam Direct replaces Greenlight",
+        "year": "2017",
+        "market": "",
+        "source": "MCV/Develop, Steam Direct launches, replacing Greenlight submission programme (14 June 2017)",
+        "link": "https://mcvuk.com/development-news/steam-direct-launches-replacing-greenlight-submission-programme/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Valve, which runs Steam, reports on Steam Next Fest, an event of free demos that started in 2020 when E3 didn't take place. Across the first five fests, the typical game gained about 15 times as many daily wishlist adds (players saving a game to buy later) as usual. Wishlists added during the fest also turned into sales at five times the rate of those added in the two weeks before.",
+        "card_text": "Valve puts numbers on Next Fest",
+        "year": "2021",
+        "market": "",
+        "source": "Valve, Steamworks Development, Steam Next Fest continues to boost engagement and sales for most games in 2021 (30 November 2021)",
+        "link": "https://store.steampowered.com/news/group/4145017/view/3142945680156500050",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "SteamDB counts 18,945 releases with a few days left in the year, about 5,600 more than 2023 and the biggest jump it has recorded. Yet only 3,964 of them reached the popularity level Valve requires for community features, barely more than the 3,874 in 2023.",
+        "card_text": "A record year, and most of it unnoticed",
+        "year": "2024",
+        "market": "",
+        "source": "PC Gamer, Jonathan Bolding, on SteamDB (28 December 2024)",
+        "link": "https://www.pcgamer.com/games/nearly-19-000-games-released-on-steam-in-2024/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "SteamDB counts more than 19,000 releases so far. Almost half get fewer than ten user reviews: about 2,200 get none, and another 7,100 get nine or fewer. Only about 1,200 pass 500 reviews.",
+        "card_text": "Half of 2025's releases draw under ten reviews",
+        "year": "2025",
+        "market": "",
+        "source": "80.lv, Arti Sergeev, on SteamDB's data (15 December 2025)",
+        "link": "https://80.lv/articles/steam-earned-usd16b-in-2025-but-nearly-half-of-19-000-games-got-under-10-reviews",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Chris Zukowski compares four trackers' totals for 2025: SteamDB 20,008, VG Insights 20,282, Gamalytic 20,353, and GameDiscoverCo 20,558. They differ mainly in how they count games Valve removed. Growth of about 11% is the third-smallest yearly increase since Steam Direct began.",
+        "card_text": "Four trackers, four counts, one record",
+        "year": "2026",
+        "market": "",
+        "source": "How To Market A Game, Chris Zukowski, How many games were released in 2025? (8 January 2026)",
+        "link": "https://howtomarketagame.com/2026/01/08/how-many-games-were-released-in-2025/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "GDC's annual survey of more than 2,300 game industry workers asks how developers find new players. Social media leads at 65%, followed by streamers at 39%, paid advertising at 31%, events at 30%, community platforms at 28%, and traditional press and bloggers at 25%.",
+        "card_text": "Streamers rank above paid advertising",
+        "year": "2026",
+        "market": "",
+        "source": "GameDev Reports, on GDC State of the Game Industry 2026 (16 February 2026)",
+        "link": "https://gamedevreports.substack.com/p/gdc-the-state-of-the-game-industry-fcf",
+        "source_slug": "gamedev-reports"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "GameDiscoverCo's five-year outlook: a game that would have launched to 500 people playing at once on Steam eight years ago now launches to 100 or fewer. The games aren't worse. There are just many more good ones competing for attention.",
+        "card_text": "A 500-player launch is now a 100-player launch",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless, 14 trends for the next 5 years of PC/console games (1 May 2026)",
+        "link": "https://newsletter.gamediscover.co/p/14-trends-for-the-next-5-years-of",
+        "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "June's Steam Next Fest includes a record 4,382 demos, 66% more than a year earlier's 2,645. With more competition, each game gets less attention. The top tenth of games gained about 121 followers each, down from 163 in June 2025, and the top 1% fell from 1,759 to 1,330.",
+        "card_text": "A record Next Fest, and each demo gets less",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless, Who 'won' June 2026's Steam Next Fest? (23 June 2026)",
+        "link": "https://newsletter.gamediscover.co/p/who-won-june-2026s-steam-next-fest",
+        "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Among the 100 top-earning 4X strategy games (empire-building games) on US mobile, 68% saw their share of US ad views fall by at least 10% in the first half of 2026. AppLovin and AdMob now take about two-thirds of mobile gaming's ad revenue, and closer to three-quarters for midcore games (more involved than casual games, less demanding than hardcore ones).",
+        "card_text": "Paid reach shrinks for the biggest mobile spenders",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Max Abrahamsen, H1 2026: 4X Strategy's UA Reckoning (15 August 2026)",
+        "link": "https://naavik.co/f2p-mobile/h1-2026-4x-strategys-ua-reckoning/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "GameDiscoverCo studies 2,569 Steam games launched between January 2024 and August 2026 whose demos had more than 50 players at once. At launch, the typical game peaked at about three times its demo's peak. The best quarter averaged about six times, the worst just over one. Of 2026's 100 top-earning games, 58 had a demo first.",
+        "card_text": "The demo forecasts the launch",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless, Does your Steam demo CCU 'predict' your game's success? (8 September 2026)",
+        "link": "https://newsletter.gamediscover.co/p/does-your-steam-demo-ccu-predict",
+        "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Comparing viewing and sales across 2025 releases, GameDiscoverCo found that games sold about one copy for every 41 hours people spent watching them streamed after launch. Wishlists also jumped when big streamers played a game's open beta, as happened with Mecha Break. GameDiscoverCo notes this shows the two move together, not that streams cause sales.",
+        "card_text": "Forty-one hours watched, one copy sold",
+        "year": "2025",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless, How does streamer popularity & Steam wishlists relate? (16 September 2025)",
+        "link": "https://newsletter.gamediscover.co/p/how-does-streamer-popularity-and",
+        "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Most games earn almost nothing. Gamalytic puts the typical 2025 Steam game's earnings at $249, up from $222 in 2024. Two-thirds earned under $1,000, and 40% didn't earn back Steam's $100 fee. The year's releases earned $4.7 billion in total, down from $7.6 billion, even though more games came out than ever.",
+        "card_text": "The typical 2025 release made $249",
+        "year": "2025",
+        "market": "",
+        "source": "80.lv, Theodore McKenzie, on Gamalytic (22 October 2025)",
+        "link": "https://80.lv/articles/analysts-report-drop-in-game-revenue-on-steam-despite-growing-number-of-releases",
+        "source_slug": "gamalytic"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "There's no longer a mainstream audience to launch a game into. Each player sees their own mix of recommendations and creators, so a game has to stand out enough to jump from one group to another. A spot on NorthernLion's YouTube playlist, or a mention on a novelist's podcast, is the kind of jump that now decides a game's fate.",
+        "card_text": "A game has to break out of its bubble",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless, The only way to discovery success? Escape your filter bubble! (17 February 2026)",
+        "link": "https://newsletter.gamediscover.co/p/the-only-way-to-discovery-success",
+        "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Release counts depend on who's counting. Four trackers put 2025 anywhere from 20,008 to 20,558 games, and Gamalytic's own site, the source of the chart above, now says 20,676. For 2024, SteamDB counted 18,945 in late December and Gamalytic 17,416. Every count shows the same upward trend, but the exact numbers differ.",
+        "card_text": "The trackers disagree by hundreds",
+        "year": "2026",
+        "market": "",
+        "source": "How To Market A Game, Chris Zukowski, How many games were released in 2025? (8 January 2026)",
+        "link": "https://howtomarketagame.com/2026/01/08/how-many-games-were-released-in-2025/",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Valve's own numbers say more games than ever are finding buyers. In 2025, 5,863 games earned more than $100,000 on Steam, nearly double 2020. About 1,700 of those, 8.5% of the year's releases, came out that year, up from 7% in 2024. Sales from Steam's Daily Deals grew 274%, and 69% of the 1,500 games featured there had never been featured before. Steam's own store is still a way players find games, and it's growing.",
+        "card_text": "Steam says more games are breaking through, not fewer",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless, What Steam's 2026 biz update tells us about the ecosystem (13 March 2026)",
+        "link": "https://newsletter.gamediscover.co/p/what-steams-2026-biz-update-tells",
+        "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Some hits need streamers and some don't. Manor Lords doubled its Steam sales from 1.7 million to 3.3 million copies while it had little viewing on Twitch. Sales of Path of Exile 2 rise with its updates, not with how much it's watched. GameDiscoverCo's view is that streamers drive some successes and clearly not others.",
+        "card_text": "Manor Lords doubled its sales with no stream behind it",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless, What Twitch data adds to our view of game discovery (16 June 2026)",
+        "link": "https://newsletter.gamediscover.co/p/what-twitch-data-adds-to-our-view",
+        "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Whether 2026 sets a new record for Steam releases. As of September 16, Gamalytic had counted 19,934, against 20,676 for all of last year. Unless the fall is unusually quiet, the record will fall.",
+        "card_text": "Whether 2026 sets a new record",
+        "year": "2026",
+        "market": "",
+        "source": "Gamalytic, Steam games by year (read 16 September 2026)",
+        "link": "https://gamalytic.com/years",
+        "source_slug": "gamalytic"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "GDC's next annual survey, due early in 2027. Will streamers close the gap with social media as a way to find players, and will paid advertising fall further behind?",
+        "card_text": "Whether streamers gain on social media in the next GDC survey",
+        "year": "2027",
+        "market": "",
+        "source": "GDC State of the Game Industry",
+        "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
+        "source_slug": "gdc-state-of-the-game-industry"
+      }
+    ]
   },
   {
     "slug": "new-games-fight-for-playtime",
