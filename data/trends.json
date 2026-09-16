@@ -32,6 +32,7 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Game Developer's business desk, GDC State of the Game Industry (annual), Satvat's layoff tracker, Farhan Noor's videogamelayoffs.com tracker, GamesIndustry.biz",
     "status_label": "",
+    "series_label": "Job losses recorded, by year",
     "what_it_is_text": [
       "During the pandemic, people played more games, and companies hired and spent heavily to keep up. When that demand cooled and borrowing got more expensive, publishers cut staff, cancelled projects, and closed studios. While there is no official count of games layoffs, there are at least two public trackers (",
       {
@@ -317,7 +318,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Circana (Mat Piscatella), Newzoo",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "premium-price-ceiling",
@@ -357,6 +359,7 @@
     "as_of": "Sep 2026",
     "where_to_follow": "GamesRadar and Eurogamer business coverage, Circana US sales data, Ars Technica gaming desk",
     "status_label": "",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
@@ -404,6 +407,7 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Game Developer post-mortems, Circana engagement data, publisher earnings calls (Sony, EA, Take-Two)",
     "status_label": "",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
@@ -452,7 +456,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "The Verge Xbox coverage, WSJ tech desk, Circana subscription spending data, Microsoft earnings",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "creator-platforms-as-sovereign-economies",
@@ -487,7 +492,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "Roblox quarterly earnings and annual reports, Game Developer, Naavik deep dives, Matthew Ball",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "child-safety-enforcement-in-game-platforms",
@@ -529,7 +535,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "eSafety Commissioner (AU), Ofcom Online Safety Act updates (UK), state AG press offices, The Guardian tech desk, Roblox's safety blog and earnings calls",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "indias-real-money-gaming-ban",
@@ -564,6 +571,7 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Reuters India tech desk, MediaNama, AGB (Asia Gaming Brief), Indian Supreme Court proceedings",
     "status_label": "",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
@@ -623,6 +631,7 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Leon Y. Xiao's annual 'Loot Box State of Play' papers, Gaming Law Review, PEGI/ESRB notices, national regulators (Belgian Gaming Commission, Kansspelautoriteit)",
     "status_label": "Regulation",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
@@ -966,9 +975,10 @@
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Niko Partners China/SEA research, TechNode, AGB, national regulator announcements (NPPA, Vietnam MIC); see also the age-checks row for verification mechanics",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "publishers-split-on-gambling-money-in-esports",
@@ -1004,9 +1014,10 @@
         "format": "video"
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Esports Charts sponsorship analyses, HLTV Counter-Strike business coverage, Esports Legal News, SportBusiness",
     "status_label": "",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
@@ -1055,7 +1066,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "FTC press releases and enforcement actions, IAPP coverage, ICO (UK), law-firm COPPA trackers",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "addiction-and-screen-time-discourse",
@@ -1087,9 +1099,10 @@
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Journal of Behavioral Addictions, BMC Psychiatry, Oxford Internet Institute (Przybylski), KOCCA white papers for the Korean framing",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "chinas-original-ip-franchise-build-out",
@@ -1122,9 +1135,10 @@
         "format": "video"
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Rest of World China tech desk, Niko Partners, SCMP tech coverage, Naavik",
     "status_label": "",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
@@ -1173,7 +1187,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "Naavik, SportBusiness esports desk, Reuters M&A coverage, Esports Insider",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "growth-without-western-access",
@@ -1205,18 +1220,19 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "The Game Business (Dring), Matthew Ball / Epyllion, Niko Partners, Newzoo regional reports",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "chinas-banhao-throttles-games",
-    "name": "China's banhao throttles games",
+    "name": "China throttles game approvals",
     "stage": "Perennial",
     "category": "Geography & power",
     "markets": [
       "CN"
     ],
-    "what_it_is": "Every game monetized in China needs an NPPA publication license (版号, banhao), and only a licensed Chinese publisher can hold one — foreign studios apply through a partner or not at all. Supply is a dial the regulator turns: total freeze in 2021-22, then 1,771 approvals in 2025, and 2026 running ~19% ahead of that pace at 1,110 domestic and 37 imported licenses by the July batch. Imports now clear on a roughly two-month cadence. The binding constraint has quietly moved downstream — real-name verification SDKs and server-side minor-cutoff enforcement are now the harder half.",
-    "why_it_matters": "Batch cadence is the cleanest public read on Chinese market access and regulatory mood — but approvals rose while H1 gacha revenue fell 8.97%, so permission and commercial outcome have decoupled.",
+    "what_it_is": "Foreign games now get approved roughly every two months. The license itself is no longer the hardest part. The bigger hurdle now comes after approval: games must verify each player's real identity and automatically enforce the limits on how long and when minors can play.",
+    "why_it_matters": "China controls how many games reach its market by adjusting how many licenses it approves. That license is called a banhao (版号), and China began issuing far fewer beginning in 2018.",
     "further_reading": [
       {
         "source": "Niko Partners, analyst research note, Jan 2026",
@@ -1237,20 +1253,319 @@
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Niko Partners' monthly approval trackers, TechNode, Digital Policy Alert, SCMP",
     "status_label": "",
+    "series_label": "Domestic game licences approved, by year",
     "claims": [
       {
         "section": "Definition",
         "kind": "Argument",
-        "claim": "A banhao (版号) is the license a game needs before it can make money in China. It’s issued by the NPPA, China’s publishing regulator. Only a Chinese publisher can hold one, so a foreign studio has two choices: team up with a local partner or skip China entirely.",
+        "claim": "A banhao (版号) is the license a game needs before it can make money in China. It's issued by the NPPA, China's publishing regulator. Only a Chinese publisher can hold one, so a foreign studio has two choices: team up with a local partner or skip China entirely.",
         "card_text": "What is a banhao?",
         "year": "",
         "market": "",
         "source": "NPPA",
         "link": "",
         "source_slug": "nppa"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Derived, not stated: Niko Partners counts more than 8,500 licences in 2017, 467 of them foreign, so roughly 8,000 domestic. Not like-for-like with later years: 37% of 2017's licences were poker and mahjong titles the regulator stopped approving after the 2018 freeze.",
+        "card_text": "~8,000",
+        "year": "2017",
+        "market": "",
+        "source": "NPPA (then GAPP) batches, derived from Niko Partners' counts (February 2020 and April 2019)",
+        "link": "https://nikopartners.com/game-regulations-in-china-everything-you-need-to-know/",
+        "source_slug": "nppa"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Derived, not stated: Niko Partners puts the first quarter's 962 poker and mahjong licences at 49.8% of the quarter, about 1,930 licences with 55 of them foreign; approvals then stopped on 28 March and restarted on 19 December with a batch of 80 domestic games. Roughly half of early 2018's licences were poker and mahjong.",
+        "card_text": "~1,950",
+        "year": "2018",
+        "market": "",
+        "source": "NPPA (then SAPP) batches, derived from Niko Partners' counts (April 2019)",
+        "link": "https://nikopartners.com/nearly-1000-games-have-received-a-license-since-the-restart-of-game-approvals-in-china/",
+        "source_slug": "nppa"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Domestic licences approved in 2019, with 185 imported titles beside them; the NPPA's batches as tallied by Niko Partners.",
+        "card_text": "1,385",
+        "year": "2019",
+        "market": "",
+        "source": "NPPA batches, tallied by Niko Partners (February 2020)",
+        "link": "https://nikopartners.com/game-regulations-in-china-everything-you-need-to-know/",
+        "source_slug": "nppa"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Derived, not stated: TechNode wrote that 2022's 468 domestic licences were a third of 2020's, which puts 2020 at about 1,404. No source read prints the year's total.",
+        "card_text": "~1,404",
+        "year": "2020",
+        "market": "",
+        "source": "NPPA batches, derived from TechNode's 29 December 2022 comparison",
+        "link": "https://technode.com/2022/12/29/tencent-and-netease-secure-major-game-approvals-at-the-end-of-2022/",
+        "source_slug": "nppa"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Derived, not stated: TechNode wrote that 2022's 468 domestic licences were 38% fewer than 2021's, which puts 2021 at about 755. Approvals stopped from August 2021 to April 2022.",
+        "card_text": "~755",
+        "year": "2021",
+        "market": "",
+        "source": "NPPA batches, derived from TechNode's 29 December 2022 comparison",
+        "link": "https://technode.com/2022/12/29/tencent-and-netease-secure-major-game-approvals-at-the-end-of-2022/",
+        "source_slug": "nppa"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Domestic licences approved in 2022, the freeze year, with 44 imported titles in a single December batch; TechNode's tally of the NPPA's lists.",
+        "card_text": "468",
+        "year": "2022",
+        "market": "",
+        "source": "NPPA batches, tallied by TechNode (29 December 2022)",
+        "link": "https://technode.com/2022/12/29/tencent-and-netease-secure-major-game-approvals-at-the-end-of-2022/",
+        "source_slug": "nppa"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Domestic licences approved in 2023, with 98 imported titles beside them, which TechNode called a twofold increase on 2022.",
+        "card_text": "977",
+        "year": "2023",
+        "market": "",
+        "source": "NPPA batches, tallied by TechNode (25 December 2023)",
+        "link": "https://technode.com/2023/12/25/china-aims-to-boost-the-gaming-market-after-new-gaming-rules-hit-tencent-and-netease/",
+        "source_slug": "nppa"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Domestic licences approved in 2024, with 110 imported titles beside them: 1,416 in all, the most in five years by TechNode's count.",
+        "card_text": "1,306",
+        "year": "2024",
+        "market": "",
+        "source": "NPPA batches, tallied by TechNode (25 December 2024)",
+        "link": "https://technode.com/2024/12/25/china-approves-135-games-in-december-including-neteases-ananta-and-tencents-monster-hunter-outlanders/",
+        "source_slug": "nppa"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Domestic licences approved in 2025, with 95 imported titles beside them: 1,771 in all, up 25% on 2024 by Niko Partners' count.",
+        "card_text": "1,676",
+        "year": "2025",
+        "market": "",
+        "source": "NPPA batches, tallied by Niko Partners (15 January 2026)",
+        "link": "https://substack.nikopartners.com/p/chinas-nppa-approved-1771-video-games",
+        "source_slug": "nppa"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Domestic licences approved in 2026 through the July batch, with 37 imported titles beside them; Niko Partners expects the year to pass 2,000 in all.",
+        "card_text": "1,110",
+        "year": "2026",
+        "market": "",
+        "source": "NPPA batches, tallied by Niko Partners (30 July 2026)",
+        "link": "https://substack.nikopartners.com/p/china-approves-197-video-games-in",
+        "source_slug": "nppa",
+        "partial": true
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "China licensed more than 8,500 games in 2017, and 37% of them were poker and mahjong titles, a category the regulator would stop approving after the freeze that followed.",
+        "card_text": "More than 8,500 licences, a third of them poker and mahjong",
+        "year": "2017",
+        "market": "",
+        "source": "Niko Partners, Game regulations in China: everything you need to know (February 2020)",
+        "link": "https://nikopartners.com/game-regulations-in-china-everything-you-need-to-know/",
+        "source_slug": "niko-partners"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Approvals halted on 28 March 2018 while the regulator was rebuilt as the SAPP, and did not restart until 19 December, when a first batch of 80 domestic games was licensed.",
+        "card_text": "A nine-month halt while the regulator is rebuilt",
+        "year": "2018",
+        "market": "",
+        "source": "Niko Partners, An update on China's games licensing freeze (24 October 2018) and the regulations explainer (February 2020)",
+        "link": "https://nikopartners.com/an-update-on-chinas-games-licensing-freeze/",
+        "source_slug": "niko-partners"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The first full year under the new regime licensed 1,570 games, 1,385 domestic and 185 foreign, against a pre-freeze average of 641 a month; TechNode's verdict was that approvals had failed to return to pre-freeze levels.",
+        "card_text": "Approvals stay a fraction of the old volume",
+        "year": "2019",
+        "market": "",
+        "source": "TechNode, Game approvals failed to return to pre-freeze levels last year (2 January 2020)",
+        "link": "https://technode.com/2020/01/02/game-approvals-failed-to-return-to-pre-freeze-levels-last-year/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Approvals stopped again in August 2021, after 675 licences in the seven months before, and stayed stopped for eight months.",
+        "card_text": "A second freeze",
+        "year": "2021",
+        "market": "",
+        "source": "TechNode, China resumes issuing new gaming licenses after 8 months (12 April 2022)",
+        "link": "https://technode.com/2022/04/12/china-resumes-issuing-new-gaming-licenses-after-8-month-freeze/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Approvals resumed on 12 April 2022 with 45 domestic games, and the year closed at 468 domestic licences, 38% fewer than 2021 and a third of 2020, with the first imported titles in a year and a half, 44 of them, in a single December batch.",
+        "card_text": "The thinnest year on record",
+        "year": "2022",
+        "market": "",
+        "source": "TechNode, Tencent and NetEase secure major game approvals at the end of 2022 (29 December 2022)",
+        "link": "https://technode.com/2022/12/29/tencent-and-netease-secure-major-game-approvals-at-the-end-of-2022/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Draft online-game rules published on 22 December 2023 wiped about $46 billion off Tencent and $17 billion off NetEase in a day; three days later the NPPA approved 105 domestic games, the first batch over a hundred, to show what it called a supportive stance.",
+        "card_text": "Draft rules, then a record batch to calm the market",
+        "year": "2023",
+        "market": "",
+        "source": "TechNode, China aims to boost the gaming market after new gaming rules hit Tencent and NetEase (25 December 2023)",
+        "link": "https://technode.com/2023/12/25/china-aims-to-boost-the-gaming-market-after-new-gaming-rules-hit-tencent-and-netease/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The NPPA licensed 1,416 games in 2024, 1,306 domestic and 110 imported, the most in five years.",
+        "card_text": "The most licences in five years",
+        "year": "2024",
+        "market": "",
+        "source": "TechNode, China approves 135 games in December (25 December 2024)",
+        "link": "https://technode.com/2024/12/25/china-approves-135-games-in-december-including-neteases-ananta-and-tencents-monster-hunter-outlanders/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Shanghai's measures for the software industry, published in July 2025, include a pilot under which games developed by foreign companies in Shanghai may be treated as domestic titles, bypassing the import approval process.",
+        "card_text": "Shanghai's pilot treats foreign-made games as domestic",
+        "year": "2025",
+        "market": "",
+        "source": "TechNode, New Shanghai policy may accelerate foreign game approvals in China (10 July 2025)",
+        "link": "https://technode.com/2025/07/10/new-shanghai-policy-may-accelerate-foreign-game-approvals-in-china/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The NPPA approved 1,771 games in 2025, 1,676 domestic and 95 imported, up 25% on 2024 at around 147 a month, with the final batch issued on 25 December.",
+        "card_text": "1,771 in 2025, up a quarter",
+        "year": "2025",
+        "market": "",
+        "source": "Niko Partners, China's NPPA approved 1,771 video games in 2025 (15 January 2026)",
+        "link": "https://substack.nikopartners.com/p/chinas-nppa-approved-1771-video-games",
+        "source_slug": "niko-partners"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "July's batch of 197 took 2026 to 1,110 domestic and 37 imported licences by the end of the month, and Niko Partners expects the year to pass 2,000 in all.",
+        "card_text": "2026 on course to pass 2,000",
+        "year": "2026",
+        "market": "",
+        "source": "Niko Partners, China approves 197 video games in July 2026 (30 July 2026)",
+        "link": "https://substack.nikopartners.com/p/china-approves-197-video-games-in",
+        "source_slug": "niko-partners"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "A freeze closes companies, not just games: TechNode reported that about 14,000 small studios and gaming-related firms went out of business in 2021, the year approvals stopped in August.",
+        "card_text": "A freeze closes studios, not just games",
+        "year": "2022",
+        "market": "",
+        "source": "TechNode, China's gaming industry is downsizing in game license freeze (23 February 2022)",
+        "link": "https://technode.com/2022/02/23/chinas-gaming-industry-is-downsizing-as-regulators-halt-new-game-licenses-report/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "The batch size is a policy signal. Three days after draft rules in December 2023 wiped about $46 billion off Tencent and $17 billion off NetEase, the NPPA approved 105 games in one batch, the first over a hundred, to demonstrate what it called a supportive stance.",
+        "card_text": "The size of a batch is a message",
+        "year": "2023",
+        "market": "",
+        "source": "TechNode, China aims to boost the gaming market after new gaming rules hit Tencent and NetEase (25 December 2023)",
+        "link": "https://technode.com/2023/12/25/china-aims-to-boost-the-gaming-market-after-new-gaming-rules-hit-tencent-and-netease/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Foreign titles come through a separate and thinner pipe, and it can be shut for reasons that have nothing to do with games: no game from Korea was approved between March 2017 and December 2020, and imports as a whole were frozen for a year and a half until December 2022.",
+        "card_text": "Foreign games queue in a pipe that can be closed",
+        "year": "2023",
+        "market": "",
+        "source": "Niko Partners, China 2023 game licenses on track to surpass 2021 and 2022 (4 April 2023)",
+        "link": "https://nikopartners.com/china-2023-game-licenses-on-track-to-surpass-2021-and-2022/",
+        "source_slug": "niko-partners"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Approvals have risen every year since 2022 and are above 2019: 1,771 in 2025, up 25%, and Niko Partners expects 2026 to pass 2,000. Read from 2022 rather than from 2017, the dial is being turned up, not down.",
+        "card_text": "The dial has been turning up since 2022",
+        "year": "2026",
+        "market": "",
+        "source": "Niko Partners, China approves 197 video games in July 2026 (30 July 2026)",
+        "link": "https://substack.nikopartners.com/p/china-approves-197-video-games-in",
+        "source_slug": "niko-partners"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "The fall from 2017 is overstated by the count: 37% of that year's 8,500 licences were poker and mahjong titles the regulator stopped approving after the freeze, so part of the drop is a category leaving the ledger, not games being refused.",
+        "card_text": "2017 is not the baseline it looks like",
+        "year": "2020",
+        "market": "",
+        "source": "Niko Partners, Game regulations in China: everything you need to know (February 2020)",
+        "link": "https://nikopartners.com/game-regulations-in-china-everything-you-need-to-know/",
+        "source_slug": "niko-partners"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Whether Shanghai's pilot produces a foreign-developed game licensed as a domestic title, which would open a route around the import queue for studios willing to develop in the city.",
+        "card_text": "A foreign game licensed as domestic under Shanghai's pilot",
+        "year": "2026",
+        "market": "",
+        "source": "TechNode, New Shanghai policy may accelerate foreign game approvals in China (10 July 2025)",
+        "link": "https://technode.com/2025/07/10/new-shanghai-policy-may-accelerate-foreign-game-approvals-in-china/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Niko Partners' January tally of the year: whether 2026 passes 2,000 licences, which would be the most since the 2018 freeze.",
+        "card_text": "Whether 2026 passes 2,000",
+        "year": "2027",
+        "market": "",
+        "source": "Niko Partners, China approves 197 video games in July 2026 (30 July 2026)",
+        "link": "https://substack.nikopartners.com/p/china-approves-197-video-games-in",
+        "source_slug": "niko-partners"
       }
     ]
   },
@@ -1286,7 +1601,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "GDC State of the Game Industry (annual), Game Developer, Wired gaming/AI coverage, a16z Games (for the pro-adoption view)",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "the-rise-of-ai-companions-and-co-playable-npcs",
@@ -1321,9 +1637,10 @@
         "format": "video"
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "VGC and The Verge AI-in-games coverage, Epic's Creator ecosystem announcements, Inworld/ElevenLabs product news, Kotaku (critical coverage)",
     "status_label": "",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
@@ -1370,7 +1687,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "SAG-AFTRA's interactive media page, Deadline/Variety labor desks, Game Developer labor coverage",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "app-store-unbundling-under-court-supervision",
@@ -1407,7 +1725,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "The Verge policy desk, MacRumors legal coverage, mobilegamer.biz, European Commission DMA enforcement updates, Japan Fair Trade Commission MSCA enforcement",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "streaming-fragmentation-and-the-multi-homed-creator",
@@ -1445,7 +1764,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "Stream Hatchet quarterly and annual reports, Streams Charts, Netinfluencer, Bloomberg's creator-economy coverage",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "handheld-pc-resurgence",
@@ -1480,9 +1800,10 @@
         "format": "video"
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Omdia games research, The Verge hardware desk, Circana (Piscatella), Valve Steam Hardware Survey",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "metaverse-and-blockchain-gaming-hype",
@@ -1517,6 +1838,7 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball (who wrote the book and the post-mortems), Naavik, Digiday's Gaming Advertising coverage for brand-metaverse residue",
     "status_label": "",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
@@ -1565,9 +1887,10 @@
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "ESA Essential Facts (annual), Circana demographics, VGM/GWI audience panels, Pew Research internet & tech",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "game-preservation-and-digital-ownership",
@@ -1607,6 +1930,7 @@
     "as_of": "Sep 2026",
     "where_to_follow": "European Citizens' Initiative register, stopkillinggames.com, r/StopKillingGames, Bellular News (YouTube), Digital Fairness Act consultations, UFC-Que Choisir, Video Games Europe statements",
     "status_label": "",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
@@ -1656,7 +1980,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "Game Workers of America / CWA announcements, Game Developer labor desk, GDC State of the Game Industry, IGDA",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "culture-war-discourse-and-the-weaponized-review-score",
@@ -1691,9 +2016,10 @@
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "IJoC and Games & Culture (scholarly), Aftermath and 404 Media (critical journalism), Wired culture desk, SteamDB review-anomaly data",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "esports-after-the-reckoning",
@@ -1732,6 +2058,7 @@
     "as_of": "Sep 2026",
     "where_to_follow": "SportBusiness, Esports Insider, Sports Business Journal esports desk, Esports Charts viewership data",
     "status_label": "",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
@@ -1784,9 +2111,10 @@
         "format": ""
       }
     ],
-    "as_of": "Jul 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Aftermath, Press Gazette (media business beat), Game File, local trade-body statements, WHOIS/company filings for suspect domains",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "studio-investment-in-games-plummets",
@@ -1820,7 +2148,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Game Developer's business desk, GameDiscoverCo",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "platforms-bet-on-exclusivity-again",
@@ -1857,7 +2186,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "The Game Business (Christopher Dring), Game File (Stephen Totilo), Video Games Chronicle, Circana consumer surveys",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "mobile-has-shifted-from-downloads-to-spending",
@@ -1896,9 +2226,10 @@
         "format": ""
       }
     ],
-    "as_of": "Aug 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Sensor Tower State of Mobile (annual), Naavik, Deconstructor of Fun, PocketGamer.biz monthly charts, AppMagic",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "creators-are-how-players-find-games",
@@ -1933,7 +2264,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "GameDiscoverCo (Simon Carless), Naavik, GDC State of the Game Industry (annual), Gamalytic, SteamDB",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "new-games-fight-for-playtime",
@@ -1967,7 +2299,8 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "Newzoo PC and Console Gaming Report (annual), GameDiscoverCo, Circana Player Engagement Tracker, Valve's Steam Replay",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "the-rise-of-friendslop",
@@ -2000,9 +2333,10 @@
         "format": ""
       }
     ],
-    "as_of": "Aug 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "GameDiscoverCo's annual PC and console sales roundups, Game Developer's design desk, PC Gamer, AppMagic retention studies",
-    "status_label": ""
+    "status_label": "",
+    "series_label": ""
   },
   {
     "slug": "live-ops-is-becoming-a-playbook",
@@ -2035,9 +2369,10 @@
         "format": ""
       }
     ],
-    "as_of": "Aug 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Naavik, Deconstructor of Fun, PocketGamer.biz, GDC live ops talks, Game Developer's production desk",
     "status_label": "",
+    "series_label": "",
     "claims": [
       {
         "section": "Definition",
