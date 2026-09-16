@@ -2232,7 +2232,7 @@
   },
   {
     "slug": "streaming-fragmentation-and-the-multi-homed-creator",
-    "name": "Streamers fragment across platforms",
+    "name": "Streaming audiences split across platforms",
     "stage": "Dominant",
     "category": "Platform & distribution",
     "markets": [
@@ -2242,8 +2242,8 @@
       "KR",
       "US"
     ],
-    "what_it_is": "The live-streaming audience is un-bundling from any single platform. Twitch stayed the most-watched at 19.2 billion hours in 2025 but shed 8.3 points of share, its Q4 the lowest since early 2020, while Kick grew 131% and Korea's Chzzk 44%. Creators now multi-home by default: Twitch anchors ~56% of the average simulcaster's hours, but the clip layer driving discovery runs through TikTok and YouTube. The money has begun to follow: across comparable brand deals in 2026, YouTube gaming creators commanded about 23% higher rates than Twitch streamers on Collabstr's data, so the hours-watched charts and the earnings charts no longer rank the platforms the same way.",
-    "why_it_matters": "Fragmentation is the end state, not a transition. Korea settled into a SOOP/Chzzk duopoly two years after Twitch left. And Kick's growth is IRL and combat sports, not the gaming audience Twitch lost, so share charts mislead. Single-platform reads of \"streaming culture\" break.",
+    "what_it_is": "Twitch is still the most-watched live-streaming platform, but it has been losing ground each year while its rivals grow. Most streamers now broadcast on several platforms at once, usually keeping Twitch as their main home. New viewers, though, tend to find them through short clips on TikTok and YouTube. The money is following: YouTube gaming creators now earn more per brand deal than Twitch streamers, so the platform with the most viewing is no longer the one that pays best.",
+    "why_it_matters": "Live-streaming viewers used to gather mostly on Twitch. Now they're spread across YouTube, TikTok, newer rivals like Kick, and local services in countries such as South Korea, and there's no sign they're coming back together. Any single platform now shows only part of the picture, and share charts can mislead, since platforms grow with different audiences.",
     "further_reading": [
       {
         "source": "Multistreaming Audience Split: Twitch, YouTube & Kick in H1 2026",
@@ -2267,7 +2267,304 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Stream Hatchet quarterly and annual reports, Streams Charts, Netinfluencer, Bloomberg's creator-economy coverage",
     "status_label": "",
-    "series_label": ""
+    "series_label": "Hours watched by platform, millions, by year",
+    "claims": [
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Hours watched on Twitch in 2023, from the 2024 yearly report's year-on-year table; Korean-language channels alone lost over a billion hours between 2023 and 2024 after Twitch left the country.",
+        "card_text": "21,700",
+        "year": "2023",
+        "market": "",
+        "source": "Stream Hatchet, 2024 yearly live streaming trends report (free, behind a registration form)",
+        "link": "https://hatchet.gg/reports/2024-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet",
+        "series": "Twitch"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Hours watched on Twitch in 2024, 61.1% of the market Stream Hatchet counts, down 3%.",
+        "card_text": "21,100",
+        "year": "2024",
+        "market": "",
+        "source": "Stream Hatchet, 2024 yearly live streaming trends report (free, behind a registration form)",
+        "link": "https://hatchet.gg/reports/2024-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet",
+        "series": "Twitch"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Hours watched on Twitch in 2025, 52.8% of the market, down 8.9% and 8.3 share points, with the fourth quarter's 4.4 billion the lowest since the start of 2020.",
+        "card_text": "19,200",
+        "year": "2025",
+        "market": "",
+        "source": "Stream Hatchet, 2025 yearly live streaming trends report (free, behind a registration form)",
+        "link": "https://hatchet.gg/reports/2025-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet",
+        "series": "Twitch"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Hours watched on YouTube Gaming in 2023, from the 2024 report's year-on-year table.",
+        "card_text": "4,800",
+        "year": "2023",
+        "market": "",
+        "source": "Stream Hatchet, 2024 yearly live streaming trends report (free, behind a registration form)",
+        "link": "https://hatchet.gg/reports/2024-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet",
+        "series": "YouTube Gaming"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Hours watched on YouTube Gaming in 2024, up 66%, 22.9% of the market.",
+        "card_text": "7,900",
+        "year": "2024",
+        "market": "",
+        "source": "Stream Hatchet, 2024 yearly live streaming trends report (free, behind a registration form)",
+        "link": "https://hatchet.gg/reports/2024-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet",
+        "series": "YouTube Gaming"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Hours watched on YouTube Gaming in 2025, its highest year, up 12% to 24.3% of the market.",
+        "card_text": "8,800",
+        "year": "2025",
+        "market": "",
+        "source": "Stream Hatchet, 2025 yearly live streaming trends report (free, behind a registration form)",
+        "link": "https://hatchet.gg/reports/2025-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet",
+        "series": "YouTube Gaming"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Hours watched on Kick in 2023, its first year, from the 2024 report's year-on-year table.",
+        "card_text": "725",
+        "year": "2023",
+        "market": "",
+        "source": "Stream Hatchet, 2024 yearly live streaming trends report (free, behind a registration form)",
+        "link": "https://hatchet.gg/reports/2024-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet",
+        "series": "Kick"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Hours watched on Kick in 2024, up 169%, 5.7% of the market.",
+        "card_text": "2,000",
+        "year": "2024",
+        "market": "",
+        "source": "Stream Hatchet, 2024 yearly live streaming trends report (free, behind a registration form)",
+        "link": "https://hatchet.gg/reports/2024-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet",
+        "series": "Kick"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Hours watched on Kick in 2025, up 131% to 12.4% of the market, passing a billion hours in a quarter for the first time in the third quarter.",
+        "card_text": "4,500",
+        "year": "2025",
+        "market": "",
+        "source": "Stream Hatchet, 2025 yearly live streaming trends report (free, behind a registration form)",
+        "link": "https://hatchet.gg/reports/2025-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet",
+        "series": "Kick"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Twitch hits its peak, with 24.3 billion hours watched, up from 11 billion in 2019.",
+        "card_text": "Twitch hits its peak",
+        "year": "2021",
+        "market": "",
+        "source": "TwitchTracker, statistics",
+        "link": "https://twitchtracker.com/statistics",
+        "source_slug": "twitchtracker"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Twitch shuts down in South Korea in February, two months after announcing it. Chzzk, a new service from Korean tech company Naver, draws 43 million hours in its first full month and 100 million by December. SOOP, Korea's longtime local platform, ends the year above its 2023 total.",
+        "card_text": "Twitch leaves Korea, and Chzzk fills the gap",
+        "year": "2024",
+        "market": "",
+        "source": "Stream Hatchet, The state of Korean live streaming (6 March 2025)",
+        "link": "https://hatchet.gg/blog/the-state-of-korean-live-streaming/",
+        "source_slug": "stream-hatchet"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Counting TikTok Live for the first time, live streaming reaches 29.7 billion hours in the first quarter. TikTok takes about 27%, passing Twitch (16.3%) for second place behind YouTube Live.",
+        "card_text": "TikTok passes Twitch",
+        "year": "2025",
+        "market": "",
+        "source": "Streams Charts, Q1 2025 global livestreaming landscape (29 April 2025)",
+        "link": "https://streamscharts.com/news/q1-2025-global-livestreaming",
+        "source_slug": "streams-charts"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Stream Hatchet, which doesn't count TikTok, puts 2025 at 36.4 billion hours, the most since 2021. YouTube Gaming has its best year for live viewing at 8.8 billion hours, and Kick grows 131% to 4.5 billion. Twitch stays the biggest platform but falls four quarters in a row.",
+        "card_text": "The best year since 2021, without Twitch",
+        "year": "2025",
+        "market": "",
+        "source": "Stream Hatchet, 2025 yearly live streaming trends report",
+        "link": "https://hatchet.gg/reports/2025-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Live streaming passes 30 billion hours in the fourth quarter, and TikTok passes 10 billion in a quarter for the first time. Twitch falls for the fourth straight quarter, and Kick drops from the previous quarter for the first time since launch.",
+        "card_text": "A 30 billion hour quarter, and Kick's first dip",
+        "year": "2025",
+        "market": "",
+        "source": "Streams Charts, Q4 2025 global livestreaming landscape (26 January 2026)",
+        "link": "https://streamscharts.com/news/q4-2025-global-livestreaming-landscape",
+        "source_slug": "streams-charts"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Streams Charts' full-year 2025 numbers: Twitch's viewing falls about 10%, to just over 15% of all hours watched. YouTube Live has over 47%, TikTok close to 30%, and Kick just over 4% after growing 125%. Chzzk grows 41%, passing a billion hours for the year.",
+        "card_text": "Twitch at 15% of a market that includes TikTok",
+        "year": "2026",
+        "market": "",
+        "source": "Streams Charts, livestreaming platforms dynamics 2025 (2 February 2026)",
+        "link": "https://streamscharts.com/news/livestreaming-platforms-dynamics-2025-youtube-live-strengthens-positions-twitch-viewership-down-10",
+        "source_slug": "streams-charts"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In the first half of 2026, the average streamer who broadcasts on several platforms spends 56.18% of their hours on Twitch, 23.59% on YouTube, and 19.52% on Kick.",
+        "card_text": "Multistreamers split their hours three ways",
+        "year": "2026",
+        "market": "",
+        "source": "Streams Charts, multistreaming audience split, H1 2026 (7 August 2026)",
+        "link": "https://streamscharts.com/news/multistreaming-audience-split-twitch-youtube-kick-h1-2026",
+        "source_slug": "streams-charts"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Collabstr's brand-deal data, reported by PocketGamer.biz: YouTube gaming creators averaged $203.35 per deal, 23% more than Twitch streamers' $165.70.",
+        "card_text": "YouTube creators earn more per deal",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, on Collabstr's data (8 September 2026)",
+        "link": "https://www.pocketgamer.biz/youtube-gaming-creators-command-23-higher-deal-rates-than-twitch/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Stream Hatchet starts counting TikTok Live in the second quarter of 2026, and it's bigger than every other platform combined, at 8.9 billion hours and 50.9% of the market. The other platforms fall 6% from a year earlier to 8.6 billion hours: Twitch 4.5 billion (down 8%), YouTube Gaming 1.8 billion (down 19%), and Kick 1.3 billion (up 37%).",
+        "card_text": "TikTok Live outweighs every other platform combined",
+        "year": "2026",
+        "market": "Stream Hatchet, Q2 2026 live streaming trends report (free, behind a registration form)",
+        "source": "Stream Hatchet, Q2 2026 live streaming trends report (free, behind a registration form)",
+        "link": "https://hatchet.gg/reports/",
+        "source_slug": "stream-hatchet"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Viewing hours and earnings rank the platforms differently. In a second cut of the same Collabstr data, comparing what creators asked for with what they kept after fees, Twitch creators asked for $398 on average but kept $127, just 32%. YouTube creators asked for $311 and kept $255, or 82%. The per-deal averages above are what was actually paid; these are the asking prices behind them.",
+        "card_text": "The most-watched platform isn't the best-paying",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, on Collabstr's data (8 September 2026)",
+        "link": "https://www.pocketgamer.biz/youtube-gaming-creators-command-23-higher-deal-rates-than-twitch/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Streaming on several platforms is now the norm. The average multi-platform streamer spends 56% of their hours on Twitch, 24% on YouTube, and 20% on Kick. Streams Charts says each platform plays a different role for the same creator.",
+        "card_text": "One channel, three platforms",
+        "year": "2026",
+        "market": "",
+        "source": "Streams Charts, multistreaming audience split, H1 2026 (7 August 2026)",
+        "link": "https://streamscharts.com/news/multistreaming-audience-split-twitch-youtube-kick-h1-2026",
+        "source_slug": "streams-charts"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "When a platform leaves a country, the market there can rebuild within a year. After Twitch left South Korea, Chzzk went from launch to 100 million monthly hours by December 2024. Krafton, the Korean publisher behind PUBG, got 57% of the viewing of its games in the second half of the year from YouTube Gaming.",
+        "card_text": "A market can remake itself in a year",
+        "year": "2025",
+        "market": "",
+        "source": "Stream Hatchet, The state of Korean live streaming (6 March 2025)",
+        "link": "https://hatchet.gg/blog/the-state-of-korean-live-streaming/",
+        "source_slug": "stream-hatchet"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Twitch is still where gaming streams live. Gaming made up 76% of Twitch viewing in the fourth quarter of 2025, and Twitch stayed above 4 billion hours a quarter. On TikTok and YouTube, gaming was under 15% of watch time.",
+        "card_text": "Twitch still leads in gaming",
+        "year": "2025",
+        "market": "",
+        "source": "Streams Charts, Q4 2025 global livestreaming landscape (26 January 2026)",
+        "link": "https://streamscharts.com/news/q4-2025-global-livestreaming-landscape",
+        "source_slug": "streams-charts"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Stream Hatchet doesn't count TikTok, and by its numbers Twitch was still the biggest platform in 2025, even after four quarters of decline. Include TikTok, as Streams Charts does, and Twitch drops to about 15%. Both describe the same year.",
+        "card_text": "Twitch's share depends on who's counted",
+        "year": "2025",
+        "market": "",
+        "source": "Stream Hatchet, 2025 yearly live streaming trends report",
+        "link": "https://hatchet.gg/reports/2025-yearly-report-in-live-streaming-trends/",
+        "source_slug": "stream-hatchet"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Kick, the fastest-growing challenger, was still up 37% on a year earlier in the second quarter of 2026 by Stream Hatchet's count, against 131% for all of 2025. Streams Charts recorded its first drop from one quarter to the next in the fourth quarter of 2025. A slowdown from a very fast pace, not a stop.",
+        "card_text": "Kick's growth has slowed, not stopped",
+        "year": "2026",
+        "market": "",
+        "source": "Stream Hatchet, Q2 2026 live streaming trends report (free, behind a registration form), with the fourth-quarter drop from Streams Charts",
+        "link": "https://hatchet.gg/reports/",
+        "source_slug": "stream-hatchet"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Whether Twitch's 2026 total ends up under 19 billion hours. TwitchTracker's monthly numbers will show this by January.",
+        "card_text": "Whether Twitch falls below 19 billion",
+        "year": "2026",
+        "market": "",
+        "source": "TwitchTracker, statistics",
+        "link": "https://twitchtracker.com/statistics",
+        "source_slug": "twitchtracker"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Whether Kick starts growing again after its first quarterly drop, or whether the fourth quarter of 2025 was its peak.",
+        "card_text": "Whether Kick's first dip was a ceiling",
+        "year": "2026",
+        "market": "",
+        "source": "Streams Charts, Q4 2025 global livestreaming landscape (26 January 2026)",
+        "link": "https://streamscharts.com/news/q4-2025-global-livestreaming-landscape",
+        "source_slug": "streams-charts"
+      }
+    ]
   },
   {
     "slug": "handheld-pc-resurgence",
