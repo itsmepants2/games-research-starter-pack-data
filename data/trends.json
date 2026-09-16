@@ -1113,8 +1113,8 @@
       "CN",
       "Global"
     ],
-    "what_it_is": "After Black Myth: Wukong made China's AAA case, studios moved from one-off proof to franchise construction. Game Science skipped a Wukong sequel for Black Myth: Zhong Kui, meaning that mythology is being treated as a catalog, not a hook. S-GAME, Everstone/NetEase and miHoYo ship parallel original IP. Beijing formalized it: gaming entered the 15th Five-Year Plan, and overseas revenue hit $12.37B in H1 2026, up 30%.",
-    "why_it_matters": "Premium games are no longer a JP/US/EU default. It resets competitive analysis, soft-power framing, and talent flows — while rising AAA costs, publicly acknowledged by studios, become the first real constraint.",
+    "what_it_is": "Black Myth: Wukong, a 2024 action game based on a classic Chinese legend, proved a Chinese studio could make a global big-budget hit. Studios are now trying to turn that one success into lasting series. Its developer, Game Science, is following it with Black Myth: Zhong Kui, a game about a different figure from Chinese folklore rather than a direct sequel. That suggests it sees Chinese mythology as a deep source of future games, not a one-time hook. Other Chinese studios, including S-GAME, Everstone (working with NetEase), and miHoYo, are building original worlds of their own. The government is backing the shift: games are now part of China's 15th Five-Year Plan, its national economic roadmap. Chinese games also earned $12.37 billion outside China in the first half of 2026, up 30%.",
+    "why_it_matters": "China's games industry is known for free-to-play mobile games, and big-budget games you buy up front used to come mostly from Japan, the US, and Europe. That's changing, which affects who counts as a competitor, how China uses games to spread its culture abroad, and where skilled developers want to work. The first real limit on this growth is cost: studios themselves say big-budget games are getting more expensive to make.",
     "further_reading": [
       {
         "source": "“China’s K-pop moment”: Wukong’s global success sparks government embrace of video games as soft power",
@@ -1138,7 +1138,49 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Rest of World China tech desk, Niko Partners, SCMP tech coverage, Naavik",
     "status_label": "",
-    "series_label": "",
+    "series_label": "Overseas revenue of Chinese-made games, $ millions, by year",
+    "what_it_is_text": [
+      {
+        "text": "Black Myth: Wukong",
+        "href": "https://gamesci.cn/wukong/"
+      },
+      ", a 2024 action game based on a classic Chinese legend, proved a Chinese studio could make a global big-budget hit. Studios are now trying to turn that one success into lasting series. Its developer, ",
+      {
+        "text": "Game Science",
+        "href": "https://gamesci.cn/"
+      },
+      ", is following it with ",
+      {
+        "text": "Black Myth: Zhong Kui",
+        "href": "https://gamesci.cn/zhongkui/"
+      },
+      ", a game about a different figure from Chinese folklore rather than a direct sequel. That suggests it sees Chinese mythology as a deep source of future games, not a one-time hook. Other Chinese studios, including ",
+      {
+        "text": "S-GAME",
+        "href": "https://pbz.s-game.com/en-US/"
+      },
+      ", ",
+      {
+        "text": "Everstone",
+        "href": "https://www.neteasegames.com/news/20250411/37000_1226637.html"
+      },
+      " (working with ",
+      {
+        "text": "NetEase",
+        "href": "https://www.neteasegames.com/"
+      },
+      "), and ",
+      {
+        "text": "miHoYo",
+        "href": "https://www.mihoyo.com/"
+      },
+      ", are building original worlds of their own. The government is backing the shift: games are now part of China's ",
+      {
+        "text": "15th Five-Year Plan",
+        "href": "https://english.www.gov.cn/2026special/2026npcandcpcc/6979af4fc6d00ca5f9a08cd6"
+      },
+      ", its national economic roadmap. Chinese games also earned $12.37 billion outside China in the first half of 2026, up 30%."
+    ],
     "claims": [
       {
         "section": "Definition",
@@ -1150,6 +1192,260 @@
         "source": "",
         "link": "",
         "source_slug": ""
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Derived, not stated: the 2021 report gives $18,013 million and an increase of $2,563 million on 2020, which puts 2020 at $15,450 million. Overseas actual sales revenue of Chinese self-developed games, in the GPC's own measure.",
+        "card_text": "~15,450",
+        "year": "2020",
+        "market": "",
+        "source": "GPC, 2021 China Game Industry Report (16 December 2021), derived from its stated increase",
+        "link": "http://www.cadpa.org.cn/3277/202112/41403.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Overseas actual sales revenue of Chinese self-developed games in 2021, up 16.59% on 2020.",
+        "card_text": "18,013",
+        "year": "2021",
+        "market": "",
+        "source": "GPC, 2021 China Game Industry Report (16 December 2021)",
+        "link": "http://www.cadpa.org.cn/3277/202112/41403.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Overseas revenue in 2022, down 3.70%, the first fall in the series and the year the domestic market fell 10.33%, its first decline in eight years.",
+        "card_text": "17,346",
+        "year": "2022",
+        "market": "",
+        "source": "GPC, 2022 China Game Industry Report (14 February 2023)",
+        "link": "https://www.cadpa.org.cn/3271/202302/41574.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Derived, not stated: the 2024 report gives $18,557 million and growth of 13.39%, which puts 2023 at about $16,366 million. The 2023 annual report page was not found on the GPC site.",
+        "card_text": "~16,366",
+        "year": "2023",
+        "market": "",
+        "source": "GPC, 2024 China Game Industry Report (13 December 2024), derived from its stated growth",
+        "link": "https://www.cadpa.org.cn/3277/202501/41718.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Overseas revenue in 2024, up 13.39%, the fifth year running above $10 billion; the same report has China's console market up 55.13% on a breakout title.",
+        "card_text": "18,557",
+        "year": "2024",
+        "market": "",
+        "source": "GPC, 2024 China Game Industry Report (13 December 2024)",
+        "link": "https://www.cadpa.org.cn/3277/202501/41718.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Overseas revenue in 2025, up 10.23%; the same report has China's console market up 86.33%.",
+        "card_text": "20,455",
+        "year": "2025",
+        "market": "",
+        "source": "GPC, 2025 China Game Industry Report (19 December 2025)",
+        "link": "https://www.cadpa.org.cn/3277/202512/41770.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Overseas revenue in the first half of 2026, up 30.22% on the first half of 2025, from the GPC's January to June report released in Shanghai on 30 July; read in China News Service's account.",
+        "card_text": "12,370",
+        "year": "2026",
+        "market": "",
+        "source": "GPC, China Game Industry Report for January to June 2026, via China News Service (30 July 2026)",
+        "link": "http://www.ecns.cn/cns-wire/2026-07-30/detail-ihfhvays7504179.shtml",
+        "source_slug": "gpc-cadpa-game-working-committee",
+        "partial": true
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "China's game exports fell for the first time in the series, down 3.70% to $17.35 billion, in the same year the domestic market fell 10.33%, its first decline in eight years.",
+        "card_text": "Exports and the home market both fall",
+        "year": "2022",
+        "market": "",
+        "source": "GPC, 2022 China Game Industry Report (14 February 2023)",
+        "link": "https://www.cadpa.org.cn/3271/202302/41574.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Black Myth: Wukong sold 10 million copies in three days and passed 20 million within weeks; Xinhua and People's Daily praised it as a cultural triumph and some policymakers called it China's K-pop moment.",
+        "card_text": "Wukong sells 10 million in three days",
+        "year": "2024",
+        "market": "",
+        "source": "Rest of World, Lizzi C. Lee (25 September 2024)",
+        "link": "https://restofworld.org/2024/wukong-china-gaming-strategy/",
+        "source_slug": "rest-of-world"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The GPC's 2024 report put overseas revenue at $18.56 billion, up 13.39%, and China's console market up 55.13% on a breakout title.",
+        "card_text": "Exports up 13%, and a console market stirs",
+        "year": "2024",
+        "market": "",
+        "source": "GPC, 2024 China Game Industry Report (13 December 2024)",
+        "link": "https://www.cadpa.org.cn/3277/202501/41718.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Game Science revealed Black Myth: Zhong Kui at Gamescom as the second Black Myth title, a new story rather than a Wukong sequel; platform estimates put Wukong at around 28 million copies and $1.25 billion in 2024.",
+        "card_text": "Zhong Kui, not a Wukong sequel",
+        "year": "2025",
+        "market": "",
+        "source": "TechNode (20 August 2025)",
+        "link": "https://technode.com/2025/08/20/game-science-reveals-black-myth-zhong-kui-trailer-at-gamescom-2025-following-global-success-of-black-myth-wukong/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The GPC's 2025 report put overseas revenue at $20.46 billion, up 10.23%, and China's console market up 86.33%.",
+        "card_text": "Exports past $20 billion",
+        "year": "2025",
+        "market": "",
+        "source": "GPC, 2025 China Game Industry Report (19 December 2025)",
+        "link": "https://www.cadpa.org.cn/3277/202512/41770.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "KrASIA described the industry splitting: market leaders chasing AAA prestige at $200 to $400 million a title, mid-tier studios defending profitable genres with proven mechanics.",
+        "card_text": "Giants chase prestige, the rest chase profit",
+        "year": "2026",
+        "market": "",
+        "source": "KrASIA, Cheng Zi (25 June 2026)",
+        "link": "https://kr-asia.com/chinas-game-makers-split-as-giants-chase-prestige-and-others-target-profit",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The GPC's first-half report put overseas revenue at $12.37 billion, up 30.22%, the fastest growth in the series.",
+        "card_text": "First-half exports up 30%",
+        "year": "2026",
+        "market": "",
+        "source": "GPC, China Game Industry Report for January to June 2026, via China News Service (30 July 2026)",
+        "link": "http://www.ecns.cn/cns-wire/2026-07-30/detail-ihfhvays7504179.shtml",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Game Science showed fifteen minutes of Zhong Kui gameplay from an early build, two years after Wukong, with no release date announced.",
+        "card_text": "Zhong Kui shows gameplay, still without a date",
+        "year": "2026",
+        "market": "",
+        "source": "TechNode (20 August 2026)",
+        "link": "https://technode.com/2026/08/20/game-science-unveils-15-minutes-of-gameplay-from-black-myth-zhong-kui/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "The state adopted the hit: Xinhua wrote that Wukong had carried the essence of the national cultural spirit abroad, People's Daily said developers should use games to promote the nation's culture, and policymakers called it China's K-pop moment.",
+        "card_text": "Games become soft power, officially",
+        "year": "2024",
+        "market": "",
+        "source": "Rest of World, Lizzi C. Lee (25 September 2024)",
+        "link": "https://restofworld.org/2024/wukong-china-gaming-strategy/",
+        "source_slug": "rest-of-world"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "A console market is forming at home from almost nothing: the GPC has it up 55.13% in 2024 on a breakout title and up 86.33% in 2025, to 8.36 billion yuan.",
+        "card_text": "A console market is forming at home",
+        "year": "2025",
+        "market": "",
+        "source": "GPC, 2025 China Game Industry Report (19 December 2025)",
+        "link": "https://www.cadpa.org.cn/3277/202512/41770.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "The industry is splitting by ambition: market leaders pursue AAA prestige while mid-tier competitors defend profitable segments with proven mechanics, and a mobile title like Legend of Mushroom took nearly $400 million in 2024 without any of it.",
+        "card_text": "Prestige and profit are now different strategies",
+        "year": "2026",
+        "market": "",
+        "source": "KrASIA, Cheng Zi (25 June 2026)",
+        "link": "https://kr-asia.com/chinas-game-makers-split-as-giants-chase-prestige-and-others-target-profit",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "AAA costs are the constraint: development costs for AAA titles have surged to $200 to $400 million, making profitability difficult, which is why most Chinese studios are not following Game Science.",
+        "card_text": "Prestige may not pay",
+        "year": "2026",
+        "market": "",
+        "source": "KrASIA, Cheng Zi (25 June 2026)",
+        "link": "https://kr-asia.com/chinas-game-makers-split-as-giants-chase-prestige-and-others-target-profit",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "The export figure is mostly mobile, not premium: Sensor Tower's 2023 review had Genshin Impact dominating the overseas revenue of Chinese mobile games, with the top 30 titles taking $7.8 billion on the app stores. Wukong is one console game inside a mobile-led total.",
+        "card_text": "The exports are mostly mobile",
+        "year": "2023",
+        "market": "",
+        "source": "TechNode, on Sensor Tower's 2023 review (30 January 2024)",
+        "link": "https://technode.com/2024/01/30/genshin-impact-dominates-overseas-revenue-for-chinas-mobile-games-in-2023-report/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "One hit is not a pipeline: two years after Wukong, its studio's second game is an early build without a release date.",
+        "card_text": "One hit is not a pipeline",
+        "year": "2026",
+        "market": "",
+        "source": "TechNode (20 August 2026)",
+        "link": "https://technode.com/2026/08/20/game-science-unveils-15-minutes-of-gameplay-from-black-myth-zhong-kui/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "A release date for Black Myth: Zhong Kui, the first test of whether Game Science can ship a second premium title.",
+        "card_text": "A date for Zhong Kui",
+        "year": "2026",
+        "market": "",
+        "source": "TechNode (20 August 2026)",
+        "link": "https://technode.com/2026/08/20/game-science-unveils-15-minutes-of-gameplay-from-black-myth-zhong-kui/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "The GPC's 2026 annual report in December: whether overseas revenue holds the first half's 30% pace past $25 billion.",
+        "card_text": "The GPC's December tally",
+        "year": "2026",
+        "market": "",
+        "source": "GPC, China Game Industry Report for January to June 2026, via China News Service (30 July 2026)",
+        "link": "http://www.ecns.cn/cns-wire/2026-07-30/detail-ihfhvays7504179.shtml",
+        "source_slug": "gpc-cadpa-game-working-committee"
       }
     ]
   },
