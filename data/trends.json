@@ -1492,14 +1492,11 @@
     "stage": "Emerging",
     "category": "Geography & power",
     "markets": [
-      "BR",
       "CN",
-      "Global",
-      "IN",
-      "SEA"
+      "Global"
     ],
-    "what_it_is": "Matthew Ball's analysis of where 2025's growth actually went: of the ~$10 billion industry increase versus 2021, about $4 billion was in China and another $1.5 billion went to China-made games in global markets, with 84% of Chinese game revenue going to domestically made games. This means that growth is concentrated in places and platforms many Western publishers can't reach. Niko Partners puts China's 2025 games revenue at $51.8 billion, up 5.4 percent and above $50 billion for the first time, with annual ARPU past $70 and mini games near a fifth of mobile spend; it forecasts $53.9 billion for 2026 and $59.8 billion by 2030.",
-    "why_it_matters": "Prevents the classic error of citing 'industry growth' as if it were evenly distributed. The divergence between player growth and accessible revenue is the real story.",
+    "what_it_is": "The games industry earned about $10 billion more in 2025 than in 2021. According to analyst Matthew Ball's analysis, about $4 billion of that increase came from China, and another $1.5 billion from Chinese-made games sold abroad. Inside China, about 83% of game revenue goes to Chinese-made games by the official industry report's 2025 count; Ball puts it at 84%. So much of the growth is in places many Western publishers can't compete. Research firm Niko Partners puts China's 2025 game revenue at $51.8 billion, up 5.4% and over $50 billion for the first time. The average player spent more than $70 that year, and mini games (small games played inside apps like WeChat, with no download) made up nearly a fifth of mobile spending. Niko expects $53.9 billion in 2026 and $59.8 billion by 2030.",
+    "why_it_matters": "When people say “the games industry is growing,” much of that growth is happening in China, where Western companies have limited access. The real story is the gap between where players are growing and where Western publishers can actually make money.",
     "further_reading": [
       {
         "source": "The Game Business, interview/analysis, Feb 2026",
@@ -1517,7 +1514,216 @@
     "as_of": "Sep 2026",
     "where_to_follow": "The Game Business (Dring), Matthew Ball / Epyllion, Niko Partners, Newzoo regional reports",
     "status_label": "",
-    "series_label": ""
+    "series_label": "Share of China's game revenue earned by Chinese-made games, by year",
+    "what_it_is_text": [
+      "The games industry earned about $10 billion more in 2025 than in 2021. According to ",
+      {
+        "text": "analyst Matthew Ball's analysis",
+        "href": "https://www.thegamebusiness.com/p/the-state-of-video-games-with-matthew"
+      },
+      ", about $4 billion of that increase came from China, and another $1.5 billion from Chinese-made games sold abroad. Inside China, about 83% of game revenue goes to Chinese-made games by the official industry report's 2025 count; Ball puts it at 84%. So much of the growth is in places many Western publishers can't compete. Research firm Niko Partners puts China's 2025 game revenue at $51.8 billion, up 5.4% and over $50 billion for the first time. The average player spent more than $70 that year, and mini games (small games played inside apps like WeChat, with no download) made up nearly a fifth of mobile spending. Niko expects $53.9 billion in 2026 and $59.8 billion by 2030."
+    ],
+    "claims": [
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Derived, not stated: the 2021 report gives both 2021 figures and their increases on 2020, which puts 2020 at 240.2 billion yuan of self-developed revenue in a 287.1 billion yuan market, 83.7%.",
+        "card_text": "~83.7%",
+        "year": "2020",
+        "market": "",
+        "source": "GPC, 2021 China Game Industry Report (16 December 2021), derived from its stated increases",
+        "link": "http://www.cadpa.org.cn/3277/202112/41403.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Self-developed games earned 255.8 billion yuan of China's 296.5 billion yuan game market in 2021, in the GPC's measure.",
+        "card_text": "86.3%",
+        "year": "2021",
+        "market": "",
+        "source": "GPC, 2021 China Game Industry Report (16 December 2021)",
+        "link": "http://www.cadpa.org.cn/3277/202112/41403.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Self-developed games earned 222.4 billion yuan of a 265.9 billion yuan market in 2022, the year both fell.",
+        "card_text": "83.6%",
+        "year": "2022",
+        "market": "",
+        "source": "GPC, 2022 China Game Industry Report (14 February 2023)",
+        "link": "https://www.cadpa.org.cn/3271/202302/41574.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Derived, not stated: the 2024 report's growth rates put 2023 at about 256.4 billion yuan of self-developed revenue in a 303.0 billion yuan market. The 2023 annual page was not found on the GPC site.",
+        "card_text": "~84.6%",
+        "year": "2023",
+        "market": "",
+        "source": "GPC, 2024 China Game Industry Report (13 December 2024), derived from its stated growth",
+        "link": "https://www.cadpa.org.cn/3277/202501/41718.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Self-developed games earned 260.7 billion yuan of a record 325.8 billion yuan market in 2024, growing 1.70% against the market's 7.53%, which the GPC put down to competition and rising development and acquisition costs.",
+        "card_text": "80.0%",
+        "year": "2024",
+        "market": "",
+        "source": "GPC, 2024 China Game Industry Report (13 December 2024)",
+        "link": "https://www.cadpa.org.cn/3277/202501/41718.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Self-developed games earned 291.1 billion yuan of a 350.8 billion yuan market in 2025, growing 11.64% against the market's 7.68%.",
+        "card_text": "83.0%",
+        "year": "2025",
+        "market": "",
+        "source": "GPC, 2025 China Game Industry Report (19 December 2025)",
+        "link": "https://www.cadpa.org.cn/3277/202512/41770.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "First half of 2026: self-developed games earned 163.4 billion yuan of a 188.5 billion yuan market, up 16.31% against 12.17%; from the GPC's January to June report, read in China News Service's account.",
+        "card_text": "86.7%",
+        "year": "2026",
+        "market": "",
+        "source": "GPC, China Game Industry Report for January to June 2026, via China News Service (30 July 2026)",
+        "link": "http://www.ecns.cn/cns-wire/2026-07-30/detail-ihfhvays7504179.shtml",
+        "source_slug": "gpc-cadpa-game-working-committee",
+        "partial": true
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The GPC's 2021 report had Chinese-made games taking 86% of the home market, 255.8 of 296.5 billion yuan.",
+        "card_text": "Chinese-made games take 86% of the home market",
+        "year": "2021",
+        "market": "",
+        "source": "GPC, 2021 China Game Industry Report (16 December 2021)",
+        "link": "http://www.cadpa.org.cn/3277/202112/41403.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Self-developed games' home revenue grew only 1.70% in 2024 while the market grew 7.53%, and the GPC blamed intensified competition and rising development and customer acquisition costs; the share fell to 80%.",
+        "card_text": "The home market gets crowded for Chinese studios too",
+        "year": "2024",
+        "market": "",
+        "source": "GPC, 2024 China Game Industry Report (13 December 2024)",
+        "link": "https://www.cadpa.org.cn/3277/202501/41718.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Matthew Ball's analysis, in Christopher Dring's interview: of the roughly $10 billion the industry grew between 2021 and 2025, about $4 billion was in China and another $1.5 billion went to Chinese-made games abroad, in places a lot of Western developers and publishers can't access.",
+        "card_text": "Ball: half the industry's growth went where the West can't reach",
+        "year": "2026",
+        "market": "",
+        "source": "The Game Business, Christopher Dring (19 February 2026)",
+        "link": "https://www.thegamebusiness.com/p/the-state-of-video-games-with-matthew",
+        "source_slug": "the-game-business"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In the first half of 2026 Chinese-made games' home revenue grew 16.31% against the market's 12.17%, taking the share to 87%.",
+        "card_text": "The share climbs to 87%",
+        "year": "2026",
+        "market": "",
+        "source": "GPC, China Game Industry Report for January to June 2026, via China News Service (30 July 2026)",
+        "link": "http://www.ecns.cn/cns-wire/2026-07-30/detail-ihfhvays7504179.shtml",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Niko Partners put China's 2025 games revenue at $51.8 billion, up 5.4% and above $50 billion for the first time, with annual ARPU past $70, and forecast $53.9 billion for 2026 and $59.8 billion by 2030.",
+        "card_text": "China passes $50 billion",
+        "year": "2026",
+        "market": "",
+        "source": "Niko Partners (1 September 2026)",
+        "link": "https://nikopartners.com/chinese-gaming-market-surpasses-50-billion-as-ai-premium-gaming-and-new-monetization-models-reshape-growth/",
+        "source_slug": "niko-partners"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Ball's view is that the growth is happening where many Western developers and publishers can't get in, and that the money doesn't seem to be reaching developers, publishers, or new games.",
+        "card_text": "Growth that Western publishers can't reach",
+        "year": "2026",
+        "market": "",
+        "source": "The Game Business, Christopher Dring (19 February 2026)",
+        "link": "https://www.thegamebusiness.com/p/the-state-of-video-games-with-matthew",
+        "source_slug": "the-game-business"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Chinese players spend differently. In 2025, the average player spent more than $70, 80% of players had tried mini games, and mini games made up nearly 20% of mobile spending. The West has nothing quite like them.",
+        "card_text": "A market that makes money in ways the West doesn't",
+        "year": "2025",
+        "market": "",
+        "source": "Niko Partners (1 September 2026)",
+        "link": "https://nikopartners.com/chinese-gaming-market-surpasses-50-billion-as-ai-premium-gaming-and-new-monetization-models-reshape-growth/",
+        "source_slug": "niko-partners"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "China is also the slowest-growing of the big games markets. Niko forecasts just 2.9% growth a year through 2030, which makes 2025's 5.4% a strong year.",
+        "card_text": "The market the West can't reach is barely growing",
+        "year": "2026",
+        "market": "",
+        "source": "Niko Partners (1 September 2026)",
+        "link": "https://nikopartners.com/chinese-gaming-market-surpasses-50-billion-as-ai-premium-gaming-and-new-monetization-models-reshape-growth/",
+        "source_slug": "niko-partners"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Games not made in China earn about a sixth of China's 350 billion yuan market. That's still about 60 billion yuan, or roughly $8 billion, which is bigger than most countries Western publishers already sell in.",
+        "card_text": "A sixth of China is still a big market",
+        "year": "2025",
+        "market": "",
+        "source": "GPC, 2025 China Game Industry Report (19 December 2025)",
+        "link": "https://www.cadpa.org.cn/3277/202512/41770.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "China's official year-end games industry report, due in December. Will Chinese-made games hold onto the 87% share of their home market they had in the first half? That would be the highest on record.",
+        "card_text": "Whether the share holds at 87%",
+        "year": "2026",
+        "market": "",
+        "source": "GPC, China Game Industry Report for January to June 2026, via China News Service (30 July 2026)",
+        "link": "http://www.ecns.cn/cns-wire/2026-07-30/detail-ihfhvays7504179.shtml",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Whether China's 2026 revenue hits Niko's $53.9 billion forecast, and whether spending per player keeps rising even though the number of players grew less than 1%.",
+        "card_text": "Niko's 2026 tally against $53.9 billion",
+        "year": "2027",
+        "market": "",
+        "source": "Niko Partners (1 September 2026)",
+        "link": "https://nikopartners.com/chinese-gaming-market-surpasses-50-billion-as-ai-premium-gaming-and-new-monetization-models-reshape-growth/",
+        "source_slug": "niko-partners"
+      }
+    ]
   },
   {
     "slug": "chinas-banhao-throttles-games",
