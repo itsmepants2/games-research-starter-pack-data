@@ -606,13 +606,13 @@
       {
         "section": "Status",
         "kind": "Event",
-        "claim": "No national rule; courts are still arguing the definition.",
+        "claim": "Suits calling loot boxes gambling have mostly failed, though some remain live.",
         "card_text": "Contested",
-        "year": "",
+        "year": "2024",
         "market": "US",
-        "source": "ESRB",
-        "link": "",
-        "source_slug": "esrb"
+        "source": "Leon Y. Xiao, Loot Box State of Play 2024 (GamesIndustry.biz)",
+        "link": "https://www.gamesindustry.biz/loot-box-state-of-play-2024-another-trip-around-the-world-of-regulation",
+        "source_slug": "loot-box-state-of-play-leon-y-xiaos-annual-regulatory-review"
       },
       {
         "section": "Consequences",
