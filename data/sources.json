@@ -1902,6 +1902,54 @@
     "audience": []
   },
   {
+    "slug": "asgc-games-industry-layoffs-tracker",
+    "name": "ASGC Games Industry Layoffs Tracker (Amir Satvat)",
+    "group": "Data",
+    "medium": "Data tool",
+    "format": "Database",
+    "what_it_lets_you_find_out": "Confirmed games-industry layoffs by year since 2022, with a running year-end projection and the full history of that projection, compiled from public sources by Amir Satvat and updated about monthly: 8,500 for 2022, 10,500 for 2023, 15,631 for 2024, 9,197 for 2025, and 10,318 confirmed for 2026 through 10 September with 13,800 projected. Breaks the current year down by region and by event size. | The projection is one person's forecast and moved by 72% inside 2026; quote the confirmed count with its date. Counts differently from Farhan Noor's tracker, so name which one a figure comes from.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://layoffs.asgc.gg/",
+    "extra_links": [],
+    "owner": "Amir Satvat",
+    "ownership_note": "A free project of Amir Satvat, who works in business development at Tencent and runs ASGC, a community that helps laid-off games workers find jobs.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "game-industry-layoffs",
+    "name": "Game Industry Layoffs (Farhan Noor, videogamelayoffs.com)",
+    "group": "Data",
+    "medium": "Data tool",
+    "format": "Database",
+    "what_it_lets_you_find_out": "The crowd-sourced tracker most reporting quotes: one table per year of announced layoff rounds with studio, date, headcount, parent company and a source link, plus a CSV on Airtable. Its year totals run below Satvat's, 14,600 for 2024 and 5,300 for 2025, and it updates in bursts: the 2025 page was last touched 30 November 2025 and the 2026 page 1 July 2026. | Maintained by a Riot Games technical artist in his own time. A gap since the last update is missing data, not zero, so read the date on the page before quoting a total.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://videogamelayoffs.com/",
+    "extra_links": [],
+    "owner": "Farhan Noor",
+    "ownership_note": "A personal project, published on Obsidian Publish.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "nintendo-ir",
     "name": "Nintendo IR",
     "group": "Data",
@@ -6272,6 +6320,30 @@
     ],
     "cost": "Free",
     "link": "https://sites.google.com/view/leon-xiao/publications/popular-publications",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "gdc-state-of-the-game-industry",
+    "name": "GDC State of the Game Industry (annual survey)",
+    "group": "Institutions",
+    "medium": "Report or document",
+    "format": "Report or data series",
+    "what_it_lets_you_find_out": "The annual survey of game developers run by the GDC Festival of Gaming, over 3,000 respondents in 2024 and over 2,300 in 2026, and the closest thing the industry has to a workforce series: in the 2026 edition 28% had been laid off in the past two years, 33% in the United States, and half worked for an employer that cut in the past 12 months. Also the source of the generative AI adoption percentages the trends quote. | The layoff question changes wording between editions (exposure in 2024, laid off that year in 2025, over two years in 2026), so the editions do not plot as one line. The full report sits behind a free registration form. Run by Informa, which also owns Game Developer.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
     "extra_links": [],
     "owner": "",
     "ownership_note": "",

@@ -1,14 +1,14 @@
 [
   {
     "slug": "industry-layoff-era",
-    "name": "Industry layoff era",
+    "name": "Games industry layoffs, 2023–present",
     "stage": "Dominant",
     "category": "Money & business model",
     "markets": [
       "Global"
     ],
-    "what_it_is": "Sustained mass layoffs since 2022: crowd-sourced trackers recorded ~8,500 job losses in 2022, 10,500 in 2023, 14,600 in 2024 and 9,175 in 2025. The pace did not hold there. Satvat's tracker counted 10,140 confirmed losses by 11 August 2026 — past the whole of 2025 with four months left — and lifted its year-end forecast to 14,666, up about 83% from the 8,025 it projected on 6 January and just under 2024's record 15,631. Treat the forecast as one tracker's projection; the confirmed count is the firmer number. Two trackers run: Satvat's, the count quoted here, and Farhan Noor's videogamelayoffs.com, which counts differently and updates less often, so name which tracker a figure comes from.",
-    "why_it_matters": "Nearly every business, labor, and creative-risk story of 2023 to 2026 traces back to this contraction. Indispensable for context, as it informs almost everything else. Note that the 2025 dip was widely read at the time as the end of the era; 2026 says it was a trough, so date any “layoffs are slowing” claim before repeating it.",
+    "what_it_is": "During the pandemic, people played more games, and companies hired and spent heavily to keep up. When that demand cooled and borrowing got more expensive, publishers cut staff, cancelled projects, and closed studios. While there is no official count of games layoffs, there are at least two public trackers (Amir Satvat's, Farhan Noor's). For scale, the ESA counts 82,930 people directly employed in US games in 2025. Global estimates vary and are not comparable across countries.",
+    "why_it_matters": "Since 2023, the games industry has been cutting jobs at a pace it hadn't seen before. Most of the big business, labor, and creative stories of the last few years trace back to it, so it's useful background for almost everything else here. One caution: when layoffs dipped in 2025, many people took that as a sign the worst was over. In 2026 they rose again, so the dip was a low point, not an ending. Check the date on any “layoffs are slowing” claim before repeating it.",
     "further_reading": [
       {
         "source": "Data points to slowing layoffs, but doesn't capture true harm to game industry",
@@ -31,7 +31,259 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "Game Developer's business desk, GDC State of the Game Industry (annual), Satvat's layoff tracker, Farhan Noor's videogamelayoffs.com tracker, GamesIndustry.biz",
-    "status_label": ""
+    "status_label": "",
+    "what_it_is_text": [
+      "During the pandemic, people played more games, and companies hired and spent heavily to keep up. When that demand cooled and borrowing got more expensive, publishers cut staff, cancelled projects, and closed studios. While there is no official count of games layoffs, there are at least two public trackers (",
+      {
+        "text": "Amir Satvat's",
+        "href": "https://layoffs.asgc.gg/"
+      },
+      ", ",
+      {
+        "text": "Farhan Noor's",
+        "href": "https://videogamelayoffs.com/"
+      },
+      "). For scale, the ",
+      {
+        "text": "ESA",
+        "href": "https://www.theesa.com/resources/2026-economic-impact-report/"
+      },
+      " counts 82,930 people directly employed in US games in 2025. Global estimates vary and are not comparable across countries."
+    ],
+    "claims": [
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Layoffs recorded for 2022, Satvat's tracker.",
+        "card_text": "8,500",
+        "year": "2022",
+        "market": "",
+        "source": "ASGC Games Industry Layoffs Tracker",
+        "link": "https://layoffs.asgc.gg/",
+        "source_slug": "asgc-games-industry-layoffs-tracker"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Layoffs recorded for 2023, Satvat's tracker.",
+        "card_text": "10,500",
+        "year": "2023",
+        "market": "",
+        "source": "ASGC Games Industry Layoffs Tracker",
+        "link": "https://layoffs.asgc.gg/",
+        "source_slug": "asgc-games-industry-layoffs-tracker"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Layoffs recorded for 2024, Satvat's tracker, the peak year.",
+        "card_text": "15,631",
+        "year": "2024",
+        "market": "",
+        "source": "ASGC Games Industry Layoffs Tracker",
+        "link": "https://layoffs.asgc.gg/",
+        "source_slug": "asgc-games-industry-layoffs-tracker"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Layoffs recorded for 2025, Satvat's tracker.",
+        "card_text": "9,197",
+        "year": "2025",
+        "market": "",
+        "source": "ASGC Games Industry Layoffs Tracker",
+        "link": "https://layoffs.asgc.gg/",
+        "source_slug": "asgc-games-industry-layoffs-tracker"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Confirmed for 2026 through 10 September, Satvat's tracker, which projects 13,800 for the year.",
+        "card_text": "10,318",
+        "year": "2026",
+        "market": "",
+        "source": "ASGC Games Industry Layoffs Tracker, 10 September 2026 update",
+        "link": "https://layoffs.asgc.gg/",
+        "source_slug": "asgc-games-industry-layoffs-tracker",
+        "partial": true
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Epic Games laid off around 900 people, 16% of its staff, with Tim Sweeney saying the company had been spending way more money than it earned as Fortnite shifted to lower-margin creator content.",
+        "card_text": "Epic cuts 900 as Fortnite's margins thin",
+        "year": "2023",
+        "market": "",
+        "source": "Game Developer, Justin Carter, 28 September 2023",
+        "link": "https://www.gamedeveloper.com/business/epic-games-lays-off-nearly-900-staff",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft laid off around 1,900 of its 22,000 games staff, just over three months after closing its $68.7 billion merger with Activision Blizzard; Blizzard and Sledgehammer were heavily affected.",
+        "card_text": "Microsoft cuts 1,900 after the Activision deal",
+        "year": "2024",
+        "market": "",
+        "source": "Game Developer, Chris Kerr, 25 January 2024",
+        "link": "https://www.gamedeveloper.com/business/report-microsoft-follows-activision-blizzard-merger-with-1-900-layoffs",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Sony cut about 900 jobs, 8% of PlayStation Studios, closing London Studio outright and reducing Guerrilla, Firesprite, Insomniac and Naughty Dog.",
+        "card_text": "Sony cuts 900 and closes London Studio",
+        "year": "2024",
+        "market": "",
+        "source": "Game Developer, Chris Kerr, 27 February 2024",
+        "link": "https://www.gamedeveloper.com/business/sony-reevaluating-playstation-studios-and-cutting-900-jobs",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "GDC's 2025 State of the Game Industry found 11% of respondents had been laid off in 2024 and 43% worked somewhere with no layoffs at all, down from 53% the year before.",
+        "card_text": "GDC survey: one in ten laid off in 2024",
+        "year": "2025",
+        "market": "",
+        "source": "GDC State of the Game Industry 2025, via GameDev Reports, 28 February 2025",
+        "link": "https://gamedevreports.substack.com/p/gdc-the-state-of-the-game-industry",
+        "source_slug": "gamedev-reports"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft cut about 9,100 roles company-wide, 4% of its workforce, with around 200 at King's Barcelona office; Rare's Everwild and the Perfect Dark reboot were cancelled and The Initiative closed.",
+        "card_text": "Microsoft's 9,100 reach Xbox",
+        "year": "2025",
+        "market": "",
+        "source": "Game Developer, Chris Kerr, 2 July 2025",
+        "link": "https://www.gamedeveloper.com/business/report-xbox-begins-latest-round-of-mass-layoffs-with-cuts-at-king-and-zenimax",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "GDC's 2026 survey of over 2,300 developers found 28% had been laid off in the past two years, 33% among those in the United States, and half worked for an employer that had cut in the past 12 months.",
+        "card_text": "GDC survey: one in four laid off in two years",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer, Chris Kerr, 30 January 2026",
+        "link": "https://www.gamedeveloper.com/business/survey-one-in-four-developers-laid-off-over-the-past-two-years",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Epic Games cut over 1,000 jobs, with Tim Sweeney citing a decline in Fortnite engagement since 2025 and a company spending significantly more than it brings in.",
+        "card_text": "Epic cuts over 1,000",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer, Chris Kerr, 24 March 2026",
+        "link": "https://www.gamedeveloper.com/business/fortnite-developer-epic-games-is-cutting-1-000-jobs",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Satvat's tracker eased its 2026 projection to 13,800 from August's 14,666, with 10,318 confirmed through 10 September, already above 2022, 2023 and 2025 with sixteen weeks left.",
+        "card_text": "The 2026 projection eases to 13,800",
+        "year": "2026",
+        "market": "",
+        "source": "ASGC Games Industry Layoffs Tracker, 10 September 2026 update",
+        "link": "https://layoffs.asgc.gg/",
+        "source_slug": "asgc-games-industry-layoffs-tracker"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "The cuts are concentrated. In 2026, the five biggest rounds of layoffs account for about 53% of all jobs lost, and the top two alone for about 42%. North America has 66% of the rounds and about 79% of the people affected.",
+        "card_text": "Five layoff rounds make up half the year's cuts",
+        "year": "2026",
+        "market": "",
+        "source": "ASGC Games Industry Layoffs Tracker, 10 September 2026 update",
+        "link": "https://layoffs.asgc.gg/",
+        "source_slug": "asgc-games-industry-layoffs-tracker"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "By mid-2025, nearly 40,000 people had lost games jobs across the years tracked. The experience they took with them doesn't come back, and the people who stay live with the fear of the next round. One ZeniMax worker described those left behind as a gutted crew still expected to ship award-winning games.",
+        "card_text": "Fewer layoffs doesn't mean recovery",
+        "year": "2025",
+        "market": "",
+        "source": "Game Developer, Nicole Carpenter, 24 July 2025",
+        "link": "https://www.gamedeveloper.com/business/industry-layoffs-are-seemingly-slowing-but-the-damage-has-already-been-done",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Of developers laid off in the past two years, 48% were still job hunting when surveyed. That includes 36% of those cut more than a year earlier. Among students, 74% said they're worried about finding work.",
+        "card_text": "Half of those cut are still looking",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer, Chris Kerr, 30 January 2026",
+        "link": "https://www.gamedeveloper.com/business/survey-one-in-four-developers-laid-off-over-the-past-two-years",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "For 2025, Noor's tracker counts 5,300 layoffs and Satvat's counts 9,197. For 2026, Noor has 4,600 as of July 1, and Satvat has 10,318 as of September. Noor's 2025 page was last updated on November 30, 2025, so part of the gap comes from one tracker lagging behind, not from a real disagreement.",
+        "card_text": "The two trackers are thousands apart",
+        "year": "2025",
+        "market": "",
+        "source": "Game Industry Layoffs (Farhan Noor)",
+        "link": "https://videogamelayoffs.com/",
+        "source_slug": "game-industry-layoffs"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Satvat's tracker, the source of the main count, says the pace is easing. Its September 2026 update lowered its full-year projection by 5.9% and its forecast for the rest of the year by 23%. And 2025 was already a third lower than 2024.",
+        "card_text": "The main tracker says layoffs are slowing",
+        "year": "2026",
+        "market": "",
+        "source": "ASGC Games Industry Layoffs Tracker, 10 September 2026 update",
+        "link": "https://layoffs.asgc.gg/",
+        "source_slug": "asgc-games-industry-layoffs-tracker"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "GDC's yearly survey numbers can't be read as a trend, because each year asked something different. In 2024, 35% said a colleague or acquaintance had been laid off. In 2025, 11% said they had been laid off that year. In 2026, 28% said they had been laid off in the past two years.",
+        "card_text": "The three surveys asked three different questions",
+        "year": "2026",
+        "market": "",
+        "source": "GDC State of the Game Industry",
+        "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
+        "source_slug": "gdc-state-of-the-game-industry"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Satvat's monthly forecast update, and whether Microsoft's remaining 1,600 cuts land in 2026 or slip into 2027: the tracker assumes 2026 and says it will revise.",
+        "card_text": "Where Microsoft's remaining 1,600 fall",
+        "year": "2026",
+        "market": "",
+        "source": "ASGC Games Industry Layoffs Tracker, 10 September 2026 update",
+        "link": "https://layoffs.asgc.gg/",
+        "source_slug": "asgc-games-industry-layoffs-tracker"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "The next GDC State of the Game Industry, due around the turn of the year, is the first survey taken after a second year above 10,000 confirmed cuts.",
+        "card_text": "GDC's next survey",
+        "year": "2027",
+        "market": "",
+        "source": "GDC State of the Game Industry",
+        "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
+        "source_slug": "gdc-state-of-the-game-industry"
+      }
+    ]
   },
   {
     "slug": "monetization-on-flat-player-base",

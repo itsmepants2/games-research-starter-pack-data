@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-09-15T23:42:49Z",
+  "as_of": "2026-09-16T00:39:15Z",
   "medium": {
     "News outlet": 321,
     "Organisation": 126,
     "Forum or community": 95,
     "Video channel": 63,
     "Person": 62,
+    "Data tool": 49,
     "Podcast": 48,
-    "Data tool": 47,
     "Book or paper": 41,
     "Company disclosure": 35,
-    "Report or document": 33,
+    "Report or document": 34,
     "Newsletter": 26,
     "Research firm": 15,
     "Link list": 7
@@ -18,14 +18,14 @@
   "group": {
     "Press": 347,
     "Media": 152,
-    "Institutions": 142,
-    "Data": 114,
+    "Institutions": 143,
+    "Data": 116,
     "Communities": 95,
     "People": 69
   },
   "markets": {
     "US": 168,
-    "Global": 142,
+    "Global": 145,
     "JP": 137,
     "KR": 86,
     "Not market specific": 63,
@@ -82,7 +82,7 @@
     "BE": "tagged"
   },
   "language": {
-    "English": 524,
+    "English": 527,
     "Japanese": 117,
     "Korean": 75,
     "German": 51,
@@ -117,16 +117,16 @@
       "Market research firm": 9,
       "Genre taxonomy": 6,
       "Adjacent research body": 6,
+      "Database": 5,
       "Corporate filings": 5,
       "Sales tracking": 4,
-      "Database": 3,
       "Sector index": 1
     },
     "Institutions": {
       "Industry association": 34,
       "Government agency": 16,
+      "Report or data series": 12,
       "Rating body": 11,
-      "Report or data series": 11,
       "Safety and advocacy org": 11,
       "Research institute": 10,
       "Esports body": 9,
@@ -206,7 +206,7 @@
     }
   },
   "cost": {
-    "Free": 420,
+    "Free": 423,
     "Paid": 54,
     "Freemium": 48,
     "Unknown": 7
@@ -227,19 +227,19 @@
   },
   "coverage": {
     "sources": {
-      "slug": 919,
-      "name": 919,
-      "group": 919,
-      "medium": 919,
-      "format": 919,
-      "what_it_lets_you_find_out": 919,
-      "markets": 919,
-      "language": 919,
-      "cost": 529,
-      "link": 919,
+      "slug": 922,
+      "name": 922,
+      "group": 922,
+      "medium": 922,
+      "format": 922,
+      "what_it_lets_you_find_out": 922,
+      "markets": 922,
+      "language": 922,
+      "cost": 532,
+      "link": 922,
       "extra_links": 0,
-      "owner": 500,
-      "ownership_note": 120,
+      "owner": 502,
+      "ownership_note": 122,
       "beat": 69,
       "where_they_post": 69,
       "year": 39,
