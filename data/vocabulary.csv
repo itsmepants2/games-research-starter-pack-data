@@ -1,10 +1,10 @@
 facet,within_group,value,rows
 medium,,News outlet,321
-medium,,Organisation,126
+medium,,Organisation,127
 medium,,Forum or community,95
 medium,,Video channel,63
 medium,,Person,62
-medium,,Data tool,50
+medium,,Data tool,49
 medium,,Podcast,48
 medium,,Book or paper,41
 medium,,Company disclosure,35
@@ -14,8 +14,8 @@ medium,,Research firm,15
 medium,,Link list,7
 group,,Press,347
 group,,Media,152
-group,,Institutions,143
-group,,Data,117
+group,,Institutions,144
+group,,Data,116
 group,,Communities,95
 group,,People,69
 markets,,US,168
@@ -102,9 +102,9 @@ format,Data,Creator tracking,21
 format,Data,Industry report,15
 format,Data,Analytics platform,14
 format,Data,Market research firm,9
-format,Data,Database,6
 format,Data,Genre taxonomy,6
 format,Data,Adjacent research body,6
+format,Data,Database,5
 format,Data,Corporate filings,5
 format,Data,Sales tracking,4
 format,Data,Sector index,1
@@ -119,8 +119,8 @@ format,Institutions,Learned society,8
 format,Institutions,Archive or museum,7
 format,Institutions,Event or awards,6
 format,Institutions,Regulator,5
+format,Institutions,Parent guidance platform,4
 format,Institutions,Regulation or law,4
-format,Institutions,Parent guidance platform,3
 format,Institutions,Union or worker organisation,3
 format,Institutions,Funding body,2
 format,Institutions,Cultural institution,1
@@ -205,8 +205,8 @@ coverage,sources,language,923
 coverage,sources,cost,533
 coverage,sources,link,923
 coverage,sources,extra_links,0
-coverage,sources,owner,503
-coverage,sources,ownership_note,123
+coverage,sources,owner,502
+coverage,sources,ownership_note,122
 coverage,sources,beat,69
 coverage,sources,where_they_post,69
 coverage,sources,year,39
