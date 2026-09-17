@@ -4,7 +4,7 @@ medium,,Organisation,126
 medium,,Forum or community,95
 medium,,Video channel,63
 medium,,Person,62
-medium,,Data tool,49
+medium,,Data tool,50
 medium,,Podcast,48
 medium,,Book or paper,41
 medium,,Company disclosure,35
@@ -15,15 +15,15 @@ medium,,Link list,7
 group,,Press,347
 group,,Media,152
 group,,Institutions,143
-group,,Data,116
+group,,Data,117
 group,,Communities,95
 group,,People,69
 markets,,US,168
-markets,,Global,145
+markets,,Global,146
 markets,,JP,137
 markets,,KR,86
 markets,,Not market specific,63
-markets,,UK,61
+markets,,UK,62
 markets,,DE,49
 markets,,FR,36
 markets,,CN,33
@@ -46,11 +46,11 @@ markets,,LATAM,4
 markets,,Asia,2
 markets,,BE,1
 market_kind,profiled,US,168
-market_kind,scope,Global,145
+market_kind,scope,Global,146
 market_kind,profiled,JP,137
 market_kind,profiled,KR,86
 market_kind,scope,Not market specific,63
-market_kind,profiled,UK,61
+market_kind,profiled,UK,62
 market_kind,profiled,DE,49
 market_kind,profiled,FR,36
 market_kind,profiled,CN,33
@@ -72,7 +72,7 @@ market_kind,tagged,EU,7
 market_kind,tagged,LATAM,4
 market_kind,tagged,Asia,2
 market_kind,tagged,BE,1
-language,,English,527
+language,,English,528
 language,,Japanese,117
 language,,Korean,75
 language,,German,51
@@ -102,9 +102,9 @@ format,Data,Creator tracking,21
 format,Data,Industry report,15
 format,Data,Analytics platform,14
 format,Data,Market research firm,9
+format,Data,Database,6
 format,Data,Genre taxonomy,6
 format,Data,Adjacent research body,6
-format,Data,Database,5
 format,Data,Corporate filings,5
 format,Data,Sales tracking,4
 format,Data,Sector index,1
@@ -180,7 +180,7 @@ format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,423
+cost,,Free,424
 cost,,Paid,54
 cost,,Freemium,48
 cost,,Unknown,7
@@ -194,19 +194,19 @@ trend_category,,Platform & distribution,7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,4
 trend_category,,Technology,3
-coverage,sources,slug,922
-coverage,sources,name,922
-coverage,sources,group,922
-coverage,sources,medium,922
-coverage,sources,format,922
-coverage,sources,what_it_lets_you_find_out,922
-coverage,sources,markets,922
-coverage,sources,language,922
-coverage,sources,cost,532
-coverage,sources,link,922
+coverage,sources,slug,923
+coverage,sources,name,923
+coverage,sources,group,923
+coverage,sources,medium,923
+coverage,sources,format,923
+coverage,sources,what_it_lets_you_find_out,923
+coverage,sources,markets,923
+coverage,sources,language,923
+coverage,sources,cost,533
+coverage,sources,link,923
 coverage,sources,extra_links,0
-coverage,sources,owner,502
-coverage,sources,ownership_note,122
+coverage,sources,owner,503
+coverage,sources,ownership_note,123
 coverage,sources,beat,69
 coverage,sources,where_they_post,69
 coverage,sources,year,39

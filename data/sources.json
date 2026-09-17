@@ -1950,6 +1950,31 @@
     "audience": []
   },
   {
+    "slug": "family-gaming-database",
+    "name": "Family Gaming Database",
+    "group": "Data",
+    "medium": "Data tool",
+    "format": "Database",
+    "what_it_lets_you_find_out": "A hand-curated, searchable database of about 3,600 video games and 200 board games, written for parents and carers: each entry carries age ratings, costs and in-game spending, and accessibility detail across difficulty, reading, navigation, controls, visuals, audio and communication, and the whole set filters by platform, age and those features. Founded and edited by the journalist Andy Robertson. Use it to see how a game is explained to a family audience, or to find games by accessibility feature. | Curated, not complete: the team picks the games that matter to families, so a game's absence says nothing about the game. Built in the UK but not UK-only; its partners include Australia's IGEA and the US ratings board.",
+    "markets": [
+      "Global",
+      "UK"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.familygamingdatabase.com/",
+    "extra_links": [],
+    "owner": "Independent",
+    "ownership_note": "States that it is editorially independent, free and without adverts, and funded by partnerships and labelled sponsored activity. The partners it names include PlayStation and Xbox, whose games it lists, plus HSBC UK, the VSC Rating Board, Hookshot Media, Kidas, IGEA and Ask About Games.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "nintendo-ir",
     "name": "Nintendo IR",
     "group": "Data",
