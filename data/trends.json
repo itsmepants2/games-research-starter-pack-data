@@ -33,6 +33,7 @@
     "where_to_follow": "Game Developer's business desk, GDC State of the Game Industry (annual), Satvat's layoff tracker, Farhan Noor's videogamelayoffs.com tracker, GamesIndustry.biz",
     "status_label": "",
     "series_label": "Job losses recorded, by year",
+    "series_note": "",
     "what_it_is_text": [
       "During the pandemic, people played more games, and companies hired and spent heavily to keep up. When that demand cooled and borrowing got more expensive, publishers cut staff, cancelled projects, and closed studios. While there is no official count of games layoffs, there are at least two public trackers (",
       {
@@ -319,7 +320,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Circana (Mat Piscatella), Newzoo",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "premium-price-ceiling",
@@ -360,6 +362,7 @@
     "where_to_follow": "GamesRadar and Eurogamer business coverage, Circana US sales data, Ars Technica gaming desk",
     "status_label": "",
     "series_label": "",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
@@ -408,6 +411,7 @@
     "where_to_follow": "Game Developer post-mortems, Circana engagement data, publisher earnings calls (Sony, EA, Take-Two)",
     "status_label": "",
     "series_label": "",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
@@ -457,7 +461,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "The Verge Xbox coverage, WSJ tech desk, Circana subscription spending data, Microsoft earnings",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "creator-platforms-as-sovereign-economies",
@@ -493,7 +498,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Roblox quarterly earnings and annual reports, Game Developer, Naavik deep dives, Matthew Ball",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "child-safety-enforcement-in-game-platforms",
@@ -536,7 +542,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "eSafety Commissioner (AU), Ofcom Online Safety Act updates (UK), state AG press offices, The Guardian tech desk, Roblox's safety blog and earnings calls",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "indias-real-money-gaming-ban",
@@ -572,6 +579,7 @@
     "where_to_follow": "Reuters India tech desk, MediaNama, AGB (Asia Gaming Brief), Indian Supreme Court proceedings",
     "status_label": "",
     "series_label": "",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
@@ -632,6 +640,7 @@
     "where_to_follow": "Leon Y. Xiao's annual 'Loot Box State of Play' papers, Gaming Law Review, PEGI/ESRB notices, national regulators (Belgian Gaming Commission, Kansspelautoriteit)",
     "status_label": "Regulation",
     "series_label": "",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
@@ -978,7 +987,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Niko Partners China/SEA research, TechNode, AGB, national regulator announcements (NPPA, Vietnam MIC); see also the age-checks row for verification mechanics",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "publishers-split-on-gambling-money-in-esports",
@@ -1018,6 +1028,7 @@
     "where_to_follow": "Esports Charts sponsorship analyses, HLTV Counter-Strike business coverage, Esports Legal News, SportBusiness",
     "status_label": "",
     "series_label": "",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
@@ -1067,7 +1078,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "FTC press releases and enforcement actions, IAPP coverage, ICO (UK), law-firm COPPA trackers",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "addiction-and-screen-time-discourse",
@@ -1102,7 +1114,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Journal of Behavioral Addictions, BMC Psychiatry, Oxford Internet Institute (Przybylski), KOCCA white papers for the Korean framing",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "chinas-original-ip-franchise-build-out",
@@ -1139,6 +1152,7 @@
     "where_to_follow": "Rest of World China tech desk, Niko Partners, SCMP tech coverage, Naavik",
     "status_label": "",
     "series_label": "Overseas revenue of Chinese-made games, $ millions, by year",
+    "series_note": "",
     "what_it_is_text": [
       {
         "text": "Black Myth: Wukong",
@@ -1484,7 +1498,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Naavik, SportBusiness esports desk, Reuters M&A coverage, Esports Insider",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "growth-without-western-access",
@@ -1515,6 +1530,7 @@
     "where_to_follow": "The Game Business (Dring), Matthew Ball / Epyllion, Niko Partners, Newzoo regional reports",
     "status_label": "",
     "series_label": "Share of China's game revenue earned by Chinese-made games, by year",
+    "series_note": "",
     "what_it_is_text": [
       "The games industry earned about $10 billion more in 2025 than in 2021. According to ",
       {
@@ -1759,6 +1775,7 @@
     "where_to_follow": "Niko Partners' monthly approval trackers, TechNode, Digital Policy Alert, SCMP",
     "status_label": "",
     "series_label": "Domestic game licences approved, by year",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
@@ -2104,7 +2121,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "GDC State of the Game Industry (annual), Game Developer, Wired gaming/AI coverage, a16z Games (for the pro-adoption view)",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "the-rise-of-ai-companions-and-co-playable-npcs",
@@ -2143,6 +2161,7 @@
     "where_to_follow": "VGC and The Verge AI-in-games coverage, Epic's Creator ecosystem announcements, Inworld/ElevenLabs product news, Kotaku (critical coverage)",
     "status_label": "",
     "series_label": "",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
@@ -2190,7 +2209,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "SAG-AFTRA's interactive media page, Deadline/Variety labor desks, Game Developer labor coverage",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "app-store-unbundling-under-court-supervision",
@@ -2228,7 +2248,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "The Verge policy desk, MacRumors legal coverage, mobilegamer.biz, European Commission DMA enforcement updates, Japan Fair Trade Commission MSCA enforcement",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "streaming-fragmentation-and-the-multi-homed-creator",
@@ -2268,6 +2289,7 @@
     "where_to_follow": "Stream Hatchet quarterly and annual reports, Streams Charts, Netinfluencer, Bloomberg's creator-economy coverage",
     "status_label": "",
     "series_label": "Hours watched by platform, millions, by year",
+    "series_note": "",
     "claims": [
       {
         "section": "Figure",
@@ -2602,7 +2624,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Omdia games research, The Verge hardware desk, Circana (Piscatella), Valve Steam Hardware Survey",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "metaverse-and-blockchain-gaming-hype",
@@ -2638,6 +2661,7 @@
     "where_to_follow": "Matthew Ball (who wrote the book and the post-mortems), Naavik, Digiday's Gaming Advertising coverage for brand-metaverse residue",
     "status_label": "",
     "series_label": "",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
@@ -2689,7 +2713,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "ESA Essential Facts (annual), Circana demographics, VGM/GWI audience panels, Pew Research internet & tech",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "game-preservation-and-digital-ownership",
@@ -2730,6 +2755,7 @@
     "where_to_follow": "European Citizens' Initiative register, stopkillinggames.com, r/StopKillingGames, Bellular News (YouTube), Digital Fairness Act consultations, UFC-Que Choisir, Video Games Europe statements",
     "status_label": "",
     "series_label": "",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
@@ -2780,7 +2806,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Game Workers of America / CWA announcements, Game Developer labor desk, GDC State of the Game Industry, IGDA",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "culture-war-discourse-and-the-weaponized-review-score",
@@ -2818,7 +2845,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "IJoC and Games & Culture (scholarly), Aftermath and 404 Media (critical journalism), Wired culture desk, SteamDB review-anomaly data",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "esports-after-the-reckoning",
@@ -2858,6 +2886,7 @@
     "where_to_follow": "SportBusiness, Esports Insider, Sports Business Journal esports desk, Esports Charts viewership data",
     "status_label": "",
     "series_label": "",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
@@ -2913,7 +2942,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Aftermath, Press Gazette (media business beat), Game File, local trade-body statements, WHOIS/company filings for suspect domains",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "studio-investment-in-games-plummets",
@@ -2923,8 +2953,8 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "Studio investment has fallen about 85% from its 2021 peak to below 2019 levels while revenues rose 30 to 40%, and Matthew Ball's 2026 report argues the industry now invests less in new game development, as a share of net revenue, than at any point on record. Marvel's Spider-Man went from just over $100M to more than $300M across three games without proportionate sales. Studios are shipping smaller. The argument is whether that is a chosen strategy or a budget line. The composition is moving as well as the total: Values Value's Talent Signals report, reported in September 2026, puts European studio spending on external talent up 63% in 2025 against 55% globally, and describes a two-tier team model of a small permanent core with a contractor periphery hired by project phase. A falling investment line and a rising outside-hands line are the same decision seen twice.",
-    "why_it_matters": "Determines how to read every “we are focusing on smaller experiences” statement of the next two years. Ball's own data shows capital contraction rather than a design movement, and the two produce identical press releases.",
+    "what_it_is": "Big games cost more to make than ever, but outside investors are putting far less money into the studios that make them. Companies are still spending more on making games each year, but that spending is growing more slowly than revenue, and a growing share goes to outside contractors. Many studios are responding by making smaller games. The open question is whether that's a creative choice or simply what the budget allows.",
+    "why_it_matters": "Over the next two years, expect many studios to say they're \"focusing on smaller games.\" Analyst Matthew Ball's data suggests this is mostly about having less money, not a new creative direction. From the outside, both look the same.",
     "further_reading": [
       {
         "source": "The State of Video Gaming in 2026 (Matthew Ball / Epyllion)",
@@ -2948,7 +2978,387 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Game Developer's business desk, GameDiscoverCo",
     "status_label": "",
-    "series_label": ""
+    "series_label": "Spending on making games, in-house and outsourced, $ billion, by year",
+    "series_note": "Spending on making games is still growing, but most of the new money since 2022 has gone to outside companies.",
+    "claims": [
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games done in-house in 2019, worldwide across PC, console, mobile and VR, in billions of dollars, 67.6% of the year's content development spend.",
+        "card_text": "19.0",
+        "year": "2019",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "In-house"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games done in-house in 2020, worldwide across PC, console, mobile and VR, in billions of dollars, 68.9% of the year's content development spend.",
+        "card_text": "21.6",
+        "year": "2020",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "In-house"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games done in-house in 2021, worldwide across PC, console, mobile and VR, in billions of dollars, 68.3% of the year's content development spend.",
+        "card_text": "25.1",
+        "year": "2021",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "In-house"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games done in-house in 2022, worldwide across PC, console, mobile and VR, in billions of dollars, 65.5% of the year's content development spend.",
+        "card_text": "25.5",
+        "year": "2022",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "In-house"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games done in-house in 2023, worldwide across PC, console, mobile and VR, in billions of dollars, 64.9% of the year's content development spend.",
+        "card_text": "25.5",
+        "year": "2023",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "In-house"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games done in-house in 2024, worldwide across PC, console, mobile and VR, in billions of dollars, 64.8% of the year's content development spend.",
+        "card_text": "26.3",
+        "year": "2024",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "In-house"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games done in-house in 2025, worldwide across PC, console, mobile and VR, in billions of dollars, 64.5% of the year's content development spend.",
+        "card_text": "26.7",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "In-house"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games paid to outside developers in 2019, worldwide across PC, console, mobile and VR, in billions of dollars, 32.4% of the year's content development spend, the start of three years in which total spend grew $10.9 billion, or 39%.",
+        "card_text": "9.1",
+        "year": "2019",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Outsourced"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games paid to outside developers in 2020, worldwide across PC, console, mobile and VR, in billions of dollars, 31.1% of the year's content development spend.",
+        "card_text": "9.8",
+        "year": "2020",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Outsourced"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games paid to outside developers in 2021, worldwide across PC, console, mobile and VR, in billions of dollars, 31.7% of the year's content development spend.",
+        "card_text": "11.6",
+        "year": "2021",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Outsourced"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games paid to outside developers in 2022, worldwide across PC, console, mobile and VR, in billions of dollars, 34.5% of the year's content development spend, after which total spend grew only $2.3 billion, or 6%, in three years.",
+        "card_text": "13.5",
+        "year": "2022",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Outsourced"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games paid to outside developers in 2023, worldwide across PC, console, mobile and VR, in billions of dollars, 35.1% of the year's content development spend.",
+        "card_text": "13.8",
+        "year": "2023",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Outsourced"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games paid to outside developers in 2024, worldwide across PC, console, mobile and VR, in billions of dollars, 35.2% of the year's content development spend.",
+        "card_text": "14.3",
+        "year": "2024",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Outsourced"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Spending on making games paid to outside developers in 2025, worldwide across PC, console, mobile and VR, in billions of dollars, 35.5% of the year's content development spend, a record share.",
+        "card_text": "14.7",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Outsourced"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Investment peaks. InvestGame counts $12.0 billion in private investment (money investors put into companies not traded on the stock market) across 562 deals. Another $37.7 billion went to buying companies, and $24.5 billion was raised by selling shares on stock markets. From 2020 to 2022, private investors put in more than $28 billion across more than 1,460 deals. Late-stage funding across all games companies reached $8.8 billion. Krafton listed on the stock market at $3.75 billion.",
+        "card_text": "The year the money peaked",
+        "year": "2021",
+        "market": "",
+        "source": "InvestGame, Global Gaming Deals Activity Report 2020 to 2022 (February 2023)",
+        "link": "https://investgame.net/wp-content/uploads/2023/02/InvestGame-Global-Gaming-Deals-Activity-Report-2020-2022.pdf",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "InvestGame's review of 2023: the number and value of deals fell by more than half compared with 2020 to 2022. Studios raised money at lower valuations or shut down after failing to grow into what investors had paid for them. Late-stage funding for game developers and publishers specifically fell from $6.7 billion across 2020 and 2021 to $1.2 billion across the next two years. Seed funding, the first money a startup raises, held up, but the average early funding round shrank from $21 million in 2021 to $13 million.",
+        "card_text": "Late-stage money for studios dries up",
+        "year": "2023",
+        "market": "",
+        "source": "InvestGame, Global Gaming Deals Activity Report 2023 (13 February 2024)",
+        "link": "https://investgame.net/news/global-gaming-deals-activity-report-2023/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Hacked files from Insomniac, the studio behind Marvel's Spider-Man, show that Spider-Man 2 cost about $300 million. That's almost three times the 2018 original and $30 million over budget, and the game needed to sell 7.2 million full-price copies to break even. Miles Morales cost $90 million and sold more than 10 million. An internal slide caps future big-budget games at $350 million.",
+        "card_text": "Spider-Man 2 costs three times its predecessor",
+        "year": "2023",
+        "market": "",
+        "source": "Kotaku, Ethan Gach, What hacked files tell us about the studio behind Spider-Man 2 (20 December 2023)",
+        "link": "https://kotaku.com/what-hacked-files-tell-us-about-the-studio-behind-spide-1851115233",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In 2024, private investment recovers, but the money comes from different places. Private equity firms buy Keywords Studios and Jagex outright. The investment arms of Tencent and Krafton back established studios such as Build A Rocket Boy. Venture funds shift to technology startups, including Inworld AI, Luma AI, and Magic Leap. Companies that make games under contract for others grow as publishers outsource work after layoffs, and Keywords sells for $2.8 billion.",
+        "card_text": "The rebound is private equity and outsourcing",
+        "year": "2024",
+        "market": "",
+        "source": "InvestGame, Global Gaming Deals Report 2024 (23 January 2025)",
+        "link": "https://investgame.net/news/global-gaming-deals-report-2024/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Aream & Co.'s analysis of InvestGame's 2025 data: private investment falls 45.8% to $2.6 billion across 450 deals, the lowest in five years. Meanwhile, spending on buying companies reaches $65.8 billion, led by the $55 billion sale of Electronic Arts. Private investment in the fourth quarter is $0.9 billion, up 29% from a year earlier, mostly in gaming technology and Turkish mobile studios.",
+        "card_text": "The lowest year in five, beside a record buyout",
+        "year": "2025",
+        "market": "",
+        "source": "WN Hub, on Aream & Co.'s 2025 report from InvestGame's data (15 January 2026)",
+        "link": "https://wnhub.io/news/analytics/item-49809",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Matthew Ball's annual State of Video Gaming report: private funding falls another 55% in 2025. Ball counts only startup funding for studios, while InvestGame's 45.8% includes all private investment, so the two numbers differ. In the last quarter, there was under $100 million for the newest startups, just over $200 million for early-stage companies, and about 40 deals in all. At its peak in the third quarter of 2021, early-stage funding was about $1.3 billion. The industry spends more than $40 billion making games for the second year in a row, but that spending, as a share of revenue, falls to a seven-year low even as game sales grow 5% to a record.",
+        "card_text": "Ball: content investment at a seven-year low",
+        "year": "2025",
+        "market": "",
+        "source": "PocketGamer.biz, Aaron Astle, on The State of Video Gaming in 2026 (17 February 2026)",
+        "link": "https://www.pocketgamer.biz/matthew-balls-state-of-video-gaming-in-2026-china-is-eating-the-video-games-industry/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Ball's report, using IDG Intelligence's figures: the industry spends $41.4 billion making games in 2025. That's up $2.3 billion, or 6%, since 2022, after growing $10.9 billion, or 39%, from 2019 to 2022. Outsourcing takes a record 35.5% of that spending, up from 30.6% in 2017. Since 2022, about 65% of the added spending has gone to outsourcing, compared with 33% from 2018 to 2022.",
+        "card_text": "Spending on making games flattens, and outsourcing takes the growth",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026, on IDG Intelligence's data (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Values Value's Talent Signals report: European studios increased spending on outside workers by 63% in 2025, compared with 55% worldwide, and the number of freelancers working with them grew 24%. Nearly 60% of studios say they struggle to find qualified specialists. Among people surveyed, 30% had been laid off in the past year, and it took them about six months to find their next job.",
+        "card_text": "Spending on outside talent rises 63%",
+        "year": "2025",
+        "market": "",
+        "source": "GamesIndustry.biz, Sophie McEvoy, on Values Value's Talent Signals report (11 September 2026)",
+        "link": "https://www.gamesindustry.biz/european-studio-expenditure-on-external-talent-rises-63-in-2025",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Ball tells journalist Christopher Dring that investment in studios has fallen 85% since 2021 and is now below 2019 levels. Over the same period, revenue is up 30 to 40%, and the cost of each developer has risen with inflation. Counting only new games, and leaving out the pandemic year, the industry now spends less, as a share of revenue, than at any point on record.",
+        "card_text": "Down 85% from 2021, below 2019",
+        "year": "2026",
+        "market": "",
+        "source": "The Game Business, Christopher Dring, The state of video games with Matthew Ball, part one (19 February 2026)",
+        "link": "https://www.thegamebusiness.com/p/the-state-of-video-games-with-matthew",
+        "source_slug": "the-game-business"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "First quarter: $0.8 billion in private investment across 101 deals. Early-stage funding is at its lowest in recent years, as the economy weakens and investors move money into AI. Spending on buying companies reaches $7.7 billion, led by Savvy's $6 billion purchase of Moonton.",
+        "card_text": "Early-stage funding hits a recent low",
+        "year": "2026",
+        "market": "",
+        "source": "InvestGame, Aream & Co. Q1 2026 Gaming Market Update (8 April 2026)",
+        "link": "https://investgame.net/news/aream-co-releases-q1-2026-gaming-market-update/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Second quarter: $3.1 billion across 108 deals, about six times a year earlier and the biggest quarter in years. Most of it goes to companies that build technology for the games industry rather than make games, including very large funding rounds for AppsFlyer, General Intuition, Odyssey, and Decart.",
+        "card_text": "The biggest quarter in years, mostly not for games",
+        "year": "2026",
+        "market": "",
+        "source": "InvestGame, Aream & Co. Q2 2026 Gaming Market Update (9 July 2026)",
+        "link": "https://investgame.net/news/aream-co-releases-q2-2026-gaming-market-update/",
+        "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "The money still being spent is increasingly leaving the studio. Ball says a growing share of game-making budgets now goes to outside development companies, which usually aren't the ones coming up with new ideas. InvestGame saw the same thing in 2024, when contract developers grew as publishers outsourced work after layoffs.",
+        "card_text": "More of the money goes to outside developers",
+        "year": "2026",
+        "market": "",
+        "source": "The Game Business, Christopher Dring, The state of video games with Matthew Ball, part one (19 February 2026)",
+        "link": "https://www.thegamebusiness.com/p/the-state-of-video-games-with-matthew",
+        "source_slug": "the-game-business"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Studios are moving to a two-tier model. A small permanent core of directors, lead architects, and the people who protect a series' creative direction get equity, health coverage, and bonuses. Contractors and freelancers are hired for a short push or one stage of development, then let go when it ends. Tanja Loktionova, the founder of Values Value and author of the report, calls it an industry that has moved past growth at any cost and hasn't yet found what replaces it.",
+        "card_text": "Studios keep a small permanent team and hire the rest",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz, Sophie McEvoy, on Values Value's Talent Signals report (11 September 2026)",
+        "link": "https://www.gamesindustry.biz/european-studio-expenditure-on-external-talent-rises-63-in-2025",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Budget limits come before creative decisions. Insomniac's own slides question whether players can actually see the result of tripling Spider-Man 2's budget, and they cap future big-budget games at $350 million. Miles Morales, which cost less than a third as much, sold more than 10 million copies. A smaller next game is a financial decision before it's a creative one.",
+        "card_text": "Insomniac capped its next games at $350 million",
+        "year": "2023",
+        "market": "",
+        "source": "Kotaku, Ethan Gach, What hacked files tell us about the studio behind Spider-Man 2 (20 December 2023)",
+        "link": "https://kotaku.com/what-hacked-files-tell-us-about-the-studio-behind-spide-1851115233",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "More funding may not be the fix. Ball notes that new ideas are still coming from small projects, pointing to Mewgenics and Block Blast. He says it isn't clear whether more venture funding, more studio funding, or reinvesting more revenue would lead to more innovation.",
+        "card_text": "Ball isn't sure more money would help",
+        "year": "2026",
+        "market": "",
+        "source": "The Game Business, Christopher Dring, The state of video games with Matthew Ball, part one (19 February 2026)",
+        "link": "https://www.thegamebusiness.com/p/the-state-of-video-games-with-matthew",
+        "source_slug": "the-game-business"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Money hasn't left games. It's buying companies. Deals in 2025 totaled nearly $80 billion, 3.3 times 2024. That includes $65.8 billion spent buying companies, led by the $55 billion sale of Electronic Arts, and $11.2 billion raised on stock markets, up 12%. The money is going to established companies rather than new studios. That's a different problem from investors abandoning games.",
+        "card_text": "Investors are still spending, but on buying whole companies",
+        "year": "2026",
+        "market": "",
+        "source": "WN Hub, on Aream & Co.'s 2025 report from InvestGame's data (15 January 2026)",
+        "link": "https://wnhub.io/news/analytics/item-49809",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "The second quarter of 2026 was the biggest for private investment in years: $3.1 billion, about six times a year earlier, after just $0.8 billion in the first quarter. But most of it went to companies that build technology for games, not to game studios. Whether any of it reaches studios is still an open question.",
+        "card_text": "Investment jumped in one quarter, mostly for tech companies",
+        "year": "2026",
+        "market": "",
+        "source": "InvestGame, Aream & Co. Q2 2026 Gaming Market Update (9 July 2026)",
+        "link": "https://investgame.net/news/aream-co-releases-q2-2026-gaming-market-update/",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "InvestGame's third-quarter update, due in October. Will the second quarter's $3.1 billion happen again, and how much will go to game developers and publishers rather than technology companies?",
+        "card_text": "Whether the second quarter repeats",
+        "year": "2026",
+        "market": "",
+        "source": "InvestGame, reports",
+        "link": "https://investgame.net/news/reports/",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Ball's next State of Video Gaming report, due early in 2027. Will spending on making games, as a share of revenue, recover from its seven-year low? Will investment in studios climb back above 2019 levels?",
+        "card_text": "Whether the investment share turns in 2027",
+        "year": "2027",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      }
+    ]
   },
   {
     "slug": "platforms-bet-on-exclusivity-again",
@@ -2986,7 +3396,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "The Game Business (Christopher Dring), Game File (Stephen Totilo), Video Games Chronicle, Circana consumer surveys",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "mobile-has-shifted-from-downloads-to-spending",
@@ -3028,7 +3439,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Sensor Tower State of Mobile (annual), Naavik, Deconstructor of Fun, PocketGamer.biz monthly charts, AppMagic",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "creators-are-how-players-find-games",
@@ -3065,6 +3477,7 @@
     "where_to_follow": "GameDiscoverCo (Simon Carless), Naavik, GDC State of the Game Industry (annual), Gamalytic, SteamDB",
     "status_label": "",
     "series_label": "Games released on Steam, by year",
+    "series_note": "",
     "claims": [
       {
         "section": "Figure",
@@ -3399,7 +3812,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Newzoo PC and Console Gaming Report (annual), GameDiscoverCo, Circana Player Engagement Tracker, Valve's Steam Replay",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "the-rise-of-friendslop",
@@ -3435,7 +3849,8 @@
     "as_of": "Sep 2026",
     "where_to_follow": "GameDiscoverCo's annual PC and console sales roundups, Game Developer's design desk, PC Gamer, AppMagic retention studies",
     "status_label": "",
-    "series_label": ""
+    "series_label": "",
+    "series_note": ""
   },
   {
     "slug": "live-ops-is-becoming-a-playbook",
@@ -3472,6 +3887,7 @@
     "where_to_follow": "Naavik, Deconstructor of Fun, PocketGamer.biz, GDC live ops talks, Game Developer's production desk",
     "status_label": "",
     "series_label": "",
+    "series_note": "",
     "claims": [
       {
         "section": "Definition",
