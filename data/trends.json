@@ -32,8 +32,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Game Developer's business desk, GDC State of the Game Industry (annual), Satvat's layoff tracker, Farhan Noor's videogamelayoffs.com tracker, GamesIndustry.biz",
     "status_label": "",
+    "measure_label": "",
     "series_label": "Job losses recorded, by year",
     "series_note": "",
+    "series_type": "",
     "what_it_is_text": [
       "During the pandemic, people played more games, and companies hired and spent heavily to keep up. When that demand cooled and borrowing got more expensive, publishers cut staff, cancelled projects, and closed studios. While there is no official count of games layoffs, there are at least two public trackers (",
       {
@@ -289,14 +291,14 @@
   },
   {
     "slug": "monetization-on-flat-player-base",
-    "name": "Monetization on flat player base",
+    "name": "Fewer players, spending more",
     "stage": "Dominant",
     "category": "Money & business model",
     "markets": [
       "Global"
     ],
-    "what_it_is": "Analyst Matthew Ball's annual reports argue gaming's decade of growth engines is exhausted: revenue and cultural weight are at record highs, yet growth is elusive and player counts are retreating across much of the developed world, so revenue gains come from monetizing existing players harder rather than adding new ones. The revenue half of that picture has since softened in the largest market: Circana put US spending down 10% year-on-year in July 2026 at $4.5bn, with hardware down 29% and new physical software at an all-time July low, even as average hardware selling prices rose 16%.",
-    "why_it_matters": "Explains why record industry revenue coexists with layoffs and player complaints about aggressive monetization, which is the central paradox of the current era.",
+    "what_it_is": "Analyst Matthew Ball argues the industry's growth engines are spent. Revenue is at record highs, but the share of people who play is shrinking across most of the developed world, so the gains come from charging existing players more rather than finding new ones. The squeeze worked until 2026. Now even that is slowing. In the US, the largest market, spending fell sharply in mid-2026, with console hardware taking the worst of it even as console prices rose. The job cuts that came with all this are on the layoffs page.",
+    "why_it_matters": "The games industry keeps posting record revenue while studios lay people off and players complain about being squeezed. Those facts fit together: in most rich countries, the share of people who play has been falling for years, so the money has to come from charging the remaining players more. That's the central puzzle of this era, and this page explains it.",
     "further_reading": [
       {
         "source": "Matthew Ball / Epyllion, industry report, May 2026",
@@ -319,9 +321,575 @@
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Circana (Mat Piscatella), Newzoo",
-    "status_label": "",
-    "series_label": "",
-    "series_note": ""
+    "status_label": "Share who play",
+    "measure_label": "What was measured",
+    "series_label": "What players spend on games, by region, 2021 = 100",
+    "series_note": "Since the 2021 peak, spending in the eight rich markets is down 4.5%. China is up 7.3%, and the rest of the world is up 41%.",
+    "series_type": "line-index-2021",
+    "what_it_is_text": [
+      "Analyst ",
+      {
+        "text": "Matthew Ball",
+        "href": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+      },
+      " argues the industry's growth engines are spent. Revenue is at record highs, but the share of people who play is shrinking across most of the developed world, so the gains come from charging existing players more rather than finding new ones. The squeeze worked until 2026. Now even that is slowing. In the US, the largest market, spending fell sharply in mid-2026, with console hardware taking the worst of it even as console prices rose. The job cuts that came with all this are on the ",
+      {
+        "text": "layoffs page",
+        "href": "/trend/industry-layoff-era"
+      },
+      "."
+    ],
+    "claims": [
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2019 in the eight rich markets Ball tracks: the US, Japan, South Korea, Germany, the UK, France, Canada and Italy, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "85",
+        "year": "2019",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Eight rich markets"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2020 in the eight rich markets Ball tracks: the US, Japan, South Korea, Germany, the UK, France, Canada and Italy, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "105",
+        "year": "2020",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Eight rich markets"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2021 in the eight rich markets Ball tracks: the US, Japan, South Korea, Germany, the UK, France, Canada and Italy, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "112",
+        "year": "2021",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Eight rich markets"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2022 in the eight rich markets Ball tracks: the US, Japan, South Korea, Germany, the UK, France, Canada and Italy, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "102",
+        "year": "2022",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Eight rich markets"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2023 in the eight rich markets Ball tracks: the US, Japan, South Korea, Germany, the UK, France, Canada and Italy, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "104",
+        "year": "2023",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Eight rich markets"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2024 in the eight rich markets Ball tracks: the US, Japan, South Korea, Germany, the UK, France, Canada and Italy, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "105",
+        "year": "2024",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Eight rich markets"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2025 in the eight rich markets Ball tracks: the US, Japan, South Korea, Germany, the UK, France, Canada and Italy, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware. A preliminary figure.",
+        "card_text": "107",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Eight rich markets"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2019 in China, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "32",
+        "year": "2019",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "China"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2020 in China, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "39",
+        "year": "2020",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "China"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2021 in China, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "45",
+        "year": "2021",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "China"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2022 in China, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "39",
+        "year": "2022",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "China"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2023 in China, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "42",
+        "year": "2023",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "China"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2024 in China, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "45",
+        "year": "2024",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "China"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2025 in China, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware. A preliminary figure.",
+        "card_text": "48",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "China"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2019 in every other country, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "22",
+        "year": "2019",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Rest of the world"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2020 in every other country, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "27",
+        "year": "2020",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Rest of the world"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2021 in every other country, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "28",
+        "year": "2021",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Rest of the world"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2022 in every other country, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "29",
+        "year": "2022",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Rest of the world"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2023 in every other country, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "31",
+        "year": "2023",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Rest of the world"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2024 in every other country, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware.",
+        "card_text": "36",
+        "year": "2024",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Rest of the world"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What players spent on games in 2025 in every other country, in billions of dollars. It covers games, in-game purchases and subscriptions on every platform, and leaves out hardware. A preliminary figure.",
+        "card_text": "40",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays",
+        "series": "Rest of the world"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Share of people aged 5 and up who play, since before the pandemic. Three separate surveys agree: Circana, the Entertainment Software Association, and Ampere.",
+        "card_text": "Down 2.5 to 4 points",
+        "year": "2025",
+        "market": "US",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Adult players lost between 2018 and 2022, despite lockdowns, per the Canadian trade association's most recent report. Canada is polled irregularly.",
+        "card_text": "Down about a sixth",
+        "year": "2022",
+        "market": "CA",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Share of people aged 10 to 64 who play, against the 2017 to 2019 average, from the government's content agency KOCCA. That's 22 points below the pandemic high.",
+        "card_text": "Down 15 points",
+        "year": "2025",
+        "market": "KR",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Share of people aged 6 to 64 who play regularly, since 2019, from the trade association IIDEA. Mobile is up a point, console down a point, PC down 6.5.",
+        "card_text": "Down more than 5 points",
+        "year": "2024",
+        "market": "IT",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Share of people aged 16 and up who play, from media regulator Ofcom. It jumped 21 points in 2020, and a third of that has gone in the four years since, with every platform down.",
+        "card_text": "A third of 2020's gain lost",
+        "year": "2024",
+        "market": "UK",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Share of people aged 10 to 80 who play, from the trade association SELL. Level since 2016, though each platform on its own has shrunk.",
+        "card_text": "Flat at about 52.5%",
+        "year": "2025",
+        "market": "FR",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Four more players per hundred people aged 6 to 69 between 2016 and 2024, from the trade association game. One of the few markets going up.",
+        "card_text": "Up 4 points",
+        "year": "2024",
+        "market": "DE",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Share of people aged 5 to 59 who play since 2019, from Kadokawa. The outlier among the eight, though Japan's population is shrinking, so it's only about 6 million new players.",
+        "card_text": "Up 11 points",
+        "year": "2024",
+        "market": "JP",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The pandemic peak. Circana's Mat Piscatella notes that total spending, total players, and total hours played in the US all peaked in 2021. Everything on this page is measured against that high.",
+        "card_text": "US players, hours and spending peak",
+        "year": "2021",
+        "market": "",
+        "source": "PlayStation Universe, Michael Harradence, on Mat Piscatella's Circana figures (26 February 2025)",
+        "link": "https://www.psu.com/news/live-service-games-made-up-over-40-of-total-play-time-on-ps5-xbox-series-x-s-in-us-last-month/",
+        "source_slug": "mat-piscatella"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Worldwide spending on games grows 5.3% to a record of about $195.2 billion, roughly $9.7 billion above the previous high in 2021. The figure covers console, PC, and mobile, and leaves out hardware.",
+        "card_text": "Spending hits a record $195 billion",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Ball's country-by-country count: across eight developed countries that account for about 60% of what players spend worldwide, games have been losing ground for six years. The share of people who play has fallen in the US, Canada, South Korea, Italy, and the UK. It's flat in France and up only in Germany and Japan.",
+        "card_text": "Fewer people play in most big markets",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Where the record came from. Since 2021, spending in the eight rich markets has shrunk by $5.1 billion, or 4.5%. China is up $3.3 billion, or 7.3%, and every other country together is up $11.8 billion, or 41%. The worldwide record was set outside the markets where fewer people play.",
+        "card_text": "The growth since 2021 came from outside the rich markets",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In the US, spending on PC and console games is down 8%, or $2.3 billion, from its 2020 to 2021 level. Mobile spending is up 12% since 2020 but went flat in 2025. Mobile game installs are at a 12-year low, hours played on mobile have dropped, and time spent watching game streams has stopped growing.",
+        "card_text": "US installs hit a 12-year low",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Console spending reaches a record $41.6 billion, 2.3% above its 2020 high. But more than all of that growth went to platform services such as subscriptions. Spending on the games themselves, and on purchases inside them, is down nearly $3.7 billion a year, or 11%.",
+        "card_text": "Console growth goes to subscriptions",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Roblox's share price falls 70% after its second-quarter results. Daily players are down to 123 million from a high of 152 million three quarters earlier, and the company expects the next quarter to fall 14 to 18%.",
+        "card_text": "Roblox loses players and 70% of its value",
+        "year": "2026",
+        "market": "",
+        "source": "PC Gamer, Rick Lane (9 August 2026)",
+        "link": "https://www.pcgamer.com/games/roblox-shares-plummet-by-70-percent-after-the-company-reports-persistent-decline-in-player-numbers-and-of-course-the-solution-involves-ai/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "US spending on games falls 10% in July to $4.5 billion, a total that covers games, hardware, and accessories. Spending on games is down 9%, and hardware is down 29% to $282 million, even as the average price of a new console rises 16% to $542. Through seven months, the US market is 2% behind 2025.",
+        "card_text": "US spending falls 10% in July",
+        "year": "2026",
+        "market": "",
+        "source": "GameDev Reports, on Circana (21 August 2026)",
+        "link": "https://gamedevreports.substack.com/p/circana-the-us-video-game-market-609",
+        "source_slug": "gamedev-reports"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Newzoo's forecast for 2026: a $213.9 billion market, up 6.1%, with 3.70 billion players, up 4.4%. About 1.65 billion of them pay, and each paying player spends $129.60 a year on average, up 1.4%. Newzoo counts the whole world, where most new players are, which is how it can forecast growth while the US runs behind. It says keeping and earning from existing players now matters more to revenue than finding new ones.",
+        "card_text": "Newzoo: earning from existing players matters more",
+        "year": "2026",
+        "market": "",
+        "source": "Storyboard18, on Newzoo's Global Games Market Report 2026 (11 September 2026)",
+        "link": "https://www.storyboard18.com/amp/gaming-news/global-games-market-to-hit-2139b-by-2026-growth-slows-ws-l-110433.htm",
+        "source_slug": "newzoo"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "If fewer people play, growth has to come from those who remain. Ball lists the options: raise prices, get players to buy more, sell advertising, or make the game serve another business, such as a subscription. He argues the losses compound. Players who stay tend to play less, a game can only grow by taking players from another game, and new games find it harder to break through.",
+        "card_text": "Growth has to come from the players who are left",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "For a player, being worth more looks like this: a subscription on top of the console, adverts inside the game, and prompts to buy in-game currency from the publisher's own web shop rather than the app store. Ball names advertising and direct-to-player payment channels among the five biggest areas of revenue growth in 2026. None of them needs a new player. Each needs an existing one to pay again, or to sit through an ad.",
+        "card_text": "What earning more from each player looks like",
+        "year": "2026",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "On consoles, the extra money goes to the platform, not to the games. Console spending hit a record in 2025, but more than all the growth since 2020 went to services such as subscriptions, while spending on games and in-game purchases fell 11%. A record year for the console business and a shrinking market for the people who make console games are the same set of numbers.",
+        "card_text": "Record console spending, less of it on games",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "There's a limit to raising prices, and the US may have hit it. In July 2026, the average price of a new console was up 16% while hardware spending was down 29%. Mat Piscatella reads rising console prices as weighing on sales. Charging the same players more only works while they keep paying.",
+        "card_text": "Higher prices are starting to cost sales",
+        "year": "2026",
+        "market": "",
+        "source": "GameDev Reports, on Circana (21 August 2026)",
+        "link": "https://gamedevreports.substack.com/p/circana-the-us-video-game-market-609",
+        "source_slug": "gamedev-reports"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "The rich markets aren't where the record came from. By Ball's own figures, players in the eight rich markets spent $107 billion in 2025, less than the $112 billion of 2021, so since the pandemic peak they are fewer and spending less in total. The squeeze shows against 2019, when the same markets spent $85 billion. Against 2021, the worldwide record is a story about China and everywhere else.",
+        "card_text": "Against 2021, the rich markets are spending less, not more",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Newzoo counts 3.70 billion players in 2026, up 4.4%, with the Middle East and Africa growing fastest at 7.9% and Asia-Pacific the largest region at 1.94 billion. Ball's decline is a finding about eight rich countries. They hold most of the spending, but they aren't the whole market.",
+        "card_text": "Worldwide, the number of players is still growing",
+        "year": "2026",
+        "market": "",
+        "source": "Storyboard18, on Newzoo's Global Games Market Report 2026 (11 September 2026)",
+        "link": "https://www.storyboard18.com/amp/gaming-news/global-games-market-to-hit-2139b-by-2026-growth-slows-ws-l-110433.htm",
+        "source_slug": "newzoo"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Ball raises this objection himself: someone who stopped playing altogether probably wasn't playing or spending much, so how much was really lost? His answer is that the losses compound, but he offers that as an argument, not a measurement. His report doesn't show what the departed players used to spend.",
+        "card_text": "The players who left may not have spent much",
+        "year": "2025",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Not every company is squeezing harder. Roblox says it deliberately chose to keep players rather than earn more from them now, and changed how it recommends games to do it. Players now spend less per hour, and investors cut the company's value by 70% in response. The pressure to earn more per player is real, but so is the choice not to.",
+        "card_text": "Roblox chose keeping players over earning more",
+        "year": "2026",
+        "market": "",
+        "source": "PC Gamer, Rick Lane (9 August 2026)",
+        "link": "https://www.pcgamer.com/games/roblox-shares-plummet-by-70-percent-after-the-company-reports-persistent-decline-in-player-numbers-and-of-course-the-solution-involves-ai/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Circana's full-year US figures, due in January 2027. The market was 2% behind 2025 after seven months. Will the year finish below 2025, even with a Grand Theft Auto release in it?",
+        "card_text": "Whether US spending ends 2026 down",
+        "year": "2027",
+        "market": "",
+        "source": "Circana",
+        "link": "https://www.circana.com/industries/video-games",
+        "source_slug": "circana"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Ball's next State of Video Gaming report, due early in 2027. Several national surveys, including Italy's, report during 2026. Will the share of people who play keep falling in the US and South Korea, or has it found a floor?",
+        "card_text": "Whether the share of people who play finds a floor",
+        "year": "2027",
+        "market": "",
+        "source": "Matthew Ball, The State of Video Gaming in 2026 (deck updated 15 May 2026)",
+        "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026",
+        "source_slug": "matthew-ball-essays"
+      }
+    ]
   },
   {
     "slug": "premium-price-ceiling",
@@ -361,8 +929,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "GamesRadar and Eurogamer business coverage, Circana US sales data, Ars Technica gaming desk",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
@@ -410,8 +980,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Game Developer post-mortems, Circana engagement data, publisher earnings calls (Sony, EA, Take-Two)",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
@@ -461,8 +1033,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "The Verge Xbox coverage, WSJ tech desk, Circana subscription spending data, Microsoft earnings",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "creator-platforms-as-sovereign-economies",
@@ -498,8 +1072,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Roblox quarterly earnings and annual reports, Game Developer, Naavik deep dives, Matthew Ball",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "child-safety-enforcement-in-game-platforms",
@@ -542,8 +1118,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "eSafety Commissioner (AU), Ofcom Online Safety Act updates (UK), state AG press offices, The Guardian tech desk, Roblox's safety blog and earnings calls",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "indias-real-money-gaming-ban",
@@ -578,8 +1156,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Reuters India tech desk, MediaNama, AGB (Asia Gaming Brief), Indian Supreme Court proceedings",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
@@ -639,8 +1219,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Leon Y. Xiao's annual 'Loot Box State of Play' papers, Gaming Law Review, PEGI/ESRB notices, national regulators (Belgian Gaming Commission, Kansspelautoriteit)",
     "status_label": "Regulation",
+    "measure_label": "",
     "series_label": "",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
@@ -987,8 +1569,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Niko Partners China/SEA research, TechNode, AGB, national regulator announcements (NPPA, Vietnam MIC); see also the age-checks row for verification mechanics",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "publishers-split-on-gambling-money-in-esports",
@@ -1027,8 +1611,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Esports Charts sponsorship analyses, HLTV Counter-Strike business coverage, Esports Legal News, SportBusiness",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
@@ -1078,8 +1664,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "FTC press releases and enforcement actions, IAPP coverage, ICO (UK), law-firm COPPA trackers",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "addiction-and-screen-time-discourse",
@@ -1114,8 +1702,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Journal of Behavioral Addictions, BMC Psychiatry, Oxford Internet Institute (Przybylski), KOCCA white papers for the Korean framing",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "chinas-original-ip-franchise-build-out",
@@ -1151,8 +1741,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Rest of World China tech desk, Niko Partners, SCMP tech coverage, Naavik",
     "status_label": "",
+    "measure_label": "",
     "series_label": "Overseas revenue of Chinese-made games, $ millions, by year",
     "series_note": "",
+    "series_type": "",
     "what_it_is_text": [
       {
         "text": "Black Myth: Wukong",
@@ -1498,8 +2090,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Naavik, SportBusiness esports desk, Reuters M&A coverage, Esports Insider",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "growth-without-western-access",
@@ -1529,8 +2123,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "The Game Business (Dring), Matthew Ball / Epyllion, Niko Partners, Newzoo regional reports",
     "status_label": "",
+    "measure_label": "",
     "series_label": "Share of China's game revenue earned by Chinese-made games, by year",
     "series_note": "",
+    "series_type": "",
     "what_it_is_text": [
       "The games industry earned about $10 billion more in 2025 than in 2021. According to ",
       {
@@ -1774,8 +2370,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Niko Partners' monthly approval trackers, TechNode, Digital Policy Alert, SCMP",
     "status_label": "",
+    "measure_label": "",
     "series_label": "Domestic game licences approved, by year",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
@@ -2121,8 +2719,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "GDC State of the Game Industry (annual), Game Developer, Wired gaming/AI coverage, a16z Games (for the pro-adoption view)",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "the-rise-of-ai-companions-and-co-playable-npcs",
@@ -2160,8 +2760,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "VGC and The Verge AI-in-games coverage, Epic's Creator ecosystem announcements, Inworld/ElevenLabs product news, Kotaku (critical coverage)",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
@@ -2209,8 +2811,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "SAG-AFTRA's interactive media page, Deadline/Variety labor desks, Game Developer labor coverage",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "app-store-unbundling-under-court-supervision",
@@ -2248,8 +2852,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "The Verge policy desk, MacRumors legal coverage, mobilegamer.biz, European Commission DMA enforcement updates, Japan Fair Trade Commission MSCA enforcement",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "streaming-fragmentation-and-the-multi-homed-creator",
@@ -2288,8 +2894,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Stream Hatchet quarterly and annual reports, Streams Charts, Netinfluencer, Bloomberg's creator-economy coverage",
     "status_label": "",
+    "measure_label": "",
     "series_label": "Hours watched by platform, millions, by year",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Figure",
@@ -2624,8 +3232,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Omdia games research, The Verge hardware desk, Circana (Piscatella), Valve Steam Hardware Survey",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "metaverse-and-blockchain-gaming-hype",
@@ -2660,8 +3270,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball (who wrote the book and the post-mortems), Naavik, Digiday's Gaming Advertising coverage for brand-metaverse residue",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
@@ -2713,8 +3325,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "ESA Essential Facts (annual), Circana demographics, VGM/GWI audience panels, Pew Research internet & tech",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "game-preservation-and-digital-ownership",
@@ -2754,8 +3368,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "European Citizens' Initiative register, stopkillinggames.com, r/StopKillingGames, Bellular News (YouTube), Digital Fairness Act consultations, UFC-Que Choisir, Video Games Europe statements",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
@@ -2806,8 +3422,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Game Workers of America / CWA announcements, Game Developer labor desk, GDC State of the Game Industry, IGDA",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "culture-war-discourse-and-the-weaponized-review-score",
@@ -2845,8 +3463,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "IJoC and Games & Culture (scholarly), Aftermath and 404 Media (critical journalism), Wired culture desk, SteamDB review-anomaly data",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "esports-after-the-reckoning",
@@ -2885,8 +3505,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "SportBusiness, Esports Insider, Sports Business Journal esports desk, Esports Charts viewership data",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
@@ -2942,8 +3564,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Aftermath, Press Gazette (media business beat), Game File, local trade-body statements, WHOIS/company filings for suspect domains",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "studio-investment-in-games-plummets",
@@ -2978,8 +3602,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Game Developer's business desk, GameDiscoverCo",
     "status_label": "",
+    "measure_label": "",
     "series_label": "Spending on making games, in-house and outsourced, $ billion, by year",
     "series_note": "Spending on making games is still growing, but most of the new money since 2022 has gone to outside companies.",
+    "series_type": "",
     "claims": [
       {
         "section": "Figure",
@@ -3396,8 +4022,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "The Game Business (Christopher Dring), Game File (Stephen Totilo), Video Games Chronicle, Circana consumer surveys",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "mobile-has-shifted-from-downloads-to-spending",
@@ -3439,8 +4067,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Sensor Tower State of Mobile (annual), Naavik, Deconstructor of Fun, PocketGamer.biz monthly charts, AppMagic",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "creators-are-how-players-find-games",
@@ -3476,8 +4106,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "GameDiscoverCo (Simon Carless), Naavik, GDC State of the Game Industry (annual), Gamalytic, SteamDB",
     "status_label": "",
+    "measure_label": "",
     "series_label": "Games released on Steam, by year",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Figure",
@@ -3812,8 +4444,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Newzoo PC and Console Gaming Report (annual), GameDiscoverCo, Circana Player Engagement Tracker, Valve's Steam Replay",
     "status_label": "",
+    "measure_label": "",
     "series_label": "Share of Steam playtime by age of game, by year",
     "series_note": "About one hour in seven on Steam goes to a game released that year. The rest goes to older games.",
+    "series_type": "",
     "claims": [
       {
         "section": "Figure",
@@ -4157,8 +4791,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "GameDiscoverCo's annual PC and console sales roundups, Game Developer's design desk, PC Gamer, AppMagic retention studies",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
-    "series_note": ""
+    "series_note": "",
+    "series_type": ""
   },
   {
     "slug": "live-ops-is-becoming-a-playbook",
@@ -4194,8 +4830,10 @@
     "as_of": "Sep 2026",
     "where_to_follow": "Naavik, Deconstructor of Fun, PocketGamer.biz, GDC live ops talks, Game Developer's production desk",
     "status_label": "",
+    "measure_label": "",
     "series_label": "",
     "series_note": "",
+    "series_type": "",
     "claims": [
       {
         "section": "Definition",
