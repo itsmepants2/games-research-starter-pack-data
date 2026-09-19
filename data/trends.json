@@ -36,6 +36,7 @@
     "series_label": "Job losses recorded, by year",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "what_it_is_text": [
       "During the pandemic, people played more games, and companies hired and spent heavily to keep up. When that demand cooled and borrowing got more expensive, publishers cut staff, cancelled projects, and closed studios. While there is no official count of games layoffs, there are at least two public trackers (",
       {
@@ -326,6 +327,7 @@
     "series_label": "What players spend on games, by region, 2021 = 100",
     "series_note": "Since the 2021 peak, spending in the eight rich markets is down 4.5%. China is up 7.3%, and the rest of the world is up 41%.",
     "series_type": "line-index-2021",
+    "timeline_heads": false,
     "what_it_is_text": [
       "Analyst ",
       {
@@ -933,6 +935,7 @@
     "series_label": "",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
@@ -984,6 +987,7 @@
     "series_label": "",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
@@ -1000,7 +1004,7 @@
   },
   {
     "slug": "subscription-plateau",
-    "name": "Subscriptions are plateauing",
+    "name": "Subscriptions stopped adding players",
     "stage": "Emerging",
     "category": "Money & business model",
     "markets": [
@@ -1008,8 +1012,8 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Game Pass is reportedly down to about 30 million paying subscribers, against an internal projection of ~77 million by 2026 revealed in FTC proceedings, after a price hike to $29.99 a month in October 2025 drove churn; Microsoft rolled Ultimate back to $22.99 on 26 April 2026. Sony has stopped reporting PS Plus subscriber counts. From November 2026 Xbox meters cloud streaming rather than bundling it: 15 hours a month on Ultimate, 10 on Premium, 5 on Essential, with extra hours sold separately. Microsoft puts the affected share at 4% of subscribers. Within a week of the cloud cap Microsoft began offering lapsed and some current Ultimate subscribers 12-month discounts reported at $16 to $20 a month against list, a segmented win-back test rather than a price change. Price is now the stated reason: Circana's tracking, reported in September 2026, puts more than 40% of US cancellations of Xbox Game Pass, PlayStation Plus and Nintendo Switch Online down to cost. That is the share of reasons given by people who cancelled, not evidence that more of them are cancelling.",
-    "why_it_matters": "Tests the 'Netflix of games' thesis that drove a decade of acquisitions and strategy. Also a good case of consolidation-era promises meeting reality (no plan survives an encounter with the enemy)",
+    "what_it_is": "Xbox Game Pass is reported to have about 30 million paying subscribers, far below the 77 million Microsoft's own internal plan projected for this point. A steep price rise in late 2025 drove people away, and Microsoft partly reversed it in 2026. Sony has stopped publishing PlayStation Plus numbers altogether. Companies are now trimming what subscribers get rather than adding subscribers: from November 2026, Xbox limits how much cloud streaming each tier includes and sells extra hours separately.",
+    "why_it_matters": "For a decade, the industry bet that games would go the way of TV and music: one monthly fee for a big library. That belief drove enormous acquisitions, including Microsoft's $68.7 billion purchase of Activision. Subscriber numbers have since stalled well short of what the companies planned for, and they've raised prices instead. It's a clear case of promises made during a buying spree meeting reality.",
     "further_reading": [
       {
         "source": "Microsoft's Game Pass performance is far below expectations",
@@ -1034,9 +1038,329 @@
     "where_to_follow": "The Verge Xbox coverage, WSJ tech desk, Circana subscription spending data, Microsoft earnings",
     "status_label": "",
     "measure_label": "",
-    "series_label": "",
-    "series_note": "",
-    "series_type": ""
+    "series_label": "Subscribers as the companies announced them, millions, by year",
+    "series_note": "PlayStation Plus stopped growing in 2021 and Game Pass is reported to be shrinking. Microsoft's own plan had Game Pass at about 77 million by now.",
+    "series_type": "line",
+    "timeline_heads": true,
+    "claims": [
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Game Pass subscribers, in millions, as Microsoft announced in September 2020.",
+        "card_text": "15",
+        "year": "2020",
+        "market": "",
+        "source": "Microsoft's and Sony's own announcements, with Game Pass in 2026 as reported by The Wall Street Journal",
+        "link": "https://gamerant.com/xbox-game-pass-subscriber-count-2025-growth-history-estimate/",
+        "source_slug": "",
+        "series": "Xbox Game Pass"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Game Pass subscribers, in millions, as Microsoft announced in January 2021.",
+        "card_text": "18",
+        "year": "2021",
+        "market": "",
+        "source": "Microsoft's and Sony's own announcements, with Game Pass in 2026 as reported by The Wall Street Journal",
+        "link": "https://gamerant.com/xbox-game-pass-subscriber-count-2025-growth-history-estimate/",
+        "source_slug": "",
+        "series": "Xbox Game Pass"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Game Pass subscribers, in millions, as Microsoft announced in January 2022.",
+        "card_text": "25",
+        "year": "2022",
+        "market": "",
+        "source": "Microsoft's and Sony's own announcements, with Game Pass in 2026 as reported by The Wall Street Journal",
+        "link": "https://gamerant.com/xbox-game-pass-subscriber-count-2025-growth-history-estimate/",
+        "source_slug": "",
+        "series": "Xbox Game Pass"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Game Pass subscribers, in millions, as Microsoft announced in February 2024, the last number it has given.",
+        "card_text": "34",
+        "year": "2024",
+        "market": "",
+        "source": "Microsoft's and Sony's own announcements, with Game Pass in 2026 as reported by The Wall Street Journal",
+        "link": "https://www.techradar.com/gaming/consoles-pc/xbox-game-pass-now-has-34-million-subscribers",
+        "source_slug": "",
+        "series": "Xbox Game Pass"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Game Pass in July 2026: about 30 million paying subscribers. This is a Wall Street Journal report, not a Microsoft announcement, so it is marked as approximate.",
+        "card_text": "~30",
+        "year": "2026",
+        "market": "",
+        "source": "Microsoft's and Sony's own announcements, with Game Pass in 2026 as reported by The Wall Street Journal",
+        "link": "https://kotaku.com/game-pass-is-reportedly-back-down-to-30-million-subscribers-2000712971",
+        "source_slug": "",
+        "series": "Xbox Game Pass"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "PlayStation Plus subscribers, in millions, at the end of March 2020, from Sony's results.",
+        "card_text": "41.5",
+        "year": "2020",
+        "market": "",
+        "source": "Microsoft's and Sony's own announcements, with Game Pass in 2026 as reported by The Wall Street Journal",
+        "link": "https://gamingbolt.com/ps4-and-ps5-game-sales-in-fy20-total-338-9-million-playstation-plus-subscribers-at-47-6-million",
+        "source_slug": "",
+        "series": "PlayStation Plus"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "PlayStation Plus subscribers, in millions, at the end of March 2021, from Sony's results.",
+        "card_text": "47.6",
+        "year": "2021",
+        "market": "",
+        "source": "Microsoft's and Sony's own announcements, with Game Pass in 2026 as reported by The Wall Street Journal",
+        "link": "https://gamingbolt.com/ps4-and-ps5-game-sales-in-fy20-total-338-9-million-playstation-plus-subscribers-at-47-6-million",
+        "source_slug": "",
+        "series": "PlayStation Plus"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "PlayStation Plus subscribers, in millions, at the end of March 2022, from Sony's results.",
+        "card_text": "47.4",
+        "year": "2022",
+        "market": "",
+        "source": "Microsoft's and Sony's own announcements, with Game Pass in 2026 as reported by The Wall Street Journal",
+        "link": "https://www.psu.com/news/playstation-plus-subscribers-hit-47-4-million-down-slightly-on-previous-year/",
+        "source_slug": "",
+        "series": "PlayStation Plus"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "PlayStation Plus subscribers, in millions, at the end of March 2023, the last count Sony has published.",
+        "card_text": "47.4",
+        "year": "2023",
+        "market": "",
+        "source": "Microsoft's and Sony's own announcements, with Game Pass in 2026 as reported by The Wall Street Journal",
+        "link": "https://www.psu.com/news/ps-plus-subscribers-hit-47-4-million-sony-confirms-in-latest-financial-report/",
+        "source_slug": "",
+        "series": "PlayStation Plus"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft's internal plan, written in 2022 and made public during the legal fight over its Activision purchase, had Game Pass reaching about 77 million subscribers by the middle of the decade and more than 100 million by 2030. The service had 25 million at the time.",
+        "card_text": "Microsoft plans for 77 million Game Pass subscribers by mid-decade",
+        "year": "2022",
+        "market": "",
+        "source": "Kotaku, Ethan Gach (6 July 2026)",
+        "link": "https://kotaku.com/game-pass-is-reportedly-back-down-to-30-million-subscribers-2000712971",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Sony reports 47.4 million PlayStation Plus subscribers at the end of March, the same as a year earlier and slightly below 2021's 47.6 million. It's the last time Sony gives a number. Since then it has reported only percentages.",
+        "card_text": "Sony publishes a PlayStation Plus subscriber count for the last time",
+        "year": "2023",
+        "market": "",
+        "source": "PlayStation Universe, on Sony's financial report",
+        "link": "https://www.psu.com/news/ps-plus-subscribers-hit-47-4-million-sony-confirms-in-latest-financial-report/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft says Game Pass has 34 million subscribers, up from 25 million two years earlier. It's the last figure the company has given.",
+        "card_text": "Microsoft publishes a Game Pass subscriber count for the last time",
+        "year": "2024",
+        "market": "",
+        "source": "TechRadar (February 2024)",
+        "link": "https://www.techradar.com/gaming/consoles-pc/xbox-game-pass-now-has-34-million-subscribers",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft raises Game Pass Ultimate, its top tier, from $19.99 to $29.99 a month and reorganizes the service into three tiers. The cheaper two, Essential at $9.99 and Premium at $14.99, keep their prices.",
+        "card_text": "Microsoft raises Game Pass Ultimate by 50%",
+        "year": "2025",
+        "market": "",
+        "source": "CNBC (1 October 2025)",
+        "link": "https://www.cnbc.com/2025/10/01/microsoft-price-hike-xbox-game-pass-ultimate.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "US spending on game subscriptions grows 20% in 2025, in a year when total spending on games rose 1.4% to $60.7 billion. Worldwide, Matthew Ball finds that more than all of the growth in console spending since 2020 went to subscriptions and other platform services.",
+        "card_text": "US subscription spending grows 20% in a flat market",
+        "year": "2025",
+        "market": "",
+        "source": "Entertainment Software Association, on Circana's figures (January 2026)",
+        "link": "https://www.theesa.com/2025-u-s-consumer-spending-on-video-games-nears-pandemic-level-peak-at-60-7-billion-second-highest-on-record/",
+        "source_slug": "esa"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft cuts Game Pass Ultimate from $29.99 to $22.99 a month and PC Game Pass from $16.49 to $13.99. New Call of Duty games will no longer arrive on the service at launch, coming about a year later instead. Even after the cut, Ultimate costs 35% more than two years earlier.",
+        "card_text": "Microsoft partly reverses the price rise and delays Call of Duty",
+        "year": "2026",
+        "market": "",
+        "source": "The Game Business, Christopher Dring (21 April 2026)",
+        "link": "https://www.thegamebusiness.com/p/xbox-cuts-game-pass-ultimate-price",
+        "source_slug": "the-game-business"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In June, subscriptions grow 7% from a year earlier. Total US spending falls 21% to $4.5 billion, and spending on games and what's sold inside them falls 12%.",
+        "card_text": "Subscriptions are the only part of US game spending that grows",
+        "year": "2026",
+        "market": "",
+        "source": "GameDev Reports, on Circana (29 July 2026)",
+        "link": "https://gamedevreports.substack.com/p/circana-the-us-video-game-market",
+        "source_slug": "gamedev-reports"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Wall Street Journal reports that Game Pass is down to about 30 million paying subscribers, 4 million fewer than in 2024. Microsoft's own leadership says the 2025 price rise cost the service millions of subscribers. Microsoft has not confirmed the figure.",
+        "card_text": "Game Pass is reported at 30 million subscribers, not 77 million",
+        "year": "2026",
+        "market": "",
+        "source": "Kotaku, Ethan Gach, on The Wall Street Journal (6 July 2026)",
+        "link": "https://kotaku.com/game-pass-is-reportedly-back-down-to-30-million-subscribers-2000712971",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Starting in November, Microsoft limits cloud streaming, the part of Game Pass that lets subscribers play without downloading: 15 hours a month on Ultimate, 10 on Premium, and 5 on Essential, with extra hours sold separately. Microsoft says about 4% of subscribers play more than that.",
+        "card_text": "Microsoft caps how many hours subscribers can stream from the cloud",
+        "year": "2026",
+        "market": "",
+        "source": "Xbox Wire, Upcoming changes to Xbox Cloud Gaming (3 September 2026)",
+        "link": "https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Within a week of announcing the cloud caps, Microsoft begins offering lapsed and some current Ultimate subscribers 12-month discounts reported at $16 to $20 a month, as much as 30% below the list price. It's a targeted win-back offer rather than a change to the list price. The reports come from subscribers sharing their offers, and Microsoft hasn't confirmed them.",
+        "card_text": "Microsoft offers discounts to win back lapsed subscribers",
+        "year": "2026",
+        "market": "",
+        "source": "Game Rant, Adrian Morales (7 September 2026)",
+        "link": "https://gamerant.com/xbox-game-pass-dynamic-pricing-subscription/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Circana's survey of Americans who cancelled a games subscription: more than 40% of those leaving Game Pass or PlayStation Plus say cost was the main reason, up from 37% at the start of the year. For Nintendo Switch Online it's 50%, up from 40%.",
+        "card_text": "Cost becomes the main reason people cancel",
+        "year": "2026",
+        "market": "",
+        "source": "Eurogamer, Kaan Serin, on Mat Piscatella's Circana figures (11 September 2026)",
+        "link": "https://www.eurogamer.net/xbox-game-pass-playstation-plus-nintendo-cancellations-rising-costs",
+        "source_slug": "mat-piscatella"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "The number of subscribers has stopped growing, but the money hasn't. US spending on game subscriptions rose 20% in 2025, the year Microsoft raised its top tier by half. When a service can't add subscribers, growth has to come from charging the ones it has more.",
+        "card_text": "Fewer subscribers, more money from each",
+        "year": "2025",
+        "market": "",
+        "source": "Entertainment Software Association, on Circana's figures (January 2026)",
+        "link": "https://www.theesa.com/2025-u-s-consumer-spending-on-video-games-nears-pandemic-level-peak-at-60-7-billion-second-highest-on-record/",
+        "source_slug": "esa"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Microsoft spent $68.7 billion on Activision with a plan that had Game Pass at about 77 million subscribers by now. It's reported to have about 30 million. The company's new leadership has said its Game Pass bets didn't grow as fast as expected, and the shortfall is one of the reasons given for this year's Xbox layoffs.",
+        "card_text": "The plan behind the acquisitions hasn't happened",
+        "year": "2026",
+        "market": "",
+        "source": "Kotaku, Ethan Gach, on The Wall Street Journal (6 July 2026)",
+        "link": "https://kotaku.com/game-pass-is-reportedly-back-down-to-30-million-subscribers-2000712971",
+        "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Subscribers get less for more. Game Pass was sold on getting Microsoft's biggest games the day they came out. New Call of Duty games now arrive about a year late, and the price is still 35% above where it was two years ago. Christopher Dring expects further changes, because the service is growing slowly.",
+        "card_text": "The bundle shrinks while the price stays high",
+        "year": "2026",
+        "market": "",
+        "source": "The Game Business, Christopher Dring (21 April 2026)",
+        "link": "https://www.thegamebusiness.com/p/xbox-cuts-game-pass-ultimate-price",
+        "source_slug": "the-game-business"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Measured in money, subscriptions aren't plateauing at all. They were the only part of US game spending that grew in June 2026, up 7% while the whole market fell 21%. The plateau is in subscriber numbers. In dollars, this is the healthiest part of the business.",
+        "card_text": "In dollars, subscriptions are still growing",
+        "year": "2026",
+        "market": "",
+        "source": "GameDev Reports, on Circana (29 July 2026)",
+        "link": "https://gamedevreports.substack.com/p/circana-the-us-video-game-market",
+        "source_slug": "gamedev-reports"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "That more people blame the price doesn't mean more people are leaving. Mat Piscatella says so himself: his figure is the share of reasons given by people who cancelled, and says nothing about how many cancelled.",
+        "card_text": "Blaming the price isn't the same as more people leaving",
+        "year": "2026",
+        "market": "",
+        "source": "Eurogamer, Kaan Serin, on Mat Piscatella's Circana figures (11 September 2026)",
+        "link": "https://www.eurogamer.net/xbox-game-pass-playstation-plus-nintendo-cancellations-rising-costs",
+        "source_slug": "mat-piscatella"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Nobody outside the companies knows the real figures. Microsoft last gave a count in February 2024, Sony in March 2023. The 30 million is a newspaper report. Other estimates have pointed the other way: Omdia put Game Pass at 33.3 million at the end of 2023, and Game Rant estimated 38 million in mid-2025, before the price rise.",
+        "card_text": "The companies have stopped publishing the numbers",
+        "year": "2025",
+        "market": "",
+        "source": "Game Rant, Dominik Bošnjak (9 June 2025)",
+        "link": "https://gamerant.com/xbox-game-pass-subscriber-count-2025-growth-history-estimate/",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "November 2026, when the cloud streaming limits start and Microsoft sets the price of extra hours. Will the 4% who play the most pay for more time, or leave?",
+        "card_text": "What the cloud limit does in November",
+        "year": "2026",
+        "market": "",
+        "source": "Xbox Wire, Upcoming changes to Xbox Cloud Gaming (3 September 2026)",
+        "link": "https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes/",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Circana's full-year US figures, due in January 2027. Subscription spending grew 20% in 2025 on the back of a price rise that has since been partly reversed. Does it keep growing without one?",
+        "card_text": "Whether subscription spending grows without a price rise",
+        "year": "2027",
+        "market": "",
+        "source": "Circana",
+        "link": "https://www.circana.com/industries/video-games",
+        "source_slug": "circana"
+      }
+    ]
   },
   {
     "slug": "creator-platforms-as-sovereign-economies",
@@ -1075,7 +1399,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "child-safety-enforcement-in-game-platforms",
@@ -1121,7 +1446,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "indias-real-money-gaming-ban",
@@ -1160,6 +1486,7 @@
     "series_label": "",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
@@ -1223,6 +1550,7 @@
     "series_label": "",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
@@ -1572,7 +1900,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "publishers-split-on-gambling-money-in-esports",
@@ -1615,6 +1944,7 @@
     "series_label": "",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
@@ -1667,7 +1997,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "addiction-and-screen-time-discourse",
@@ -1705,7 +2036,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "chinas-original-ip-franchise-build-out",
@@ -1745,6 +2077,7 @@
     "series_label": "Overseas revenue of Chinese-made games, $ millions, by year",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "what_it_is_text": [
       {
         "text": "Black Myth: Wukong",
@@ -2093,7 +2426,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "growth-without-western-access",
@@ -2127,6 +2461,7 @@
     "series_label": "Share of China's game revenue earned by Chinese-made games, by year",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "what_it_is_text": [
       "The games industry earned about $10 billion more in 2025 than in 2021. According to ",
       {
@@ -2374,6 +2709,7 @@
     "series_label": "Domestic game licences approved, by year",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
@@ -2722,7 +3058,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "the-rise-of-ai-companions-and-co-playable-npcs",
@@ -2764,6 +3101,7 @@
     "series_label": "",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
@@ -2814,7 +3152,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "app-store-unbundling-under-court-supervision",
@@ -2855,7 +3194,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "streaming-fragmentation-and-the-multi-homed-creator",
@@ -2898,6 +3238,7 @@
     "series_label": "Hours watched by platform, millions, by year",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Figure",
@@ -3235,7 +3576,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "metaverse-and-blockchain-gaming-hype",
@@ -3274,6 +3616,7 @@
     "series_label": "",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
@@ -3328,7 +3671,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "game-preservation-and-digital-ownership",
@@ -3372,6 +3716,7 @@
     "series_label": "",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
@@ -3425,7 +3770,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "culture-war-discourse-and-the-weaponized-review-score",
@@ -3466,7 +3812,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "esports-after-the-reckoning",
@@ -3509,6 +3856,7 @@
     "series_label": "",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
@@ -3567,7 +3915,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "studio-investment-in-games-plummets",
@@ -3606,6 +3955,7 @@
     "series_label": "Spending on making games, in-house and outsourced, $ billion, by year",
     "series_note": "Spending on making games is still growing, but most of the new money since 2022 has gone to outside companies.",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Figure",
@@ -4025,7 +4375,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "mobile-has-shifted-from-downloads-to-spending",
@@ -4070,7 +4421,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "creators-are-how-players-find-games",
@@ -4110,6 +4462,7 @@
     "series_label": "Games released on Steam, by year",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Figure",
@@ -4448,6 +4801,7 @@
     "series_label": "Share of Steam playtime by age of game, by year",
     "series_note": "About one hour in seven on Steam goes to a game released that year. The rest goes to older games.",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Figure",
@@ -4794,7 +5148,8 @@
     "measure_label": "",
     "series_label": "",
     "series_note": "",
-    "series_type": ""
+    "series_type": "",
+    "timeline_heads": false
   },
   {
     "slug": "live-ops-is-becoming-a-playbook",
@@ -4834,6 +5189,7 @@
     "series_label": "",
     "series_note": "",
     "series_type": "",
+    "timeline_heads": false,
     "claims": [
       {
         "section": "Definition",
