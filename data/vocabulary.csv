@@ -184,10 +184,10 @@ cost,,Free,424
 cost,,Paid,54
 cost,,Freemium,48
 cost,,Unknown,7
-trend_stage,,Dominant,14
-trend_stage,,Emerging,13
-trend_stage,,Perennial,8
-trend_stage,,Receding,2
+trend_stage,,Dominant,15
+trend_stage,,Perennial,10
+trend_stage,,Emerging,9
+trend_stage,,Receding,3
 trend_category,,Money & business model,9
 trend_category,,"Regulation, safety & age",7
 trend_category,,Platform & distribution,7

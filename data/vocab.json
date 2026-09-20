@@ -212,10 +212,10 @@
     "Unknown": 7
   },
   "trend_stage": {
-    "Dominant": 14,
-    "Emerging": 13,
-    "Perennial": 8,
-    "Receding": 2
+    "Dominant": 15,
+    "Perennial": 10,
+    "Emerging": 9,
+    "Receding": 3
   },
   "trend_category": {
     "Money & business model": 9,
