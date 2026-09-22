@@ -2,7 +2,7 @@
 
 A directory of the press, institutions, datasets, media, people and communities behind the video games industry across **ten markets**, plus the trends, platforms and genres that frame them.
 
-**923 sources. 10 markets. 37 trends. 35 platforms. 30 genres.** Every source was opened and read before its description was written.
+**923 sources. 10 markets. 38 trends. 35 platforms. 30 genres.** Every source was opened and read before its description was written.
 
 The site is at **https://games.thisisdelightful.com** — this repository is the data behind it, in the same files the site offers for download.
 
