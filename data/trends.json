@@ -13128,7 +13128,7 @@
   },
   {
     "slug": "dormant-ip-revival",
-    "name": "Publishers are reviving dormant franchises instead of starting new ones",
+    "name": "Publishers are reviving dormant franchises",
     "stage": "Emerging",
     "category": "Money & business model",
     "markets": [
@@ -13137,8 +13137,8 @@
       "KR",
       "US"
     ],
-    "what_it_is": "Publishers are treating unused franchises as a balance-sheet asset. Capcom said in September 2026 that it is focusing on re-activating IPs it has not launched recently, after Onimusha: Way of the Sword sold a million copies on its first day. Blizzard is bringing StarCraft back as a shooter for 2030. Nintendo has dated a remake of a 1998 Zelda. Nexon has licensed its catalog to outside developers, and Nex Playground says every major publisher has asked about old Kinect and Wii games.",
-    "why_it_matters": "Making a new game costs more and fails more often, so publishers are going back to franchises they already own and left alone for years. For players the schedule fills with familiar names, and a studio pitching something new has a harder sell.",
+    "what_it_is": "Publishers are treating unused intellectual property, or IP, franchises they own but have not used in years, as an asset, while money for new studios thins, as the investment page shows. Capcom said in September 2026, after a million-copy launch day for Onimusha, that it is re-activating IPs it has not launched recently, alongside its new releases. Blizzard is bringing StarCraft back as a shooter for 2030, Nintendo has dated a remake of a 1998 Zelda, and Nexon has licensed its catalog to outside developers.",
+    "why_it_matters": "Publishers are going back to franchises they own and left alone for years, beside their new releases rather than in place of them, and Capcom now says so in a plan for investors. For players the schedule fills with names they know.",
     "further_reading": [
       {
         "source": "Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword breakout launch",
@@ -13147,29 +13147,37 @@
         "format": ""
       },
       {
-        "source": "\"Every major publisher has approached us to review their old Kinect and Wii catalogue\" - Nex Playground is spoilt for choice as its international rollout continues",
-        "link": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
-        "type": "Reporting",
+        "source": "Onimusha: Way of the Sword surpasses one million units on launch day; Capcom to focus on re-activating IPs",
+        "link": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
+        "type": "Primary",
         "format": ""
       },
       {
-        "source": "New StarCraft title to launch in 2030, will be an open-world FPS",
-        "link": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
-        "type": "Reporting",
+        "source": "Gamers spend twice as much on remakes as remasters",
+        "link": "https://www.ampereanalysis.com/insight/gamers-spend-twice-as-much-on-remakes-as-remasters",
+        "type": "Data",
         "format": ""
       }
     ],
     "as_of": "Sep 2026",
     "where_to_follow": "GamesIndustry.biz, Video Games Chronicle, Gematsu, Inven Global, publisher investor days",
-    "status_label": "Emerging",
-    "measure_label": "",
+    "status_label": "What is being revived",
+    "measure_label": "The detail",
     "row_label": "",
-    "series_label": "",
-    "series_note": "",
+    "series_label": "How long each revived game had been away, in years",
+    "series_note": "Every revival on this page brings back something that had been gone for at least thirteen years, and the Zelda remake reaches back twenty-eight.",
     "series_type": "",
     "series_mark": "",
     "series_target": "",
     "timeline_heads": true,
+    "what_it_is_text": [
+      "Publishers are treating unused intellectual property, or IP, franchises they own but have not used in years, as an asset, while money for new studios thins, as the ",
+      {
+        "text": "investment page",
+        "href": "/trend/studio-investment-in-games-plummets"
+      },
+      " shows. Capcom said in September 2026, after a million-copy launch day for Onimusha, that it is re-activating IPs it has not launched recently, alongside its new releases. Blizzard is bringing StarCraft back as a shooter for 2030, Nintendo has dated a remake of a 1998 Zelda, and Nexon has licensed its catalog to outside developers."
+    ],
     "claims": [
       {
         "section": "Timeline",
@@ -13196,13 +13204,13 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "The analytics firm Ampere Analysis reports that remakes and remasters released across 2024 and 2025 drew 72.4 million players on Xbox, PlayStation and Steam, who spent about $1.4 billion on premium games and microtransactions. Senior analyst Katie Holt says IP holders are sitting on a wealth of content ripe for remakes and remasters, and names eighteen candidates.",
+        "claim": "The analytics firm Ampere Analysis reports on 3 November 2025 that the remakes and remasters released across 2024 and 2025 drew 72.4 million players on Xbox, PlayStation and Steam, who spent over $1.4 billion on full games and in-game purchases. Of the 42 titles it examined, the average remake drew 2.2 times the spending of the average remaster.",
         "card_text": "Ampere Analysis measures what two years of remakes and remasters earned",
         "year": "2025",
         "market": "",
-        "source": "Video Games Chronicle",
-        "link": "https://www.videogameschronicle.com/news/ip-holders-are-sitting-on-a-wealth-of-content-analytics-firm-lists-18-games-ripe-for-remake-or-remaster-success/",
-        "source_slug": "video-games-chronicle"
+        "source": "Ampere Analysis",
+        "link": "https://www.ampereanalysis.com/insight/gamers-spend-twice-as-much-on-remakes-as-remasters",
+        "source_slug": "ampere-analysis"
       },
       {
         "section": "Timeline",
@@ -13218,35 +13226,35 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "Ubisoft cancels six games in a January 2026 reset, among them the Prince of Persia: Sands of Time remake, a mobile title and four unannounced games of which three are original IP. It also delays seven games, closes its Halifax and Stockholm studios and targets a further 200 million euros of fixed-cost reduction. The company says the canceled games did not meet its raised quality expectations.",
+        "claim": "Ubisoft cancels six games in a reset announced on 21 January 2026, among them the Prince of Persia: Sands of Time remake, a mobile title and four unannounced games of which three are original IP. It also gives seven games more development time, closes its Halifax mobile studio and its Stockholm studio, and targets a further 200 million euros of fixed-cost reduction over two years. The company says the reshaped portfolio follows more selective quality criteria.",
         "card_text": "Ubisoft cancels a remake it had already delayed for years",
         "year": "2026",
         "market": "",
-        "source": "Video Games Chronicle",
-        "link": "https://www.videogameschronicle.com/news/ubisoft-details-major-company-reset-6-games-canned-7-delayed-and-2-studios-closed/",
-        "source_slug": "video-games-chronicle"
+        "source": "Ubisoft Entertainment IR",
+        "link": "https://staticctf.ubisoft.com/8aefmxkxpxwl/3aFqB7LIwClyxuXWrQRoVG/039a0058bd9ff27168ff8e76d6704275/Slideshow_vF.pdf",
+        "source_slug": "ubisoft-entertainment-ir"
       },
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "Konami announces that as of 31 January 2026 the Silent Hill 2 remake has sold five million copies worldwide, counting digital and physical sales, store downloads and subscription services across PC, PlayStation 5 and Xbox Series X/S. It marks the figure with a half-price sale on the PlayStation Store. VGC describes it as a strong return for a series that had lain dormant.",
+        "claim": "Konami announces on 12 March 2026 that as of 31 January the Silent Hill 2 remake, released on 8 October 2024, has passed five million units worldwide, counting digital and physical sales, store downloads and subscription services across PC, PlayStation 5 and Xbox Series X/S. It marks the figure with a half-price sale on the deluxe edition.",
         "card_text": "Konami reports five million sales for the Silent Hill 2 remake",
         "year": "2026",
         "market": "",
-        "source": "Video Games Chronicle",
-        "link": "https://www.videogameschronicle.com/news/konami-marks-5-million-sales-of-silent-hill-2-remake-by-selling-it-and-silent-hill-f-for-half-price-on-ps5/",
-        "source_slug": "video-games-chronicle"
+        "source": "Konami",
+        "link": "https://www.konami.com/games/us/en/topics/3137/",
+        "source_slug": ""
       },
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "SNK launches a thirtieth anniversary website for Metal Slug and says it is reigniting and rebooting the series with a wide range of projects, including new ventures in gaming. The series reached arcades in 1996. No title, platform or date is attached to the statement.",
+        "claim": "SNK launches a thirtieth anniversary website for Metal Slug on 19 April 2026 and says the project's mission is reigniting and rebooting the franchise, including the development of new games. The series reached arcades in 1996. No new title, platform or date is attached to the statement.",
         "card_text": "SNK says it is rebooting Metal Slug in the series' thirtieth year",
         "year": "2026",
         "market": "",
-        "source": "Gematsu",
-        "link": "https://www.gematsu.com/2026/04/metal-slug-30th-anniversary-website-launched-teases-mission-reboot",
-        "source_slug": "gematsu"
+        "source": "SNK",
+        "link": "https://www.snk-corp.co.jp/us/press/2026/metal-slug-30th-anniversary-project-special-website-socials-and-video-deployed/",
+        "source_slug": ""
       },
       {
         "section": "Timeline",
@@ -13273,13 +13281,13 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "Nintendo shows the first gameplay from its remake of The Legend of Zelda: Ocarina of Time on 8 September 2026 and dates it to 5 November on Switch 2. The remake adds a jump button, a Hyrule Castle Town that can be fully explored and a Threads of Time record of what the player has done, and keeps the original loading screens between areas.",
+        "claim": "Nintendo shows the first gameplay from its remake of The Legend of Zelda: Ocarina of Time, a 1998 Nintendo 64 game, on 8 September 2026 and dates it to 5 November on Switch 2. The remake adds a jump button, a Hyrule Castle Town that can be fully explored and a Threads of Time record of what the player has done, and keeps the original loading screens between areas on purpose.",
         "card_text": "Nintendo dates a remake of a 1998 Zelda for November",
         "year": "2026",
         "market": "",
-        "source": "Video Games Chronicle",
-        "link": "https://www.videogameschronicle.com/news/nintendo-shares-the-first-gameplay-and-release-date-for-the-legend-of-zelda-ocarina-of-time-remake/",
-        "source_slug": "video-games-chronicle"
+        "source": "Nintendo Direct",
+        "link": "https://www.nintendo.com/jp/nintendo-direct/description/20260908_en-US.html",
+        "source_slug": ""
       },
       {
         "section": "Timeline",
@@ -13306,8 +13314,8 @@
       {
         "section": "Status",
         "kind": "Event",
-        "claim": "Capcom announced on 7 September 2026 that Onimusha: Way of the Sword sold more than a million units on its first day and that cumulative sales of the series have passed ten million. In the same release it says it is focusing on re-activating IPs that have not had a new title launch recently, and is working to further maximize corporate value by leveraging its rich library of content.",
-        "card_text": "Capcom: a stated plan, not an experiment",
+        "claim": "Onimusha: Way of the Sword sold more than a million units on 4 September 2026, its first day, and took series sales past ten million. Capcom says it is focusing on re-activating IPs that have not had a new title launch recently, alongside the major new titles it releases each year.",
+        "card_text": "Onimusha, a series with no new game in over 20 years",
         "year": "2026",
         "market": "JP",
         "source": "Capcom IR",
@@ -13317,8 +13325,19 @@
       {
         "section": "Status",
         "kind": "Event",
+        "claim": "Nintendo showed the first gameplay of its Switch 2 remake of the 1998 game on 8 September 2026 and dated it to 5 November. It adds a jump button and an explorable Hyrule Castle Town, and keeps the original's loading screens between areas on purpose.",
+        "card_text": "The Legend of Zelda: Ocarina of Time, a 1998 game remade",
+        "year": "2026",
+        "market": "JP",
+        "source": "Nintendo Direct",
+        "link": "https://www.nintendo.com/jp/nintendo-direct/description/20260908_en-US.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
         "claim": "The next StarCraft is an open-world first-person shooter due in 2030, the first new entry since 2015. Blizzard canceled two earlier attempts at a StarCraft shooter, Ghost in 2006 and Ares in 2019. Dan Hay says it is a standalone story with a definitive ending and not a seasonal game.",
-        "card_text": "Blizzard: the name returns, the genre does not",
+        "card_text": "StarCraft, no new game since 2015, back as a shooter",
         "year": "2026",
         "market": "US",
         "source": "GamesIndustry.biz",
@@ -13328,8 +13347,19 @@
       {
         "section": "Status",
         "kind": "Event",
+        "claim": "Nex Playground relaunched Freefall Racers, a 2013 Kinect title, which the company says reached 150,000 families in its first month, and has signed Sega and Bandai Namco for Sonic and Pac-Man games. The console sells in the United States and the United Kingdom, with Germany due later in 2026.",
+        "card_text": "Kinect and Wii games, relicensed to a new console",
+        "year": "2026",
+        "market": "US",
+        "source": "GamesIndustry.biz",
+        "link": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalog-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
         "claim": "Nexon Replay, unveiled on 18 December 2025, lets outside developers build games from Nexon's intellectual property. ChogaSoft used it to remaster Tactical Commanders, whose servers closed on 31 December 2005, and the Steam page for Tactical Commanders R went live on 7 September 2026.",
-        "card_text": "Nexon: the catalog is licensed out rather than revived in house",
+        "card_text": "Nexon's back catalog, licensed to outside developers",
         "year": "2026",
         "market": "KR",
         "source": "Inven Global",
@@ -13337,9 +13367,80 @@
         "source_slug": "inven-global"
       },
       {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Ampere Analysis counts 72.4 million players of the remakes and remasters released across 2024 and 2025 on Xbox, PlayStation and Steam, who spent over $1.4 billion. Of the 42 titles it examined, the average remake drew 2.2 times the spending of the average remaster.",
+        "card_text": "Remakes and remasters as a category",
+        "year": "2025",
+        "market": "Global",
+        "source": "Ampere Analysis",
+        "link": "https://www.ampereanalysis.com/insight/gamers-spend-twice-as-much-on-remakes-as-remasters",
+        "source_slug": "ampere-analysis"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Freefall Racers came out on Kinect in 2013 and Nex Playground relaunched it in 2026.",
+        "card_text": "13",
+        "year": "2026",
+        "market": "",
+        "source": "Our calculation from the dates each company published",
+        "link": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalog-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
+        "source_slug": "",
+        "period": "Freefall Racers"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "The last StarCraft game, Legacy of the Void, came out in 2015 and the next is due in 2030, so this is the gap to release rather than years already elapsed.",
+        "card_text": "15",
+        "year": "2030",
+        "market": "",
+        "source": "Our calculation from the dates each company published",
+        "link": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
+        "source_slug": "",
+        "period": "StarCraft, due 2030"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Capcom calls Onimusha: Way of the Sword, released on 4 September 2026, the first new title in the series in over 20 years.",
+        "card_text": "20",
+        "year": "2026",
+        "market": "",
+        "source": "Our calculation from the dates each company published",
+        "link": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
+        "source_slug": "",
+        "period": "Onimusha"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "Nexon closed Tactical Commanders on 31 December 2005 and the Steam page for ChogaSoft's remaster went live on 7 September 2026.",
+        "card_text": "21",
+        "year": "2026",
+        "market": "",
+        "source": "Our calculation from the dates each company published",
+        "link": "https://www.invenglobal.com/articles/25668/tactical-commanders-r-returns-via-steam-for-real",
+        "source_slug": "",
+        "period": "Tactical Commanders"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "The original Ocarina of Time came out on the Nintendo 64 in 1998 and the Switch 2 remake is dated 5 November 2026.",
+        "card_text": "28",
+        "year": "2026",
+        "market": "",
+        "source": "Our calculation from the dates each company published",
+        "link": "https://www.nintendo.com/jp/nintendo-direct/description/20260908_en-US.html",
+        "source_slug": "",
+        "period": "Ocarina of Time"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Capcom states in a press release of 7 September 2026 that alongside regularly releasing major new titles each year it is focusing on re-activating IPs that have not had a new title launch recently, and is working to further maximize corporate value by leveraging its rich library of content. The plan is set out in an investor communication with a stated financial purpose, not in marketing copy.",
+        "claim": "Capcom set out the plan in an investor release with a stated financial purpose, maximizing corporate value from its library, and placed it beside the major new titles it releases each year. A franchise that has shipped nothing for two decades is being counted as capital that can be put to work, and its owner is the only company that can do so.",
         "card_text": "The back catalog is a line in the strategy, not a nostalgia project",
         "year": "2026",
         "market": "",
@@ -13350,7 +13451,7 @@
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Blizzard is returning StarCraft as an open-world first-person shooter due in 2030, eleven years after the last entry and thirty-two years after the original strategy game. Dan Hay describes a standalone story with a beginning, a middle and an end, and says it is not a seasonal game. The franchise is the asset being revived, not the genre that built it.",
+        "claim": "The asset being revived is the franchise, not the genre that built it. StarCraft returns in 2030 as an open-world first-person shooter, eleven years after the last entry and thirty-two after the original strategy game, and Dan Hay describes a standalone story with a beginning, a middle and an end, not a seasonal game.",
         "card_text": "A revived name can come back as a different kind of game",
         "year": "2026",
         "market": "",
@@ -13383,24 +13484,24 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Ampere Analysis puts spending on remakes and remasters across 2024 and 2025 at about $1.4 billion from 72.4 million players on Xbox, PlayStation and Steam. The same firm reported in the same week that consumers spent twice as much on remakes as on remasters. The combined figure covers two products with different costs and different returns.",
+        "claim": "Ampere Analysis puts spending on remakes and remasters across 2024 and 2025 at over $1.4 billion from 72.4 million players on Xbox, PlayStation and Steam. In the same note it says the average remake drew 2.2 times the spending of the average remaster and costs far more to make. The headline figure adds together two products with different costs and different returns.",
         "card_text": "The market figure counts two different products as one",
         "year": "2025",
         "market": "",
-        "source": "Video Games Chronicle",
-        "link": "https://www.videogameschronicle.com/news/ip-holders-are-sitting-on-a-wealth-of-content-analytics-firm-lists-18-games-ripe-for-remake-or-remaster-success/",
-        "source_slug": "video-games-chronicle"
+        "source": "Ampere Analysis",
+        "link": "https://www.ampereanalysis.com/insight/gamers-spend-twice-as-much-on-remakes-as-remasters",
+        "source_slug": "ampere-analysis"
       },
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Ubisoft canceled the Prince of Persia: Sands of Time remake in January 2026 after years of delay, as one of six games cut for failing a raised quality bar. The same reset cut three original IPs, closed two studios and targeted a further 200 million euros of fixed-cost reduction. A remake can fail the test a new game fails.",
+        "claim": "Ubisoft canceled the Prince of Persia: Sands of Time remake in January 2026 after years of delay, one of six games cut under what it calls more selective portfolio criteria. The same reset cut three original IPs, closed two studios and targeted a further 200 million euros of fixed-cost reduction. A remake can fail the test a new game fails.",
         "card_text": "Reviving an old game is not the safe bet it is sold as",
         "year": "2026",
         "market": "",
-        "source": "Video Games Chronicle",
-        "link": "https://www.videogameschronicle.com/news/ubisoft-details-major-company-reset-6-games-canned-7-delayed-and-2-studios-closed/",
-        "source_slug": "video-games-chronicle"
+        "source": "Ubisoft Entertainment IR",
+        "link": "https://staticctf.ubisoft.com/8aefmxkxpxwl/3aFqB7LIwClyxuXWrQRoVG/039a0058bd9ff27168ff8e76d6704275/Slideshow_vF.pdf",
+        "source_slug": "ubisoft-entertainment-ir"
       },
       {
         "section": "Objections",
@@ -13431,9 +13532,9 @@
         "card_text": "The Ocarina of Time remake reaches players",
         "year": "2026",
         "market": "",
-        "source": "Video Games Chronicle",
-        "link": "https://www.videogameschronicle.com/news/nintendo-shares-the-first-gameplay-and-release-date-for-the-legend-of-zelda-ocarina-of-time-remake/",
-        "source_slug": "video-games-chronicle"
+        "source": "Nintendo Direct",
+        "link": "https://www.nintendo.com/jp/nintendo-direct/description/20260908_en-US.html",
+        "source_slug": ""
       },
       {
         "section": "What to watch",
@@ -13449,19 +13550,19 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "SNK said in April 2026 that it is reigniting and rebooting Metal Slug with a wide range of projects, including new ventures in gaming. It has not named a title, a platform or a date. Watch for the first announced game.",
-        "card_text": "SNK attaches a game to its Metal Slug reboot",
+        "claim": "2027, when SNK ships Metal Slug Ultimate Collection, announced on 9 September 2026 for Switch, Switch 2, PlayStation 5, Xbox Series X/S and Steam. It is nine past games plus a location-test build, so the reboot SNK announced in April 2026 still has no new game of its own attached. Watch for the first one.",
+        "card_text": "SNK attaches a new game to its Metal Slug reboot",
         "year": "2026",
         "market": "",
-        "source": "Gematsu",
-        "link": "https://www.gematsu.com/2026/04/metal-slug-30th-anniversary-website-launched-teases-mission-reboot",
-        "source_slug": "gematsu"
+        "source": "SNK",
+        "link": "https://www.snk-corp.co.jp/us/press/2026/the-ultimate-collection-featuring-all-past-titles-metal-slug-ultimate-collection-set-for-release-includes-nine-titles-from-the-series-history-plus-a-rare-location-test-ve/",
+        "source_slug": ""
       },
       {
         "section": "Definition",
         "kind": "Event",
-        "claim": "Capcom's own formulation for what it is re-activating is IPs that have not had a new title launch recently, and it attaches no number of years to the phrase. Onimusha: Way of the Sword, the game that prompted the statement, is described by Capcom as the first new title in the series in over 20 years.",
-        "card_text": "Dormant",
+        "claim": "IP is intellectual property: a franchise a publisher owns, with the name, characters and world it can make new games from. A dormant one has had no new game for years. Capcom's own formulation is IPs that have not had a new title launch recently, and it attaches no number of years to the phrase. Onimusha: Way of the Sword, the game that prompted the statement, is by Capcom's count the first new title in the series in over 20 years.",
+        "card_text": "What is a dormant IP?",
         "year": "2026",
         "market": "",
         "source": "Capcom IR",
