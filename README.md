@@ -41,9 +41,9 @@ There is no ID column. Rows are identified by name, and row order is export orde
 | [`data/sources.csv`](data/sources.csv) | 923 | Every source in the directory: outlet, institution, dataset, podcast, book, person or community, with what it lets you find out, who owns it, what it costs, which markets it covers and what to watch for. |
 | [`data/sources.json`](data/sources.json) | 923 | The same rows, as JSON. |
 | [`data/markets.json`](data/markets.json) | 10 | Per-market claims and population figures, nested. Every claim carries the source and link it came from; every population figure carries the definition saying who was counted. |
-| [`data/trends.csv`](data/trends.csv) | 37 | The trends currently moving the industry, with stage, category and the markets each lands in. |
-| [`data/trend-reading.csv`](data/trend-reading.csv) | 110 | The further reading attached to each trend. One row per link. |
-| [`data/trends.json`](data/trends.json) | 37 | Trends with their reading attached. |
+| [`data/trends.csv`](data/trends.csv) | 38 | The trends currently moving the industry, with stage, category and the markets each lands in. |
+| [`data/trend-reading.csv`](data/trend-reading.csv) | 113 | The further reading attached to each trend. One row per link. |
+| [`data/trends.json`](data/trends.json) | 38 | Trends with their reading attached. |
 | [`data/platforms.csv`](data/platforms.csv) | 35 | Storefronts, consoles, livestreaming and UGC platforms, with who owns each. |
 | [`data/genres.csv`](data/genres.csv) | 30 | Genre definitions, local-language terms and subgenres. |
 | [`data/example-games.csv`](data/example-games.csv) | 90 | The games named as examples of each genre. |

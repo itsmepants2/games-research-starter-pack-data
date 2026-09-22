@@ -2682,6 +2682,28 @@
         "source_slug": "the-national"
       },
       {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Nothing is compelled yet. The Commission's draft KIDS Act of 17 September 2026 would require games to be safe by design, restrict contact between minors and other users, and oblige the largest platforms, those with 45 million or more monthly users in the EU, to submit a compliance plan verified by independent auditors at their own expense before their services come into contact with children. Fines can reach 6% of worldwide annual turnover. It is a proposal.",
+        "card_text": "Proposed: safety by design, with an audit before children are reached",
+        "year": "2026",
+        "market": "EU",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
+        "source_slug": ""
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Nothing is compelled yet. The Commission's draft KIDS Act of 17 September 2026 would require app stores to age-rate every app, including videogames, with a published methodology, to refuse children access to or purchase of apps inappropriate for their age, and to carry the EU age verification app. It is a duty on the store rather than on the developer, and it is a proposal.",
+        "card_text": "Proposed: a duty to rate every game and carry the age-check app",
+        "year": "2026",
+        "market": "EU",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
+        "source_slug": ""
+      },
+      {
         "section": "Timeline",
         "kind": "Event",
         "claim": "A criminal court in Adana orders access to Roblox blocked across Turkey on 7 August 2024. The justice minister says the platform carries content that could lead to the abuse of children.",
@@ -2801,6 +2823,17 @@
         "source": "PC Gamer, Shaun Prescott (9 September 2026)",
         "link": "https://www.pcgamer.com/gaming-industry/steam-now-requires-australian-users-to-have-a-credit-card-to-purchase-r18-games-and-no-a-simple-bank-debit-card-wont-work/",
         "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Commission adopts a draft KIDS Act on 17 September 2026. Its age thresholds apply to social networking and video-sharing services, but its safety-by-design duties cover games. Nobody may message a child without pre-approval, children do not appear in contact suggestions, cannot be added to groups without agreement, can block anyone anonymously, and may not livestream by default. Enforcement builds on the Digital Services Act, with fines up to 6% of total worldwide annual turnover. It is a proposal and has to pass the Parliament and the member states.",
+        "card_text": "The European Commission adopts a draft law on contact with minors online",
+        "year": "2026",
+        "market": "",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
+        "source_slug": ""
       },
       {
         "section": "Consequences",
@@ -3386,6 +3419,17 @@
         "source_slug": "video-games-chronicle"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Under the draft KIDS Act adopted on 17 September 2026, app stores must age-rate every app, including videogames, with a published methodology, must not let children access or buy apps inappropriate for their age, and must carry the EU age verification app. It would place a legal duty on the stores rather than on the rating bodies, alongside the existing PEGI and USK systems. It is a proposal.",
+        "card_text": "The European Commission proposes that app stores age-rate every game",
+        "year": "2026",
+        "market": "",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
+        "source_slug": ""
+      },
+      {
         "section": "Status",
         "kind": "Event",
         "claim": "Loot boxes are banned in games that under-18s can access, with fines of up to 10% of a company's Brazilian revenue.",
@@ -3575,12 +3619,12 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "The last quarter of 2026, when the European Commission's work program schedules its proposal for a Digital Fairness Act. A committee of the European Parliament asked in October 2025 for it to cover loot boxes. The Commission has not said whether it will.",
-        "card_text": "EU Digital Fairness Act",
+        "claim": "The last quarter of 2026, when the European Commission's work program schedules its proposal for a Digital Fairness Act. A committee of the European Parliament asked in October 2025 for it to cover loot boxes. The Commission has not said whether it will. The separate KIDS Act it adopted on 17 September 2026 requires games to be safe by design with no spending traps. Whether that reaches paid random items is unsettled.",
+        "card_text": "Two EU instruments, and paid random items sit between them",
         "year": "2026",
         "market": "",
-        "source": "European Commission, Work Programme 2026 (21 October 2025)",
-        "link": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52025DC0870",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
         "source_slug": ""
       }
     ]
@@ -3719,8 +3763,8 @@
         "card_text": "Proposed: time-management tools",
         "year": "2026",
         "market": "EU",
-        "source": "Osborne Clarke (17 September 2026)",
-        "link": "https://www.osborneclarke.com/insights/eu-kids-act-commission-announces-new-restrictions-childrens-access-social-media-gaming",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
         "source_slug": ""
       },
       {
@@ -3840,8 +3884,8 @@
         "card_text": "The European Commission proposes time tools for games",
         "year": "2026",
         "market": "",
-        "source": "Osborne Clarke (17 September 2026)",
-        "link": "https://www.osborneclarke.com/insights/eu-kids-act-commission-announces-new-restrictions-childrens-access-social-media-gaming",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
         "source_slug": ""
       },
       {
@@ -4318,12 +4362,12 @@
       {
         "section": "Status",
         "kind": "Event",
-        "claim": "The Commission's 2025 guidelines under the Digital Services Act call for age verification where there is a hard minimum age and age estimation elsewhere, by methods that are accurate and do not intrude. The guidelines are voluntary.",
-        "card_text": "Voluntary guidelines",
-        "year": "2025",
+        "claim": "The Commission's 2025 guidelines under the Digital Services Act call for age verification where there is a hard minimum age and age estimation elsewhere, by methods that are accurate and do not intrude. The guidelines are voluntary. On 17 September 2026 the Commission adopted a draft KIDS Act, a regulation that would require certified age verification independent of the platform, a free option in every member state, and zero knowledge proof technology. It is a proposal and has to pass the Parliament and the member states.",
+        "card_text": "Voluntary guidelines, and a proposal for stricter limits",
+        "year": "2026",
         "market": "EU",
-        "source": "European Commission (14 July 2025)",
-        "link": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-protection-minors",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
         "source_slug": ""
       },
       {
@@ -4448,6 +4492,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Commission adopts a draft KIDS Act on 17 September 2026. Age is to be verified through certified solutions independent of the platforms, including a free EU age verification app and, in time, the European Digital Identity Wallet. The Commission states that platforms do not check identity documents and do not learn who the user is, and that the law requires zero knowledge proof technology that cannot identify, locate, track or profile anyone. Every member state must offer at least one free way to prove age, including for people without digital identification.",
+        "card_text": "The European Commission proposes age checks that are meant not to identify anyone",
+        "year": "2026",
+        "market": "",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
+        "source_slug": ""
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Stacy Feuer, who runs the privacy program at the US games ratings board, reads the Genshin Impact case as a warning to every studio. Regulators look at a game's art style and promotions, not at what its terms say, so a game that appeals to children is covered whether it wants to be or not.",
@@ -4523,6 +4578,17 @@
         "source": "TechCrunch, Amanda Silberling (26 August 2026)",
         "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
         "source_slug": "techcrunch"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "This page's argument is that age assurance means collecting more data from everyone. The KIDS Act is designed against exactly that: verification is handled by certified services independent of the platform, which return only whether the user is above or below an age. If zero knowledge proofs work as described, the trade this page describes is not a necessary one. Nothing has yet been deployed at scale, and the page's existing evidence of leaked identity documents came from systems built the older way.",
+        "card_text": "The EU's answer is that the check need not collect anything",
+        "year": "2026",
+        "market": "",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
+        "source_slug": ""
       },
       {
         "section": "What to watch",
@@ -6183,6 +6249,7 @@
     "stage": "Dominant",
     "category": "Technology",
     "markets": [
+      "CN",
       "EU",
       "Global",
       "JP"
@@ -6430,6 +6497,28 @@
         "source_slug": "gamesindustry-biz"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The game working committee of CADPA, China's audiovisual and digital publishing association, reports that more than eight in ten major Chinese game companies use generative AI in working pipelines, an adoption rate of 86%, across planning, art, coding and quality assurance. It lands in the same week as CESA's 85.8% for Japan. The committee attributes the rate to a mobile-centred market seeking to shorten development cycles and cut costs.",
+        "card_text": "China industry body reports the same adoption rate as Japan",
+        "year": "2026",
+        "market": "",
+        "source": "Kyunghyang Games, Yoon A-reum (19 September 2026)",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=308296",
+        "source_slug": "kyunghyang-games"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "A court in China awards miHoYo about $112,000 after an AI voice service reproduced the voices of Genshin Impact characters. It is about a third party's use of a studio's characters rather than a studio's own use of generative AI, and it is the first court decision on this page.",
+        "card_text": "A Chinese court awards damages over AI voice clones of game characters",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer, Bryant Francis (18 September 2026)",
+        "link": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+        "source_slug": "game-developer"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Haley MacLean explains why publishers ban it. AI-generated assets leave a studio open to claims that it copied someone's work, and unable to claim ownership of its own game's art. 'I think we're going to see lawsuits of those types in the coming years,' she says.",
@@ -6536,6 +6625,7 @@
     "stage": "Emerging",
     "category": "Technology",
     "markets": [
+      "EU",
       "Global",
       "KR",
       "US"
@@ -6713,6 +6803,17 @@
         "source": "Video Games Chronicle, Chris Scullion (17 July 2026)",
         "link": "https://www.videogameschronicle.com/news/fortnite-has-started-adding-ai-voices-to-its-npcs-for-an-upcoming-conversations-feature/",
         "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Commission's draft KIDS Act of 17 September 2026 covers AI companions and chatbots reachable by minors. They may not use designs that simulate human relationships in ways likely to create emotional dependency, may not carry a child's earlier conversations into later ones by default, must be tested for risks to children before launch and monitored afterwards, and are open to under-13s only through parental control tools. A chatbot built into a game may not switch on automatically, may not be pushed at children, and must be easy to turn off. Enforcement runs through the AI Act. It is a proposal.",
+        "card_text": "The European Commission writes rules for talking characters inside games",
+        "year": "2026",
+        "market": "",
+        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
+        "source_slug": ""
       },
       {
         "section": "Consequences",
@@ -7228,13 +7329,13 @@
       {
         "section": "Status",
         "kind": "Event",
-        "claim": "Nothing is compelled yet. The competition regulator gave Apple and Google a special legal status in October 2025 that lets it set rules for them, and in June 2026 it consulted on forcing both to let apps point users to outside payment. A decision is due later in 2026.",
-        "card_text": "Still consulting",
+        "claim": "The regulator compels nothing yet. It gave Apple and Google a special legal status in October 2025 that lets it set rules for them, and in June 2026 it consulted on forcing both to let apps point users to outside payment, with a decision due later in 2026. The courts moved first: in September 2026 a tribunal approved a £260 million settlement between Google and UK app developers, £160 million of it for developers. A consumer claim goes to trial on 5 October 2026.",
+        "card_text": "Still consulting, but paying out",
         "year": "2026",
         "market": "UK",
-        "source": "mobilegamer.biz (30 June 2026)",
-        "link": "https://mobilegamer.biz/uk-competition-authority-proposals-could-force-apple-and-google-to-remove-steering-restrictions/",
-        "source_slug": "mobilegamer-biz"
+        "source": "PocketGamer.biz, Isa Muhammad (16 September 2026)",
+        "link": "https://www.pocketgamer.biz/google-approves-260m-settlement-with-uk-app-developers/",
+        "source_slug": "pocketgamer-biz"
       },
       {
         "section": "Status",
@@ -7369,6 +7470,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Competition Appeal Tribunal approves a settlement of £260 million between Google and UK app developers over Google Play commissions, on a collective claim brought by Professor Barry Rodger. £160 million goes to eligible developers and £100 million to litigation funding, insurance and legal costs. Google makes no admission of liability or wrongdoing. Liz Coll's separate consumer claim proceeds to trial on 5 October 2026.",
+        "card_text": "A UK tribunal approves Google's settlement with app developers",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Isa Muhammad (16 September 2026)",
+        "link": "https://www.pocketgamer.biz/google-approves-260m-settlement-with-uk-app-developers/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Neil Long of mobilegamer.biz works out that Google's new terms cut what most developers pay by about five percentage points. He argues the complexity is deliberate: the harder the new options are to use, the fewer developers will bother.",
@@ -7455,6 +7567,17 @@
         "source": "Apple Newsroom (18 August 2026)",
         "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
         "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "5 October 2026, when Liz Coll's collective claim on behalf of UK Google Play consumers goes to trial. The developers' claim settled for £260 million in September without any admission of liability. This one asks the same tribunal whether players overpaid too.",
+        "card_text": "A consumer claim against Google Play goes to trial",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Isa Muhammad (16 September 2026)",
+        "link": "https://www.pocketgamer.biz/google-approves-260m-settlement-with-uk-app-developers/",
+        "source_slug": "pocketgamer-biz"
       },
       {
         "section": "What to watch",
@@ -9047,6 +9170,17 @@
         "source_slug": "automaton"
       },
       {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "No rule requires a publisher to redeem or carry over virtual currency when it closes a game's servers. A class action against Take-Two over NBA 2K, filed in California in 2023 and still unresolved, argues that doing neither is theft from the player.",
+        "card_text": "A claim that a closed server takes the currency with it",
+        "year": "2026",
+        "market": "US",
+        "source": "Game File, Stephen Totilo (18 September 2026)",
+        "link": "https://www.gamefile.news/p/nba-2k-theft-lawsuit-execs-speak",
+        "source_slug": "game-file"
+      },
+      {
         "section": "Timeline",
         "kind": "Event",
         "claim": "From October 2000, Japan's legal deposit system, under which publishers must give the National Diet Library a copy of what they publish, covers video games on discs and cartridges. By 2025 it holds more than 9,600. The library says games sold as a download key, with no game on the cartridge, fall outside the scheme.",
@@ -9067,6 +9201,17 @@
         "source": "Video Game History Foundation, Kelsey Lewin (10 July 2023)",
         "link": "https://gamehistory.org/87percent/",
         "source_slug": "video-game-history-foundation"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "A class action filed in California by a minor and his mother alleges that Take-Two takes from players when it closes servers for older NBA 2K games, usually about two and a half years after release, stranding unspent virtual currency bought with real money. Take-Two does not reimburse the balance or let it move to a newer edition. Documents unsealed in September 2026 show the publisher tracks each player's sessions, modes, hours and spending day by day.",
+        "card_text": "A minor sues Take-Two over virtual currency lost when NBA 2K servers close",
+        "year": "2023",
+        "market": "",
+        "source": "Game File, Stephen Totilo (18 September 2026)",
+        "link": "https://www.gamefile.news/p/nba-2k-theft-lawsuit-execs-speak",
+        "source_slug": "game-file"
       },
       {
         "section": "Timeline",
@@ -9258,7 +9403,7 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "The last quarter of 2026, when the European Commission is due to propose the Digital Fairness Act, a consumer law for digital products. The campaign wants Parliament to amend it to cover games that are switched off. The Commission has also promised to start its code of conduct talks by the end of the year.",
+        "claim": "The last quarter of 2026, when the European Commission is due to propose the Digital Fairness Act, a consumer law for digital products. The campaign wants Parliament to amend it to cover games that are switched off. The Commission has also promised to start its code of conduct talks by the end of the year. The separate KIDS Act the Commission adopted on 17 September 2026 is about minors, not about digital ownership.",
         "card_text": "The EU's Digital Fairness Act",
         "year": "2026",
         "market": "",
@@ -9498,6 +9643,17 @@
         "source": "Game Developer, Chris Kerr (10 September 2026)",
         "link": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
         "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "STJV's branch at Quantic Dream signs an agreement on 27 August 2026 on a redundancy plan aimed at a quarter of the studio's staff, and publishes the terms on 14 September. The supra-legal payment rises from the 5,000 euros management first offered on a forced departure to 35,000 euros, job-search support from 1,000 to 5,000 euros in metropolitan France, and relocation from 1,500 to 5,000 euros. The union says it can neither celebrate nor call it a victory.",
+        "card_text": "A French union multiplies the payout on a redundancy plan at Quantic Dream",
+        "year": "2026",
+        "market": "",
+        "source": "STJV, Un accord trouve dans la douleur pour le PSE a Quantic Dream (14 September 2026)",
+        "link": "https://www.stjv.fr/2026/09/un-accord-trouve-dans-la-douleur-pour-le-pse-a-quantic-dream/",
+        "source_slug": "stjv"
       },
       {
         "section": "Consequences",
@@ -12967,6 +13123,350 @@
         "source": "Game Developers Conference",
         "link": "https://gdconf.com/",
         "source_slug": ""
+      }
+    ]
+  },
+  {
+    "slug": "dormant-ip-revival",
+    "name": "Publishers are reviving dormant franchises instead of starting new ones",
+    "stage": "Emerging",
+    "category": "Money & business model",
+    "markets": [
+      "Global",
+      "JP",
+      "KR",
+      "US"
+    ],
+    "what_it_is": "Publishers are treating unused franchises as a balance-sheet asset. Capcom said in September 2026 that it is focusing on re-activating IPs it has not launched recently, after Onimusha: Way of the Sword sold a million copies on its first day. Blizzard is bringing StarCraft back as a shooter for 2030. Nintendo has dated a remake of a 1998 Zelda. Nexon has licensed its catalog to outside developers, and Nex Playground says every major publisher has asked about old Kinect and Wii games.",
+    "why_it_matters": "Making a new game costs more and fails more often, so publishers are going back to franchises they already own and left alone for years. For players the schedule fills with familiar names, and a studio pitching something new has a harder sell.",
+    "further_reading": [
+      {
+        "source": "Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword breakout launch",
+        "link": "https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "\"Every major publisher has approached us to review their old Kinect and Wii catalogue\" - Nex Playground is spoilt for choice as its international rollout continues",
+        "link": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "New StarCraft title to launch in 2030, will be an open-world FPS",
+        "link": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
+        "type": "Reporting",
+        "format": ""
+      }
+    ],
+    "as_of": "Sep 2026",
+    "where_to_follow": "GamesIndustry.biz, Video Games Chronicle, Gematsu, Inven Global, publisher investor days",
+    "status_label": "Emerging",
+    "measure_label": "",
+    "row_label": "",
+    "series_label": "",
+    "series_note": "",
+    "series_type": "",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "claims": [
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Capcom tells investors that unlocking value from its older intellectual property is part of its long-term plans. It uses almost identical language in a December 2024 investor release tied to the reveal of Onimusha: Way of the Sword, and again in September 2026. The back catalog is described as an asset the company has not yet spent.",
+        "card_text": "Capcom tells investors its unused franchises are part of the long-term plan",
+        "year": "2019",
+        "market": "",
+        "source": "GamesIndustry.biz",
+        "link": "https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Konami restructures its game development divisions and moves to return its largest brands to premium games, according to publishing sources who speak to VGC anonymously. Its last new Metal Gear was 2018 and its last mainline Castlevania 2014. A Castlevania reimagining is internal, a Metal Gear Solid project goes to the external studio Virtuos, and several Silent Hill games go to outside developers.",
+        "card_text": "Publishing sources tell VGC that Konami is bringing back three dormant series",
+        "year": "2021",
+        "market": "",
+        "source": "Video Games Chronicle",
+        "link": "https://www.videogameschronicle.com/news/konami-is-set-to-revive-metal-gear-castlevania-and-silent-hill/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The analytics firm Ampere Analysis reports that remakes and remasters released across 2024 and 2025 drew 72.4 million players on Xbox, PlayStation and Steam, who spent about $1.4 billion on premium games and microtransactions. Senior analyst Katie Holt says IP holders are sitting on a wealth of content ripe for remakes and remasters, and names eighteen candidates.",
+        "card_text": "Ampere Analysis measures what two years of remakes and remasters earned",
+        "year": "2025",
+        "market": "",
+        "source": "Video Games Chronicle",
+        "link": "https://www.videogameschronicle.com/news/ip-holders-are-sitting-on-a-wealth-of-content-analytics-firm-lists-18-games-ripe-for-remake-or-remaster-success/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Nexon unveils Nexon Replay on 18 December 2025, an open licensing project that lets outside developers make games from its intellectual property. Tactical Commanders, an online strategy game that launched on 1 January 2001 and shut down on 31 December 2005, is in the published lineup.",
+        "card_text": "Nexon opens its back catalog to anyone who wants to build on it",
+        "year": "2025",
+        "market": "",
+        "source": "Inven Global",
+        "link": "https://www.invenglobal.com/articles/25668/tactical-commanders-r-returns-via-steam-for-real",
+        "source_slug": "inven-global"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Ubisoft cancels six games in a January 2026 reset, among them the Prince of Persia: Sands of Time remake, a mobile title and four unannounced games of which three are original IP. It also delays seven games, closes its Halifax and Stockholm studios and targets a further 200 million euros of fixed-cost reduction. The company says the canceled games did not meet its raised quality expectations.",
+        "card_text": "Ubisoft cancels a remake it had already delayed for years",
+        "year": "2026",
+        "market": "",
+        "source": "Video Games Chronicle",
+        "link": "https://www.videogameschronicle.com/news/ubisoft-details-major-company-reset-6-games-canned-7-delayed-and-2-studios-closed/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Konami announces that as of 31 January 2026 the Silent Hill 2 remake has sold five million copies worldwide, counting digital and physical sales, store downloads and subscription services across PC, PlayStation 5 and Xbox Series X/S. It marks the figure with a half-price sale on the PlayStation Store. VGC describes it as a strong return for a series that had lain dormant.",
+        "card_text": "Konami reports five million sales for the Silent Hill 2 remake",
+        "year": "2026",
+        "market": "",
+        "source": "Video Games Chronicle",
+        "link": "https://www.videogameschronicle.com/news/konami-marks-5-million-sales-of-silent-hill-2-remake-by-selling-it-and-silent-hill-f-for-half-price-on-ps5/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "SNK launches a thirtieth anniversary website for Metal Slug and says it is reigniting and rebooting the series with a wide range of projects, including new ventures in gaming. The series reached arcades in 1996. No title, platform or date is attached to the statement.",
+        "card_text": "SNK says it is rebooting Metal Slug in the series' thirtieth year",
+        "year": "2026",
+        "market": "",
+        "source": "Gematsu",
+        "link": "https://www.gematsu.com/2026/04/metal-slug-30th-anniversary-website-launched-teases-mission-reboot",
+        "source_slug": "gematsu"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Steam page for Tactical Commanders R goes live on 7 September 2026. ChogaSoft, an outside developer working under the Nexon Replay license, announced the remaster in May 2026. The original ran for about six years before Nexon closed it at the end of 2005, and the remaster keeps its territorial control and faction warfare systems.",
+        "card_text": "ChogaSoft puts a Nexon game that closed in 2005 back on Steam",
+        "year": "2026",
+        "market": "",
+        "source": "Inven Global",
+        "link": "https://www.invenglobal.com/articles/25668/tactical-commanders-r-returns-via-steam-for-real",
+        "source_slug": "inven-global"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Onimusha: Way of the Sword, described by Capcom as the first new title in the series in over 20 years, sells more than a million units on its launch day of 4 September 2026 and takes cumulative series sales past ten million. Capcom says it is focusing on re-activating IPs that have not had a new title launch recently, and is working to further maximize corporate value by leveraging its rich library of content.",
+        "card_text": "Capcom says it will focus on re-activating the franchises it left alone",
+        "year": "2026",
+        "market": "",
+        "source": "Capcom IR",
+        "link": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
+        "source_slug": "capcom-ir"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Nintendo shows the first gameplay from its remake of The Legend of Zelda: Ocarina of Time on 8 September 2026 and dates it to 5 November on Switch 2. The remake adds a jump button, a Hyrule Castle Town that can be fully explored and a Threads of Time record of what the player has done, and keeps the original loading screens between areas.",
+        "card_text": "Nintendo dates a remake of a 1998 Zelda for November",
+        "year": "2026",
+        "market": "",
+        "source": "Video Games Chronicle",
+        "link": "https://www.videogameschronicle.com/news/nintendo-shares-the-first-gameplay-and-release-date-for-the-legend-of-zelda-ocarina-of-time-remake/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Blizzard announces at BlizzCon 2026 that the next StarCraft is an open-world first-person shooter due in 2030, the franchise's first new title since StarCraft 2: Legacy of the Void in 2015. General manager and vice president Dan Hay leads it. Blizzard has twice tried and canceled a StarCraft shooter, Ghost in 2006 and a project codenamed Ares in 2019.",
+        "card_text": "Blizzard brings StarCraft back as a shooter, for 2030",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz",
+        "link": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Nex Team president Thomas Kang says every major publisher has approached the company to review its old Kinect catalog and Wii catalog and to consider its IPs. The micro-console has relaunched Freefall Racers, a 2013 Kinect title, which chief executive David Lee says reached 150,000 families in its first month, and has signed Sega and Bandai Namco for Sonic and Pac-Man games.",
+        "card_text": "Nex Playground says every major publisher has asked it about old motion-control catalogs",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz",
+        "link": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalog-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Capcom announced on 7 September 2026 that Onimusha: Way of the Sword sold more than a million units on its first day and that cumulative sales of the series have passed ten million. In the same release it says it is focusing on re-activating IPs that have not had a new title launch recently, and is working to further maximize corporate value by leveraging its rich library of content.",
+        "card_text": "Capcom: a stated plan, not an experiment",
+        "year": "2026",
+        "market": "JP",
+        "source": "Capcom IR",
+        "link": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
+        "source_slug": "capcom-ir"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "The next StarCraft is an open-world first-person shooter due in 2030, the first new entry since 2015. Blizzard canceled two earlier attempts at a StarCraft shooter, Ghost in 2006 and Ares in 2019. Dan Hay says it is a standalone story with a definitive ending and not a seasonal game.",
+        "card_text": "Blizzard: the name returns, the genre does not",
+        "year": "2026",
+        "market": "US",
+        "source": "GamesIndustry.biz",
+        "link": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Nexon Replay, unveiled on 18 December 2025, lets outside developers build games from Nexon's intellectual property. ChogaSoft used it to remaster Tactical Commanders, whose servers closed on 31 December 2005, and the Steam page for Tactical Commanders R went live on 7 September 2026.",
+        "card_text": "Nexon: the catalog is licensed out rather than revived in house",
+        "year": "2026",
+        "market": "KR",
+        "source": "Inven Global",
+        "link": "https://www.invenglobal.com/articles/25668/tactical-commanders-r-returns-via-steam-for-real",
+        "source_slug": "inven-global"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Capcom states in a press release of 7 September 2026 that alongside regularly releasing major new titles each year it is focusing on re-activating IPs that have not had a new title launch recently, and is working to further maximize corporate value by leveraging its rich library of content. The plan is set out in an investor communication with a stated financial purpose, not in marketing copy.",
+        "card_text": "The back catalog is a line in the strategy, not a nostalgia project",
+        "year": "2026",
+        "market": "",
+        "source": "Capcom IR",
+        "link": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
+        "source_slug": "capcom-ir"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Blizzard is returning StarCraft as an open-world first-person shooter due in 2030, eleven years after the last entry and thirty-two years after the original strategy game. Dan Hay describes a standalone story with a beginning, a middle and an end, and says it is not a seasonal game. The franchise is the asset being revived, not the genre that built it.",
+        "card_text": "A revived name can come back as a different kind of game",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz",
+        "link": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Nexon Replay lets outside developers build games from Nexon's intellectual property, and ChogaSoft used it to bring back a strategy game whose servers closed in 2005. The publisher that owns an old game no longer has to be the company that revives it, or to carry the cost of doing so.",
+        "card_text": "Old catalogs become inventory that other companies can license",
+        "year": "2026",
+        "market": "",
+        "source": "Inven Global",
+        "link": "https://www.invenglobal.com/articles/25668/tactical-commanders-r-returns-via-steam-for-real",
+        "source_slug": "inven-global"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Nex Playground relaunched Freefall Racers, a 2013 Kinect title, and reached 150,000 families in its first month. Sega and Bandai Namco have signed Sonic and Pac-Man games to the platform. A console with no library of its own can build one from motion-control games the original platforms left behind.",
+        "card_text": "A hardware maker can assemble a catalog out of other companies' abandoned games",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz",
+        "link": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalog-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Ampere Analysis puts spending on remakes and remasters across 2024 and 2025 at about $1.4 billion from 72.4 million players on Xbox, PlayStation and Steam. The same firm reported in the same week that consumers spent twice as much on remakes as on remasters. The combined figure covers two products with different costs and different returns.",
+        "card_text": "The market figure counts two different products as one",
+        "year": "2025",
+        "market": "",
+        "source": "Video Games Chronicle",
+        "link": "https://www.videogameschronicle.com/news/ip-holders-are-sitting-on-a-wealth-of-content-analytics-firm-lists-18-games-ripe-for-remake-or-remaster-success/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Ubisoft canceled the Prince of Persia: Sands of Time remake in January 2026 after years of delay, as one of six games cut for failing a raised quality bar. The same reset cut three original IPs, closed two studios and targeted a further 200 million euros of fixed-cost reduction. A remake can fail the test a new game fails.",
+        "card_text": "Reviving an old game is not the safe bet it is sold as",
+        "year": "2026",
+        "market": "",
+        "source": "Video Games Chronicle",
+        "link": "https://www.videogameschronicle.com/news/ubisoft-details-major-company-reset-6-games-canned-7-delayed-and-2-studios-closed/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "SNK chief publishing officer Ozan Kocoglu, speaking about his own company, says SNK needs a fresh perspective on how to keep growing by bringing new things, staying innovative, and breaking from the legacy of what it has been doing. SNK is the publisher behind the Metal Slug reboot and the new VS Studio under Katsuhiro Harada.",
+        "card_text": "One publisher reviving its catalog says growth comes from breaking with it",
+        "year": "2026",
+        "market": "",
+        "source": "Video Games Chronicle",
+        "link": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "The claim that every major publisher has approached a company about its old Kinect and Wii catalogs comes from Thomas Kang, president of the company selling the console those games would run on. No publisher has confirmed it. The deals named in the same interview number two, with Sega and with Bandai Namco.",
+        "card_text": "The broadest claim on this page comes from the party that needs it to be true",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz",
+        "link": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalog-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "5 November 2026, when Nintendo releases its remake of a 1998 Zelda on Switch 2. Nintendo has said the remake keeps the original's structure, including the loading screens between areas. It is this year's largest test of whether a faithful rebuild of a very old game sells like a new one from the same publisher.",
+        "card_text": "The Ocarina of Time remake reaches players",
+        "year": "2026",
+        "market": "",
+        "source": "Video Games Chronicle",
+        "link": "https://www.videogameschronicle.com/news/nintendo-shares-the-first-gameplay-and-release-date-for-the-legend-of-zelda-ocarina-of-time-remake/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Later in 2026, when the Nex Playground micro-console launches in Germany at 319 euros. The company says every major publisher has approached it about old Kinect and Wii catalogs, and a third market is the first test of whether relicensed motion-control games travel beyond the United States and the United Kingdom.",
+        "card_text": "Nex Playground reaches a third market",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz",
+        "link": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalog-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "SNK said in April 2026 that it is reigniting and rebooting Metal Slug with a wide range of projects, including new ventures in gaming. It has not named a title, a platform or a date. Watch for the first announced game.",
+        "card_text": "SNK attaches a game to its Metal Slug reboot",
+        "year": "2026",
+        "market": "",
+        "source": "Gematsu",
+        "link": "https://www.gematsu.com/2026/04/metal-slug-30th-anniversary-website-launched-teases-mission-reboot",
+        "source_slug": "gematsu"
+      },
+      {
+        "section": "Definition",
+        "kind": "Event",
+        "claim": "Capcom's own formulation for what it is re-activating is IPs that have not had a new title launch recently, and it attaches no number of years to the phrase. Onimusha: Way of the Sword, the game that prompted the statement, is described by Capcom as the first new title in the series in over 20 years.",
+        "card_text": "Dormant",
+        "year": "2026",
+        "market": "",
+        "source": "Capcom IR",
+        "link": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
+        "source_slug": "capcom-ir"
       }
     ]
   }

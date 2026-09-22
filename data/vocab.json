@@ -213,12 +213,12 @@
   },
   "trend_stage": {
     "Dominant": 15,
+    "Emerging": 10,
     "Perennial": 10,
-    "Emerging": 9,
     "Receding": 3
   },
   "trend_category": {
-    "Money & business model": 9,
+    "Money & business model": 10,
     "Regulation, safety & age": 7,
     "Platform & distribution": 7,
     "Culture & audience": 7,
