@@ -10,16 +10,16 @@ medium,,Book or paper,41
 medium,,Company disclosure,35
 medium,,Report or document,34
 medium,,Newsletter,26
-medium,,Research firm,15
+medium,,Research firm,16
 medium,,Link list,7
 group,,Press,347
 group,,Media,152
 group,,Institutions,144
-group,,Data,116
+group,,Data,117
 group,,Communities,95
 group,,People,69
 markets,,US,168
-markets,,Global,146
+markets,,Global,147
 markets,,JP,137
 markets,,KR,86
 markets,,Not market specific,63
@@ -46,7 +46,7 @@ markets,,LATAM,4
 markets,,Asia,2
 markets,,BE,1
 market_kind,profiled,US,168
-market_kind,scope,Global,146
+market_kind,scope,Global,147
 market_kind,profiled,JP,137
 market_kind,profiled,KR,86
 market_kind,scope,Not market specific,63
@@ -72,7 +72,7 @@ market_kind,tagged,EU,7
 market_kind,tagged,LATAM,4
 market_kind,tagged,Asia,2
 market_kind,tagged,BE,1
-language,,English,528
+language,,English,529
 language,,Japanese,117
 language,,Korean,75
 language,,German,51
@@ -101,7 +101,7 @@ format,Data,Corporate IR,30
 format,Data,Creator tracking,21
 format,Data,Industry report,15
 format,Data,Analytics platform,14
-format,Data,Market research firm,9
+format,Data,Market research firm,10
 format,Data,Genre taxonomy,6
 format,Data,Adjacent research body,6
 format,Data,Database,5
@@ -182,7 +182,7 @@ format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
 cost,,Free,424
 cost,,Paid,54
-cost,,Freemium,48
+cost,,Freemium,49
 cost,,Unknown,7
 trend_stage,,Dominant,15
 trend_stage,,Emerging,10
@@ -194,18 +194,18 @@ trend_category,,Platform & distribution,7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,4
 trend_category,,Technology,3
-coverage,sources,slug,923
-coverage,sources,name,923
-coverage,sources,group,923
-coverage,sources,medium,923
-coverage,sources,format,923
-coverage,sources,what_it_lets_you_find_out,923
-coverage,sources,markets,923
-coverage,sources,language,923
-coverage,sources,cost,533
-coverage,sources,link,923
+coverage,sources,slug,924
+coverage,sources,name,924
+coverage,sources,group,924
+coverage,sources,medium,924
+coverage,sources,format,924
+coverage,sources,what_it_lets_you_find_out,924
+coverage,sources,markets,924
+coverage,sources,language,924
+coverage,sources,cost,534
+coverage,sources,link,924
 coverage,sources,extra_links,0
-coverage,sources,owner,502
+coverage,sources,owner,503
 coverage,sources,ownership_note,122
 coverage,sources,beat,69
 coverage,sources,where_they_post,69

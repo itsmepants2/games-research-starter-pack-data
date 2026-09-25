@@ -12,20 +12,20 @@
     "Company disclosure": 35,
     "Report or document": 34,
     "Newsletter": 26,
-    "Research firm": 15,
+    "Research firm": 16,
     "Link list": 7
   },
   "group": {
     "Press": 347,
     "Media": 152,
     "Institutions": 144,
-    "Data": 116,
+    "Data": 117,
     "Communities": 95,
     "People": 69
   },
   "markets": {
     "US": 168,
-    "Global": 146,
+    "Global": 147,
     "JP": 137,
     "KR": 86,
     "Not market specific": 63,
@@ -82,7 +82,7 @@
     "BE": "tagged"
   },
   "language": {
-    "English": 528,
+    "English": 529,
     "Japanese": 117,
     "Korean": 75,
     "German": 51,
@@ -114,7 +114,7 @@
       "Creator tracking": 21,
       "Industry report": 15,
       "Analytics platform": 14,
-      "Market research firm": 9,
+      "Market research firm": 10,
       "Genre taxonomy": 6,
       "Adjacent research body": 6,
       "Database": 5,
@@ -208,7 +208,7 @@
   "cost": {
     "Free": 424,
     "Paid": 54,
-    "Freemium": 48,
+    "Freemium": 49,
     "Unknown": 7
   },
   "trend_stage": {
@@ -227,18 +227,18 @@
   },
   "coverage": {
     "sources": {
-      "slug": 923,
-      "name": 923,
-      "group": 923,
-      "medium": 923,
-      "format": 923,
-      "what_it_lets_you_find_out": 923,
-      "markets": 923,
-      "language": 923,
-      "cost": 533,
-      "link": 923,
+      "slug": 924,
+      "name": 924,
+      "group": 924,
+      "medium": 924,
+      "format": 924,
+      "what_it_lets_you_find_out": 924,
+      "markets": 924,
+      "language": 924,
+      "cost": 534,
+      "link": 924,
       "extra_links": 0,
-      "owner": 502,
+      "owner": 503,
       "ownership_note": 122,
       "beat": 69,
       "where_they_post": 69,

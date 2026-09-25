@@ -1950,6 +1950,30 @@
     "audience": []
   },
   {
+    "slug": "critical-compass-by-gyld",
+    "name": "Critical Compass by GYLD",
+    "group": "Data",
+    "medium": "Research firm",
+    "format": "Market research firm",
+    "what_it_lets_you_find_out": "Evidence-backed analysis on your game, market or thesis. Real data, verified and assembled by real analysts, in days not months.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Freemium",
+    "link": "https://criticalcompass.games/",
+    "extra_links": [],
+    "owner": "GYLD",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "nintendo-ir",
     "name": "Nintendo IR",
     "group": "Data",
