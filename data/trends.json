@@ -221,6 +221,17 @@
         "source_slug": "asgc-games-industry-layoffs-tracker"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft eliminates 268 more roles on 22 September 2026, across Halo Studios, other first-party studios and the Xbox Game Studios management layer, and says the cuts since July bring it roughly three-quarters of the way through the restructuring it announced. It reorganizes the rest: Activision takes Rare and World's Edge and the next Halo, Bethesda takes Obsidian, King takes Microsoft Casual Games, and Playground and Turn 10 become one studio. Ninja Theory faces a proposed closure after two sale agreements fell through.",
+        "card_text": "Xbox cuts 268 more and folds its studios into four owners",
+        "year": "2026",
+        "market": "",
+        "source": "Xbox Wire, Matt Booty (22 September 2026)",
+        "link": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/",
+        "source_slug": ""
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "The cuts are concentrated. In 2026, the five biggest rounds of layoffs account for about 53% of all jobs lost, and the top two alone for about 42%. North America has 66% of the rounds and about 79% of the people affected.",
@@ -289,13 +300,13 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "Satvat's monthly forecast update. Xbox made about 1,600 of its 3,200 planned cuts in July 2026 and has until June 2027 to make the rest. The tracker counts the remaining 1,600 in 2026 and says it will revise if they slip into 2027.",
-        "card_text": "Whether Xbox's remaining 1,600 cuts land in 2026",
+        "claim": "Satvat's monthly forecast update. Xbox made about 1,600 of its 3,200 planned cuts in July 2026 and 268 more in September, and says it is roughly three-quarters through. It has until June 2027 to finish. The tracker counts the remainder in 2026 and says it will revise if the cuts slip into 2027, and the Arkane consultation is scheduled to run to the end of the year.",
+        "card_text": "Whether Xbox's last quarter of cuts lands in 2026",
         "year": "2026",
         "market": "",
-        "source": "ASGC Games Industry Layoffs Tracker, 10 September 2026 update",
-        "link": "https://layoffs.asgc.gg/",
-        "source_slug": "asgc-games-industry-layoffs-tracker"
+        "source": "Xbox Wire, Matt Booty (22 September 2026)",
+        "link": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/",
+        "source_slug": ""
       },
       {
         "section": "What to watch",
@@ -2836,6 +2847,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Los Angeles Superior Court Judge Dean Kitchens rules in September 2026 that neither federal law nor the First Amendment shields Roblox from Los Angeles County's claims, and the case proceeds. The county alleges the platform failed to protect young users from predators and sexual exploitation. It is a ruling on whether the case may be heard, not on whether the allegations are true.",
+        "card_text": "A California judge refuses to dismiss Los Angeles County's case against Roblox",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz (25 September 2026)",
+        "link": "https://www.pocketgamer.biz/roblox-loses-bid-to-halt-los-angeles-county-child-safety-lawsuit/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Roblox's daily users fell to 123 million from a peak of 152 million, its average for the third quarter of 2025. IGN's Tom Phillips writes that age verification has likely added friction for players. Roblox's own finance chief gives a different main cause: the fading of 2025's viral hits and a change to what the platform recommends to children.",
@@ -4503,6 +4525,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Discord re-launches age verification for all users on 22 September 2026, seven months after postponing it over privacy objections. Users can verify by credit card, the Apple App Store, Google Play, Google Wallet or AgeKey, with no video selfie and no identity document. Chief technology officer Stanislav Vishnevskiy says the non-biometric approach is meant to get ahead of laws that might require something less privacy-focused. Discord says it will name every age assurance vendor it uses and has published its first age assurance data.",
+        "card_text": "Discord runs age checks for every user without taking a face or an ID",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz (23 September 2026)",
+        "link": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Stacy Feuer, who runs the privacy program at the US games ratings board, reads the Genshin Impact case as a warning to every studio. Regulators look at a game's art style and promotions, not at what its terms say, so a game that appeals to children is covered whether it wants to be or not.",
@@ -4582,7 +4615,7 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "This page's argument is that age assurance means collecting more data from everyone. The KIDS Act is designed against exactly that: verification is handled by certified services independent of the platform, which return only whether the user is above or below an age. If zero knowledge proofs work as described, the trade this page describes is not a necessary one. Nothing has yet been deployed at scale, and the page's existing evidence of leaked identity documents came from systems built the older way.",
+        "claim": "This page's argument is that age assurance means collecting more data from everyone. The KIDS Act is designed against exactly that: verification is handled by certified services independent of the platform, which return only whether the user is above or below an age. If zero knowledge proofs work as described, the trade this page describes is not a necessary one. In September 2026 Discord began checking every user's age by credit card or app store account, with no ID and no face, which is the first deployment at this scale and by the company whose contractor leak is the evidence above. Whether the estimate is accurate, and whether the vendors hold what they say they hold, is not yet measurable from outside.",
         "card_text": "The EU's answer is that the check need not collect anything",
         "year": "2026",
         "market": "",
@@ -9656,6 +9689,17 @@
         "source_slug": "stjv"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "King signs a collective bargaining agreement with Engineers of Sweden and Unionen on 25 September 2026, the day its workers had set for a strike, ending talks that began in May 2025. Engineers of Sweden represents about 100 of the roughly 500 staff at King's Malmo and Stockholm offices. The agreement gives employees the right to organize and to be informed in good time about workplace changes, naming reorganizations. The union describes it as a floor rather than a ceiling.",
+        "card_text": "King signs a Swedish collective agreement hours before a strike",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer, Chris Kerr (25 September 2026)",
+        "link": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+        "source_slug": "game-developer"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "The Blizzard contracts show what a union changes. An employer can still cut jobs, but must offer laid-off staff new openings first and pay them more on the way out. The union's president, Claude Cummings Jr, presents it as good for players too: 'Greater power for workers is translating into more innovative games.'",
@@ -9735,12 +9779,12 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "From 25 September 2026, the date workers at King in Sweden set for a strike after a year of failed talks on a collective agreement. Whether it goes ahead, and what it wins, is a test outside the US and outside Microsoft. King's management says its terms are already better than an agreement would require.",
-        "card_text": "A strike at the maker of Candy Crush",
+        "claim": "June 2027, the end of the window Microsoft gave itself for the rest of its games cuts. King's new agreement requires the company to inform employees in good time about workplace changes, naming reorganizations. King's parent has about a quarter of its announced restructuring left to make, and King took on Microsoft Casual Games three days before the agreement was signed. Whether the clause is used, and what it changes, is the test.",
+        "card_text": "Whether the King agreement is used when Microsoft next reorganizes",
         "year": "2026",
         "market": "",
-        "source": "Game Developer, Chris Kerr (18 September 2026)",
-        "link": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
+        "source": "Game Developer, Chris Kerr (25 September 2026)",
+        "link": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
         "source_slug": "game-developer"
       },
       {
@@ -11744,6 +11788,17 @@
         "source_slug": "naavik"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "AppLovin's annual platform ad spend rounds to about $20 billion in September 2026, up 60% on the year, according to chief executive Adam Foroughi. He puts the mobile casual audience at over a billion people a day and argues advertising has more room to grow than chatbots. The figure is the platform's throughput, not its revenue, and it is the company's own.",
+        "card_text": "One mobile ad platform books about $20 billion of annual ad spend",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz (21 September 2026)",
+        "link": "https://www.pocketgamer.biz/applovin-grows-60-yy-rounding-to-20bn-in-annual-platform-ad-spend/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Max Abrahamsen of Naavik points out that downloads fell 12% in the first half of 2026 even though spending on game advertising rose 8%. For 4X games, he estimates that about three quarters of the fall in revenue came from having fewer daily players, nearly all of it from failing to bring in new ones.",
@@ -13132,6 +13187,7 @@
     "stage": "Emerging",
     "category": "Money & business model",
     "markets": [
+      "DE",
       "Global",
       "JP",
       "KR",
@@ -13310,6 +13366,28 @@
         "source": "GamesIndustry.biz",
         "link": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalog-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
         "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Nex raises more than $150 million in equity and debt in September 2026 to expand Nex Playground globally, broaden retail distribution and grow its content ecosystem with gaming and entertainment partners. The console's library is built largely from motion-control games the original platforms abandoned, and the company has said every major publisher has approached it about old Kinect and Wii catalogs.",
+        "card_text": "Nex raises over $150 million to take its motion-control catalog worldwide",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz (21 September 2026)",
+        "link": "https://www.pocketgamer.biz/nex-raises-over-150m-to-take-nex-playground-global/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "World of Warcraft: Forever, Blizzard's remastered and expanded version of the 2004 original, reaches 807,000 peak viewers across its reveal and beta in September 2026, according to Streams Charts, with watch time rising across platforms. The beta opened on 17 September 2026 and the full release follows on 4 November.",
+        "card_text": "A remaster of a 2004 game draws 807,000 peak viewers",
+        "year": "2026",
+        "market": "",
+        "source": "Streams Charts (22 September 2026)",
+        "link": "https://streamscharts.com/news/wow-forever-viewership-chat",
+        "source_slug": "streams-charts"
       },
       {
         "section": "Status",
@@ -13539,13 +13617,13 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "Later in 2026, when the Nex Playground micro-console launches in Germany at 319 euros. The company says every major publisher has approached it about old Kinect and Wii catalogs, and a third market is the first test of whether relicensed motion-control games travel beyond the United States and the United Kingdom.",
-        "card_text": "Nex Playground reaches a third market",
+        "claim": "Later in 2026, when the Nex Playground micro-console launches in Germany at 319 euros, and 2027, when the company says it will enter Japan. Nex raised more than $150 million in September 2026 to expand distribution and its content ecosystem. Whether relicensed motion-control games travel beyond the United States and the United Kingdom is the test, and Japan is the harder half of it.",
+        "card_text": "Nex Playground reaches Germany, then Japan",
         "year": "2026",
         "market": "",
-        "source": "GamesIndustry.biz",
-        "link": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalog-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
-        "source_slug": "gamesindustry-biz"
+        "source": "PocketGamer.biz (21 September 2026)",
+        "link": "https://www.pocketgamer.biz/nex-raises-over-150m-to-take-nex-playground-global/",
+        "source_slug": "pocketgamer-biz"
       },
       {
         "section": "What to watch",

@@ -1,26 +1,26 @@
 facet,within_group,value,rows
-medium,,News outlet,321
-medium,,Organisation,127
+medium,,News outlet,322
+medium,,Organisation,128
 medium,,Forum or community,96
 medium,,Video channel,63
 medium,,Person,62
 medium,,Data tool,49
 medium,,Podcast,48
 medium,,Book or paper,41
-medium,,Company disclosure,35
+medium,,Company disclosure,38
 medium,,Report or document,34
-medium,,Newsletter,26
+medium,,Newsletter,27
 medium,,Research firm,16
 medium,,Link list,7
-group,,Press,347
+group,,Press,349
 group,,Media,152
-group,,Institutions,144
-group,,Data,117
+group,,Institutions,145
+group,,Data,120
 group,,Communities,96
 group,,People,69
-markets,,US,168
-markets,,Global,147
-markets,,JP,137
+markets,,US,173
+markets,,Global,152
+markets,,JP,138
 markets,,KR,86
 markets,,Not market specific,63
 markets,,UK,62
@@ -45,9 +45,9 @@ markets,,EU,7
 markets,,LATAM,4
 markets,,Asia,2
 markets,,BE,1
-market_kind,profiled,US,168
-market_kind,scope,Global,147
-market_kind,profiled,JP,137
+market_kind,profiled,US,173
+market_kind,scope,Global,152
+market_kind,profiled,JP,138
 market_kind,profiled,KR,86
 market_kind,scope,Not market specific,63
 market_kind,profiled,UK,62
@@ -72,8 +72,8 @@ market_kind,tagged,EU,7
 market_kind,tagged,LATAM,4
 market_kind,tagged,Asia,2
 market_kind,tagged,BE,1
-language,,English,529
-language,,Japanese,117
+language,,English,535
+language,,Japanese,118
 language,,Korean,75
 language,,German,51
 language,,French,50
@@ -97,7 +97,7 @@ language,,Thai,3
 language,,Hindi,3
 language,,Indonesian,2
 language,,Malay,1
-format,Data,Corporate IR,30
+format,Data,Corporate IR,33
 format,Data,Creator tracking,21
 format,Data,Industry report,15
 format,Data,Analytics platform,14
@@ -120,12 +120,12 @@ format,Institutions,Archive or museum,7
 format,Institutions,Event or awards,6
 format,Institutions,Regulator,5
 format,Institutions,Parent guidance platform,4
+format,Institutions,Union or worker organisation,4
 format,Institutions,Regulation or law,4
-format,Institutions,Union or worker organisation,3
 format,Institutions,Funding body,2
 format,Institutions,Cultural institution,1
 format,Institutions,Conference proceedings,1
-format,Press,Games news site,79
+format,Press,Games news site,80
 format,Press,Tech news site,38
 format,Press,National daily,35
 format,Press,Trade press,26
@@ -136,8 +136,8 @@ format,Press,Games magazine,14
 format,Press,Esports news site,13
 format,Press,Desk or vertical of a larger outlet,12
 format,Press,Digital news outlet,11
+format,Press,Analyst newsletter,10
 format,Press,Journalist newsletter,9
-format,Press,Analyst newsletter,9
 format,Press,Business daily,8
 format,Press,Wire agency,6
 format,Press,Creator-led outlet,6
@@ -180,9 +180,9 @@ format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,425
+cost,,Free,429
 cost,,Paid,54
-cost,,Freemium,49
+cost,,Freemium,50
 cost,,Unknown,7
 trend_stage,,Dominant,15
 trend_stage,,Emerging,10
@@ -194,18 +194,18 @@ trend_category,,Platform & distribution,7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,4
 trend_category,,Technology,3
-coverage,sources,slug,925
-coverage,sources,name,925
-coverage,sources,group,925
-coverage,sources,medium,925
-coverage,sources,format,925
-coverage,sources,what_it_lets_you_find_out,925
-coverage,sources,markets,925
-coverage,sources,language,925
-coverage,sources,cost,535
-coverage,sources,link,925
+coverage,sources,slug,931
+coverage,sources,name,931
+coverage,sources,group,931
+coverage,sources,medium,931
+coverage,sources,format,931
+coverage,sources,what_it_lets_you_find_out,931
+coverage,sources,markets,931
+coverage,sources,language,931
+coverage,sources,cost,540
+coverage,sources,link,931
 coverage,sources,extra_links,0
-coverage,sources,owner,504
+coverage,sources,owner,510
 coverage,sources,ownership_note,123
 coverage,sources,beat,69
 coverage,sources,where_they_post,69

@@ -205,7 +205,7 @@
       "English"
     ],
     "cost": "Freemium",
-    "link": "https://streamhatchet.com/",
+    "link": "https://hatchet.gg/",
     "extra_links": [],
     "owner": "GameSquare Holdings",
     "ownership_note": "Owned by a listed esports and media company. Its free quarterly reports publish through GameSquare investor relations, which is also a row in Tab 8.",
@@ -2871,6 +2871,83 @@
     "link": "https://www.ubisoft.com/en-us/company/about-us/investors",
     "extra_links": [],
     "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "xbox-wire",
+    "name": "Xbox Wire (Microsoft's own announcements)",
+    "group": "Data",
+    "medium": "Company disclosure",
+    "format": "Corporate IR",
+    "what_it_lets_you_find_out": "Microsoft's own record of what it did to Xbox: restructuring notes to staff, studio moves and closures, Game Pass pricing and cloud changes, stated in the company's words before the trade press reports them. It is corporate communications, not disclosure, so it says what Microsoft chose to say and no more.",
+    "markets": [
+      "Global",
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://news.xbox.com/",
+    "extra_links": [],
+    "owner": "Microsoft",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "nintendo-newsroom",
+    "name": "Nintendo newsroom (What's New)",
+    "group": "Data",
+    "medium": "Company disclosure",
+    "format": "Corporate IR",
+    "what_it_lets_you_find_out": "Nintendo's own announcements to players: Direct presentations and what was shown in them, hardware and software pricing, and release dates, as the company states them rather than as they are reported. Separate from Nintendo IR, which carries the financial disclosure.",
+    "markets": [
+      "Global",
+      "JP",
+      "US"
+    ],
+    "language": [
+      "English",
+      "Japanese"
+    ],
+    "cost": "Free",
+    "link": "https://www.nintendo.com/us/whatsnew/",
+    "extra_links": [],
+    "owner": "Nintendo",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "playstation-blog",
+    "name": "PlayStation Blog",
+    "group": "Data",
+    "medium": "Company disclosure",
+    "format": "Corporate IR",
+    "what_it_lets_you_find_out": "Sony Interactive Entertainment's own announcements: hardware pricing and launch details, first-party release dates, and the notices that close a live game down. It is where the company states a decision first, which makes it the primary record of dates the trade press then carries.",
+    "markets": [
+      "Global",
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://blog.playstation.com/",
+    "extra_links": [],
+    "owner": "Sony Interactive Entertainment",
     "ownership_note": "",
     "beat": "",
     "where_they_post": "",
@@ -6395,6 +6472,30 @@
     "link": "https://www.familygamingdatabase.com/",
     "extra_links": [],
     "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "communications-workers-of-america",
+    "name": "Communications Workers of America (CWA)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Union or worker organisation",
+    "what_it_lets_you_find_out": "The union behind most US games organising: its own releases on election filings, certifications, first contracts and the bargaining units they cover, with the numbers it claims and the dates it claims them on. One side of a dispute, and the side that publishes first.",
+    "markets": [
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://cwa-union.org/",
+    "extra_links": [],
+    "owner": "Communications Workers of America",
     "ownership_note": "",
     "beat": "",
     "where_they_post": "",
@@ -14146,6 +14247,31 @@
     "audience": []
   },
   {
+    "slug": "kotaku",
+    "name": "Kotaku",
+    "group": "Press",
+    "medium": "News outlet",
+    "format": "Games news site",
+    "what_it_lets_you_find_out": "Consumer games news and reporting with a long record of leaked documents and internal numbers, which is why it holds figures no other outlet carries. Ownership has changed twice since 2019 and the staff with it, so weigh older and newer work separately.",
+    "markets": [
+      "Global",
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "",
+    "link": "https://kotaku.com/",
+    "extra_links": [],
+    "owner": "Keleops",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "gamedev-reports",
     "name": "GameDev Reports",
     "group": "Press",
@@ -14279,7 +14405,7 @@
       "English"
     ],
     "cost": "Freemium",
-    "link": "https://mobilegamerbiz.substack.com/",
+    "link": "https://mobilegamer.biz/",
     "extra_links": [],
     "owner": "",
     "ownership_note": "",
@@ -14763,6 +14889,30 @@
     "link": "https://otaquest.substack.com/",
     "extra_links": [],
     "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "alinea-analytics",
+    "name": "Alinea Analytics",
+    "group": "Press",
+    "medium": "Newsletter",
+    "format": "Analyst newsletter",
+    "what_it_lets_you_find_out": "Steam revenue and unit estimates modelled from public signals, published as regular free posts with the method described. Estimates rather than platform figures, and the posts say so.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Freemium",
+    "link": "https://alineaanalytics.substack.com/",
+    "extra_links": [],
+    "owner": "Alinea Analytics",
     "ownership_note": "",
     "beat": "",
     "where_they_post": "",
