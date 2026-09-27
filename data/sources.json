@@ -1950,6 +1950,30 @@
     "audience": []
   },
   {
+    "slug": "critical-compass-by-gyld",
+    "name": "Critical Compass by GYLD",
+    "group": "Data",
+    "medium": "Research firm",
+    "format": "Market research firm",
+    "what_it_lets_you_find_out": "Evidence-backed analysis on your game, market or thesis. Real data, verified and assembled by real analysts, in days not months.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Freemium",
+    "link": "https://criticalcompass.games/",
+    "extra_links": [],
+    "owner": "GYLD",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "nintendo-ir",
     "name": "Nintendo IR",
     "group": "Data",
@@ -22510,6 +22534,30 @@
     "extra_links": [],
     "owner": "",
     "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "heybox",
+    "name": "Heybox (小黑盒, Xiǎohēihé)",
+    "group": "Communities",
+    "medium": "Forum or community",
+    "format": "Social platform",
+    "what_it_lets_you_find_out": "Where mainland Chinese PC and console players follow game news, post, wishlist and buy Steam keys, in a companion app whose database mirrors nearly all of Steam whether or not a game is licensed in China. A released game's page, keyed by its Steam app ID, carries a Heybox score from verified owners only; the key-sales and most-wishlisted charts appear only in the app. Heybox player counts include linked users' public Steam friend lists, so they measure reach, not ownership. User figures are the operator's own, from 22 million users and 800,000 a day in 2020 to 80 million cumulative across all its apps, and no independent audience figure could be found.",
+    "markets": [
+      "CN"
+    ],
+    "language": [
+      "Chinese"
+    ],
+    "cost": "Free",
+    "link": "https://www.xiaoheihe.cn/",
+    "extra_links": [],
+    "owner": "Qingfeng (Beijing) Technology Co., Ltd. (清枫（北京）科技有限公司)",
+    "ownership_note": "Founded in 2015 by Xu Ning, Li He and Huang Zhisong. Hupu took about 20% in June 2020 and a Tencent affiliate 2% that November, per 36Kr and 游戏日报; neither appears on the current business register, which lists the three founders and an employee partnership. The operator earns a margin on Steam keys it gets from publishers, sells them ads and promoted posts, and publishes games itself, so it has a commercial stake in games its community rates.",
     "beat": "",
     "where_they_post": "",
     "year": "",
