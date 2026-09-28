@@ -24,7 +24,7 @@ markets,,JP,138
 markets,,KR,86
 markets,,Not market specific,63
 markets,,UK,62
-markets,,DE,49
+markets,,DE,48
 markets,,FR,36
 markets,,CN,34
 markets,,MENA,24
@@ -51,7 +51,7 @@ market_kind,profiled,JP,138
 market_kind,profiled,KR,86
 market_kind,scope,Not market specific,63
 market_kind,profiled,UK,62
-market_kind,profiled,DE,49
+market_kind,profiled,DE,48
 market_kind,profiled,FR,36
 market_kind,profiled,CN,34
 market_kind,profiled,MENA,24

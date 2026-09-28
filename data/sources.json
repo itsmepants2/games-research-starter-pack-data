@@ -5674,7 +5674,6 @@
     "format": "Rating body",
     "what_it_lets_you_find_out": "Cross-EU rating records, with loot-box and in-game-purchase labels as a regulatory signal. The rating database France actually uses, since it has no national body like Germany's USK. Ratings signal, and enforcement varies by country. EN site is the primary version",
     "markets": [
-      "DE",
       "EU",
       "FR",
       "IT",
