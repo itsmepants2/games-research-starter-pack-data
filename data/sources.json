@@ -1974,6 +1974,30 @@
     "audience": []
   },
   {
+    "slug": "hugging-face-datasets",
+    "name": "Hugging Face datasets",
+    "group": "Data",
+    "medium": "Data tool",
+    "format": "Database",
+    "what_it_lets_you_find_out": "A public hub of datasets that anyone with an account can publish, among them games data researchers use: Steam catalogues and review corpora, RAWG game metadata and StarCraft II esports replays. The link opens the datasets their uploaders tagged gaming, and a search finds more. Read each dataset card for where the data came from and under what licence, since some declare none and some carry player IDs.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://huggingface.co/datasets?other=gaming",
+    "extra_links": [],
+    "owner": "Hugging Face",
+    "ownership_note": "The platform hosts the datasets and their uploaders publish them, answering under its terms for what they post and setting each licence themselves.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "nintendo-ir",
     "name": "Nintendo IR",
     "group": "Data",
@@ -4111,7 +4135,7 @@
     "group": "Institutions",
     "medium": "Organisation",
     "format": "Industry association",
-    "what_it_lets_you_find_out": "The professional home of games user research, running a Discord, a jobs board, a mentoring programme and the annual summits. VERIFY. The SIG page and the IGDA overview page name different current leadership.",
+    "what_it_lets_you_find_out": "The IGDA Games User Research SIG's own site: its Discord, a mentoring programme that was not matching mentees in September 2026, and the annual #GamesUR Conference, whose 2026 edition is in Helsinki in October. The site names no leaders, and IGDA's page for the SIG carries nothing dated after 2022, so check anyone's title with the SIG before citing it.",
     "markets": [
       "Global"
     ],
@@ -6495,6 +6519,107 @@
     "link": "https://cwa-union.org/",
     "extra_links": [],
     "owner": "Communications Workers of America",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "european-commission",
+    "name": "European Commission",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Regulator",
+    "what_it_lets_you_find_out": "The EU's executive, and the primary record of the EU rules that reach games. Its Press Corner carries the Commission's own releases, Q&As and factsheets, searchable back to 1974: the €500 million Digital Markets Act fine on Apple over App Store anti-steering (April 2025), the consumer principles on in-game virtual currencies (March 2025), the reply to Stop Destroying Videogames (June 2026) and the KIDS Act proposal (September 2026), which would require games to be safe by design for children. A proposal is not law until the Parliament and the Council agree it.",
+    "markets": [
+      "DE",
+      "EU",
+      "FR",
+      "IT"
+    ],
+    "language": [
+      "English",
+      "Multilingual"
+    ],
+    "cost": "Free",
+    "link": "https://ec.europa.eu/commission/presscorner/home/en",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "japan-fair-trade-commission",
+    "name": "Japan Fair Trade Commission (JFTC)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Regulator",
+    "what_it_lets_you_find_out": "Japan's competition regulator, and the enforcer of the Mobile Software Competition Act, in full effect since December 2025, under which it designated Apple and Google and publishes their compliance reports. Its guidelines use game apps for the worked examples of the Act's ban on app stores hindering developers who sell through their own web pages, down to in-game coins and character skins. English pages are tentative translations and the compliance reports are in Japanese only. Gacha rules belong to the Consumer Affairs Agency, not the JFTC.",
+    "markets": [
+      "JP"
+    ],
+    "language": [
+      "English",
+      "Japanese"
+    ],
+    "cost": "Free",
+    "link": "https://www.jftc.go.jp/en/",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "information-commissioners-office",
+    "name": "Information Commissioner's Office (ICO)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Regulator",
+    "what_it_lets_you_find_out": "The UK data protection regulator and the author of the Children's code, fifteen standards that online services likely to be used by children, games named among them, have had to meet since September 2021. It publishes tips for games designers, covering loot boxes and voice chat, and has been reviewing ten popular mobile games since December 2025, which by August 2026 had produced commitments from Roblox, Microsoft and Playrix rather than fines.",
+    "markets": [
+      "UK"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "sag-aftra",
+    "name": "SAG-AFTRA",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Union or worker organisation",
+    "what_it_lets_you_find_out": "The US performers' union, whose Interactive Media Agreement with the major game companies covers voice and performance-capture work. Its video game strike ran from July 2024 until members ratified a new agreement in July 2025, which requires companies to tell performers how AI will use their voice, likeness and movement and to get their written consent. It speaks for performers, not for the developers who make games, and its statements are one side of a negotiation.",
+    "markets": [
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.sagaftra.org/",
+    "extra_links": [],
+    "owner": "",
     "ownership_note": "",
     "beat": "",
     "where_they_post": "",
@@ -18745,7 +18870,7 @@
     "owner": "Founder, The Game Business (ex-GamesIndustry.biz)",
     "ownership_note": "",
     "beat": "Market analysts",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -18963,7 +19088,7 @@
     "owner": "Independent UA consultant, Brutally Honest newsletter, two & a half gamers podcast",
     "ownership_note": "",
     "beat": "Mobile / F2P economics",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -18987,7 +19112,7 @@
     "owner": "Founder, Deconstructor of Fun",
     "ownership_note": "",
     "beat": "Mobile / F2P economics",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -19011,7 +19136,7 @@
     "owner": "Co-host, Game Economist Cast",
     "ownership_note": "",
     "beat": "Mobile / F2P economics",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -19035,7 +19160,7 @@
     "owner": "Product & Game Design Consultant",
     "ownership_note": "",
     "beat": "Mobile / F2P economics",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -19059,7 +19184,7 @@
     "owner": "Founder @ Playhero",
     "ownership_note": "",
     "beat": "Other",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -19494,7 +19619,7 @@
     "owner": "Professor, LSE, Digital Futures for Children",
     "ownership_note": "",
     "beat": "Kids family & platform policy",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -19687,7 +19812,7 @@
     "owner": "Director for Southeast Asia & East Asia Research, Niko Partners (Jakarta-based)",
     "ownership_note": "",
     "beat": "Other",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -19713,7 +19838,7 @@
     "owner": "CEO, Gaming in Türkiye, MENA and EU, author of the Türkiye Game Market Report",
     "ownership_note": "",
     "beat": "Other",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -19738,7 +19863,7 @@
     "owner": "Director, Neogames Finland",
     "ownership_note": "",
     "beat": "Other",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -19763,7 +19888,7 @@
     "owner": "Editor, Spelutvecklarindex / Game Developer Index (Dataspelsbranschen)",
     "ownership_note": "",
     "beat": "Other",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -20154,7 +20279,7 @@
     "owner": "Associate Professor, Temple University",
     "ownership_note": "",
     "beat": "Identity and representation",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -20251,7 +20376,7 @@
     "owner": "Associate Professor, IT University of Copenhagen",
     "ownership_note": "",
     "beat": "Ethnography of play",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -20262,7 +20387,7 @@
     "group": "People",
     "medium": "Person",
     "format": "Individual",
-    "what_it_lets_you_find_out": "Digital ethnography of mobile media, play, intimacy and ageing across the Asia-Pacific, and supervises fieldwork including mobile esports in Indonesian popular culture. VERIFY. Appointment and funding confirmed to 2027, but no 2025 or 2026 publication could be dated.",
+    "what_it_lets_you_find_out": "Digital ethnography of mobile media, play, intimacy and ageing across the Asia-Pacific, and supervises fieldwork including mobile esports in Indonesian popular culture. Recent work includes Mourning on Mobile Media (MIT Press, November 2025, open access) and, with Ingrid Richardson, the mobile games chapter of The Routledge Companion to Mobile Media, which she co-edited (second edition, 2025). ARC Future Fellow to 2027.",
     "markets": [
       "AU"
     ],
@@ -20275,7 +20400,7 @@
     "owner": "Distinguished Professor, RMIT",
     "ownership_note": "",
     "beat": "Ethnography of play",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -20300,7 +20425,7 @@
     "owner": "Associate Professor, Western University",
     "ownership_note": "",
     "beat": "Games labour",
-    "where_they_post": "Linkedin",
+    "where_they_post": "LinkedIn",
     "year": "",
     "isbn": "",
     "audience": []
