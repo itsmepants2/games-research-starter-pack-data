@@ -1236,7 +1236,7 @@
     },
     "known_gaps": [
       {
-        "gap": "Communities. No Chinese community rows are held, and the forum and streaming layer named in the profile is unverified for scale.",
+        "gap": "Communities. One community row, Heybox, whose audience figures are the operator's own, and the forum and streaming layer named in the profile is unverified for scale.",
         "instead": "TapTap is held as a data row and store; treat any board or streaming figure as that platform's own claim."
       },
       {
