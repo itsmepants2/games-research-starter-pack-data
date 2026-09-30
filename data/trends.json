@@ -4,6 +4,9 @@
     "name": "Games companies are still cutting jobs",
     "stage": "Dominant",
     "category": "Money & business model",
+    "horizon": "h1",
+    "horizon_group": null,
+    "horizon_line": "The clearest symptom of the pandemic-era model unwinding.",
     "markets": [
       "Global",
       "US"
@@ -326,6 +329,9 @@
     "name": "Rich markets are losing players, and growth has moved elsewhere",
     "stage": "Dominant",
     "category": "Money & business model",
+    "horizon": "h1",
+    "horizon_group": null,
+    "horizon_line": "The Western growth engine this system was built on has stalled.",
     "markets": [
       "CA",
       "CN",
@@ -951,6 +957,9 @@
     "name": "Game prices are stalling as hardware prices climb",
     "stage": "Dominant",
     "category": "Money & business model",
+    "horizon": "h1",
+    "horizon_group": null,
+    "horizon_line": "The premium console bundle is squeezed from both sides.",
     "markets": [
       "EU",
       "Global",
@@ -1490,6 +1499,9 @@
     "name": "Publishers are retreating from live-service games",
     "stage": "Dominant",
     "category": "Money & business model",
+    "horizon": "h1",
+    "horizon_group": null,
+    "horizon_line": "The flagship bet of this system, now failing more often than it hits.",
     "markets": [
       "CN",
       "Global",
@@ -1797,6 +1809,9 @@
     "name": "Game subscriptions are stalling",
     "stage": "Emerging",
     "category": "Money & business model",
+    "horizon": "h2",
+    "horizon_group": "stalled-bets",
+    "horizon_line": "The one-fee-for-everything bet. Subscribers stalled well short of plan, and prices rose instead.",
     "markets": [
       "Global",
       "US"
@@ -2159,6 +2174,9 @@
     "name": "Roblox is rising and falling with its creators' hits",
     "stage": "Emerging",
     "category": "Money & business model",
+    "horizon": "h3",
+    "horizon_group": null,
+    "horizon_line": "Players as producers. Volatile, but pointing the right way.",
     "markets": [
       "Global",
       "US"
@@ -2540,6 +2558,9 @@
     "name": "Regulators are forcing child-safety changes on platforms",
     "stage": "Dominant",
     "category": "Regulation, safety & age",
+    "horizon": "h2",
+    "horizon_group": "rewriting-rules",
+    "horizon_line": "Forces identity and safety infrastructure onto open, player-built platforms.",
     "markets": [
       "AU",
       "BR",
@@ -2963,6 +2984,9 @@
     "name": "India has outlawed games played for money",
     "stage": "Dominant",
     "category": "Regulation, safety & age",
+    "horizon": "h2",
+    "horizon_group": "rewriting-rules",
+    "horizon_line": "A natural experiment: regulation can delete a whole category overnight.",
     "markets": [
       "IN"
     ],
@@ -3246,6 +3270,9 @@
     "name": "Regulators are age-gating loot boxes",
     "stage": "Perennial",
     "category": "Regulation, safety & age",
+    "horizon": "perennial",
+    "horizon_group": null,
+    "horizon_line": "A recurring regulatory cycle that follows monetization wherever it goes.",
     "markets": [
       "AU",
       "BE",
@@ -3656,6 +3683,9 @@
     "name": "Governments are weighing legal caps on children's playtime",
     "stage": "Perennial",
     "category": "Regulation, safety & age",
+    "horizon": "perennial",
+    "horizon_group": null,
+    "horizon_line": "Comes back every time a new worry about children and screens arrives.",
     "markets": [
       "CN",
       "EU",
@@ -4016,6 +4046,9 @@
     "name": "Game publishers are opening esports to licensed bookmakers",
     "stage": "Perennial",
     "category": "Regulation, safety & age",
+    "horizon": "h2",
+    "horizon_group": "prolongs-h1",
+    "horizon_line": "Publishers choosing which betting money keeps their leagues alive.",
     "markets": [
       "BR",
       "EU",
@@ -4296,6 +4329,9 @@
     "name": "Children's privacy rules are nudging games toward checking every player's age",
     "stage": "Perennial",
     "category": "Regulation, safety & age",
+    "horizon": "perennial",
+    "horizon_group": null,
+    "horizon_line": "The paradox that keeps returning: less data about children means more checks on everyone.",
     "markets": [
       "EU",
       "UK",
@@ -4652,6 +4688,9 @@
     "name": "Problem-gaming research is shifting from hours to compulsion",
     "stage": "Perennial",
     "category": "Regulation, safety & age",
+    "horizon": "perennial",
+    "horizon_group": null,
+    "horizon_line": "A long-running debate whose unit of measure is finally changing.",
     "markets": [
       "CN",
       "Global",
@@ -4989,6 +5028,9 @@
     "name": "Chinese studios are trying to build premium global franchises",
     "stage": "Emerging",
     "category": "Geography & power",
+    "horizon": "h2",
+    "horizon_group": "prolongs-h1",
+    "horizon_line": "New studios betting on the big-budget model, and meeting its costs.",
     "markets": [
       "CN",
       "Global"
@@ -5322,6 +5364,9 @@
     "name": "Saudi state money is buying major games companies",
     "stage": "Dominant",
     "category": "Geography & power",
+    "horizon": "h2",
+    "horizon_group": "prolongs-h1",
+    "horizon_line": "Patron capital extends the old model rather than changing it, and the debt makes it more fragile.",
     "markets": [
       "CN",
       "Global",
@@ -5675,6 +5720,9 @@
     "name": "China's growth is going to Chinese-made games",
     "stage": "Emerging",
     "category": "Geography & power",
+    "horizon": "h1",
+    "horizon_group": null,
+    "horizon_line": "The growth moved to a market Western publishers can barely reach.",
     "markets": [
       "CN",
       "Global"
@@ -5937,6 +5985,9 @@
     "name": "China is using game approvals as a policy dial",
     "stage": "Perennial",
     "category": "Geography & power",
+    "horizon": "perennial",
+    "horizon_group": null,
+    "horizon_line": "A standing lever the state turns up and down.",
     "markets": [
       "CN"
     ],
@@ -6281,6 +6332,9 @@
     "name": "Developers are turning against generative AI",
     "stage": "Dominant",
     "category": "Technology",
+    "horizon": "h2",
+    "horizon_group": "rewriting-rules",
+    "horizon_line": "Contested. It slows careless adoption and steers AI toward consented, disclosed uses.",
     "markets": [
       "CN",
       "EU",
@@ -6657,6 +6711,9 @@
     "name": "AI teammates are reaching players in short tests",
     "stage": "Emerging",
     "category": "Technology",
+    "horizon": "h2",
+    "horizon_group": "prolongs-h1",
+    "horizon_line": "Tested inside Fortnite and PUBG, where it fills a team. Nothing is a permanent feature yet.",
     "markets": [
       "EU",
       "Global",
@@ -6954,6 +7011,9 @@
     "name": "Creative workers are fighting over AI consent and disclosure",
     "stage": "Emerging",
     "category": "Technology",
+    "horizon": "h2",
+    "horizon_group": "rewriting-rules",
+    "horizon_line": "Writes the rules any AI-native future will have to follow.",
     "markets": [
       "FR",
       "PL",
@@ -7218,6 +7278,9 @@
     "name": "Apple and Google are being forced to open their stores",
     "stage": "Dominant",
     "category": "Platform & distribution",
+    "horizon": "h2",
+    "horizon_group": "rewriting-rules",
+    "horizon_line": "Six years of lawsuits have cut the platform tax by a few points. So far Apple and Google are containing the rest.",
     "markets": [
       "EU",
       "JP",
@@ -7630,6 +7693,9 @@
     "name": "Streamers are spreading across several platforms",
     "stage": "Dominant",
     "category": "Platform & distribution",
+    "horizon": "h2",
+    "horizon_group": "makes-room",
+    "horizon_line": "Discovery follows creators, wherever they are.",
     "markets": [
       "Global",
       "KR"
@@ -7970,6 +8036,9 @@
     "name": "Handheld gaming PCs are losing momentum",
     "stage": "Receding",
     "category": "Platform & distribution",
+    "horizon": "h2",
+    "horizon_group": "stalled-bets",
+    "horizon_line": "A real form factor that plateaued. SteamOS may still carry the idea forward.",
     "markets": [
       "Global",
       "US"
@@ -8298,6 +8367,9 @@
     "name": "Investors are abandoning blockchain games",
     "stage": "Receding",
     "category": "Platform & distribution",
+    "horizon": "h2",
+    "horizon_group": "stalled-bets",
+    "horizon_line": "The transition that never delivered. Worth keeping as a cautionary pattern.",
     "markets": [
       "Global"
     ],
@@ -8635,6 +8707,9 @@
     "name": "Older players are a large audience the industry overlooks",
     "stage": "Perennial",
     "category": "Culture & audience",
+    "horizon": "perennial",
+    "horizon_group": null,
+    "horizon_line": "The biggest overlooked audience. They still pay full price for single-player games, and most play alone.",
     "markets": [
       "DE",
       "Global",
@@ -9058,6 +9133,9 @@
     "name": "Campaigners are pressing to keep sold games playable",
     "stage": "Perennial",
     "category": "Culture & audience",
+    "horizon": "perennial",
+    "horizon_group": null,
+    "horizon_line": "Ownership pressure on live service, and a value the next model can adopt.",
     "markets": [
       "BR",
       "EU",
@@ -9451,6 +9529,9 @@
     "name": "Game workers are winning union contracts",
     "stage": "Dominant",
     "category": "Culture & audience",
+    "horizon": "h2",
+    "horizon_group": "rewriting-rules",
+    "horizon_line": "Contracts now set terms for layoffs and AI inside big studios. Small teams and creators are outside them.",
     "markets": [
       "CA",
       "EU",
@@ -9805,6 +9886,9 @@
     "name": "Players are using review scores as a protest vote",
     "stage": "Perennial",
     "category": "Culture & audience",
+    "horizon": "perennial",
+    "horizon_group": null,
+    "horizon_line": "Players' standing veto, and it applies across every horizon.",
     "markets": [
       "CN",
       "Global",
@@ -10057,6 +10141,9 @@
     "name": "Esports is running on Saudi money",
     "stage": "Receding",
     "category": "Culture & audience",
+    "horizon": "h2",
+    "horizon_group": "stalled-bets",
+    "horizon_line": "A transition that stalled, kept alive by a patron.",
     "markets": [
       "EU",
       "FR",
@@ -10440,6 +10527,9 @@
     "name": "Games media is consolidating and shrinking",
     "stage": "Dominant",
     "category": "Culture & audience",
+    "horizon": "h1",
+    "horizon_group": null,
+    "horizon_line": "The old coverage and discovery layer is hollowing out.",
     "markets": [
       "AU",
       "Global",
@@ -10804,6 +10894,9 @@
     "name": "Investors are pulling money out of studios",
     "stage": "Dominant",
     "category": "Money & business model",
+    "horizon": "h1",
+    "horizon_group": null,
+    "horizon_line": "Capital is leaving the old model before a new one is proven.",
     "markets": [
       "Global"
     ],
@@ -11154,6 +11247,9 @@
     "name": "Console makers are keeping games exclusive again",
     "stage": "Emerging",
     "category": "Platform & distribution",
+    "horizon": "h2",
+    "horizon_group": "prolongs-h1",
+    "horizon_line": "Platform holders reaching back for an old lever.",
     "markets": [
       "Global",
       "JP",
@@ -11433,6 +11529,9 @@
     "name": "Mobile games are struggling to find new players",
     "stage": "Dominant",
     "category": "Money & business model",
+    "horizon": "h1",
+    "horizon_group": null,
+    "horizon_line": "Paying to acquire players is hitting diminishing returns.",
     "markets": [
       "CN",
       "Global",
@@ -11915,6 +12014,9 @@
     "name": "Steam's glut is making discovery the hard part",
     "stage": "Dominant",
     "category": "Platform & distribution",
+    "horizon": "h2",
+    "horizon_group": "makes-room",
+    "horizon_line": "Abundance shifts power from making games to getting them found.",
     "markets": [
       "Global"
     ],
@@ -12246,6 +12348,9 @@
     "name": "Old games take most of players' time",
     "stage": "Perennial",
     "category": "Platform & distribution",
+    "horizon": "perennial",
+    "horizon_group": null,
+    "horizon_line": "The structural fact the current system fights and the next one designs around.",
     "markets": [
       "Global",
       "US"
@@ -12597,6 +12702,9 @@
     "name": "Cheap co-op games are topping Steam's charts",
     "stage": "Emerging",
     "category": "Culture & audience",
+    "horizon": "h3",
+    "horizon_group": null,
+    "horizon_line": "Small teams, low prices, social play, built to be watched. The clearest prototype of what comes next.",
     "markets": [
       "Global",
       "JP"
@@ -12909,6 +13017,9 @@
     "name": "Mobile live events are converging on one playbook",
     "stage": "Emerging",
     "category": "Money & business model",
+    "horizon": "h2",
+    "horizon_group": "prolongs-h1",
+    "horizon_line": "Optimizing the existing model, not inventing a new one.",
     "markets": [
       "Global",
       "US"
@@ -13186,6 +13297,9 @@
     "name": "Publishers are reviving dormant franchises",
     "stage": "Emerging",
     "category": "Money & business model",
+    "horizon": "h2",
+    "horizon_group": "prolongs-h1",
+    "horizon_line": "Risk minimization: familiar names in place of new bets.",
     "markets": [
       "DE",
       "Global",
