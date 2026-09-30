@@ -241,6 +241,7 @@
       "category": "Social infrastructure",
       "owner": "Discord Inc.",
       "markets": [
+        "BR",
         "Global"
       ],
       "what_it_is": "Where game communities actually live: the coordination layer under modern play. It is essential context, not a data source. A private company with no disclosures. Activity is unmeasurable from outside. Resist inferring scale from server counts.",
@@ -405,6 +406,17 @@
       ],
       "what_it_is": "Smartphone screen-share game streaming with avatars (エモモ) and live games. The company calls it Japan's largest smartphone game streaming platform: 5.7 million cumulative streamers and about 30% of active users also stream, both company figures. Matters because a large slice of Japanese mobile play is broadcast here and on no platform the global trackers measure.",
       "link": "https://www.mirrativ.com/"
+    },
+    {
+      "slug": "hype-games",
+      "name": "Hype Games",
+      "category": "Top-up and marketplace",
+      "owner": "Level Up! Interactive Ltda. (São Paulo)",
+      "markets": [
+        "BR"
+      ],
+      "what_it_is": "A Brazilian digital-goods store for gift cards, game keys and in-game currency (PlayStation, Xbox, Nintendo, Google Play, Free Fire, PUBG), paid by Pix, boleto or card in up to six interest-free instalments. It says it has been online since 2016 as an official partner of the platforms it sells for, and publishes no sales or user figures.",
+      "link": "https://hype.games/br"
     }
   ],
   "genres": [

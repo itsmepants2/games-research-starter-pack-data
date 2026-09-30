@@ -1,12 +1,12 @@
 # Delightful's Game Research Starter Pack — data
 
-A directory of the press, institutions, datasets, media, people and communities behind the video games industry across **ten markets**, plus the trends, platforms and genres that frame them.
+A directory of the press, institutions, datasets, media, people and communities behind the video games industry across **eleven markets**, plus the trends, platforms and genres that frame them.
 
-**936 sources. 10 markets. 38 trends. 35 platforms. 30 genres.** Every source was opened and read before its description was written.
+**957 sources. 11 markets. 38 trends. 36 platforms. 30 genres.** Every source was opened and read before its description was written.
 
 The site is at **https://games.thisisdelightful.com** — this repository is the data behind it, in the same files the site offers for download.
 
-Directory last updated 28 September 2026.
+Directory last updated 30 September 2026.
 
 ## Licence
 
@@ -27,7 +27,7 @@ Read this before building on the data. It is the same warning the site leads wit
 - **Every source was opened and read** before its description was written.
 - **What a source claims is not checked.** A number reached through this data carries the authority of the outlet that published it and no more.
 - **Nothing here is scored or ranked.** Row order is not a judgement.
-- **Market-size figures are NOT comparable across markets.** Ten markets publish on ten different bases, in different years, against different definitions of a player. Putting them in one chart produces a chart that means nothing.
+- **Market-size figures are NOT comparable across markets.** Eleven markets publish on eleven different bases, in different years, against different definitions of a player. Putting them in one chart produces a chart that means nothing.
 - **The industry has no shared genre taxonomy.** Two datasets that appear to describe the same thing often do not. The genres here are the labels platforms use, not a scheme imposed over them.
 
 ## The files
@@ -38,33 +38,33 @@ There is no ID column. Rows are identified by name, and row order is export orde
 
 | File | Rows | What it is |
 |---|---|---|
-| [`data/sources.csv`](data/sources.csv) | 936 | Every source in the directory: outlet, institution, dataset, podcast, book, person or community, with what it lets you find out, who owns it, what it costs, which markets it covers and what to watch for. |
-| [`data/sources.json`](data/sources.json) | 936 | The same rows, as JSON. |
-| [`data/markets.json`](data/markets.json) | 10 | Per-market claims and population figures, nested. Every claim carries the source and link it came from; every population figure carries the definition saying who was counted. |
+| [`data/sources.csv`](data/sources.csv) | 957 | Every source in the directory: outlet, institution, dataset, podcast, book, person or community, with what it lets you find out, who owns it, what it costs, which markets it covers and what to watch for. |
+| [`data/sources.json`](data/sources.json) | 957 | The same rows, as JSON. |
+| [`data/markets.json`](data/markets.json) | 11 | Per-market claims and population figures, nested. Every claim carries the source and link it came from; every population figure carries the definition saying who was counted. |
 | [`data/trends.csv`](data/trends.csv) | 38 | The trends currently moving the industry, with stage, category, place on the Three Horizons and the markets each lands in. |
 | [`data/trend-reading.csv`](data/trend-reading.csv) | 113 | The further reading attached to each trend. One row per link. |
 | [`data/trends.json`](data/trends.json) | 38 | Trends with their reading and their sourced claims attached. |
-| [`data/platforms.csv`](data/platforms.csv) | 35 | Storefronts, consoles, livestreaming and UGC platforms, with who owns each. |
+| [`data/platforms.csv`](data/platforms.csv) | 36 | Storefronts, consoles, livestreaming and UGC platforms, with who owns each. |
 | [`data/genres.csv`](data/genres.csv) | 30 | Genre definitions, local-language terms and subgenres. |
 | [`data/example-games.csv`](data/example-games.csv) | 90 | The games named as examples of each genre. |
 | [`data/landscape.json`](data/landscape.json) | — | Platforms and genres with their example games. |
-| [`data/searching-tips.csv`](data/searching-tips.csv) | 39 | Search techniques, each with a query you can paste and the markets it applies to. |
-| [`data/searching-tips.json`](data/searching-tips.json) | 39 | The same rows, as JSON. |
+| [`data/searching-tips.csv`](data/searching-tips.csv) | 41 | Search techniques, each with a query you can paste and the markets it applies to. |
+| [`data/searching-tips.json`](data/searching-tips.json) | 41 | The same rows, as JSON. |
 | [`data/vocabulary.csv`](data/vocabulary.csv) | 213 | Every value each filter can take, and how many rows carry it. **Read this before building on the data** — it is the coverage record, and it says where the directory is thin. |
 | [`data/vocab.json`](data/vocab.json) | — | The same counts, nested by facet. |
 | [`games-research-starter-pack.xlsx`](games-research-starter-pack.xlsx) | — | Every table as one workbook, a sheet each, filters already on. |
 
 ## Markets covered
 
-Canada · China · France · Germany · Italy · Japan · South Korea · MENA · United Kingdom · United States
+Brazil · Canada · China · France · Germany · Italy · Japan · South Korea · MENA · United Kingdom · United States
 
-Brazil and India are next. Nine further markets — Australia, Spain, Mexico, Netherlands, Poland, Turkey, Taiwan and others — have source rows but no full profile yet; `vocabulary.csv` gives the counts.
+India is next. Nine further markets — Australia, Spain, Mexico, Netherlands, Poland, Turkey, Taiwan and others — have source rows but no full profile yet; `vocabulary.csv` gives the counts.
 
 ## Using it with a language model
 
 The files are small enough to hand to a model directly, and `sources.csv` is the one to start with. Two things worth putting in the prompt:
 
-- **Ask it to quote rows rather than summarise them.** A model handed 936 rows in a chat window starts summarising, and summarising is where invented rows come from.
+- **Ask it to quote rows rather than summarise them.** A model handed 957 rows in a chat window starts summarising, and summarising is where invented rows come from.
 - **Tell it not to compare market-size figures.** See the warning above; it is the mistake this data makes easiest.
 
 The site's [data and download page](https://games.thisisdelightful.com/doc/data-and-download) carries a field-by-field dictionary and several ready-made prompts.

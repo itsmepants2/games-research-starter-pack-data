@@ -1,30 +1,31 @@
 facet,within_group,value,rows
-medium,,News outlet,322
-medium,,Organisation,132
+medium,,News outlet,325
+medium,,Organisation,142
 medium,,Forum or community,96
-medium,,Video channel,63
-medium,,Person,62
+medium,,Person,65
+medium,,Video channel,64
 medium,,Data tool,50
-medium,,Podcast,48
-medium,,Book or paper,41
+medium,,Podcast,49
+medium,,Book or paper,42
 medium,,Company disclosure,38
-medium,,Report or document,34
-medium,,Newsletter,27
+medium,,Report or document,35
+medium,,Newsletter,28
 medium,,Research firm,16
 medium,,Link list,7
-group,,Press,349
-group,,Media,152
-group,,Institutions,149
+group,,Press,353
+group,,Institutions,160
+group,,Media,155
 group,,Data,121
 group,,Communities,96
-group,,People,69
+group,,People,72
 markets,,US,174
 markets,,Global,153
 markets,,JP,139
 markets,,KR,86
+markets,,Not market specific,64
 markets,,UK,63
-markets,,Not market specific,63
 markets,,DE,49
+markets,,BR,39
 markets,,FR,37
 markets,,CN,34
 markets,,MENA,24
@@ -32,7 +33,6 @@ markets,,IT,24
 markets,,SEA,23
 markets,,CA,21
 markets,,Nordics,20
-markets,,BR,19
 markets,,IN,19
 markets,,MX,18
 markets,,ES,18
@@ -42,16 +42,17 @@ markets,,AU,12
 markets,,PL,12
 markets,,TW,12
 markets,,EU,8
-markets,,LATAM,4
+markets,,LATAM,5
 markets,,Asia,2
 markets,,BE,1
 market_kind,profiled,US,174
 market_kind,scope,Global,153
 market_kind,profiled,JP,139
 market_kind,profiled,KR,86
+market_kind,scope,Not market specific,64
 market_kind,profiled,UK,63
-market_kind,scope,Not market specific,63
 market_kind,profiled,DE,49
+market_kind,profiled,BR,39
 market_kind,profiled,FR,37
 market_kind,profiled,CN,34
 market_kind,profiled,MENA,24
@@ -59,7 +60,6 @@ market_kind,profiled,IT,24
 market_kind,tagged,SEA,23
 market_kind,profiled,CA,21
 market_kind,tagged,Nordics,20
-market_kind,tagged,BR,19
 market_kind,tagged,IN,19
 market_kind,tagged,MX,18
 market_kind,tagged,ES,18
@@ -69,16 +69,16 @@ market_kind,tagged,AU,12
 market_kind,tagged,PL,12
 market_kind,tagged,TW,12
 market_kind,tagged,EU,8
-market_kind,tagged,LATAM,4
+market_kind,tagged,LATAM,5
 market_kind,tagged,Asia,2
 market_kind,tagged,BE,1
-language,,English,540
+language,,English,542
 language,,Japanese,119
 language,,Korean,75
 language,,German,51
 language,,French,50
-language,,Spanish,46
-language,,Portuguese,24
+language,,Spanish,47
+language,,Portuguese,44
 language,,Arabic,20
 language,,Italian,20
 language,,Chinese,19
@@ -109,35 +109,35 @@ format,Data,Corporate filings,5
 format,Data,Sales tracking,4
 format,Data,Sector index,1
 format,Institutions,Industry association,34
-format,Institutions,Government agency,16
-format,Institutions,Report or data series,12
+format,Institutions,Government agency,17
+format,Institutions,Report or data series,13
+format,Institutions,Safety and advocacy org,12
 format,Institutions,Rating body,11
-format,Institutions,Safety and advocacy org,11
-format,Institutions,Research institute,10
-format,Institutions,Esports body,9
+format,Institutions,Regulator,11
+format,Institutions,Research institute,11
+format,Institutions,Esports body,10
 format,Institutions,Learned society,8
-format,Institutions,Regulator,8
+format,Institutions,Event or awards,8
 format,Institutions,Archive or museum,7
-format,Institutions,Event or awards,6
 format,Institutions,Union or worker organisation,5
 format,Institutions,Parent guidance platform,4
 format,Institutions,Regulation or law,4
-format,Institutions,Funding body,2
+format,Institutions,Funding body,3
 format,Institutions,Cultural institution,1
 format,Institutions,Conference proceedings,1
-format,Press,Games news site,80
+format,Press,Games news site,81
 format,Press,Tech news site,38
 format,Press,National daily,35
-format,Press,Trade press,26
+format,Press,Trade press,27
 format,Press,Broadcaster,25
 format,Press,Magazine or weekly,24
 format,Press,Culture and entertainment outlet,21
 format,Press,Games magazine,14
+format,Press,Desk or vertical of a larger outlet,13
 format,Press,Esports news site,13
-format,Press,Desk or vertical of a larger outlet,12
 format,Press,Digital news outlet,11
+format,Press,Journalist newsletter,10
 format,Press,Analyst newsletter,10
-format,Press,Journalist newsletter,9
 format,Press,Business daily,8
 format,Press,Wire agency,6
 format,Press,Creator-led outlet,6
@@ -146,7 +146,7 @@ format,Press,Developer newsletter,3
 format,Press,Personal newsletter,3
 format,Press,Academic newsletter,2
 format,Media,Let's Play and playthrough,21
-format,Media,News and roundup,16
+format,Media,News and roundup,17
 format,Media,Criticism and analysis,13
 format,Media,Video essays and analysis,11
 format,Media,News and industry reporting,9
@@ -156,10 +156,10 @@ format,Media,Academic (readable),9
 format,Media,Reviews and first impressions,8
 format,Media,Academic monograph,7
 format,Media,"Creation, modding and game dev",6
+format,Media,Industry journalism,6
+format,Media,Community commentary,5
 format,Media,Research and academic explanation,5
-format,Media,Industry journalism,5
 format,Media,Memoir,5
-format,Media,Community commentary,4
 format,Media,Games history and preservation,4
 format,Media,Business history,3
 format,Media,Esports and competitive coverage,2
@@ -167,7 +167,7 @@ format,Media,VTuber and persona-led,2
 format,Media,Peer-reviewed journal,2
 format,Media,Industry and business,1
 format,Media,Industry yearbook,1
-format,People,Individual,62
+format,People,Individual,65
 format,People,List,7
 format,Communities,Subreddit,53
 format,Communities,Forum,21
@@ -180,9 +180,9 @@ format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,434
-cost,,Paid,54
-cost,,Freemium,50
+cost,,Free,447
+cost,,Paid,55
+cost,,Freemium,51
 cost,,Unknown,7
 trend_stage,,Dominant,15
 trend_stage,,Emerging,10
@@ -194,21 +194,21 @@ trend_category,,Platform & distribution,7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,4
 trend_category,,Technology,3
-coverage,sources,slug,936
-coverage,sources,name,936
-coverage,sources,group,936
-coverage,sources,medium,936
-coverage,sources,format,936
-coverage,sources,what_it_lets_you_find_out,936
-coverage,sources,markets,936
-coverage,sources,language,936
-coverage,sources,cost,545
-coverage,sources,link,936
-coverage,sources,extra_links,0
-coverage,sources,owner,511
-coverage,sources,ownership_note,124
-coverage,sources,beat,69
-coverage,sources,where_they_post,69
-coverage,sources,year,39
-coverage,sources,isbn,38
-coverage,sources,audience,63
+coverage,sources,slug,957
+coverage,sources,name,957
+coverage,sources,group,957
+coverage,sources,medium,957
+coverage,sources,format,957
+coverage,sources,what_it_lets_you_find_out,957
+coverage,sources,markets,957
+coverage,sources,language,957
+coverage,sources,cost,560
+coverage,sources,link,957
+coverage,sources,extra_links,10
+coverage,sources,owner,524
+coverage,sources,ownership_note,131
+coverage,sources,beat,72
+coverage,sources,where_they_post,72
+coverage,sources,year,40
+coverage,sources,isbn,39
+coverage,sources,audience,64

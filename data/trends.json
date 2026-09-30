@@ -2694,12 +2694,12 @@
       {
         "section": "Status",
         "kind": "Event",
-        "claim": "The data protection authority ordered Discord to suspend its livestreaming tools within three business days, until it can show effective protections for minors. Discord complied on 17 August 2026.",
+        "claim": "The data protection authority ordered Discord on 12 August 2026 to suspend its livestreaming and video tools, and Discord says it complied on 17 August. On 24 September the authority refused Discord's request to restore them, and the company's appeal goes to the authority's board, with the tools suspended until it rules.",
         "card_text": "Discord livestreams suspended",
         "year": "2026",
         "market": "BR",
-        "source": "Associated Press (17 August 2026)",
-        "link": "https://www.yahoo.com/news/us/articles/discord-halts-livestreams-brazil-watchdog-222012394.html",
+        "source": "O Tempo, relaying Folhapress (25 September 2026)",
+        "link": "https://www.otempo.com.br/brasil/2026/9/25/discord-anpd-nega-volta-das-lives-no-brasil-e-cobra-provas-de-bloqueio",
         "source_slug": ""
       },
       {
@@ -3481,7 +3481,7 @@
       {
         "section": "Status",
         "kind": "Event",
-        "claim": "Loot boxes are banned in games that under-18s can access, with fines of up to 10% of a company's Brazilian revenue.",
+        "claim": "In force since 17 March 2026. A game under-18s can access must switch paid loot boxes off for players not proven adult, or offer a version without them. Fines reach 10% of a company's Brazilian revenue.",
         "card_text": "In force",
         "year": "2026",
         "market": "BR",
@@ -3646,7 +3646,7 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Leon Xiao, who reviews loot box rules each year, argues that bans for under-18s are almost certainly unenforceable. Belgium's failed, he writes, because its regulator had little or no resources to monitor and enforce the law. Brazil has yet to say how it will check ages.",
+        "claim": "Leon Xiao, who reviews loot box rules each year, argues that bans for under-18s are almost certainly unenforceable. Belgium's failed, he writes, because its regulator had little or no resources to monitor and enforce the law.",
         "card_text": "Bans have not been enforced",
         "year": "2025",
         "market": "",
@@ -3687,6 +3687,7 @@
     "horizon_group": null,
     "horizon_line": "Comes back every time a new worry about children and screens arrives.",
     "markets": [
+      "BR",
       "CN",
       "EU",
       "IN",
@@ -3817,6 +3818,17 @@
         "market": "EU",
         "source": "European Commission, The KIDS Act explained (17 September 2026)",
         "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
+        "source_slug": ""
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Since 17 March 2026, games and other online services that children are likely to use must give parents tools to limit and monitor time of use, with default settings at the highest level of protection. The law sets no limit on play itself.",
+        "card_text": "No cap: parental time limits required",
+        "year": "2026",
+        "market": "BR",
+        "source": "Law 15211 (Brazil), article 17",
+        "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm",
         "source_slug": ""
       },
       {
@@ -4224,6 +4236,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "A provisional measure signed by President Lula on 25 September 2026 bans fixed-odds betting in Brazil, on sports and on online games of chance alike, and every form of betting advertising and sponsorship. Licensed operators must go offline within ten days, and sponsors' signs must come down in the same period.",
+        "card_text": "Brazil bans betting and betting sponsorship",
+        "year": "2026",
+        "market": "",
+        "source": "Provisional Measure 1394 (Brazil)",
+        "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1394.htm",
+        "source_slug": ""
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "John Needham, who runs esports at Riot, argues that fans already bet billions on Riot's games, mostly with unregulated operators. Approving sponsors, he says, steers that activity to bookmakers Riot has vetted, and a share of Riot's income from it goes to lower-tier teams.",
@@ -4314,6 +4337,17 @@
       {
         "section": "What to watch",
         "kind": "Event",
+        "claim": "Congress's deliberation period on the provisional measure runs to 23 November 2026, with an urgency regime from 9 November. The thing to watch is whether Congress converts it into law, amends it or lets it lapse, and with it the ban on betting sponsorship.",
+        "card_text": "Whether Congress keeps Brazil's betting ban",
+        "year": "2026",
+        "market": "",
+        "source": "Congresso Nacional, MPV 1394/2026",
+        "link": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175871",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
         "claim": "The 2027 season. Riot's post limits betting sponsorship 'initially' to top-tier teams in two regions. The next step would be an extension to Asia or to lower tiers.",
         "card_text": "Whether Riot widens the program",
         "year": "2027",
@@ -4333,6 +4367,7 @@
     "horizon_group": null,
     "horizon_line": "The paradox that keeps returning: less data about children means more checks on everyone.",
     "markets": [
+      "BR",
       "EU",
       "UK",
       "US"
@@ -4427,6 +4462,17 @@
         "source": "European Commission, The KIDS Act explained (17 September 2026)",
         "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
         "source_slug": ""
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Since 17 March 2026, app stores and operating systems must check users' ages and pass an age signal to apps. A service selling anything barred to under-18s, loot boxes included, may no longer accept a user's own statement of age. The data protection authority enforces the law.",
+        "card_text": "Required, and self-declaration does not count",
+        "year": "2026",
+        "market": "BR",
+        "source": "Law 15211 (Brazil), via the Justice Ministry's ECA Digital FAQ",
+        "link": "https://www.gov.br/mj/pt-br/assuntos/sua-protecao/sedigi/eca-digital/perguntas_respostas_eca_digital_30072026.pdf",
+        "source_slug": "classind-mjsp"
       },
       {
         "section": "Timeline",
@@ -4692,6 +4738,7 @@
     "horizon_group": null,
     "horizon_line": "A long-running debate whose unit of measure is finally changing.",
     "markets": [
+      "BR",
       "CN",
       "Global",
       "JP",
@@ -4811,6 +4858,17 @@
         "source": "National Centre for Gaming Disorders staff, BJPsych Open (August 2024)",
         "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11738663/",
         "source_slug": "nhs-national-centre-for-gaming-disorders"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Since a decree of 18 March 2026, services that children are likely to use, games included, must have mechanisms to prevent excessive, problematic or compulsive use. The decree names hidden stopping points, content that starts unasked, rewards for time spent and excessive notifications. It sets no limit on hours.",
+        "card_text": "A duty to prevent compulsive use",
+        "year": "2026",
+        "market": "BR",
+        "source": "Decree 12880 (Brazil), article 9",
+        "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12880.htm",
+        "source_slug": ""
       },
       {
         "section": "Timeline",
@@ -7282,6 +7340,7 @@
     "horizon_group": "rewriting-rules",
     "horizon_line": "Six years of lawsuits have cut the platform tax by a few points. So far Apple and Google are containing the rest.",
     "markets": [
+      "BR",
       "EU",
       "JP",
       "KR",
@@ -7443,6 +7502,17 @@
         "source": "The Korea Herald, Jie Ye-eun (13 August 2026)",
         "link": "https://www.koreaherald.com/article/10840244",
         "source_slug": "korea-herald"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Apple has allowed rival app stores, outside payment and links out in Brazil since 18 June 2026, under an agreement with the competition regulator CADE. It cut its store's commission to 10% or 21%, plus 5% when its own payment system is used.",
+        "card_text": "Opened by a competition settlement",
+        "year": "2026",
+        "market": "BR",
+        "source": "Apple Newsroom (18 June 2026)",
+        "link": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+        "source_slug": ""
       },
       {
         "section": "Timeline",
@@ -7697,6 +7767,7 @@
     "horizon_group": "makes-room",
     "horizon_line": "Discovery follows creators, wherever they are.",
     "markets": [
+      "BR",
       "Global",
       "KR"
     ],
@@ -7895,6 +7966,17 @@
         "market": "",
         "source": "Streams Charts, Q4 2025 global livestreaming landscape (26 January 2026)",
         "link": "https://streamscharts.com/news/q4-2025-global-livestreaming-landscape",
+        "source_slug": "streams-charts"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In Streams Charts' ranking of Brazilian streamers by hours watched in 2025, five of the top ten stream on Twitch, YouTube and Kick, among them Gaules, second with 95,540,925 hours, and Baiano, fourth with 57,655,702. Streams Charts, which sells cross-platform streaming analytics, says combining platforms is what puts such streamers in the ranking, and that a platform-by-platform breakdown 'would paint a very different picture.' In Brazil, it writes, 'multistreaming is not a bonus tactic; it is a core competitive advantage.'",
+        "card_text": "Brazil's top streamers use three platforms at once",
+        "year": "2025",
+        "market": "",
+        "source": "Streams Charts, top Brazilian streamers of 2025 (18 December 2025)",
+        "link": "https://streamscharts.com/news/top-brazilian-streamers-2025",
         "source_slug": "streams-charts"
       },
       {
@@ -9261,12 +9343,12 @@
       {
         "section": "Status",
         "kind": "Event",
-        "claim": "A bill filed in July 2026 would require sellers to say at the point of sale that a game depends on servers, to support it for at least two years, and to give 180 days' notice of a shutdown, followed by an offline version, tools for players to run their own servers, or a partial refund.",
+        "claim": "A bill filed on 9 July 2026 would require sellers to say at the point of sale that a game depends on servers, to support it for at least two years, and to give 180 days' notice of a shutdown, followed by an offline version, tools for players to run their own servers, or a partial refund. The lower house approved urgency for it on 15 July, and it is listed as ready for a floor vote.",
         "card_text": "A bill, not yet law",
         "year": "2026",
         "market": "BR",
-        "source": "TecMundo, Mateus Mognon (10 July 2026)",
-        "link": "https://www.estadao.com.br/tecmundo/voxel/504819-projeto-de-lei-inspirado-no-stop-killing-games-e-apresentado-no-brasil-para-evitar-que-jogos-morram/",
+        "source": "Câmara dos Deputados, PL 3612/2026",
+        "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638495",
         "source_slug": ""
       },
       {
@@ -10532,6 +10614,7 @@
     "horizon_line": "The old coverage and discovery layer is hollowing out.",
     "markets": [
       "AU",
+      "BR",
       "Global",
       "UK",
       "US"
@@ -10666,6 +10749,18 @@
         "link": "https://aftermath.site/giant-bomb-sold-new-owners-jeff-fandom/",
         "source_slug": "",
         "period": "Its own staff"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "A Brazilian newspaper group. In October 2025 it bought No Zebra Network (NZN), until then controlled by the investment firm H.I.G. Capital. NZN owns TecMundo and its games desk Voxel, now Voxl.",
+        "card_text": "TecMundo, Voxl",
+        "year": "2025",
+        "market": "BR",
+        "source": "TecMundo, Igor Almenara Carneiro (1 October 2025)",
+        "link": "https://www.estadao.com.br/tecmundo/big-techs/407482-nzn-dona-do-tecmundo-e-adquirida-pelo-estadao/",
+        "source_slug": "",
+        "period": "Estadão"
       },
       {
         "section": "Timeline",

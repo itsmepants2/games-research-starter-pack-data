@@ -396,5 +396,25 @@
     "example": "A publisher help page or an esports federation site carries the live invite. BATTLEGROUNDS MOBILE INDIA and ESFI both do",
     "why": "Servers are unindexable and unenumerable, invite links rot, and a dead server looks identical to a live one from outside. Treat any invite older than a few months as probably dead. Server content is texture, never citation",
     "asked_as": "Find the official Discord for a game or community. Discord invite links that rot."
+  },
+  {
+    "tip": "Check ClassInd's games consultation for titles rated before they are announced, because Brazil publishes its rating decisions",
+    "markets": [
+      "BR"
+    ],
+    "how": "Open the Justice Ministry's ClassInd portal, go to the games consultation (Consulta, Jogos) and read the newest entries, or search news for a title together with \"classificação indicativa\". Screenshot anything unannounced, because entries can be taken down.",
+    "example": "classindportal.mj.gov.br/consulta-jogos · \"classificação indicativa\" \"Metroid Ravenous\"",
+    "why": "The ministry publishes its rating decisions, recorded in ordinances (portarias), so a title can surface there before its announcement. Omelete reported on 1 July 2026 that Metroid Ravenous appeared in the ministry's system in an ordinance of 30 June 2026, before Nintendo had announced it. Caveat: that entry was then removed from the site, a listing may name no platform, the portal's own forms ask \"O jogo foi anunciado publicamente?\" (has the game been publicly announced?), and a rating is not a release date.",
+    "asked_as": "Unannounced games rated in Brazil. Did the Brazilian rating board leak this game. Where to find Brazil's age ratings before a release. I'm researching games in Brazil, where should I look and what should I be careful about."
+  },
+  {
+    "tip": "Read a Brazilian law in the Planalto's own text, because it strikes through what later acts revoked and names the act",
+    "markets": [
+      "BR"
+    ],
+    "how": "Open the law on planalto.gov.br, under ccivil_03, rather than a news summary or the original PDF. Revoked or rewritten passages stay on the page struck through, each followed by a note naming the act that changed it, so search the page for Revogado and Redação dada.",
+    "example": "planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14790.htm · the 2023 betting law, its articles marked \"Revogado pela Medida Provisória nº 1.394, de 2026\"",
+    "why": "Brazilian games rules change by amendment, decree and provisional measure, sometimes within months, and the Planalto's page shows what is in force with its history beside it. Caveat: a provisional measure loses effect from the start if Congress does not convert it into law within sixty days, extendable once, so check its record on congressonacional.leg.br before relying on what it struck through. The site is slow and sometimes refuses scripted requests.",
+    "asked_as": "Is this Brazilian law still in force. Where to read the current text of a Brazilian law. What the betting ban changed. I'm researching games in Brazil, where should I look and what should I be careful about."
   }
 ]

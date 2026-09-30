@@ -6628,6 +6628,291 @@
     "audience": []
   },
   {
+    "slug": "cetic-br-tic-domicilios-and-tic-kids-online-brasil",
+    "name": "Cetic.br (NIC.br): TIC Domicílios and TIC Kids Online Brasil",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Research institute",
+    "what_it_lets_you_find_out": "Brazil's standing surveys of internet use, run at NIC.br for the Brazilian Internet Steering Committee (CGI.br). TIC Domicílios asks internet users aged 10 and over whether they played online, 38 percent in 2025 and unchanged since 2023, and from 2025 whether they bet online, while TIC Kids Online Brasil tracks children's and adolescents' purchases in online games. Face-to-face household samples with free tables in Portuguese, English and Spanish, but games are one line in a list of online activities, with no detail on what was played.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "link": "https://cetic.br/pt/pesquisa/domicilios/indicadores/",
+    "extra_links": [
+      "https://cetic.br/pt/pesquisa/kids-online/indicadores/",
+      "https://cetic.br/pt/tics/domicilios/2025/individuos/C7/"
+    ],
+    "owner": "NIC.br (Núcleo de Informação e Coordenação do Ponto BR), for CGI.br",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "ibge-pnad-continua-and-sistema-de-informacoes-e-indicadores",
+    "name": "IBGE (Instituto Brasileiro de Geografia e Estatística): PNAD Contínua and Sistema de Informações e Indicadores Culturais",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Government agency",
+    "what_it_lets_you_find_out": "The national statistics office. Its PNAD Contínua household survey asks internet users aged 10 and over what they went online for, and in 2024 30.3 percent had gone online to play in the previous three months, 71.8 percent at 10 to 14, figures published in the Sistema de Informações e Indicadores Culturais (SIIC) every two years beside culture-sector jobs, public spending and trade. Its business statistics cannot yet pick out games studios, which share an activity code with software firms until the code the Marco Legal dos Games provides for is created.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://www.ibge.gov.br/estatisticas/multidominio/cultura-recreacao-e-esporte/9388-indicadores-culturais.html",
+    "extra_links": [
+      "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/b6c6d2b70f490c4eba9e52403fcec31b.pdf"
+    ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "anpd",
+    "name": "ANPD (Agência Nacional de Proteção de Dados)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Regulator",
+    "what_it_lets_you_find_out": "Brazil's data protection agency, which a March 2026 decree charged with applying the ECA Digital (Lei 15.211/2025), in force since 17 March 2026, regulating part of it and enforcing it. The law's only express prohibition on games is loot boxes for children and adolescents, and it requires moderation and parental controls in games that let children interact with other users. The agency's ECA Digital page carries the decree, the guidance and the government's question-and-answer document, with enforcement actions due from January 2027; age ratings stay with the Justice Ministry's ClassInd, whose ombudsman takes complaints about them.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://www.gov.br/anpd/pt-br/assuntos/eca-digital",
+    "extra_links": [
+      "https://www.gov.br/anpd/pt-br/assuntos/eca-digital/perguntas_respostas_eca_digital_30072026.pdf/@@display-file/file"
+    ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "secretaria-de-premios-e-apostas-ministerio-da-fazenda",
+    "name": "Secretaria de Prêmios e Apostas (SPA), Ministério da Fazenda",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Regulator",
+    "what_it_lets_you_find_out": "The Finance Ministry secretariat responsible for fixed-odds betting, lotteries and prize promotions, which authorises, supervises and sanctions the companies in them and lists the betting companies it authorised: the place to check whether a betting sponsor of a team, tournament or creator held a licence. A provisional measure of 25 September 2026 banned fixed-odds betting, gave licensed operators ten days to go offline and ends every licence thirty days after publication. Its remit is betting and lotteries, not games.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas",
+    "extra_links": [
+      "https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas/transparencia-ativa-processos-de-autorizacao-de-apostas-de-quota-fixa"
+    ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "oportunidades-de-desenvolvimento-apos-o-marco-legal-de-games",
+    "name": "Oportunidades de desenvolvimento após o Marco Legal de Games (Ministério da Cultura, 2026)",
+    "group": "Institutions",
+    "medium": "Report or document",
+    "format": "Report or data series",
+    "what_it_lets_you_find_out": "The Ministry of Culture's own map of the public routes for financing and promoting games after Law 14.852/2024 defined them as interactive audiovisual: the Lei Rouanet, now open to games at up to 1.5 million reais for a complete game, the Fundo Setorial do Audiovisual's PRODAV 14 lines of 2016 and 2017, and state and city calls such as São Paulo's ProAC and Spcine's, with the history of cultural policy for games in Brazil. Written by two consultants for the ministry whose instruments it assesses, while the law's regulation was still under discussion, so check each instrument's current rules with the body that runs it.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://www.gov.br/cultura/pt-br/centrais-de-conteudo/publicacoes/game-e-cultura-2013-oportunidades/Oportunidadesdedesenvolvimento.pdf",
+    "extra_links": [],
+    "owner": "Ministério da Cultura, Secretaria do Audiovisual; written by Pedro Santoro Zambon and Ana Heloiza Vita Pessotto, with the OEI",
+    "ownership_note": "Commissioned by the ministry that runs several of the instruments it assesses.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "spcine-games-programme",
+    "name": "Spcine: games programme",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Funding body",
+    "what_it_lets_you_find_out": "The games department of Spcine, São Paulo city's film and audiovisual company, which funds the production of commercial games by studios in the city. Its page lists the projects of its incubator Spgame_Start, which it calls the first public games incubator in Brazil and whose call gave eight projects 50,000 reais each for a prototype, with their teams, and describes its playtest lab, Spgame_Lab, and its game design lab. It supports only São Paulo's own games ecosystem.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://spcine.com.br/spcine-game/",
+    "extra_links": [],
+    "owner": "Prefeitura de São Paulo",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "gamescom-latam-and-big-festival",
+    "name": "gamescom latam and BIG Festival",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Event or awards",
+    "what_it_lets_you_find_out": "Latin America's edition of gamescom, held in São Paulo in late April, which since 2024 has hosted BIG Festival, the independent games festival first held in 2012. The 2026 edition ran 29 April to 3 May at Distrito Anhembi, where the BIG Festival and gamescom latam awards gave prizes in 13 categories, seven chosen by visitors, and the 2027 edition is dated 22 to 25 April. Its attendance and business figures are the organiser's own.",
+    "markets": [
+      "BR",
+      "LATAM"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://latam.gamescom.global/en/",
+    "extra_links": [
+      "https://latam.gamescom.global/en/gamescom-latam-big-festival-gamescom-latam-awards-recognize-the-best-of-the-2026-edition-on-the-final-day/"
+    ],
+    "owner": "Koelnmesse, as a brand of game, the German games industry association",
+    "ownership_note": "Run by a German trade fair company under the German trade body's gamescom brand.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "brasil-game-show",
+    "name": "Brasil Game Show (BGS)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Event or awards",
+    "what_it_lets_you_find_out": "The consumer games fair in São Paulo, with exhibitors, championships, indie games, talks, a conference and a business portal alongside the public show; the 2026 edition runs 9 to 12 October at Distrito Anhembi. It bills itself as the largest games fair in Latin America, which is its own claim.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://www.brasilgameshow.com.br/",
+    "extra_links": [
+      "https://www.brasilgameshow.com.br/local-e-como-chegar/"
+    ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "safernet-brasil",
+    "name": "SaferNet Brasil",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Safety and advocacy org",
+    "what_it_lets_you_find_out": "A private non-profit association founded in 2005 that runs Brazil's national channel for reporting crimes and human rights violations online, a helpline and a public indicators site, under cooperation agreements with bodies such as the Federal Public Prosecutor's Office. It works across platforms, as in the technical documentation on Discord it sent to the authorities, and covers the whole internet, not games in particular.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://new.safernet.org.br/",
+    "extra_links": [
+      "https://indicadores.safernet.org.br/"
+    ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "cbdel",
+    "name": "CBDEL (Confederação Brasileira de Desportos Eletrônicos)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Esports body",
+    "what_it_lets_you_find_out": "A national esports confederation that affiliates teams and athletes and sanctions tournaments, championships and cups, and says it is the exclusive Brazilian member of IESF, WESCO and PAMESCO. Federation-politics territory: the affiliations are its own claims, and IESF's member list did not load to confirm them.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://cbdel.com.br/",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "cade",
+    "name": "CADE (Conselho Administrativo de Defesa Econômica)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Regulator",
+    "what_it_lets_you_find_out": "Brazil's competition authority, whose news pages summarise its decisions with the case number to look up in its public case search. Two reach games: its general superintendency cleared Microsoft's purchase of Activision Blizzard without restrictions on 5 October 2022, finding that an exclusive Activision catalogue, Call of Duty included, would not substantially reduce competition, and its tribunal approved Apple's settlement on 23 December 2025, under which Apple must allow alternative app stores, alternative in-app payment and offers outside the app on iOS in Brazil for three years once the terms bind developers, on pain of a fine of up to 150 million reais. The releases are summaries, and the Apple one said the full agreement would follow.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://www.gov.br/cade/pt-br",
+    "extra_links": [
+      "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-aprova-sem-restricoes-aquisicao-da-activision-blizzard-pela-microsoft",
+      "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-forma-maioria-pela-homologacao-de-tcc-em-investigacao-sobre-praticas-da-apple-no-ios"
+    ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "this-week-in-video-games",
     "name": "This Week in Video Games",
     "group": "Press",
@@ -14396,6 +14681,80 @@
     "audience": []
   },
   {
+    "slug": "ign-brasil",
+    "name": "IGN Brasil",
+    "group": "Press",
+    "medium": "News outlet",
+    "format": "Games news site",
+    "what_it_lets_you_find_out": "The Brazilian edition of IGN: release news and reviews in Portuguese, a Descontos desk tracking prices in reais at Amazon and Mercado Livre, and video shows on its own YouTube channel. Games share the front page with film, TV, anime and tech, and the front page is led by international releases more than by the Brazilian industry.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "",
+    "link": "https://br.ign.com/",
+    "extra_links": [
+      "https://www.youtube.com/@IGNBrasil"
+    ],
+    "owner": "Webedia Brasil (Webedia group)",
+    "ownership_note": "A site of the Webedia group, per its own footer. Webedia Brasil also publishes AdoroCinema and Tudo Gostoso, and IGN is a Ziff Davis brand.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "voxl",
+    "name": "Voxl",
+    "group": "Press",
+    "medium": "News outlet",
+    "format": "Desk or vertical of a larger outlet",
+    "what_it_lets_you_find_out": "TecMundo's games desk, published as Voxl inside estadao.com.br: daily release and console news, a monthly release calendar on video, and Brazilian stories such as prices in reais and a presidential candidate's campaign game. Its owner NZN was bought by Grupo Estado in October 2025, the desk was formerly Voxel, and old tecmundo.com.br/voxel links now redirect here.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "",
+    "link": "https://www.estadao.com.br/tecmundo/voxel/",
+    "extra_links": [],
+    "owner": "Grupo Estado (O Estado de S. Paulo), since 1 October 2025",
+    "ownership_note": "Estadão bought NZN, the owner of TecMundo and Voxel, from H.I.G. Capital and holds 100 percent of it.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "the-gaming-era",
+    "name": "The Gaming Era",
+    "group": "Press",
+    "medium": "News outlet",
+    "format": "Trade press",
+    "what_it_lets_you_find_out": "Portuguese reporting on the business of games, centred on Brazil: the Abragames industry census, publishers' local deals, events and consumer surveys, alongside global stories such as studio layoffs, plus an interview column. A small founder-run outlet funded partly by readers, which describes itself as the first Brazilian news site wholly dedicated to the games business.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "",
+    "link": "https://gamingera.biz/",
+    "extra_links": [],
+    "owner": "Independent, founded in 2024 by journalists Marcelo Gimenes Vieira and Pablo Miyazawa",
+    "ownership_note": "Funded in part by readers through its TGE Pro programme on Apoia.se, and its about page carries a brand supporter's slot.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "gamedev-reports",
     "name": "GameDev Reports",
     "group": "Press",
@@ -15038,6 +15397,30 @@
     "extra_links": [],
     "owner": "Alinea Analytics",
     "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "jornal-dos-jogos",
+    "name": "Jornal dos Jogos",
+    "group": "Press",
+    "medium": "Newsletter",
+    "format": "Journalist newsletter",
+    "what_it_lets_you_find_out": "A weekly Portuguese digest of games news, releases, deals and reviews, sent every Monday at 9am Brasília time and written for Brazilian players rather than the trade. It summarises other outlets rather than reporting, and its classified section carries partner offers that can pay it affiliate commissions.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Freemium",
+    "link": "https://newsletter.jornaldosjogos.com.br/",
+    "extra_links": [],
+    "owner": "Mateus Mognon, founder and editor",
+    "ownership_note": "Its about page says partner offers may earn it affiliate commissions.",
     "beat": "",
     "where_they_post": "",
     "year": "",
@@ -16683,6 +17066,32 @@
     ]
   },
   {
+    "slug": "combo-infinito",
+    "name": "Combo Infinito",
+    "group": "Media",
+    "medium": "Video channel",
+    "format": "Community commentary",
+    "what_it_lets_you_find_out": "Daily Portuguese videos arguing through the day's games news, from console prices in Brazil to platform holders' strategy, plus reviews and live first looks, with 230 thousand subscribers on 28 September 2026. Headlines are framed as provocations and questions, so it shows what Brazilian players are arguing about rather than what is established.",
+    "markets": [
+      "Not market specific"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://www.youtube.com/@Comboinfinito",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": [
+      "Adults"
+    ]
+  },
+  {
     "slug": "whatculture-gaming",
     "name": "WhatCulture Gaming",
     "group": "Media",
@@ -17846,6 +18255,30 @@
     "audience": []
   },
   {
+    "slug": "motherchip-overloadr",
+    "name": "MotherChip - Overloadr",
+    "group": "Media",
+    "medium": "Podcast",
+    "format": "News and roundup",
+    "what_it_lets_you_find_out": "Twice-weekly Portuguese games conversation from the Overloadr team: new releases and first impressions in MotherChip, and the week's industry news in its companion show Notícias da Nave Mãe, in the same feed. Opinion-led rather than reported, and episode notes carry affiliate links to Nuuvem and Amazon.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Free",
+    "link": "https://podcasts.apple.com/br/podcast/motherchip-overloadr/id916302838",
+    "extra_links": [],
+    "owner": "Overloadr, with the B9 podcast network",
+    "ownership_note": "Episode notes carry affiliate links to Nuuvem, a store this directory lists, and to Amazon.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "power-play-video-games-politics-and-the-battle-for-global",
     "name": "Power Play: Video Games, Politics, and the Battle for Global Influence (2026)",
     "group": "Media",
@@ -18847,6 +19280,32 @@
     "where_they_post": "",
     "year": "2026 (covering 2025, annual series)",
     "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "primeiro-contato-como-os-computadores-e-games-entraram-nos",
+    "name": "Primeiro Contato: como os computadores e games entraram nos lares dos brasileiros (2025)",
+    "group": "Media",
+    "medium": "Book or paper",
+    "format": "Industry journalism",
+    "what_it_lets_you_find_out": "A journalist's history of how personal computers and video games reached Brazilian homes, from the market-reserve years to the collapse of national manufacturers when the multinationals arrived, 1980s to 2000, expanded from the B9 podcast of the same name. It stops at 2000, so it explains where the market came from rather than its current shape.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "Paid",
+    "link": "https://www.europanet.com.br/livraria/literatura/primeiro-contato",
+    "extra_links": [
+      "https://podcasts.apple.com/br/podcast/primeiro-contato/id1576368046"
+    ],
+    "owner": "Henrique Sampaio",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "2025",
+    "isbn": "9786558847823",
     "audience": []
   },
   {
@@ -20524,6 +20983,78 @@
     "ownership_note": "",
     "beat": "Japan",
     "where_they_post": "X, Gematsu",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "marcelo-gimenes-vieira",
+    "name": "Marcelo Gimenes Vieira",
+    "group": "People",
+    "medium": "Person",
+    "format": "Individual",
+    "what_it_lets_you_find_out": "Weekly reporting on the business of Brazilian games, from the Abragames industry census to publishers' local licensing, hardware makers' regional plans and consumer surveys. He founded and edits the outlet he writes for, so his reporting and The Gaming Era's are one.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "",
+    "link": "https://gamingera.biz/author/marcelo-gimenes/",
+    "extra_links": [],
+    "owner": "Founder and editor-in-chief, The Gaming Era (since 2024)",
+    "ownership_note": "",
+    "beat": "Brazil",
+    "where_they_post": "The Gaming Era",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "pablo-miyazawa",
+    "name": "Pablo Miyazawa",
+    "group": "People",
+    "medium": "Person",
+    "format": "Individual",
+    "what_it_lets_you_find_out": "An interview column on the Brazilian games business, \"Discutindo o jogo com…\", and pieces on subjects such as TecToy's pricing of the Zeenix Pro and São Paulo state's plan to fund studios, from a journalist with nearly three decades in Brazilian games and entertainment media. He co-owns The Gaming Era, where he publishes, and his pieces come months apart rather than weekly.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "",
+    "link": "https://gamingera.biz/author/pablo-miyazawa/",
+    "extra_links": [],
+    "owner": "Co-founder and columnist, The Gaming Era",
+    "ownership_note": "",
+    "beat": "Brazil",
+    "where_they_post": "The Gaming Era",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "mateus-mognon",
+    "name": "Mateus Mognon",
+    "group": "People",
+    "medium": "Person",
+    "format": "Individual",
+    "what_it_lets_you_find_out": "Brazilian games coverage from the editor of Voxel and Minha Série, the NZN group's games and series sites, collected on his own newsletter: reviews, developer interviews and first-person pieces on the Brazilian scene, such as what developers and staff told him about the 'dark side' of gamescom latam (May 2025) and how he covered Hideo Kojima's visit to Brasil Game Show 2025. Consumer coverage more than business analysis, much of it reposting work first published on Voxel, with posts months apart; he also writes the weekly Jornal dos Jogos digest.",
+    "markets": [
+      "BR"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "cost": "",
+    "link": "https://www.mognon.net/",
+    "extra_links": [],
+    "owner": "Editor, Voxel and Minha Série",
+    "ownership_note": "",
+    "beat": "Brazil",
+    "where_they_post": "Substack, Voxel",
     "year": "",
     "isbn": "",
     "audience": []

@@ -2818,5 +2818,476 @@
       "measure": "Identify as gamers",
       "definition": "About 23 million Canadians – roughly 61% of the country’s population – identify as gamers."
     }
+  },
+  {
+    "market": "BR",
+    "sections": {
+      "Standing": [
+        {
+          "kind": "Research note",
+          "claim": "Do not quote Brazil's world rank from a Brazilian source without the ranker, the basis and the year, because every rank in them relays Newzoo and the relays disagree. Abragames' 2022 industry survey calls Brazil the largest games market in Latin America and tenth in the world by revenue, citing Newzoo for 2021; Fast Company Brasil gave twelfth in August 2022, also citing Newzoo; and Abragames' 2023 survey calls Brazil fifth by online population, with an estimated 103 million players. A rank comes from Newzoo's own release, on Newzoo's basis, with its year.",
+          "card_text": "",
+          "year": "",
+          "source": "Abragames and ApexBrasil, Pesquisa da Indústria Brasileira de Games 2022, by Homo Ludens, trade body survey",
+          "link": "https://www.abragames.org/uploads/5/6/8/0/56805537/abragames-pt.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not size the Brazilian consumer market from the 13 billion reais a year in circulation, because no source for it names a publisher, a year or a method. It ran unsourced in Forbes Brasil in October 2022, in CartaCapital in September 2023 and in Diário do Comércio in July 2025, and no Abragames survey, fact sheet or white paper opened for this scan states it. Relays of Newzoo differ too: more than 2.3 billion dollars for 2021 in Abragames' 2022 fact sheet, 2.7 billion dollars for 2021 in IstoÉ Dinheiro and 2.7 billion dollars for 2022 in CartaCapital. Take a consumer figure from the analyst's own release, in its currency, with its basis and year.",
+          "card_text": "",
+          "year": "",
+          "source": "CartaCapital, 22 September 2023, national weekly",
+          "link": "https://www.cartacapital.com.br/tecnologia/setor-de-games-no-brasil-movimenta-r-13-bilhoes-por-ano-mas-ainda-sem-uma-politica-nacional-adequada/"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Research note",
+          "claim": "There is no free Brazilian consumer-spend figure to standard, so the anchor here sizes the development industry. Brazilian games studios had an estimated revenue of 251.6 million US dollars in 2022, per the 2023 Brazilian Gaming Industry Survey that GA Consulting conducted for Abragames and ApexBrasil's Brazil Games project; that is what Brazilian studios earn, not what Brazilians spend, and the survey puts it at only 10 percent of Brazilian players' consumption.",
+          "card_text": "US$251.6 million studio revenue",
+          "year": "2022",
+          "source": "Abragames and ApexBrasil, 2023 Brazilian Gaming Industry Survey by GA Consulting, trade body survey",
+          "link": "https://brazilgames.org/wp-content/uploads/2025/03/2023-relatorio-final-v4.3.3-ENG.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The studio revenue is a model whose basis changed in the 2023 edition, so it makes no growth rate with earlier years. The survey takes each respondent's revenue band at its lower value, replaces the exporters' figures with their reported exports in dollars, converts the rest at an average 5.16 reais to the dollar and adds the AppMagic-tracked revenue of studios that did not respond, and unlike the 2022 edition it counts games and services made for third parties, educational games and advergames. Its own chart sets 251.6 million dollars for 2022 beside 143.3 million for 2021 and 149.9 million for 2018 on the earlier basis, a change the survey says it made at the risk of losing direct comparison.",
+          "card_text": "",
+          "year": "2022",
+          "source": "Abragames and ApexBrasil, 2023 Brazilian Gaming Industry Survey by GA Consulting, trade body survey",
+          "link": "https://brazilgames.org/wp-content/uploads/2025/03/2023-relatorio-final-v4.3.3-ENG.pdf"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "75.3 percent of the Brazilians aged 16 to 55 that Pesquisa Game Brasil surveyed in March 2026 play digital games, down from 82.8 percent in the 2025 edition. Women are 52.8 percent of players, and 44.1 percent prefer the phone, against 24 percent the console and 21.1 percent the PC.",
+          "card_text": "",
+          "year": "2026",
+          "source": "Pesquisa Game Brasil 2026, by SX Group and Go Gamers with Blend New Research and ESPM, reported by Meio & Mensagem, 9 April 2026, marketing trade press",
+          "link": "https://www.meioemensagem.com.br/marketing/apos-pico-numero-de-jogadores-brasileiros-cai-segundo-pgb"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Quote Pesquisa Game Brasil with its edition and sample, because it publishes no headcount and its sample and findings swing between editions. It heard 14,825 people in January 2023, about 6,282 in 2025 and 7,115 aged 16 to 55 in March 2026, and found men a majority of players in 2023 and women in 2022 and 2026.",
+          "card_text": "",
+          "year": "2026",
+          "source": "Go Gamers, Pesquisa Game Brasil 2023 release, survey publisher, with its 2022 release and press reports of the 2025 and 2026 editions",
+          "link": "https://gogamers.gg/pgb-10-anos/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "38 percent of internet users aged 10 and over played online in the previous three months in TIC Domicílios 2025, as in 2023 and 2024, 45 percent of men and 31 percent of women. Among those aged 10 to 15 the share fell from 89 to 80 percent, and among those 60 and over it rose from 9 to 15.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Cetic.br (NIC.br), TIC Domicílios 2025, table C7, national household survey, with the 2023 and 2024 editions' tables",
+          "link": "https://cetic.br/pt/tics/domicilios/2025/individuos/C7/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Abragames' 2023 survey estimates 1,042 studios and 13,225 people working at them in 2022, 58 percent of the studios in the Southeast. 58 percent of developers sold abroad, mainly to the United States and Latin America, and 44 percent of studios name computers as the platform that earns them most.",
+          "card_text": "",
+          "year": "2022",
+          "source": "Abragames and ApexBrasil, Brazil Games Industry Fact Sheet 2023, trade body survey",
+          "link": "https://brazilgames.org/wp-content/uploads/2025/03/2023-fact-sheet-v1.6.2-ENGLISH-VERSION.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not read Abragames' studio chart as a growth series. Its 133, 375, 1,009 and 1,042 developers set the respondents of the 2014 and 2018 censuses beside the estimated totals of the 2022 and 2023 surveys, so the 177 percent growth since 2018 the 2023 report quotes compares one kind of count with the other.",
+          "card_text": "",
+          "year": "2022",
+          "source": "Abragames and ApexBrasil, 2023 Brazilian Gaming Industry Survey by GA Consulting, trade body survey",
+          "link": "https://brazilgames.org/wp-content/uploads/2025/03/2023-relatorio-final-v4.3.3-ENG.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Wildlife Studios led Brazil's developers on both of the trade body's measures. Abragames' 2022 survey found it the revenue leader in 2015, 2018 and 2021 among Brazilian developers with games in AppMagic's 500 top-grossing apps, and names the ten largest by LinkedIn headcount as Wildlife, Afterverse, Aquiris, Fanatee, Puga, Sioux, Kokku, Gazeus, Pipa and Tapps.",
+          "card_text": "",
+          "year": "2022",
+          "source": "Abragames and ApexBrasil, Pesquisa da Indústria Brasileira de Games 2022, by Homo Ludens, trade body survey",
+          "link": "https://www.abragames.org/uploads/5/6/8/0/56805537/abragames-pt.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Epic Games has owned a Brazilian studio since 2023. AQUIRIS, the Porto Alegre developer of Horizon Chase and Wonderbox, announced on 19 April 2023 that it was joining Epic Games as Epic Games Brasil, Epic's first studio in Latin America, to make content within Fortnite.",
+          "card_text": "",
+          "year": "2023",
+          "source": "AQUIRIS news, 19 April 2023, company announcement",
+          "link": "https://www.aquiris.com.br/news/epic-games-brasil"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Riot Games runs Brazil's League of Legends league itself, and restores it as an independent league in 2026: after a year inside the League of the Americas, the CBLOL (Campeonato Brasileiro de League of Legends) returns under its own name, with one place each at First Stand, the Mid-Season Invitational and the World Championship.",
+          "card_text": "",
+          "year": "2026",
+          "source": "LoL Esports (Riot Games), 'O CBLOL está de volta!', 29 September 2025, league organiser announcement",
+          "link": "https://lolesports.com/pt-BR/news/cblol2026"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "TecMundo and its games desk, Voxel, belong to a national newspaper group. Estadão announced on 1 October 2025 that it had bought No Zebra Network (NZN), which controls TecMundo, Voxel, Minha Série, Mega Curioso and The Brief, and now holds 100 percent of it. H.I.G. Capital had controlled NZN until then, and the price was not disclosed.",
+          "card_text": "",
+          "year": "",
+          "source": "TecMundo, 1 October 2025, the acquired company's own outlet",
+          "link": "https://www.estadao.com.br/tecmundo/big-techs/407482-nzn-dona-do-tecmundo-e-adquirida-pelo-estadao/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "A retailer owns Jovem Nerd, a geek-culture media brand whose programmes cover games among other subjects. Magazine Luiza (Magalu) announced on 14 April 2021 that it was buying Jovem Nerd, which it called the country's largest and most iconic multimedia platform for the nerd and geek audience, adding it to the technology site Canaltech, bought about six months earlier, to build audience for its advertising business, MagaluAds.",
+          "card_text": "",
+          "year": "",
+          "source": "Magazine Luiza press release, 14 April 2021, primary corporate disclosure",
+          "link": "https://ri.magazineluiza.com.br/Download.aspx?Arquivo=2aX1K2I4CFAKWzTU7VOwtQ=="
+        },
+        {
+          "kind": "Narrative",
+          "claim": "IGN Brasil, the Brazilian edition of IGN, is a Webedia site, as its own footer states.",
+          "card_text": "",
+          "year": "",
+          "source": "IGN Brasil site footer, September 2026, publisher self-disclosure",
+          "link": "https://br.ign.com/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The group that publishes Omelete runs games events as well as media. Omelete&CO describes itself as the largest independent entertainment company in Latin America, lists CCXP and gamescom latam, the Latin American edition of gamescom, among its brands beside the Omelete portal, and says its partnership with Gaules and Baiano gives it access to Brazil's Counter-Strike and League of Legends player communities.",
+          "card_text": "",
+          "year": "",
+          "source": "Omelete&CO company site, company self-description",
+          "link": "https://omeletecompany.com/en/home/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The Counter-Strike news site DRAFT5 is owned by the platform whose competitive scene it covers. DRAFT5, founded in February 2017, was bought in June 2019 by Gamers Club, which it calls the main Counter-Strike platform in Latin America, and since 2020 has been part of Gamers Club Media, a network of single-game sites such as VZone (VALORANT) and Tropa FF (Free Fire).",
+          "card_text": "",
+          "year": "",
+          "source": "DRAFT5 Sobre nós (about) page, publisher self-description",
+          "link": "https://draft5.gg/sobre-nos"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Drops de Jogos sits inside a newspaper portal as a partner, not a property. Created by Pedro Zambarda in 2015 and served from the UAI portal's domain, it describes itself as a partner of Portal Uai, the newspaper O Estado de Minas and Diários Associados, and as part of the Rede Progressista de Games (Progressive Games Network), which it says took part, covering and contributing, in the passage of Lei 14.852, the Marco Legal dos Games, in 2024.",
+          "card_text": "",
+          "year": "",
+          "source": "Drops de Jogos Sobre e Expediente (about and masthead) page, publisher self-description",
+          "link": "https://dropsdejogos.uai.com.br/expediente/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The defining pattern of the Brazilian games press is that the titles whose owners could be verified are one line of business inside groups whose main trade is something other than games journalism: a newspaper (Estadão, TecMundo and Voxel), a retailer (Magalu, Jovem Nerd and Canaltech), an international digital publisher (Webedia, IGN Brasil), an entertainment and events group (Omelete&CO) and an esports platform (Gamers Club, DRAFT5). Founder-led sites sit beside them, some as partners of newspaper portals, as Drops de Jogos is of UAI. This is an interpretation resting on the ownership claims above.",
+          "card_text": "",
+          "year": "",
+          "source": "TecMundo, 1 October 2025, plus the ownership rows above",
+          "link": "https://www.estadao.com.br/tecmundo/big-techs/407482-nzn-dona-do-tecmundo-e-adquirida-pelo-estadao/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not state who owns Adrenaline or Outer Space. Outer Space's footer names only its operating company, Outer Space Media Ltda., with no parent or shareholders, and Adrenaline's own pages, including the Quem somos (about) page that search results summarise as naming its two founders, answered scripted requests with a Cloudflare browser check on 28 September 2026, so neither ownership could be verified to standard. Open Adrenaline's Quem somos page in a browser to confirm its founders.",
+          "card_text": "",
+          "year": "",
+          "source": "No source meeting this directory's standard",
+          "link": ""
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not cite The Enemy as a live games outlet without checking. Omelete billed its gamescom latam 2025 games showcase as the successor to The Enemy Direct, and on 28 September 2026 theenemy.com.br answered with a permanent redirect to omelete.com.br, but no statement from Omelete&CO on whether or when The Enemy closed was found.",
+          "card_text": "",
+          "year": "",
+          "source": "Omelete, 29 April 2025, the owner's own outlet",
+          "link": "https://www.omelete.com.br/games/omelete-games-direct-2025-gamescom-latam"
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Research note",
+          "claim": "WhatsApp is closed. 66 percent of Brazilian internet users aged 9 to 17 use their own WhatsApp profile at least weekly, level with Instagram and ahead of TikTok at 57 percent, and none of WhatsApp's conversation is publicly searchable. That it is closed is a reading of the product type, not a survey finding.",
+          "card_text": "WhatsApp is closed",
+          "year": "2025",
+          "source": "Cetic.br (NIC.br), TIC Kids Online Brasil 2025, table C8, national survey of children and adolescents",
+          "link": "https://cetic.br/pt/tics/kidsonline/2025/criancas/C8/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Discord is closed, and its live video is suspended in Brazil. The data protection authority, ANPD, ordered Discord on 12 August 2026 to suspend Go Live, used for live streams in closed servers, until it proves it protects children and adolescents. The platform itself is not blocked. That Discord is closed reads the product type, not the order.",
+          "card_text": "Discord is closed, and Go Live suspended",
+          "year": "2026",
+          "source": "ANPD news release, 12 August 2026, data protection authority",
+          "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/em-medida-preventiva-anpd-determina-que-discord-suspenda-transmissoes-ao-vivo-no-brasil"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not read one streaming platform's data as Brazil's. Streams Charts calls multistreaming a core competitive advantage in Brazil: Gaules and Baiano, second and fourth among Brazilian streamers by hours watched in 2025, each broadcast on Twitch, YouTube and Kick at once, and its ranking is not games-only either.",
+          "card_text": "Streamers use three platforms at once",
+          "year": "2025",
+          "source": "Streams Charts, Top Brazilian streamers of 2025, 18 December 2025, analytics platform",
+          "link": "https://streamscharts.com/news/top-brazilian-streamers-2025"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "X was off in Brazil for five and a half weeks in 2024, so Brazilian X data has a gap from 30 August to 8 October 2024. The Supreme Court suspended X nationwide for repeated non-compliance with its decisions, and authorised its return once the company complied and paid its fines.",
+          "card_text": "X suspended nationwide, 30 Aug to 8 Oct 2024",
+          "year": "2024",
+          "source": "Supremo Tribunal Federal news release, 8 October 2024, supreme court",
+          "link": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-o-retorno-imediato-do-x-e-determina-que-anatel-adote-providencias-para-a-retomada-do-servico/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not assert a Brazilian games venue hierarchy, or repeat a board's claim to be the largest. The national surveys count activities and profiles, not what is discussed, Pesquisa Game Brasil's free report sits behind a lead form, and no independent measure of any Brazilian board's scale was found.",
+          "card_text": "",
+          "year": "",
+          "source": "Sources checked and found not to contain the needed data, documented gap",
+          "link": ""
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Research note",
+          "claim": "A ClassInd rating is required before sale, and it informs rather than bans. Under Portaria MJSP nº 1.048 of 15 October 2025, which replaced Portaria 502/2021 and has been in force since 17 November 2025, no game may be sold without a Classificação Indicativa (ClassInd) rating: games on physical media go through the Justice Ministry's prior analysis, and digital-only games rate themselves through the International Age Rating Coalition (IARC) questionnaire, which the ministry checks by sampling. The portaria defines the rating as pedagogical and informative and forbids it from prohibiting the showing of a work, cutting scenes or asking for content to be removed. It added a 6 band, so the scale runs L, 6, 10, 12, 14, 16 and 18, and made interactivity a rating axis.",
+          "card_text": "Ratings are required, and they inform rather than ban",
+          "year": "2025",
+          "source": "Portaria MJSP nº 1.048/2025, Ministério da Justiça e Segurança Pública, primary legal text",
+          "link": "https://bibliotecadigital.mj.gov.br/bitstream/1/15993/1/PRT_GM_2025_1048.html"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Paid loot boxes are barred to under-18s, but the game itself is not. The only express prohibition on games in the ECA Digital (Estatuto Digital da Criança e do Adolescente, Lei 15.211/2025), in force since 17 March 2026, is on loot boxes for children and adolescents, and a game complies by offering a version without them or by switching them off until the player proves they are an adult, according to the government's question-and-answer guide to the law.",
+          "card_text": "Loot boxes are banned for under-18s",
+          "year": "2026",
+          "source": "Perguntas e respostas sobre o ECA Digital, ANPD, Ministério da Justiça e Segurança Pública and Secom, updated 30 July 2026, government guidance",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/sua-protecao/sedigi/eca-digital/perguntas_respostas_eca_digital_30072026.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Games that children are likely to use must ship parental controls switched on. Since 17 March 2026 the ECA Digital requires any service aimed at or likely to be used by minors, online games included, to offer tools to limit and monitor time of use, with default settings at the highest level of protection, and requires games with text, voice or video contact between users to limit those features by default so that a parent consents. It sets no cap on play.",
+          "card_text": "Parental controls on by default, time limits included",
+          "year": "2026",
+          "source": "Lei 15.211/2025 (ECA Digital), articles 17 and 21, Planalto, primary legal text",
+          "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Games have their own law, and betting is written out of it. The Marco Legal dos Games (the games legal framework, Lei 14.852 of 3 May 2024) frees the making, import and sale of games from prior state authorisation, and says lotteries, bets and any game offering a bet with prizes in real or virtual assets, or with a random or predicted result, are not jogos eletrônicos and get none of its benefits. It opens the culture incentive laws, the Lei Rouanet and the Lei do Audiovisual, to game development, and requires in-game purchase tools to restrict purchases by children by default.",
+          "card_text": "Games have their own law, and bets are not games",
+          "year": "2024",
+          "source": "Lei 14.852/2024 (Marco Legal dos Games), Planalto, primary legal text",
+          "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14852.htm"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Foreign providers need a legal representative in Brazil. Article 40 of the ECA Digital requires every provider it covers, online games and app stores included, to keep a legal representative in the country able to receive summonses and answer to the authorities, and a foreign company's Brazilian branch or office is jointly liable for its fines, which reach 10 percent of the group's revenue in Brazil.",
+          "card_text": "Foreign providers need a legal representative",
+          "year": "2026",
+          "source": "Lei 15.211/2025 (ECA Digital), articles 35 and 40, Planalto, primary legal text",
+          "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Betting is banned, by a provisional measure. Medida Provisória nº 1.394 of 25 September 2026, which has the force of law from publication, prohibits fixed-odds betting in Brazil, on sports and on online games decided by a random number generator alike, including by operators abroad serving people in Brazil. Licensed operators must take their sites and apps offline within ten days, every licence ends thirty days after publication, and all betting advertising and sponsorship is banned.",
+          "card_text": "Betting and its sponsorship are banned",
+          "year": "2026",
+          "source": "Medida Provisória nº 1.394/2026, Planalto, primary legal text",
+          "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1394.htm"
+        },
+        {
+          "kind": "Research note",
+          "claim": "HOLD: do not report the betting ban as settled law. Medida Provisória 1.394 took effect on publication on 25 September 2026, and the Congress record sets its deliberation period at 25 September to 23 November 2026, with an urgency regime from 9 November. Report it as in force and provisional, and check the record before quoting it.",
+          "card_text": "",
+          "year": "2026",
+          "source": "Congresso Nacional, MPV 1394/2026 record, legislature",
+          "link": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175871"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Consoles pay a 20 percent federal tax on industrialised products (Imposto sobre Produtos Industrializados, IPI). The Receita Federal's IPI table (TIPI), updated to 30 January 2026, sets 20 percent for video game consoles, 9 percent for their parts and accessories and 0 percent for video game machines with a built-in screen, portable or not.",
+          "card_text": "Consoles pay 20 percent IPI",
+          "year": "2026",
+          "source": "Receita Federal, Tabela de Incidência do IPI (TIPI), updated to 30 January 2026, tax authority",
+          "link": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/legislacao/documentos-e-arquivos/tipi.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The IPI on consoles may end in 2027. Constitutional Amendment 132 of 20 December 2023 reduces IPI rates to zero from 2027 except on products with incentivised industrialisation in the Manaus Free Trade Zone, and whether consoles are among them could not be verified, so check before quoting the 20 percent for 2027 or later. The same reform's Lei Complementar 214 of 16 January 2025 creates three new taxes, IBS, CBS and the Imposto Seletivo.",
+          "card_text": "Console IPI may end in 2027",
+          "year": "2023",
+          "source": "Emenda Constitucional nº 132/2023, Planalto, primary legal text",
+          "link": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Games can raise money through the Lei Rouanet. Instrução Normativa MinC nº 29 of 29 January 2026, which sets the procedures of the Lei Rouanet's incentive mechanism for cultural projects (Lei 8.313/1991) and revoked Instrução Normativa nº 23 of 5 February 2025, lets a game project seek up to 1.5 million reais and the development of a game, a production phase ending in a playable simulation or demonstration that shows its potential, up to 400,000 reais, the same limits the 2025 instruction set. Higher sums are allowed for audiovisual projects chosen in a public call or holding a contract that secures at least half the amount sought, at market prices.",
+          "card_text": "Lei Rouanet: up to 1.5 million reais a game",
+          "year": "2026",
+          "source": "Instrução Normativa MinC nº 29, de 29 de janeiro de 2026, Ministério da Cultura, published in the Diário Oficial da União on 30 January 2026, primary legal text",
+          "link": "https://www.gov.br/cultura/pt-br/acesso-a-informacao/legislacao-e-normativas/instrucao-normativa-minc-no-29-de-29-de-janeiro-de-2026"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "São Paulo state funds games through its cultural programme, ProAC. Its 2026 games call, Edital Fomento CultSP – ProAC nº 05/2026, offers 6 million reais, 300,000 reais each for ten projects developing a game up to a functional prototype (vertical slice) or a playable demo and ten finishing and publishing one. It is open to proponents based in the state with at least two years of activity, and the list of applications published after registration closed counts 217, 174 for development and 43 for finishing and publishing.",
+          "card_text": "São Paulo state: 6 million reais for games in 2026",
+          "year": "2026",
+          "source": "Edital Fomento CultSP – ProAC nº 05/2026 and its list of applications, Secretaria da Cultura, Economia e Indústria Criativas do Estado de São Paulo, state funding call",
+          "link": "https://www.cultura.sp.gov.br/sec_cultura/Arquivo_de_Editais/Editais_Fomento_Cultsp/Fomento_CultSP_2026/desenvolvimento_ou_finalizacao_e_publicacao_de_jogos_eletronicos_2026/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "HOLD: do not describe ANCINE's rules for publicly financing games as written. The film agency's Agenda Regulatória 2026/2027, approved by its board and announced on 30 March 2026, lists as Action 18 the regulation of how publicly financed games projects are approved, executed, monitored and accounted for under the Marco Legal dos Games, because the absence of specific rules limits the segment's access to the existing support mechanisms, and expects to finish it in the first half of 2027; Action 6, on the same timetable, would set the registration and reporting duties of companies in the games chain. The same agenda plans a general regulation of the Fundo Setorial do Audiovisual (Action 11), so check with ANCINE before citing a line of the fund for games.",
+          "card_text": "",
+          "year": "2026",
+          "source": "ANCINE, Agenda Regulatória 2026/2027, approved by Deliberação de Diretoria Colegiada nº 276-E/2026, regulator's own agenda",
+          "link": "https://www.gov.br/ancine/pt-br/assuntos/atribuicoes-ancine/regulacao/AR202627VF.pdf/@@display-file/file"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Android accounted for 75.45 percent of mobile page views in Brazil in August 2026 and iOS for 24.54 percent, per StatCounter, which bases its shares on page views, over 3 billion a month by its own account, so the split measures web traffic, not devices, players or spending.",
+          "card_text": "Android ~75 percent of mobile web traffic",
+          "year": "2026",
+          "source": "StatCounter Global Stats, mobile operating system market share in Brazil, August 2026, web analytics",
+          "link": "https://gs.statcounter.com/os-market-share/mobile/brazil"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not say which store Brazilians spend most through on mobile, because no free source read splits Brazilian mobile games spending between Google Play and the App Store. Sensor Tower's Brazilian figures, as the trade press relays them, combine the two stores; StatCounter's Android and iOS shares count web traffic, not spending; and the App Store's top-grossing feed ranks games without revenue, while Google Play shows no chart for Brazil. Read a vendor's per-store figure, where one is published, as that vendor's estimate.",
+          "card_text": "",
+          "year": "",
+          "source": "Sources checked and found not to contain the needed data, documented gap",
+          "link": ""
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Nintendo's eShop sells in Brazil in reais and takes Visa and Mastercard credit cards, not PayPal. Players without a card can buy its gift cards on Nintendo's own store with Pix or boleto, and Nintendo content cards are sold at retailers such as Lojas Americanas and Magazine Luiza, and its digital games at americanas.com, submarino.com and Nuuvem, per Nintendo's support pages.",
+          "card_text": "Pix and boleto buy Nintendo gift cards",
+          "year": "2026",
+          "source": "Nintendo support, Perguntas frequentes sobre o Nintendo Switch eShop do Brasil, undated, platform owner's support page",
+          "link": "https://pt-americas-support.nintendo.com/app/answers/detail/a_id/53912/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Nintendo's consoles had no official distribution in Brazil from January 2015 to September 2020. Nintendo stopped distributing its consoles and games in Brazil in January 2015, saying challenges in the local business environment had made its distribution model unsustainable, returned officially with the Switch on 18 September 2020 at a suggested 2,999 reais, distributed by Ingram Micro rather than made in the country, and launched the Switch 2 in Brazil on 5 June 2025, the worldwide date, at 4,499.90 reais.",
+          "card_text": "Nintendo official again since 2020",
+          "year": "2025",
+          "source": "TechTudo, 4 September 2020, technology news site, with Exame, 9 January 2015, and CNN Brasil, 23 April 2025",
+          "link": "https://www.techtudo.com.br/noticias/2020/09/nintendo-switch-ganha-data-de-lancamento-e-preco-oficial-para-o-brasil.ghtml"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Sony and Microsoft launched their current consoles officially in Brazil in November 2020 and cut the announced prices before launch after an IPI reduction. Sony set 19 November 2020 for the PlayStation 5 and on 3 November 2020 cut its suggested prices, which it said was a result of the new IPI reduction for games, from 4,499 to 4,199 reais for the Digital Edition and from 4,999 to 4,699 reais for the model with an Ultra HD Blu-ray drive; Microsoft set 10 November 2020 for the Xbox Series X and Series S and on 29 October 2020 cut them from 4,999 and 2,999 reais to 4,599 and 2,799 reais.",
+          "card_text": "PS5 and Xbox Series official since November 2020",
+          "year": "2020",
+          "source": "PlayStation.Blog BR, 3 November 2020, company announcement, with Xbox Wire em Português, 23 October 2020, and TechTudo, 29 October 2020",
+          "link": "https://blog.br.playstation.com/2020/11/03/mudanca-de-preco-sugerido-ps5/"
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "Pesquisa Game Brasil (PGB). The annual consumer survey Go Gamers publishes, in its 13th edition in 2026, gives the share of Brazilians aged 16 to 55 who say they play, with their gender, age, class and preferred device. A free Trend Report sits behind a registration form, and the full data is sold by subscription from 2,290 reais a month.",
+          "card_text": "Pesquisa Game Brasil (PGB)",
+          "year": "",
+          "source": "Pesquisa Game Brasil, Go Gamers, commercial annual survey",
+          "link": "https://www.pesquisagamebrasil.com.br/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Pesquisa da Indústria Brasileira de Games (Brazilian Games Industry Survey), Abragames. The developers' association's survey with ApexBrasil counts studios and the people at them, where they are and how many sell abroad, free as reports and fact sheets. The 2023 survey, which portrays 2022, is the latest published.",
+          "card_text": "Pesquisa da Indústria Brasileira de Games (Abragames)",
+          "year": "",
+          "source": "Abragames with ApexBrasil, industry association survey",
+          "link": "https://brazilgames.org/en/brazilian-games-industry-survey/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "TIC Domicílios and TIC Kids Online Brasil, Cetic.br. The annual surveys of internet use run at NIC.br ask whether internet users aged 10 and over played online, and whether children and adolescents bought anything in online games, with free tables in Portuguese, English and Spanish. TIC Domicílios 2025 was presented on 9 December 2025.",
+          "card_text": "TIC Domicílios and TIC Kids Online Brasil (Cetic.br)",
+          "year": "",
+          "source": "Cetic.br, NIC.br, annual household surveys",
+          "link": "https://cetic.br/pt/tics/domicilios/2025/individuos/C7/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "IBGE PNAD Contínua, in the Sistema de Informações e Indicadores Culturais (SIIC). The national statistics office's household survey asks internet users aged 10 and over what they went online for: 30.3 percent went online to play in 2024. The SIIC is free and published every two years; the latest came out on 12 December 2025.",
+          "card_text": "IBGE, PNAD Contínua and SIIC",
+          "year": "",
+          "source": "IBGE Sistema de Informações e Indicadores Culturais 2013-2024, 12 December 2025, national statistics office",
+          "link": "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/b6c6d2b70f490c4eba9e52403fcec31b.pdf"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "ClassInd (Classificação Indicativa) games consultation, Ministério da Justiça e Segurança Pública. The ministry's portal lists the rating it gave each game, free, on the scale L, 6, 10, 12, 14, 16 and 18, and its rating decisions are published as portarias; the rating informs rather than restricts, and complaints that a rating does not match a game go to the ministry's ombudsman.",
+          "card_text": "ClassInd (Classificação Indicativa)",
+          "year": "",
+          "source": "ClassInd portal, Ministério da Justiça e Segurança Pública, rating body",
+          "link": "https://classindportal.mj.gov.br/consulta-jogos"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Abragames' industry survey has no fixed calendar, so quote the edition with the figure. The 2022 edition covers 2020 and 2021, the 2023 edition measures 2022 and was published on 28 February 2024, and a third edition, run with Go Gamers, began sending questionnaires in September 2026 with no publication date.",
+          "card_text": "",
+          "year": "2026",
+          "source": "The Gaming Era, 17 September 2026, games business news site",
+          "link": "https://gamingera.biz/abragames-3-censo-industria-brasileira-games-questionarios/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Steam weekly top sellers for Brazil, Valve. Valve's own ranking of the top 100 products on Steam in Brazil by revenue, free, published every Tuesday for the week before, with each title's rank the week before. It gives ranks, not units or revenue, covers Steam alone, and a script can read it through the store's web API without a key.",
+          "card_text": "Steam weekly top sellers, Brazil (Valve)",
+          "year": "",
+          "source": "Valve, Steam Charts weekly top sellers for Brazil, platform chart",
+          "link": "https://store.steampowered.com/charts/topsellers/BR"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "App Store top-grossing games feed for Brazil, Apple. Apple's public RSS feed ranks the top-grossing games in the Brazilian App Store, free, with prices in reais and the time of its last update, and a script can read it as JSON. It gives ranks, not revenue, states neither its method nor its period, and covers Apple's store alone.",
+          "card_text": "App Store top-grossing games feed, Brazil (Apple)",
+          "year": "",
+          "source": "Apple, iTunes Store RSS feed Top rentáveis, Jogos, Brazil, platform chart",
+          "link": "https://itunes.apple.com/br/rss/topgrossingapplications/limit=25/genre=6014/json"
+        }
+      ]
+    },
+    "known_gaps": [
+      {
+        "gap": "Consumer spending. No free figure for what Brazilian players spend is held: the size card sizes studios' revenue, and the consumer figures in circulation are unsourced or relay a paid vendor.",
+        "instead": "Take a consumer figure from Newzoo's own release, with its basis and year, as the Standing notes say, and read a figure in reais with no named publisher as untraceable."
+      },
+      {
+        "gap": "Who spends, and on what. Spending by platform and by payer, and in-game purchases beyond whether children made any, are not held: Pesquisa Game Brasil sells its cross-tabs by subscription.",
+        "instead": "Read the free PGB Trend Report behind its registration form for the headlines and the Cetic.br tables for children's purchases in games, and say which sample a share is of."
+      },
+      {
+        "gap": "Mobile and streaming data are not tagged to Brazil. Sensor Tower, AppMagic, Streams Charts and Esports Charts are Global rows, so a BR-filtered search returns none of them, though Abragames models studio revenue partly from AppMagic.",
+        "instead": "Search the Data group without a market filter, and read a vendor's Brazil figure as that house's estimate."
+      },
+      {
+        "gap": "Company filings. No Brazilian games company files where a reader can use it, and Sea, which owns Free Fire's publisher Garena, reports it with no country split.",
+        "instead": "Read the global publishers' IR rows the directory holds, and only where they name Brazil; treat a studio's Brazilian address as a location until its owner is checked."
+      },
+      {
+        "gap": "Communities, and what players think. No Brazilian review venue is held, and the activity of the forums and subreddits held could not be checked: Fórum Adrenaline answered with a bot check and Reddit refused scripted reads.",
+        "instead": "Read the held forums and subreddits, and the Steam reviews and forums row filtered to Brazilian Portuguese, as temperature, never as size, and check a thread's recent post dates before naming it as a venue."
+      },
+      {
+        "gap": "Video channels. They carry no market tag by design, so a BR-filtered search returns none.",
+        "instead": "Search channels by language Portuguese instead."
+      }
+    ],
+    "player_population": {
+      "figure": "59,802,339",
+      "value": 59.802339,
+      "year": "2025",
+      "direction": "",
+      "source": "Núcleo de Informação e Coordenação do Ponto BR (NIC.br) and Comitê Gestor da Internet no Brasil (CGI.br), TIC Domicílios 2025",
+      "link": "https://cetic.br/pt/arquivos/domicilios/2025/individuos/",
+      "measure": "Played online in past 3 months",
+      "definition": "Internet users aged 10 and over in Brazil who played online in the three months before the interview. They were 38 percent of internet users, as the survey's table of totals states (sheet C7). The question asks only about playing online, so play without a connection is not in it. The data comes from TIC Domicílios 2025, the household survey NIC.br runs for CGI.br, with face-to-face interviews of 24,535 individuals in 27,177 households from March to August 2025."
+    }
   }
 ]
