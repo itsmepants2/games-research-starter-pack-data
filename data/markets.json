@@ -791,8 +791,8 @@
         },
         {
           "kind": "Research note",
-          "claim": "LINE is closed. It reaches 92.9 percent of people aged 13 to 79, more than any other service, and none of its conversation is publicly searchable, so it is not a listening venue. That LINE is closed is a reading of the product type, not a survey finding.",
-          "card_text": "LINE, closed messaging, not publicly searchable",
+          "claim": "LINE conversations are private. It reaches 92.9 percent of people aged 13 to 79, more than any other service, and none of its conversation is publicly searchable, so it is not a listening venue. That LINE is private is a reading of the product type, not a survey finding.",
+          "card_text": "LINE, private messaging, not publicly searchable",
           "year": "",
           "source": "Ministry of Internal Affairs and Communications media usage survey, government survey",
           "link": "https://www.soumu.go.jp/menu_news/s-news/01iicp01_02000130.html"
@@ -3001,16 +3001,16 @@
       "Venues": [
         {
           "kind": "Research note",
-          "claim": "WhatsApp is closed. 66 percent of Brazilian internet users aged 9 to 17 use their own WhatsApp profile at least weekly, level with Instagram and ahead of TikTok at 57 percent, and none of WhatsApp's conversation is publicly searchable. That it is closed is a reading of the product type, not a survey finding.",
-          "card_text": "WhatsApp is closed",
+          "claim": "WhatsApp chats are private. 66 percent of Brazilian internet users aged 9 to 17 use their own WhatsApp profile at least weekly, level with Instagram and ahead of TikTok at 57 percent, and none of WhatsApp's conversation is publicly searchable. That its chats are private is a reading of the product type, not a survey finding.",
+          "card_text": "WhatsApp chats are private",
           "year": "2025",
           "source": "Cetic.br (NIC.br), TIC Kids Online Brasil 2025, table C8, national survey of children and adolescents",
           "link": "https://cetic.br/pt/tics/kidsonline/2025/criancas/C8/"
         },
         {
           "kind": "Research note",
-          "claim": "Discord is closed, and its live video is suspended in Brazil. The data protection authority, ANPD, ordered Discord on 12 August 2026 to suspend Go Live, used for live streams in closed servers, until it proves it protects children and adolescents. The platform itself is not blocked. That Discord is closed reads the product type, not the order.",
-          "card_text": "Discord is closed, and Go Live suspended",
+          "claim": "Discord servers are private, and Discord's live video is suspended in Brazil. The data protection authority, ANPD, ordered Discord on 12 August 2026 to suspend Go Live, used for live streams in private servers, until it proves it protects children and adolescents. The platform itself is not blocked. That its servers are private reads the product type, not the order.",
+          "card_text": "Discord servers are private, and Go Live suspended",
           "year": "2026",
           "source": "ANPD news release, 12 August 2026, data protection authority",
           "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/em-medida-preventiva-anpd-determina-que-discord-suspenda-transmissoes-ao-vivo-no-brasil"
@@ -3356,7 +3356,7 @@
       "Shape": [
         {
           "kind": "Narrative",
-          "claim": "Lumikai counts 555 million gamers in India in 2025, down 9 percent from 609 million in 2024, which it reads as the ban on real-money gaming trimming the base, and 139 million paying. It does not define a gamer by age or by period of play.",
+          "claim": "Lumikai counts 555 million gamers in India in 2025, 9 percent fewer than in 2024, and puts the fall down to the ban on money games.",
           "card_text": "",
           "year": "2025",
           "source": "Lumikai, State of Interactive Media Report 2025, fifth edition, 23 March 2026, venture fund annual",
@@ -3364,7 +3364,7 @@
         },
         {
           "kind": "Narrative",
-          "claim": "Players in India are 55 percent male and 45 percent female, and 44 percent are aged 18 to 30, 33 percent 30 to 45 and 23 percent over 45, per Lumikai's pan-India survey of more than 3,000 smartphone users, as the FICCI-EY report prints it for 2025. 97 percent play on a phone, 30 percent on a laptop, 14 percent on PlayStation and 8 percent on Xbox.",
+          "claim": "In Lumikai's survey of smartphone users, 45 percent of players are women, 44 percent are aged 18 to 30, and 97 percent play on a phone.",
           "card_text": "",
           "year": "2025",
           "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual, page powered by Lumikai, survey of 3,000+ smartphone users",
@@ -3372,7 +3372,7 @@
         },
         {
           "kind": "Narrative",
-          "claim": "The ten top-grossing games in India in 2025 are Garena Free Fire, BGMI, Coin Master, Candy Crush Saga, eFootball, Pokémon GO, Roblox, Last Z, Call of Duty and Clash of Clans, per Lumikai, which does not say which store or ranking the list draws on.",
+          "claim": "Free Fire and Battlegrounds Mobile India earned the most of any games in India in 2025, ahead of Coin Master, Candy Crush Saga and eFootball.",
           "card_text": "",
           "year": "2025",
           "source": "Lumikai, State of Interactive Media Report 2025, fifth edition, 23 March 2026, venture fund annual",
@@ -3380,7 +3380,7 @@
         },
         {
           "kind": "Narrative",
-          "claim": "India had over 1,900 game development companies in 2024, up from about 153 in 2009, per EY's A studio called India for the government's WAVES 2025 summit, which counts them from Tracxn rather than a census. For jobs the report gives two figures: around 66,000 professionals in its overview, and over 130,000 in the gaming sector in its games chapter, citing IEIC's India Gaming Report 2025.",
+          "claim": "India had over 1,900 game development companies in 2024, employing around 66,000 people by one count and over 130,000 by another.",
           "card_text": "",
           "year": "2024",
           "source": "EY, A studio called India, May 2025, consultancy report for the Ministry of Information and Broadcasting's WAVES 2025",
@@ -3388,7 +3388,7 @@
         },
         {
           "kind": "Narrative",
-          "claim": "Games made in India earned over 1.5 billion US dollars in export revenue in 2025-26, per the Game Developer Association of India as the FICCI-EY report prints it, from Indian studios with global hits and from international companies' development hubs in India. EY did not verify the figure or count it in its sizing.",
+          "claim": "Games made in India earned over 1.5 billion dollars abroad in 2025-26, by the developers' association's own count, which EY did not verify.",
           "card_text": "",
           "year": "2025",
           "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual, data compiled by the Game Developer Association of India",
@@ -3396,7 +3396,7 @@
         },
         {
           "kind": "Narrative",
-          "claim": "EY lists Nazara, WinZO, Zupee, MPL, JetSynthesys and nCore as India's game publishers, Gametion, SuperGaming, Moonfrog Labs, PlaySimple, Gameberry Labs and Games24x7 among its studios with their own IP, and Electronic Arts, Krafton, Rockstar, Ubisoft, Zynga, Riot Games, Epic Games, Garena and Scopely among international games companies present in India. The list is from May 2025, before the ban on money games.",
+          "claim": "Nazara, JetSynthesys and nCore publish games in India, Gametion, SuperGaming and Gameberry Labs make their own, and Electronic Arts, Krafton, Rockstar, Ubisoft and Riot Games all work there.",
           "card_text": "",
           "year": "2025",
           "source": "EY, A studio called India, May 2025, consultancy report for the Ministry of Information and Broadcasting's WAVES 2025",
@@ -3404,7 +3404,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "Two annuals count India's players in opposite directions for 2025, so name the publisher with the count. FICCI-EY puts the gamer base at 515 to 525 million, up 6 percent, as per various industry reports, naming Niko Partners, Newzoo and Redseer, while Lumikai counts 555 million, down 9 percent. Neither states an age range or a period of play, and neither is a survey headcount.",
+          "claim": "The two annuals count players in opposite directions, FICCI-EY at 515 to 525 million and rising, Lumikai at 555 million and falling, and neither says who it counted.",
           "card_text": "",
           "year": "2025",
           "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual",
@@ -3412,7 +3412,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "Device shares overlap and do not sum, and the two annuals measure them differently. EY's own approximate shares of gamers are mobile 95 percent, PC and console 10 percent, and esports under 1 percent. Lumikai's 97 percent on a phone comes from a panel of smartphone users, so it describes that panel rather than all players. The last sentence is an interpretation of the survey's stated sample.",
+          "claim": "Device shares overlap and do not sum, and Lumikai's 97 percent on a phone comes from a panel of smartphone users, not all players.",
           "card_text": "",
           "year": "2025",
           "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual",
@@ -3520,16 +3520,16 @@
         },
         {
           "kind": "Narrative",
-          "claim": "WhatsApp is closed, so its groups cannot be read from outside. The government put India's WhatsApp users at 53 crore in February 2021, ahead of YouTube at 44.8 crore, Facebook at 41 crore and Instagram at 21 crore, figures it took from outside portals. That it is closed is a reading of the product, not the release.",
-          "card_text": "WhatsApp is closed",
+          "claim": "WhatsApp chats are private, so they cannot be read from outside. The government put India's WhatsApp users at 53 crore in February 2021, ahead of YouTube at 44.8 crore, Facebook at 41 crore and Instagram at 21 crore, figures it took from outside portals. That its chats are private is a reading of the product, not the release.",
+          "card_text": "WhatsApp chats are private",
           "year": "2021",
           "source": "Press Information Bureau release on the IT Rules 2021, 25 February 2021, government release",
           "link": "https://pib.gov.in/PressReleasePage.aspx?PRID=1700749"
         },
         {
           "kind": "Narrative",
-          "claim": "Discord is closed, but a server's size can be read from outside. Discord's invite page gave an approximate 495,484 members, 5,356 online, for the official BATTLEGROUNDS MOBILE INDIA server on 30 September 2026; its talk is read only after joining.",
-          "card_text": "Discord is closed",
+          "claim": "Only members can read a Discord server, but anyone can see how many it has. Discord's invite page showed about 495,484 members, 5,356 of them online, for the official BATTLEGROUNDS MOBILE INDIA server on 30 September 2026.",
+          "card_text": "BGMI's official Discord, members only",
           "year": "2026",
           "source": "Discord invite page for the official BATTLEGROUNDS MOBILE INDIA server, read 30 September 2026, platform's own count",
           "link": "https://discord.com/invite/battlegroundsmobilein"
