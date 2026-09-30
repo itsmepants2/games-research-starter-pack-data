@@ -67,6 +67,7 @@
       },
       " counts 82,930 people directly employed in US games in 2025. Global estimates vary and cannot be compared across countries."
     ],
+    "series_format": "{n} job losses",
     "claims": [
       {
         "section": "Figure",
@@ -338,6 +339,7 @@
       "DE",
       "FR",
       "Global",
+      "IN",
       "IT",
       "JP",
       "KR",
@@ -920,13 +922,13 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Not every company is squeezing harder. Roblox says it deliberately chose to keep players rather than earn more from them now, and changed how it recommends games to do it. Players now spend less per hour, and investors cut the company's value by 70% in response. The pressure to earn more per player is real, but so is the choice not to.",
-        "card_text": "Roblox chose keeping players over earning more",
-        "year": "2026",
-        "market": "",
-        "source": "PC Gamer, Rick Lane (9 August 2026)",
-        "link": "https://www.pcgamer.com/games/roblox-shares-plummet-by-70-percent-after-the-company-reports-persistent-decline-in-player-numbers-and-of-course-the-solution-involves-ai/",
-        "source_slug": "pc-gamer"
+        "claim": "Lumikai, a venture fund that invests in Indian games, counts 555 million gamers in India in 2025, down 9% from 609 million, and 139 million paying, down from 152 million. It reads the fall as the ban on games played for money trimming the base. Lumikai does not define a gamer by age or by period of play.",
+        "card_text": "India counted fewer players in 2025, not more",
+        "year": "2025",
+        "market": "IN",
+        "source": "Lumikai, State of Interactive Media Report 2025 (23 March 2026)",
+        "link": "https://www.lumikai.com/_files/ugd/9e9f8d_a25e836de2b3448081a3ac9e17b9adda.pdf",
+        "source_slug": "lumikai-state-of-india-interactive-media-and-gaming-report"
       },
       {
         "section": "What to watch",
@@ -2183,18 +2185,19 @@
   },
   {
     "slug": "creator-platforms-as-sovereign-economies",
-    "name": "Roblox is rising and falling with its creators' hits",
+    "name": "Platforms are paying players to build their games",
     "stage": "Emerging",
     "category": "Money & business model",
     "horizon": "h3",
     "horizon_group": null,
     "horizon_line": "Players as producers. Volatile, but pointing the right way.",
     "markets": [
+      "CN",
       "Global",
       "US"
     ],
-    "what_it_is": "Roblox's accounts show payouts to creators growing from $112 million in 2019 to $1.5 billion in 2025, faster than player spending. The money is very unevenly spread. Roblox says its top 1,000 creators averaged $1.3 million in 2025, while the typical paid creator earned about $1,500 in the twelve months to June 2026. In mid-2026 Roblox withdrew its annual forecast after the viral games of 2025 faded. In September 2026 it said creators can release games as standalone apps and be paid in real currency every business day.",
-    "why_it_matters": "Roblox makes no games. Its users build them and are paid in a currency they can exchange for dollars. In 2026 that economy had its first downturn, and it showed the risk of depending on hits made by people Roblox does not employ.",
+    "what_it_is": "Three platforms now pay their players to build the games other players play. Roblox paid its creators $1.5 billion in 2025, up from $112 million in 2019. Epic Games says Fortnite creators have earned over $1 billion since 2023, and their games took 47% of hours played in May 2026. NetEase says Eggy Party has paid its map makers over 200 million yuan. The money is uneven. Roblox's typical paid creator earned about $1,500 in a year.",
+    "why_it_matters": "On Roblox, Fortnite and Eggy Party, much of the play is in games players build and are paid for. The makers are not employees. Each platform's income rides on hits it does not make. In 2026 Roblox withdrew its forecast as its hits faded.",
     "further_reading": [
       {
         "source": "Roblox loses $70 billion in value as company blames lack of viral games",
@@ -2203,9 +2206,9 @@
         "format": ""
       },
       {
-        "source": "Annual Roblox Economic Impact Report",
-        "link": "https://about.roblox.com/newsroom/2025/09/roblox-annual-economic-impact-report",
-        "type": "Primary",
+        "source": "Unreal Engine for Fortnite creator payouts surpass $1bn",
+        "link": "https://www.pocketgamer.biz/unreal-engine-for-fortnite-creator-payouts-surpass-1bn/",
+        "type": "Reporting",
         "format": ""
       },
       {
@@ -2216,7 +2219,7 @@
       }
     ],
     "as_of": "Sep 2026",
-    "where_to_follow": "Roblox quarterly earnings and annual reports, Game Developer, Naavik deep dives, Matthew Ball",
+    "where_to_follow": "Roblox quarterly earnings and annual reports, Epic's Unreal Fest and Fortnite developer documentation, NetEase earnings calls and the Eggy Party creators' conference, Game Developer, Naavik deep dives",
     "status_label": "",
     "measure_label": "",
     "row_label": "",
@@ -2227,17 +2230,29 @@
     "series_target": "",
     "timeline_heads": true,
     "what_it_is_text": [
+      "Three platforms now pay their players to build the games other players play. ",
       {
-        "text": "Roblox's accounts",
+        "text": "Roblox",
         "href": "https://www.sec.gov/Archives/edgar/data/1315098/000131509826000024/rblx-20251231.htm"
       },
-      " show payouts to creators growing from $112 million in 2019 to $1.5 billion in 2025, faster than player spending. The money is very unevenly spread. Roblox says its top 1,000 creators averaged $1.3 million in 2025, while the typical paid creator earned about $1,500 in the twelve months to June 2026. In mid-2026 Roblox withdrew its annual forecast after the viral games of 2025 faded. In September 2026 it said creators can release games as standalone apps and be paid in real currency every business day."
+      " paid its creators $1.5 billion in 2025, up from $112 million in 2019. ",
+      {
+        "text": "Epic Games",
+        "href": "https://www.pocketgamer.biz/unreal-engine-for-fortnite-creator-payouts-surpass-1bn/"
+      },
+      " says Fortnite creators have earned over $1 billion since 2023, and their games took 47% of hours played in May 2026. NetEase says ",
+      {
+        "text": "Eggy Party",
+        "href": "https://party.163.com/official/20260714/35180_1307534.html"
+      },
+      " has paid its map makers over 200 million yuan. The money is uneven. Roblox's typical paid creator earned about $1,500 in a year."
     ],
+    "series_format": "${n} million",
     "claims": [
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Roblox paid or owed its creators in cash for the first quarter of 2024, in millions of dollars. Roblox calls this line developer exchange fees and reports it as $202,405 thousand.",
+        "claim": "What Roblox paid or owed its creators in cash for the first quarter of 2024. Roblox calls this line developer exchange fees and reports it as $202,405 thousand.",
         "card_text": "202.4",
         "year": "2024",
         "market": "",
@@ -2249,7 +2264,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Roblox paid or owed its creators in cash for the second quarter of 2024, in millions of dollars. Roblox calls this line developer exchange fees and reports it as $208,270 thousand.",
+        "claim": "What Roblox paid or owed its creators in cash for the second quarter of 2024. Roblox calls this line developer exchange fees and reports it as $208,270 thousand.",
         "card_text": "208.3",
         "year": "2024",
         "market": "",
@@ -2261,7 +2276,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Roblox paid or owed its creators in cash for the third quarter of 2024, in millions of dollars. Roblox calls this line developer exchange fees and reports it as $231,536 thousand.",
+        "claim": "What Roblox paid or owed its creators in cash for the third quarter of 2024. Roblox calls this line developer exchange fees and reports it as $231,536 thousand.",
         "card_text": "231.5",
         "year": "2024",
         "market": "",
@@ -2273,7 +2288,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Roblox paid or owed its creators in cash for the fourth quarter of 2024, in millions of dollars. Roblox calls this line developer exchange fees and reports it as $280,610 thousand.",
+        "claim": "What Roblox paid or owed its creators in cash for the fourth quarter of 2024. Roblox calls this line developer exchange fees and reports it as $280,610 thousand.",
         "card_text": "280.6",
         "year": "2024",
         "market": "",
@@ -2285,7 +2300,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Roblox paid or owed its creators in cash for the first quarter of 2025, in millions of dollars. Roblox calls this line developer exchange fees and reports it as $281,564 thousand.",
+        "claim": "What Roblox paid or owed its creators in cash for the first quarter of 2025. Roblox calls this line developer exchange fees and reports it as $281,564 thousand.",
         "card_text": "281.6",
         "year": "2025",
         "market": "",
@@ -2297,7 +2312,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Roblox paid or owed its creators in cash for the second quarter of 2025, in millions of dollars. Roblox calls this line developer exchange fees and reports it as $316,371 thousand.",
+        "claim": "What Roblox paid or owed its creators in cash for the second quarter of 2025. Roblox calls this line developer exchange fees and reports it as $316,371 thousand.",
         "card_text": "316.4",
         "year": "2025",
         "market": "",
@@ -2309,7 +2324,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Roblox paid or owed its creators in cash for the third quarter of 2025, in millions of dollars. Roblox calls this line developer exchange fees and reports it as $427,931 thousand.",
+        "claim": "What Roblox paid or owed its creators in cash for the third quarter of 2025. Roblox calls this line developer exchange fees and reports it as $427,931 thousand.",
         "card_text": "427.9",
         "year": "2025",
         "market": "",
@@ -2321,7 +2336,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Roblox paid or owed its creators in cash for the fourth quarter of 2025, in millions of dollars. Roblox calls this line developer exchange fees and reports it as $477,240 thousand.",
+        "claim": "What Roblox paid or owed its creators in cash for the fourth quarter of 2025. Roblox calls this line developer exchange fees and reports it as $477,240 thousand.",
         "card_text": "477.2",
         "year": "2025",
         "market": "",
@@ -2333,7 +2348,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Roblox paid or owed its creators in cash for the first quarter of 2026, in millions of dollars. Roblox calls this line developer exchange fees and reports it as $423 million.",
+        "claim": "What Roblox paid or owed its creators in cash for the first quarter of 2026. Roblox calls this line developer exchange fees and reports it as $423 million.",
         "card_text": "423",
         "year": "2026",
         "market": "",
@@ -2345,7 +2360,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Roblox paid or owed its creators in cash for the second quarter of 2026, in millions of dollars. Roblox calls this line developer exchange fees and reports it as $363 million.",
+        "claim": "What Roblox paid or owed its creators in cash for the second quarter of 2026. Roblox calls this line developer exchange fees and reports it as $363 million.",
         "card_text": "363",
         "year": "2026",
         "market": "",
@@ -2364,6 +2379,17 @@
         "source": "Roblox Corporation, annual report for 2021 (25 February 2022)",
         "link": "https://www.sec.gov/Archives/edgar/data/1315098/000131509822000058/rblx-20211231.htm",
         "source_slug": "roblox-ir-sec-filings"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Tencent releases DreamStar in December 2023 as its answer to Eggy Party, NetEase's party game built on maps its players make. By March 2024 it has moved hundreds of staff to the game from other projects. Eggy Party had passed 500 million players in under two years.",
+        "card_text": "Tencent launches DreamStar to take on Eggy Party",
+        "year": "2023",
+        "market": "",
+        "source": "PocketGamer.biz, Aaron Astle (25 March 2024)",
+        "link": "https://www.pocketgamer.biz/tencent-focusing-on-fewer-bigger-budget-games-as-it-shifts-away-from-ip-strategy/",
+        "source_slug": "pocketgamer-biz"
       },
       {
         "section": "Timeline",
@@ -2465,6 +2491,39 @@
         "source_slug": "roblox-ir-sec-filings"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "At Unreal Fest in June, Hannah Lowry, who runs Epic's relations with Fortnite developers, says creators have earned more than $1 billion since Epic opened Fortnite to games made with its editor in 2023. Games made by players took 47% of all hours played in Fortnite in May 2026, up from 38% a year earlier.",
+        "card_text": "Epic says Fortnite creators have earned over $1 billion",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Aaron Astle (18 June 2026)",
+        "link": "https://www.pocketgamer.biz/unreal-engine-for-fortnite-creator-payouts-surpass-1bn/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Players pay for items inside Fortnite's player-made games, known as islands, with V-Bucks, Fortnite's own currency. From 9 January 2026 to 31 January 2027 Epic pays creators 100% of the dollar value of the V-Bucks spent in their islands, instead of the usual 50%. That value is counted after store and console fees, which Epic says currently average 26%.",
+        "card_text": "Epic pays creators the full value of sales in their games until 2027",
+        "year": "2026",
+        "market": "",
+        "source": "Epic Games, In-Island Transactions Overview in Fortnite (read 30 September 2026)",
+        "link": "https://dev.epicgames.com/documentation/fortnite/in-island-transactions-overview-in-fortnite",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "At Eggy Party's fourth creators' conference in July, NetEase says the incentives and revenue shares it has paid to players who build maps have passed 200 million yuan. It calls the past year the first in which those maps were run for money, with 1 billion gold beans, the currency spent inside maps, and more than 5 billion ad plays. NetEase says the game has 600 million players.",
+        "card_text": "NetEase says Eggy Party has paid its map makers over 200 million yuan",
+        "year": "2026",
+        "market": "CN",
+        "source": "Eggy Party official site, NetEase (14 July 2026)",
+        "link": "https://party.163.com/official/20260714/35180_1307534.html",
+        "source_slug": ""
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Roblox makes no games itself. Its finance chief, Naveen Chopra, put the 2026 shortfall down to players drifting from the 'high monetizing 2025 vintage viral games' to games that earn less. When creators' hits fade and nothing replaces them, a public company's revenue falls with them.",
@@ -2562,6 +2621,17 @@
         "source": "Roblox, David Baszucki (11 September 2026)",
         "link": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
         "source_slug": "roblox-ir-sec-filings"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "31 January 2027, when Epic's 100% share of in-island sales for Fortnite creators is due to fall back to 50%. The thing to watch is whether Epic extends it, and whether creators' earnings fall when it ends.",
+        "card_text": "The end of Epic's full share for creators",
+        "year": "2027",
+        "market": "",
+        "source": "Epic Games, In-Island Transactions Overview in Fortnite (read 30 September 2026)",
+        "link": "https://dev.epicgames.com/documentation/fortnite/in-island-transactions-overview-in-fortnite",
+        "source_slug": ""
       }
     ]
   },
@@ -3460,6 +3530,17 @@
       {
         "section": "Timeline",
         "kind": "Event",
+        "claim": "PEGI had rated Balatro, a card game with no real money in it, 18 because it teaches poker hands. On appeal it cut the rating to 12, citing the game's 'mitigating fantastical elements', and said it would keep 18 for games that simulate realistic casino gambling.",
+        "card_text": "PEGI lowers Balatro from 18 to 12 on appeal",
+        "year": "2025",
+        "market": "",
+        "source": "Game Developer, Chris Kerr (24 February 2025)",
+        "link": "https://www.gamedeveloper.com/business/balatro-s-contentious-pegi-18-rating-has-been-amended-thanks-to-mitigating-fantastical-elements-",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
         "claim": "Brazil's Law 15211 came into force on 17 March 2026, banning loot boxes in games aimed at or likely to be accessed by under-18s, with fines of up to 10% of Brazilian revenue.",
         "card_text": "Brazil's loot box ban takes effect",
         "year": "2026",
@@ -4067,12 +4148,12 @@
   },
   {
     "slug": "publishers-split-on-gambling-money-in-esports",
-    "name": "Game publishers are opening esports to licensed bookmakers",
+    "name": "Gambling money is moving into games and the platforms around them",
     "stage": "Perennial",
-    "category": "Regulation, safety & age",
+    "category": "Money & business model",
     "horizon": "h2",
     "horizon_group": "prolongs-h1",
-    "horizon_line": "Publishers choosing which betting money keeps their leagues alive.",
+    "horizon_line": "Betting money propping up teams, streamers and platforms, until regulators step in.",
     "markets": [
       "BR",
       "EU",
@@ -4080,8 +4161,8 @@
       "IN",
       "US"
     ],
-    "what_it_is": "In June 2025 Riot Games allowed betting companies to sponsor top League of Legends and Valorant teams, with logos kept off its own broadcasts. In December 2025 Valve barred sites that gamble with Counter-Strike's tradeable cosmetic items, known as skins, from jerseys and broadcasts. Valve still allows licensed bookmakers, so the two are closer than they look. Riot's rule keeps betting logos off jerseys, yet the bookmaker Winamax says its logo sits at the center of two teams' shirts. Esports Charts counts a betting brand as title sponsor of nine of the top ten Counter-Strike teams in the Americas. Nobody publishes how much esports income is gambling money.",
-    "why_it_matters": "Professional gaming teams have few ways to earn money, and betting companies are among the few sponsors still willing to pay. The companies that make the games decide which sponsors are allowed, and in 2025 the two most important ones moved in apparently opposite directions.",
+    "what_it_is": "Betting money is reaching games and where people watch them. Riot Games let bookmakers sponsor its top teams in 2025, and in 2026 talked with the prediction markets Polymarket and Kalshi. Esports Charts counts a betting brand as title sponsor of nine of the top ten Counter-Strike teams in the Americas. The streaming site Kick is backed by Stake, an online casino. Brazil and India have banned ads for betting and money games, and California has banned sweepstakes casinos and those who knowingly promote them.",
+    "why_it_matters": "Esports teams and streamers have few sponsors willing to pay, and betting companies are among them. The companies that run games and streaming sites now decide which gambling money comes in, and governments are starting to decide for them.",
     "further_reading": [
       {
         "source": "CS2 Sponsorship Landscape 2026: Gambling Brands Control Majority of Title Sponsorships",
@@ -4090,8 +4171,8 @@
         "format": ""
       },
       {
-        "source": "Why We're Opening Betting Sponsorships in Esports & How We're Doing It Responsibly",
-        "link": "https://www.riotgames.com/en/news/esports-betting-sponsorships",
+        "source": "LA City Attorney Hydee Feldstein Soto Files Lawsuit Against Online Gambling Enterprise, Stake.us",
+        "link": "https://cityattorney.lacity.gov/updates/la-city-attorney-hydee-feldstein-soto-files-lawsuit-against-online-gambling-enterprise",
         "type": "Primary",
         "format": ""
       },
@@ -4103,7 +4184,7 @@
       }
     ],
     "as_of": "Sep 2026",
-    "where_to_follow": "Esports Charts sponsorship analyses, HLTV Counter-Strike business coverage, Esports Legal News, SportBusiness",
+    "where_to_follow": "Esports Charts sponsorship analyses, Streams Charts on Kick, state legislatures' sweepstakes bills, the Los Angeles City Attorney, Esports News UK, SportBusiness",
     "status_label": "",
     "measure_label": "",
     "row_label": "",
@@ -4114,17 +4195,17 @@
     "series_target": "",
     "timeline_heads": true,
     "what_it_is_text": [
-      "In June 2025 ",
+      "Betting money is reaching games and where people watch them. ",
       {
         "text": "Riot Games",
         "href": "https://www.riotgames.com/en/news/esports-betting-sponsorships"
       },
-      " allowed betting companies to sponsor top League of Legends and Valorant teams, with logos kept off its own broadcasts. In December 2025 Valve barred sites that gamble with Counter-Strike's tradeable cosmetic items, known as skins, from jerseys and broadcasts. Valve still allows licensed bookmakers, so the two are closer than they look. Riot's rule keeps betting logos off jerseys, yet the bookmaker Winamax says its logo sits at the center of two teams' shirts. ",
+      " let bookmakers sponsor its top teams in 2025, and in 2026 talked with the prediction markets Polymarket and Kalshi. ",
       {
         "text": "Esports Charts",
         "href": "https://escharts.com/news/betting-and-gambling-companies-lead-title-sponsorships-2026-counter-strike-esports"
       },
-      " counts a betting brand as title sponsor of nine of the top ten Counter-Strike teams in the Americas. Nobody publishes how much esports income is gambling money."
+      " counts a betting brand as title sponsor of nine of the top ten Counter-Strike teams in the Americas. The streaming site Kick is backed by Stake, an online casino. Brazil and India have banned ads for betting and money games, and California has banned sweepstakes casinos and those who knowingly promote them."
     ],
     "claims": [
       {
@@ -4159,17 +4240,6 @@
         "source": "Esports Charts, Dmytro Murko (17 January 2025)",
         "link": "https://escharts.com/news/esports-trends-2025",
         "source_slug": "esports-charts"
-      },
-      {
-        "section": "Timeline",
-        "kind": "Event",
-        "claim": "Esports Legal News compares the rules for eight competitive games. Epic Games is the strictest and explicitly prohibits gambling sponsorships in Fortnite and Rocket League. Counter-Strike's tournament organizers are the most permissive.",
-        "card_text": "A legal survey finds eight games with eight different rules",
-        "year": "2025",
-        "market": "",
-        "source": "Esports Legal News, Leonid Shmatenko (13 June 2025)",
-        "link": "https://esportslegal.news/2025/06/13/gambling-sponsorships-esports/",
-        "source_slug": ""
       },
       {
         "section": "Timeline",
@@ -4218,12 +4288,23 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "G2 Esports signs a multi-year deal with Winamax, which it calls the first betting operator approved by Riot to sponsor teams in Europe.",
-        "card_text": "G2 signs the first Riot-approved betting sponsor in Europe",
-        "year": "2026",
-        "market": "",
-        "source": "G2 Esports (17 January 2026)",
-        "link": "https://g2esports.com/blogs/news/g2-joins-forces-with-winamax",
+        "claim": "Los Angeles's City Attorney sues Stake.us, which calls itself a social casino, along with its owner Easygo, the streaming site Kick, founders Ed Craven and Bijan Tehrani, and companies that supply its games. The suit says Stake.us is an unlicensed casino operating illegally in California. It says Stake earned about $4.7 billion in gross revenue in 2024.",
+        "card_text": "Los Angeles sues Stake.us, Kick and their founders",
+        "year": "2025",
+        "market": "US",
+        "source": "Los Angeles City Attorney (4 September 2025)",
+        "link": "https://cityattorney.lacity.gov/updates/la-city-attorney-hydee-feldstein-soto-files-lawsuit-against-online-gambling-enterprise",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Governor Newsom signs AB 831, which makes it unlawful to offer an online sweepstakes game, a casino-style game played with two currencies in which players can win prizes or cash equivalents. It also makes it unlawful for a platform provider or media affiliate, among others, to knowingly and willfully support or promote one.",
+        "card_text": "California bans sweepstakes casinos and those who promote them",
+        "year": "2025",
+        "market": "US",
+        "source": "AB 831 (California), Chapter 623 of 2025",
+        "link": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB831",
         "source_slug": ""
       },
       {
@@ -4251,17 +4332,6 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "The biggest tournaments publish their rules ten months ahead, so the skin-site ban first applies at that level at BLAST Bounty in July. Team Vitality plays without the logo of its skin-site sponsor, which remains a partner away from the broadcast.",
-        "card_text": "Valve's rule reaches the top tournaments",
-        "year": "2026",
-        "market": "",
-        "source": "gHacks (3 August 2026)",
-        "link": "https://www.ghacks.net/2026/08/03/valves-cs2-skin-sponsorship-ban-takes-effect-at-tier-1-tournaments-with-blast-bounty-season-2/",
-        "source_slug": ""
-      },
-      {
-        "section": "Timeline",
-        "kind": "Event",
         "claim": "A provisional measure signed by President Lula on 25 September 2026 bans fixed-odds betting in Brazil, on sports and on online games of chance alike, and every form of betting advertising and sponsorship. Licensed operators must go offline within ten days, and sponsors' signs must come down in the same period.",
         "card_text": "Brazil bans betting and betting sponsorship",
         "year": "2026",
@@ -4269,6 +4339,17 @@
         "source": "Provisional Measure 1394 (Brazil)",
         "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1394.htm",
         "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Bloomberg reports that Riot Games has discussed esports sponsorship deals with Polymarket and Kalshi, prediction markets where people trade on the outcome of events, matches included. Riot says it is evaluating them, and neither company confirms the talks. Any sponsor Riot approves would have to take its betting data from GRID, the esports data company.",
+        "card_text": "Riot talks to prediction markets about sponsoring its esports",
+        "year": "2026",
+        "market": "",
+        "source": "Esports News UK, Adam Roarty, relaying Bloomberg (11 September 2026)",
+        "link": "https://esports-news.co.uk/2026/09/11/riot-games-in-talks-with-polymarket-and-kalshi-over-sponsorship-deals",
+        "source_slug": "esports-news-uk"
       },
       {
         "section": "Consequences",
@@ -4295,24 +4376,24 @@
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Maikil 'Golden' Selim argues that second-tier and regional Counter-Strike teams, which depend most on skin-site money, face cuts to salaries and a more uncertain future. His piece was published by Skin.Club, one of the sponsors the rule affects.",
-        "card_text": "Valve's rule lands hardest on smaller teams",
+        "claim": "The city's complaint argues that Kick built a platform designed to promote gambling at Stake's casinos, and recruited streamers, Californians among them, to gamble on Stake.us live. It says Easygo wholly owns Kick. The complaint is signed by the city and by Susman Godfrey, a private law firm acting for it, and asks for attorneys' fees.",
+        "card_text": "Los Angeles says Kick was built to sell Stake",
         "year": "2025",
-        "market": "",
-        "source": "Skin.Club, Maikil Selim (13 December 2025)",
-        "link": "https://community.skin.club/en/news/golden-valves-new-ruling-and-the-possible-consequences",
+        "market": "US",
+        "source": "Complaint, People v. Sweepsteaks Ltd. d/b/a Stake.us (Los Angeles Superior Court, 28 August 2025)",
+        "link": "https://www.susmangodfrey.com/wp-content/uploads/2025/09/People-v.-Stake.us-Complaint.pdf",
         "source_slug": ""
       },
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Advertising law differs by country, so teams adapt event by event. Esports Charts notes that the Brazilian team FURIA has played with its betting sponsor physically covered up where the law required it, and that Team Spirit carries a different title partner in different regions.",
-        "card_text": "Teams already change their shirts from country to country",
+        "claim": "Kick began in 2023, after Twitch restricted streams from unlicensed casinos in 2022, and is backed by Stake. Its co-founder Bijan Tehrani said in April 2026 that he and Ed Craven had personally put nearly $1 billion into it. Kick says it has reached 100 million users, and it keeps 5% of streamers' subscription income against Twitch's standard 50%.",
+        "card_text": "A casino's owners run a major streaming site",
         "year": "2026",
         "market": "",
-        "source": "Esports Charts (16 February 2026)",
-        "link": "https://escharts.com/news/betting-and-gambling-companies-lead-title-sponsorships-2026-counter-strike-esports",
-        "source_slug": "esports-charts"
+        "source": "Streams Charts, Ravi Iyer (13 April 2026)",
+        "link": "https://streamscharts.com/news/kick-reaches-100-million-users",
+        "source_slug": "streams-charts"
       },
       {
         "section": "Objections",
@@ -4339,6 +4420,17 @@
       {
         "section": "Objections",
         "kind": "Argument",
+        "claim": "New York's law, signed on 5 December 2025 and in force at once, bans online sweepstakes games. Anyone who knowingly takes revenue from them can be barred from gaming operations in the state, and each violation carries a fine of $10,000 to $100,000.",
+        "card_text": "States are closing the sweepstakes route",
+        "year": "2025",
+        "market": "US",
+        "source": "S5935A (New York), Chapter 605 of 2025",
+        "link": "https://www.nysenate.gov/legislation/bills/2025/S5935/amendment/A",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
         "claim": "No one publishes the share of esports sponsorship income that comes from betting. The terms of the first Riot-approved deal were not disclosed. Esports Charts' count covers one game in one month and only title sponsors, with no earlier year to compare it with, and it says its comparison for Asia is more limited.",
         "card_text": "Nobody knows how much of the money is gambling money",
         "year": "2026",
@@ -4350,23 +4442,23 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "The Counter-Strike Major in Singapore, 25 November to 13 December 2026, the first held in Southeast Asia. The thing to watch is whether skin sites reappear under other names.",
-        "card_text": "The next Counter-Strike Major under the new rule",
-        "year": "2026",
-        "market": "",
-        "source": "PGL, Major Singapore 2026",
-        "link": "https://www.pglesports.com/cs2/pgl-major-singapore-2026/",
-        "source_slug": ""
-      },
-      {
-        "section": "What to watch",
-        "kind": "Event",
         "claim": "Congress's deliberation period on the provisional measure runs to 23 November 2026, with an urgency regime from 9 November. The thing to watch is whether Congress converts it into law, amends it or lets it lapse, and with it the ban on betting sponsorship.",
         "card_text": "Whether Congress keeps Brazil's betting ban",
         "year": "2026",
         "market": "",
         "source": "Congresso Nacional, MPV 1394/2026",
         "link": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175871",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "1 November 2026, when Oklahoma's SB 1589 takes effect. It makes it a felony to run online casino games played with a currency that can be exchanged for prizes, or to support them as a platform provider, promoter or media affiliate. The thing to watch is whether streamers who promote such sites stop doing so there.",
+        "card_text": "Oklahoma's ban reaches the promoters",
+        "year": "2026",
+        "market": "US",
+        "source": "SB 1589 (Oklahoma), enrolled",
+        "link": "http://webserver1.lsb.state.ok.us/cf_pdf/2025-26%20ENR/SB/SB1589%20ENR.PDF",
         "source_slug": ""
       },
       {
@@ -5527,11 +5619,12 @@
       },
       " thinks the buying is nearly done, because the money Savvy committed is largely spent. Hard figures on whether the purchases pay their way are thin."
     ],
+    "series_format": "${n} billion",
     "claims": [
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "The largest games deal backed by Saudi Arabia's sovereign fund agreed in 2022, in billions of dollars: its games company Savvy bought the esports organizer ESL Gaming at this valuation. The same year it paid $1 billion for a stake in Embracer.",
+        "claim": "The largest games deal backed by Saudi Arabia's sovereign fund agreed in 2022: its games company Savvy bought the esports organizer ESL Gaming at this valuation. The same year it paid $1 billion for a stake in Embracer.",
         "card_text": "1.05",
         "year": "2022",
         "market": "",
@@ -5543,7 +5636,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "The largest deal agreed in 2023, in billions of dollars: Savvy's purchase of the mobile games company Scopely.",
+        "claim": "The largest deal agreed in 2023: Savvy's purchase of the mobile games company Scopely.",
         "card_text": "4.9",
         "year": "2023",
         "market": "",
@@ -5555,7 +5648,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "The largest deal agreed in 2025, in billions of dollars: the purchase of Electronic Arts by the fund and two partners, completed in August 2026. The price includes about $20 billion of borrowing. The same year Scopely bought Niantic's games business for $3.5 billion.",
+        "claim": "The largest deal agreed in 2025: the purchase of Electronic Arts by the fund and two partners, completed in August 2026. The price includes about $20 billion of borrowing. The same year Scopely bought Niantic's games business for $3.5 billion.",
         "card_text": "55",
         "year": "2025",
         "market": "",
@@ -5567,7 +5660,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "The largest deal agreed so far in 2026, in billions of dollars: Savvy's purchase of Moonton, maker of Mobile Legends, from ByteDance. It had not completed by September 2026.",
+        "claim": "The largest deal agreed so far in 2026: Savvy's purchase of Moonton, maker of Mobile Legends, from ByteDance. It had not completed by September 2026.",
         "card_text": "6",
         "year": "2026",
         "market": "",
@@ -6143,6 +6236,7 @@
       },
       "."
     ],
+    "series_format": "{n} licenses",
     "claims": [
       {
         "section": "Definition",
@@ -6709,6 +6803,17 @@
         "market": "",
         "source": "Game Developer, Bryant Francis (18 September 2026)",
         "link": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Valve rewrites the AI section of Steam's release form. Developers no longer declare AI tools used for their own workflow, such as coding helpers, only AI-generated content that ships in the game or its marketing, and content the game generates while it runs.",
+        "card_text": "Steam narrows what developers must declare",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer, Danielle Riendeau (16 January 2026)",
+        "link": "https://www.gamedeveloper.com/business/valve-tweaks-and-clarifies-ai-disclosure-rules-for-steam",
         "source_slug": "game-developer"
       },
       {
@@ -7753,8 +7858,8 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "The best-placed challenger is well short of its own target. Epic's mobile store has close to 30 million installs, against a goal of 100 million by the end of 2024. Nobody publishes the share of mobile game spending that now goes through rival stores or outside payment, so there is no evidence yet that the openings have changed where the money goes.",
-        "card_text": "Players have not moved",
+        "claim": "The best-placed challenger is well short of its own target. Epic's mobile store has close to 30 million installs, against a goal of 100 million by the end of 2024.",
+        "card_text": "Players have not moved to rival stores",
         "year": "2026",
         "market": "",
         "source": "mobilegamer.biz, interview with Steve Allison (16 March 2026)",
@@ -8117,6 +8222,17 @@
         "source_slug": "stream-hatchet"
       },
       {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Kick lets creators keep 95% of their subscription earnings. Its co-founder Bijan Tehrani says he and Ed Craven have personally invested nearly $1 billion in the platform since it began, and Streams Charts, reporting that Kick reached 100 million users, calls it Stake-backed. The article gives no figure for Kick's profits.",
+        "card_text": "Kick pays streamers the most, with its founders' money behind it",
+        "year": "2026",
+        "market": "",
+        "source": "Streams Charts, Ravi Iyer (13 April 2026)",
+        "link": "https://streamscharts.com/news/kick-reaches-100-million-users",
+        "source_slug": "streams-charts"
+      },
+      {
         "section": "Objections",
         "kind": "Argument",
         "claim": "Twitch is still where gaming streams live. Gaming made up 76% of Twitch viewing in the fourth quarter of 2025, and Twitch stayed above 4 billion hours a quarter. On TikTok and YouTube, gaming was under 15% of watch time.",
@@ -8225,11 +8341,12 @@
       },
       ", have shipments peaking at 2.9 million in 2023 and falling by nearly half in 2024. A second firm, Omdia, counts differently and forecast growth for 2025. Nobody has published a figure since. In 2026 a memory chip shortage pushed the Steam Deck's price up by as much as $300 and left it out of stock for months. The firmer change is in software: Valve now lets other makers ship SteamOS, and Lenovo was the first to do so. Linux touched 5% of Steam users in March 2026 and was back under 4% by August, and most of those users are on desktop PCs."
     ],
+    "series_format": "{n} million",
     "claims": [
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Handheld gaming PCs shipped worldwide in 2022, in millions, on IDC's estimate of 1,620,000. Every one was a Steam Deck, which went on sale that February.",
+        "claim": "Handheld gaming PCs shipped worldwide in 2022, on IDC's estimate of 1,620,000. Every one was a Steam Deck, which went on sale that February.",
         "card_text": "1.6",
         "year": "2022",
         "market": "",
@@ -8240,7 +8357,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Handheld gaming PCs shipped worldwide in 2023, in millions, on IDC's estimate of 2,867,000: the Steam Deck plus new rivals from Asus and Lenovo.",
+        "claim": "Handheld gaming PCs shipped worldwide in 2023, on IDC's estimate of 2,867,000: the Steam Deck plus new rivals from Asus and Lenovo.",
         "card_text": "2.9",
         "year": "2023",
         "market": "",
@@ -8251,7 +8368,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Handheld gaming PCs shipped worldwide in 2024, in millions, on IDC's estimate of 1,485,000. The Steam Deck was 48% of them.",
+        "claim": "Handheld gaming PCs shipped worldwide in 2024, on IDC's estimate of 1,485,000. The Steam Deck was 48% of them.",
         "card_text": "1.5",
         "year": "2024",
         "market": "",
@@ -8555,6 +8672,7 @@
       },
       " estimates that investment in blockchain games fell from $4 billion in 2022 to about $0.36 billion in 2025, and cites a count finding 93% of more than 3,200 projects dead. DappRadar, which tracked the sector, closed in November 2025. The metaverse boom of the same years has shrunk too: Meta cut about 1,500 metaverse jobs in January 2026 and is turning Horizon Worlds into a phone app. The clearest exception is Nexon's MapleStory Universe, which reports a working token economy inside an established game."
     ],
+    "series_format": "${n} billion",
     "claims": [
       {
         "section": "Definition",
@@ -8570,7 +8688,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2020, in billions of dollars, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan's text gives $70 million.",
+        "claim": "Money invested in blockchain games in 2020, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan's text gives $70 million.",
         "card_text": "0.07",
         "year": "2020",
         "market": "",
@@ -8581,7 +8699,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2021, in billions of dollars, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart.",
+        "claim": "Money invested in blockchain games in 2021, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart.",
         "card_text": "3.5",
         "year": "2021",
         "market": "",
@@ -8592,7 +8710,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2022, in billions of dollars, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan calls this the peak. It leaves out a $2 billion raise by Epic Games that had nothing to do with blockchains.",
+        "claim": "Money invested in blockchain games in 2022, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan calls this the peak. It leaves out a $2 billion raise by Epic Games that had nothing to do with blockchains.",
         "card_text": "4",
         "year": "2022",
         "market": "",
@@ -8603,7 +8721,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2023, in billions of dollars, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart.",
+        "claim": "Money invested in blockchain games in 2023, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart.",
         "card_text": "1.25",
         "year": "2023",
         "market": "",
@@ -8614,7 +8732,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2024, in billions of dollars, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart. DappRadar, which counted more widely, reported $1.8 billion for the same year.",
+        "claim": "Money invested in blockchain games in 2024, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart. DappRadar, which counted more widely, reported $1.8 billion for the same year.",
         "card_text": "1.3",
         "year": "2024",
         "market": "",
@@ -8625,7 +8743,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2025, in billions of dollars, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan's text gives roughly $360 million. DappRadar, the main tracker, closed in November 2025, so no full count of the year exists.",
+        "claim": "Money invested in blockchain games in 2025, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan's text gives roughly $360 million. DappRadar, the main tracker, closed in November 2025, so no full count of the year exists.",
         "card_text": "0.36",
         "year": "2025",
         "market": "",
@@ -8853,6 +8971,7 @@
     "horizon_group": null,
     "horizon_line": "The biggest overlooked audience. They still pay full price for single-player games, and most play alone.",
     "markets": [
+      "BR",
       "DE",
       "Global",
       "UK",
@@ -9146,6 +9265,17 @@
         "source": "game, the German games industry association (13 May 2025)",
         "link": "https://www.game.de/so-viele-deutsche-wie-nie-zuvor-spielen-games/",
         "source_slug": "game-verband"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In Brazil's official household internet survey, 38% of internet users aged 10 and over played online in 2025, the same share as in 2023. Among those aged 60 and over the share rose from 9% to 15%, and among those aged 10 to 15 it fell from 89% to 80%.",
+        "card_text": "Brazil's older internet users play more, and its children less",
+        "year": "2025",
+        "market": "BR",
+        "source": "Cetic.br, TIC Domicílios 2025, table C7 (read 30 September 2026)",
+        "link": "https://cetic.br/pt/tics/domicilios/2025/individuos/C7/",
+        "source_slug": "cetic-br-tic-domicilios-and-tic-kids-online-brasil"
       },
       {
         "section": "Timeline",
@@ -12208,6 +12338,7 @@
     "series_mark": "",
     "series_target": "",
     "timeline_heads": true,
+    "series_format": "{n} games",
     "claims": [
       {
         "section": "Figure",
@@ -12407,6 +12538,17 @@
         "source": "GameDiscoverCo, Simon Carless, Does your Steam demo CCU 'predict' your game's success? (8 September 2026)",
         "link": "https://newsletter.gamediscover.co/p/does-your-steam-demo-ccu-predict",
         "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Jason Gastrow, the YouTuber known as videogamedunkey, launched a publisher called Bigmode, saying that players who care about games come to his channel 'to find out what's actually worth playing.' Bigmode offers the games it picks funding, publicity, testing and translation.",
+        "card_text": "A YouTuber who tells players what to buy starts publishing games",
+        "year": "2022",
+        "market": "",
+        "source": "Game Developer, Chris Kerr (22 September 2022)",
+        "link": "https://www.gamedeveloper.com/business/youtuber-dunkey-launches-indie-game-publisher-bigmode",
+        "source_slug": "game-developer"
       },
       {
         "section": "Consequences",
@@ -12910,11 +13052,12 @@
       },
       " compares hits to lightning strikes. Copies are not revenue, and at these prices a chart-topper can sit well down the earnings table."
     ],
+    "series_format": "{n} thousand players at once",
     "claims": [
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "People playing friendslop games on Steam at the same moment, in thousands, at the record set in December 2023 when Lethal Company took off. The count covers 16 games chosen by Chris Zukowski.",
+        "claim": "People playing friendslop games on Steam at the same moment, at the record set in December 2023 when Lethal Company took off. The count covers 16 games chosen by Chris Zukowski.",
         "card_text": "197",
         "year": "2023",
         "market": "",
@@ -12925,7 +13068,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "The next record, in thousands, set in March 2025 during the surge of R.E.P.O. Zukowski gives no figure for 2024, when the total dipped and spiked between records.",
+        "claim": "The next record, set in March 2025 during the surge of R.E.P.O. Zukowski gives no figure for 2024, when the total dipped and spiked between records.",
         "card_text": "281",
         "year": "2025",
         "market": "",
@@ -12936,7 +13079,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "The record so far in 2026, in thousands, set in June at the launch of Meccha Chameleon. A write-up of the same post by Game World Observer gives 366,000.",
+        "claim": "The record so far in 2026, set in June at the launch of Meccha Chameleon. A write-up of the same post by Game World Observer gives 366,000.",
         "card_text": "350",
         "year": "2026",
         "market": "",
@@ -13503,6 +13646,7 @@
       },
       " shows. Capcom said in September 2026, after a million-copy launch day for Onimusha, that it is re-activating IPs it has not launched recently, alongside its new releases. Blizzard is bringing StarCraft back as a shooter for 2030, Nintendo has dated a remake of a 1998 Zelda, and Nexon has licensed its catalog to outside developers."
     ],
+    "series_format": "{n} years",
     "claims": [
       {
         "section": "Timeline",
@@ -13915,6 +14059,1266 @@
         "source": "Capcom IR",
         "link": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
         "source_slug": "capcom-ir"
+      }
+    ]
+  },
+  {
+    "slug": "mobile-publishers-move-payments-to-web-shops",
+    "name": "Mobile publishers are moving payments to their own web shops",
+    "stage": "Emerging",
+    "category": "Money & business model",
+    "horizon": "h2",
+    "horizon_group": "prolongs-h1",
+    "horizon_line": "The same publishers keep the same games and more of each sale.",
+    "markets": [
+      "EU",
+      "Global",
+      "US"
+    ],
+    "what_it_is": "Since a US court barred Apple in April 2025 from taking a cut of sales made through a link out of an app, mobile publishers have been moving players to their own web shops. Playtika's direct sales rose 63.1% in a year, to $286.9 million of $731.1 million in the second quarter of 2026. Stillfront now takes 46% of its bookings directly. Casino games lead. A survey by Appcharge, which handles such payments, puts direct sales at about 15% of mobile in-app spending in 2025.",
+    "why_it_matters": "Apple and Google have long taken up to 30% of what players spend inside mobile games. A sale moved to a web shop keeps most of that with the publisher. The same companies run the same games, and keep more of each dollar.",
+    "further_reading": [
+      {
+        "source": "Sensor Tower reveals the hidden impact of D2C revenue in mobile games",
+        "link": "https://www.pocketgamer.biz/sensor-tower-reveals-the-hidden-impact-of-d2c-revenue-in-mobile-games/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "The New Reality of Mobile DTC Payments",
+        "link": "https://naavik.co/deep-dives/the-new-reality-of-mobile-dtc-payments/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Interim Report Q2 2026",
+        "link": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q2-2026-260724.pdf",
+        "type": "Primary",
+        "format": ""
+      }
+    ],
+    "as_of": "Sep 2026",
+    "where_to_follow": "Playtika and Stillfront quarterly results, PocketGamer.biz, mobilegamer.biz, Naavik, Sensor Tower",
+    "status_label": "",
+    "measure_label": "",
+    "row_label": "",
+    "series_label": "What Playtika sold directly to players each quarter, $ millions",
+    "series_note": "Flat near $175 million a quarter until mid-2025, Playtika's direct sales then rose by almost two thirds in a year, to $286.9 million in the second quarter of 2026.",
+    "series_type": "line",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "what_it_is_text": [
+      "Since a US court barred Apple in April 2025 from taking a cut of sales made through a link out of an app, mobile publishers have been moving players to their own web shops. ",
+      {
+        "text": "Playtika's direct sales",
+        "href": "https://www.sec.gov/Archives/edgar/data/1828016/000182801626000046/a2026q2ex991-earningsrelea.htm"
+      },
+      " rose 63.1% in a year, to $286.9 million of $731.1 million in the second quarter of 2026. ",
+      {
+        "text": "Stillfront",
+        "href": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q2-2026-260724.pdf"
+      },
+      " now takes 46% of its bookings directly. Casino games lead. A survey by Appcharge, which handles such payments, puts direct sales at about 15% of mobile in-app spending in 2025."
+    ],
+    "series_format": "${n} million",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "A web shop is a store a game's publisher runs on the web, where players buy in-game content to use on their phones or PCs. The industry calls these sales direct-to-consumer, or D2C.",
+        "card_text": "What is a web shop?",
+        "year": "",
+        "market": "",
+        "source": "PocketGamer.biz, Paige Cook (3 October 2025)",
+        "link": "https://www.pocketgamer.biz/epic-games-launches-global-web-shops-for-mobile-and-pc/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the first quarter of 2024. Its total revenue that quarter was $651.2 million.",
+        "card_text": "171.5",
+        "year": "2024",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801624000017/a2024q1ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q1 2024"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the second quarter of 2024. Its total revenue that quarter was $627.0 million.",
+        "card_text": "173.7",
+        "year": "2024",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801624000027/a2024q2ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q2 2024"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the third quarter of 2024. Its total revenue that quarter was $620.8 million.",
+        "card_text": "174.4",
+        "year": "2024",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801624000033/a2024q3ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q3 2024"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the fourth quarter of 2024. Its total revenue that quarter was $650.3 million.",
+        "card_text": "174.6",
+        "year": "2024",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801625000009/a2024q4ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q4 2024"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the first quarter of 2025. Its total revenue that quarter was $706.0 million.",
+        "card_text": "179.2",
+        "year": "2025",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801625000023/a2025q1ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q1 2025"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the second quarter of 2025. Its total revenue that quarter was $696.0 million.",
+        "card_text": "175.9",
+        "year": "2025",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801625000036/a2025q2ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q2 2025"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the third quarter of 2025. Its total revenue that quarter was $674.6 million.",
+        "card_text": "209.3",
+        "year": "2025",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801625000046/a2025q3ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q3 2025"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the fourth quarter of 2025. Its total revenue that quarter was $678.8 million.",
+        "card_text": "250.1",
+        "year": "2025",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801626000009/a2025q4ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q4 2025"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the first quarter of 2026. Its total revenue that quarter was $744.7 million.",
+        "card_text": "291.8",
+        "year": "2026",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801626000036/a2026q1ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q1 2026"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the second quarter of 2026. Its total revenue that quarter was $731.1 million.",
+        "card_text": "286.9",
+        "year": "2026",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801626000046/a2026q2ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q2 2026"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "A federal judge rules in April 2025 that Apple cannot take a commission on payments made outside the App Store, and cannot stop US apps from pointing players to them. For the first time, a US game can send its players to its own web shop and keep the whole sale.",
+        "card_text": "A US court bars Apple from taking a cut of sales made outside its store",
+        "year": "2025",
+        "market": "US",
+        "source": "mobilegamer.biz, Neil Long (1 May 2025)",
+        "link": "https://mobilegamer.biz/epic-claims-victory-as-us-court-nukes-apples-control-over-app-store-payments/",
+        "source_slug": "mobilegamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Epic Games, the maker of Fortnite, launches Epic Web Shops, which let developers sell in-game items to players on phones and PCs. Developers keep all of the first $1 million in net revenue per game each year, and do not have to sell the game on Epic's store.",
+        "card_text": "Epic opens web shops to any game and keeps nothing on the first $1 million",
+        "year": "2025",
+        "market": "",
+        "source": "PocketGamer.biz, Paige Cook (3 October 2025)",
+        "link": "https://www.pocketgamer.biz/epic-games-launches-global-web-shops-for-mobile-and-pc/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Take-Two, which expects its mobile label Zynga to bring in about 46% of its bookings for the year, tells investors that after recent legal changes its teams have rolled out technology for direct transactions and new ways to pay. It expects the channel to expand bookings and margins meaningfully.",
+        "card_text": "Take-Two rolls out direct payments in its mobile games",
+        "year": "2025",
+        "market": "",
+        "source": "Take-Two Interactive, second-quarter fiscal 2026 conference call remarks (6 November 2025)",
+        "link": "https://ir.take2games.com/static-files/d7def4ae-13b2-458e-8efe-081b0ee3e044",
+        "source_slug": "take-two-interactive-ir"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Playtika, the Israeli maker of Bingo Blitz and Solitaire Grand Harvest, reports a record $209.3 million from its own direct-to-consumer platforms in the third quarter of 2025, up 19.0% on the quarter before and 20.0% on a year earlier.",
+        "card_text": "Playtika's direct sales jump 19% in a quarter",
+        "year": "2025",
+        "market": "",
+        "source": "Playtika Holding Corp., third-quarter 2025 results (6 November 2025)",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801625000046/a2025q3ex991-earningsrelea.htm",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Stillfront, the Swedish owner of Big Farm and Empire, says 46% of its bookings in the second quarter of 2026 went through its own payment platforms, up from 39% a year earlier. Its app-store share fell from 49% to 42%.",
+        "card_text": "Stillfront takes 46% of its bookings directly",
+        "year": "2026",
+        "market": "",
+        "source": "Stillfront Group, interim report for the second quarter of 2026 (24 July 2026)",
+        "link": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q2-2026-260724.pdf",
+        "source_slug": "stillfront-group"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Playtika takes $286.9 million through its own platforms in the second quarter of 2026, out of $731.1 million in revenue. Direct sales are up 63.1% on a year earlier, while revenue as a whole is up 5.0%.",
+        "card_text": "Playtika's direct sales rise 63.1% in a year",
+        "year": "2026",
+        "market": "",
+        "source": "Playtika Holding Corp., second-quarter 2026 results (6 August 2026)",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801626000046/a2026q2ex991-earningsrelea.htm",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Sensor Tower estimates that Monopoly Go took $143 million from US players in June 2026, of which $52.6 million came through its own web shop. Web shop sales grew 41% over the first half of 2026 while sales in the app stores fell 25%.",
+        "card_text": "Monopoly Go makes over a third of its US revenue in its web shop",
+        "year": "2026",
+        "market": "US",
+        "source": "mobilegamer.biz, Vikki Blake (12 August 2026)",
+        "link": "https://mobilegamer.biz/data-digest-monopoly-gos-booming-webstore-pokemon-go-spikes-love-and-deepspace-revenue-crashes-more/",
+        "source_slug": "mobilegamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "PocketGamer.biz tallies what publishers reported for the second quarter of 2026. DoubleDown Interactive now takes 52.4% of its social casino revenue directly, up from 15.4% a year earlier. Modern Times Group takes 38%, and Playstudios 34.4% of its virtual currency sales.",
+        "card_text": "DoubleDown passes half its casino sales direct",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Craig Chapple (17 August 2026)",
+        "link": "https://www.pocketgamer.biz/how-much-direct-to-consumer-revenue-are-publishers-actually-making/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Sensor Tower, which sells app-market estimates, says some mobile games now take more than 30% of sales directly. In its US study of the first half of 2026, about 30% of the revenue of the top 100 casino games came from outside the app stores, and puzzle and strategy games took little. It is preparing a feature that estimates web shop revenue.",
+        "card_text": "Sensor Tower finds casino games lead, and gets ready to sell the numbers",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Craig Chapple (25 August 2026)",
+        "link": "https://www.pocketgamer.biz/sensor-tower-reveals-the-hidden-impact-of-d2c-revenue-in-mobile-games/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Playtika's executives say so of their own business. Its finance chief, Craig Abrahams, told investors that \"a growing direct-to-consumer mix is protecting margins\", and its chief executive named growing that mix as company strategy.",
+        "card_text": "Direct sales hold up margins",
+        "year": "2025",
+        "market": "",
+        "source": "Playtika Holding Corp., third-quarter 2025 results (6 November 2025)",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801625000046/a2025q3ex991-earningsrelea.htm",
+        "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Naavik, writing with the payments firm Neon as its partner, argues that publishers are moving revenue from the stores' 30% fees to payment processing fees of 3% to 4%. Cutting prices on the web shop grows its share fast, it warns, but risks shrinking revenue by lowering what each player spends.",
+        "card_text": "A 30% fee becomes a fee of 3% to 4%",
+        "year": "2025",
+        "market": "",
+        "source": "Naavik, Abhimanyu Kumar, Andrew Dubatowka and Jukka Hilvonen (23 November 2025)",
+        "link": "https://naavik.co/deep-dives/the-new-reality-of-mobile-dtc-payments/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Stillfront says the move to its own payment platforms is \"primarily driven by players actively being incentivized\" to switch. It lowers reported revenue but raises profit on each sale: gross margin rose to 84% from 82%, which Stillfront puts down to the higher direct share.",
+        "card_text": "Players are paid to move",
+        "year": "2026",
+        "market": "",
+        "source": "Stillfront Group, interim report for the second quarter of 2026 (24 July 2026)",
+        "link": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q2-2026-260724.pdf",
+        "source_slug": "stillfront-group"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Sensor Tower puts mobile game spending in the app stores at about $40 billion in the first half of 2026, down 2% on a year earlier. Its estimates count only store revenue, so a game that moves its players to a web shop looks as if it is shrinking.",
+        "card_text": "App-store charts now miss the money",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Craig Chapple (25 August 2026)",
+        "link": "https://www.pocketgamer.biz/sensor-tower-reveals-the-hidden-impact-of-d2c-revenue-in-mobile-games/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "An appeals court upheld the contempt finding in December 2025 but ruled that Apple may charge a commission on sales made through a link out, based on the costs genuinely and reasonably necessary to run those links, with some payment for its intellectual property. The trial judge has still to set it.",
+        "card_text": "The free link in the US may not stay free",
+        "year": "2025",
+        "market": "US",
+        "source": "US Court of Appeals for the Ninth Circuit, Epic Games v. Apple, No. 25-2935 (11 December 2025)",
+        "link": "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "The widely quoted figure of $17 billion, about 15% of the $113.3 billion spent inside mobile games in 2025, comes from a survey by GDC and Appcharge. Appcharge handles direct-to-consumer payments for game publishers. The mobile findings rest on 130 respondents in charge of mobile games.",
+        "card_text": "The market total comes from a vendor's survey",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Isa Muhammad (24 June 2026)",
+        "link": "https://www.pocketgamer.biz/report-mobile-game-d2c-revenues-reach-17bn-as-publishers-push-beyond-app-stores/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "At a Pocket Gamer Connects panel of payment companies, Xsolla's Inês Ramalho said most developers save only a few percentage points in practice. Worldline's Jonas Martins advised most smaller studios to aim for 15% to 20% of sales direct, and Breeze's Peter Gerson said payment processing, tax, compliance and customer service all cost money and people.",
+        "card_text": "Small studios save less than the headline",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Mariam Ahmad (19 June 2026)",
+        "link": "https://www.pocketgamer.biz/d2c-in-games-promise-versus-reality/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Apple charges a commission of 15% on purchases that App Store apps in the European Union complete by linking out, from 1 October 2026. Only in the US is the link free today.",
+        "card_text": "In Europe, a link out still pays Apple 15%",
+        "year": "2026",
+        "market": "EU",
+        "source": "Apple Newsroom (18 August 2026)",
+        "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "23 October 2026, when Stillfront reports its third quarter. It will show whether the share of bookings through its own payment platforms keeps climbing past 46%.",
+        "card_text": "Stillfront's third-quarter report",
+        "year": "2026",
+        "market": "",
+        "source": "Stillfront Group, interim report for the second quarter of 2026 (24 July 2026)",
+        "link": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q2-2026-260724.pdf",
+        "source_slug": "stillfront-group"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Early November 2026, when Playtika usually reports its third quarter. Its direct sales fell 1.7% from the first quarter to the second, the first fall in a year. The results add the next point to this chart.",
+        "card_text": "Playtika's third-quarter results",
+        "year": "2026",
+        "market": "",
+        "source": "Playtika Holding Corp., second-quarter 2026 results (6 August 2026)",
+        "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801626000046/a2026q2ex991-earningsrelea.htm",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "13 November 2026, when Epic's brief is due in Apple's appeal to the Supreme Court, which agreed on 30 June 2026 to hear part of it. A win for Apple could let it charge for sales made through a link out in the US again.",
+        "card_text": "Epic answers Apple in the Supreme Court",
+        "year": "2026",
+        "market": "US",
+        "source": "Supreme Court of the United States, docket No. 25-1311 (read 30 September 2026)",
+        "link": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1311.html",
+        "source_slug": ""
+      }
+    ]
+  },
+  {
+    "slug": "instant-games-outside-the-app-stores",
+    "name": "Instant games are growing outside the app stores",
+    "stage": "Emerging",
+    "category": "Platform & distribution",
+    "horizon": "h3",
+    "horizon_group": null,
+    "horizon_line": "Cheap, social games that need no store. China shows the scale, the West the start.",
+    "markets": [
+      "CN",
+      "Global",
+      "US"
+    ],
+    "what_it_is": "Games that run inside WeChat and Douyin, with nothing to install, earned 53.535 billion yuan in China in 2025, up 34.39% in a market that grew 7.68%. WeChat says more than 500 million people play them each month. Outside China the same idea is spreading through Poki's browser games, YouTube's Playables and Discord's Activities. Apple cut its fee on purchases in such games to 15% in 2025, and many Chinese hits still reach other countries as ordinary store apps.",
+    "why_it_matters": "A mini game costs little to make, needs no download, and can pay its developer more than China's Android stores do. That let tiny teams reach huge audiences. In China, big publishers and their advertising budgets have since followed them in.",
+    "further_reading": [
+      {
+        "source": "Behind the Numbers: China's Big Market for Mini Games",
+        "link": "https://www.sixthtone.com/news/1015581",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Is the Overseas Expansion of Mini-Games Turning into a Big Companies' Game?",
+        "link": "https://eu.36kr.com/en/p/3471991302756484",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Inside Poki's vision for the future of browser gaming",
+        "link": "https://www.pocketgamer.biz/inside-pokis-vision-for-the-future-of-browser-gaming/",
+        "type": "Reporting",
+        "format": ""
+      }
+    ],
+    "as_of": "Sep 2026",
+    "where_to_follow": "CADPA Game Working Committee reports, the WeChat Mini Game Developers Conference, 36Kr, GameDev Reports, PocketGamer.biz",
+    "status_label": "",
+    "measure_label": "",
+    "row_label": "",
+    "series_label": "What China's mini games earned, billion yuan",
+    "series_note": "Mini-game revenue more than doubled from 2023 to 2025, and the first half of 2026 was up 36.01% on a year earlier.",
+    "series_type": "",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "what_it_is_text": [
+      "Games that run inside WeChat and Douyin, with nothing to install, earned ",
+      {
+        "text": "53.535 billion yuan in China in 2025",
+        "href": "https://www.cadpa.org.cn/3277/202512/41770.html"
+      },
+      ", up 34.39% in a market that grew 7.68%. WeChat says more than 500 million people play them each month. Outside China the same idea is spreading through Poki's browser games, YouTube's Playables and Discord's Activities. Apple cut its fee on purchases in such games to 15% in 2025, and many Chinese hits still reach other countries as ordinary store apps."
+    ],
+    "series_format": "{n} billion yuan",
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "A mini game is a self-contained game built with web technologies such as HTML5 or JavaScript and distributed inside a larger app, rather than installed on its own. Apple's App Store has supported mini apps and games since 2017.",
+        "card_text": "What a mini game is",
+        "year": "2026",
+        "market": "",
+        "source": "Apple Developer, Mini Apps Partner Program (read 30 September 2026)",
+        "link": "https://developer.apple.com/programs/mini-apps-partner/",
+        "source_slug": ""
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What mini-program games earned in China in 2023. The committee's report gives 20 billion yuan, up 300% on 2022.",
+        "card_text": "20",
+        "year": "2023",
+        "market": "",
+        "source": "CADPA Game Working Committee, 2023 China Game Industry Report (15 December 2023)",
+        "link": "https://www.cgigc.com.cn/details.html?id=08dc70a3-deb3-4af9-8043-8b92d80fff2c&tp=report",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What mini-program games earned in China in 2024. The committee's report gives 39.836 billion yuan, up 99.18%, while the whole domestic market grew 7.53%.",
+        "card_text": "39.836",
+        "year": "2024",
+        "market": "",
+        "source": "CADPA Game Working Committee, 2024 China Game Industry Report (17 January 2025)",
+        "link": "https://www.cadpa.org.cn/3277/202501/41718.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What mini-program games earned in China in 2025. The committee's report gives 53.535 billion yuan, up 34.39%, while the whole domestic market grew 7.68%. In-app purchases brought in 68.11% and advertising 31.89%.",
+        "card_text": "53.535",
+        "year": "2025",
+        "market": "",
+        "source": "CADPA Game Working Committee, 2025 China Game Industry Report (19 December 2025)",
+        "link": "https://www.cadpa.org.cn/3277/202512/41770.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What mini games earned in China in the first half of 2026, up 36.01% while the whole domestic market grew 12.17%. The committee has not posted this report on its own sites, so the figure is as GameDev Reports relays it.",
+        "card_text": "31.66",
+        "year": "2026",
+        "market": "",
+        "source": "CADPA Game Working Committee, January to June 2026 report, relayed by GameDev Reports (19 August 2026)",
+        "link": "https://gamedevreports.substack.com/p/cadpa-the-chinese-gaming-market-in",
+        "source_slug": "gpc-cadpa-game-working-committee",
+        "partial": true
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "WeChat, Tencent's messaging app, debuts its first mini game, Tiao yi tiao. Mini games are played inside the app, with no separate download or installation.",
+        "card_text": "WeChat launches its first mini game",
+        "year": "2017",
+        "market": "",
+        "source": "Sixth Tone, Luo Yahan (26 July 2024)",
+        "link": "https://www.sixthtone.com/news/1015581",
+        "source_slug": "sixth-tone"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Sheep a Sheep, a tile-matching game playable only inside WeChat, takes off in September 2022. Made by a four-person team on a reported budget of 500,000 yuan, it reaches 213 million monthly players and takes in over 100 million yuan that year.",
+        "card_text": "A four-person studio's WeChat game reaches 213 million players",
+        "year": "2022",
+        "market": "",
+        "source": "Sixth Tone, Luo Yahan (26 July 2024)",
+        "link": "https://www.sixthtone.com/news/1015581",
+        "source_slug": "sixth-tone"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "YouTube launches Playables, free games played directly on YouTube on the web and in its phone apps, starting with more than 75 titles such as Angry Birds Showdown and Cut the Rope. It widens access to more users over the following months.",
+        "card_text": "YouTube puts more than 75 games inside its app",
+        "year": "2024",
+        "market": "",
+        "source": "YouTube Official Blog (28 May 2024)",
+        "link": "https://blog.youtube/news-and-events/youtube-playables/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Discord invites outside game developers to build Activities, games played inside Discord, with its Embedded App SDK. Discord says its apps are used by over 25% of its monthly active users.",
+        "card_text": "Discord asks developers to build games into its chats",
+        "year": "2024",
+        "market": "",
+        "source": "Discord, Ben Shanken (26 September 2024)",
+        "link": "https://discord.com/blog/build-where-the-world-plays",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "As of August 2025, WeChat's mini games have 571 million monthly players and Douyin's 171 million, according to a report by Meridian Play and JINKE. Douyin grows faster in the number of games buying advertising, up 70%.",
+        "card_text": "Douyin's mini games reach 171 million monthly players",
+        "year": "2025",
+        "market": "",
+        "source": "GameDev Reports, Dmitriy Byshonkov (20 July 2026)",
+        "link": "https://gamedevreports.substack.com/p/meridian-play-and-jinke-chinas-wechat",
+        "source_slug": "gamedev-reports"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Apple opens its Mini Apps Partner Program for apps that host mini apps and games built with web technologies such as HTML5 and JavaScript. Hosts that join pay a reduced commission of 15% on qualifying in-app purchases, if they support Apple's age range and commerce tools.",
+        "card_text": "Apple cuts its fee to 15% for games inside other apps",
+        "year": "2025",
+        "market": "",
+        "source": "Apple Developer News (13 November 2025)",
+        "link": "https://developer.apple.com/news/?id=xcz1s7cz",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "WeChat announces that its mini programs will support virtual payments on iOS, with Apple's commission cut to 15%. Apple's rules had long restricted such payments on iPhones.",
+        "card_text": "WeChat brings payments to its mini programs on iPhone",
+        "year": "2025",
+        "market": "",
+        "source": "TechNode (15 November 2025)",
+        "link": "https://technode.com/2025/11/15/wechat-to-support-virtual-payments-on-ios-apple-cuts-commission-to-15/",
+        "source_slug": "technode"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Poki, a site for free browser games, says 625 million people played on it in 2025, including 100 million every month, across 11.1 billion plays. The figures are the company's own.",
+        "card_text": "Poki counts 625 million players in a year",
+        "year": "2025",
+        "market": "",
+        "source": "Poki (3 December 2025)",
+        "link": "https://poki.com/blog/2025-at-poki-a-year-in-review",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "YouTube begins a closed beta of Playables Builder, which uses Gemini 3 to turn short text, image or video prompts into small games. It is open to approved creators in the US and three other countries.",
+        "card_text": "YouTube tests an AI tool that turns prompts into games",
+        "year": "2025",
+        "market": "",
+        "source": "PocketGamer.biz, Isa Muhammad (22 December 2025)",
+        "link": "https://www.pocketgamer.biz/youtube-launches-ai-powered-playables-builder-to-let-creators-make-games/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "At its developer conference, WeChat says its mini games have passed 500 million monthly players and 500,000 developers, more than 80% of them teams of fewer than 30 people. More than 80 games passed one million daily players in the past year. These are WeChat's own figures.",
+        "card_text": "WeChat says 500 million people play its mini games each month",
+        "year": "2026",
+        "market": "",
+        "source": "36Kr, relaying DataEye (27 May 2026)",
+        "link": "https://eu.36kr.com/en/p/3827142657888902",
+        "source_slug": "36kr"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "YouTube widens Playables to users in more than 50 markets. Developers can still reach it only through early access, by submitting games through an interest form.",
+        "card_text": "YouTube Playables reaches more than 50 markets",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Isa Muhammad (28 September 2026)",
+        "link": "https://www.pocketgamer.biz/youtube-playables-expands-to-more-than-50-markets-including-the-eu-and-nordics/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "China's Android phone makers take 50% of what players spend in games. Developers can keep as much as 70% on WeChat, and Douyin lets some preferred partners keep as much as 90%, reports Sixth Tone, a state-owned outlet.",
+        "card_text": "Developers keep more than China's Android stores allow",
+        "year": "2024",
+        "market": "",
+        "source": "Sixth Tone, Luo Yahan (26 July 2024)",
+        "link": "https://www.sixthtone.com/news/1015581",
+        "source_slug": "sixth-tone"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "According to 36Kr, 70% of China's listed game companies have started investing in mini games, and Century Huatong and 37 Interactive Entertainment make two of the biggest. Supercell has ported Brawl Stars and Clash Royale to WeChat.",
+        "card_text": "China's big publishers now make mini games",
+        "year": "2025",
+        "market": "",
+        "source": "36Kr, relaying Youkelili (16 October 2025)",
+        "link": "https://eu.36kr.com/en/p/3511686181510280",
+        "source_slug": "36kr"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Under WeChat's 2026 terms, developers in Apple's program receive 70% of what iPhone players spend through Apple's in-app purchase. Until 31 December 2026 WeChat waives its own fee, which it estimates leaves developers about 88%.",
+        "card_text": "Apple takes a share of WeChat's games on iPhone",
+        "year": "2026",
+        "market": "",
+        "source": "WeChat Open Documentation, 2026 mini game payment incentive policy (read 30 September 2026)",
+        "link": "https://developers.weixin.qq.com/minigame/introduction/commercialization/guide/virtual-payment.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "In a survey commissioned by Poki, which runs a browser games site, 53% of the companies asked plan to port their mobile games to browsers within a year. 62% of the players surveyed said they had downloaded or bought a game after first playing it on the web.",
+        "card_text": "Mobile studios plan browser versions",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Aaron Astle (25 June 2026)",
+        "link": "https://www.pocketgamer.biz/report-53-plan-to-port-mobile-games-to-browser-in-next-12-months/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "China's official report gives 53.535 billion yuan for mini-program games beside 257.076 billion yuan for mobile games in 2025, and does not say whether one includes the other. The two cannot safely be added, and the mini-game growth cannot be read as extra to mobile.",
+        "card_text": "The mini-game figure may sit inside the mobile one",
+        "year": "2025",
+        "market": "",
+        "source": "CADPA Game Working Committee, 2025 China Game Industry Report (19 December 2025)",
+        "link": "https://www.cadpa.org.cn/3277/202512/41770.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Many studios taking Chinese mini games abroad wrap them as native apps for Google Play and the App Store, which blurs the line between mini games and mobile games, 36Kr reports. Whiteout Survival, the overseas version of Century Huatong's Endless Winter, has ranked first in revenue among Chinese mobile games abroad.",
+        "card_text": "The hits reach other countries through the app stores",
+        "year": "2025",
+        "market": "",
+        "source": "36Kr, Lan Jie (18 September 2025)",
+        "link": "https://eu.36kr.com/en/p/3471991302756484",
+        "source_slug": "36kr"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Small teams make up 80% of the mini-game market, but a creative game that once drew hundreds of thousands of players without paid promotion now struggles to pass 100,000. 37 Interactive Entertainment spent 5.36 billion yuan on internet traffic in the first half of 2024.",
+        "card_text": "Small teams find it harder to break through",
+        "year": "2025",
+        "market": "",
+        "source": "36Kr, relaying Youkelili (16 October 2025)",
+        "link": "https://eu.36kr.com/en/p/3511686181510280",
+        "source_slug": "36kr"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "WeChat pays several of its 2026 bonuses for mini-game developers as credit that can only be spent on advertising. A game's base bonus, 10% of its monthly net revenue, is unlocked by spending on ads, and from 22 September 2026 a new game's launch bonus can only be spent advertising that game.",
+        "card_text": "WeChat pays its bonuses in advertising",
+        "year": "2026",
+        "market": "",
+        "source": "WeChat Open Documentation, 2026 mini game payment incentive policy (read 30 September 2026)",
+        "link": "https://developers.weixin.qq.com/minigame/introduction/commercialization/guide/virtual-payment.html",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "The committee's report on 2026, when it usually publishes in mid-December, as it did on 19 December 2025. Its outlook for 2026 said mini games would keep growing fast, and the report will add a full-year point to this chart.",
+        "card_text": "China's 2026 game industry report",
+        "year": "2026",
+        "market": "",
+        "source": "CADPA Game Working Committee, 2025 China Game Industry Report (19 December 2025)",
+        "link": "https://www.cadpa.org.cn/3277/202512/41770.html",
+        "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "31 December 2026, when WeChat's waiver of its own fee on iPhone purchases ends. Unless it is extended, developers in Apple's program go from about 88% of what players spend to 70%.",
+        "card_text": "WeChat's iPhone fee waiver ends",
+        "year": "2026",
+        "market": "",
+        "source": "WeChat Open Documentation, 2026 mini game payment incentive policy (read 30 September 2026)",
+        "link": "https://developers.weixin.qq.com/minigame/introduction/commercialization/guide/virtual-payment.html",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Any player or revenue figure YouTube publishes for Playables, or Playables Builder opening beyond its closed beta. The expansion to more than 50 markets in September 2026 came with no player count.",
+        "card_text": "A first player count for YouTube Playables",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, Isa Muhammad (28 September 2026)",
+        "link": "https://www.pocketgamer.biz/youtube-playables-expands-to-more-than-50-markets-including-the-eu-and-nordics/",
+        "source_slug": "pocketgamer-biz"
+      }
+    ]
+  },
+  {
+    "slug": "governments-fund-games-as-culture-and-industry",
+    "name": "Governments are paying for games as culture and industry",
+    "stage": "Dominant",
+    "category": "Geography & power",
+    "horizon": "h2",
+    "horizon_group": "makes-room",
+    "horizon_line": "Grants reach new teams, while credits mostly reward the biggest productions.",
+    "markets": [
+      "BR",
+      "CA",
+      "CN",
+      "DE",
+      "FR",
+      "Global",
+      "IN",
+      "IT",
+      "MENA",
+      "UK"
+    ],
+    "what_it_is": "Governments pay for games in two ways. Tax credits return a share of what studios spend: 34% in the UK, 30% in France, 25% in British Columbia. In the UK, claims over £500,000 took 82% of relief in 2024-25. Grants pay small teams up front: São Paulo offers R$300,000 for a prototype, and Britain doubled its Games Fund in 2026. Germany and India have added money since 2020, and Brazil opened its culture funding to games in 2024.",
+    "why_it_matters": "Public money now decides where many games are made. Tax credits reward the biggest productions and are hard to cut once studios depend on them. Grants are small but reach new teams. The mix a country chooses shapes whose games get made there.",
+    "further_reading": [
+      {
+        "source": "How subsidies helped Montreal become \"the Hollywood of video games\"",
+        "link": "https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Creative industries statistics commentary: September 2026",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026/creative-industries-statistics-commentary-september-2026",
+        "type": "Data",
+        "format": ""
+      },
+      {
+        "source": "Evaluation of the UK Games Fund: Final report",
+        "link": "https://www.gov.uk/government/publications/evaluation-of-the-uk-games-fund-final-report/evaluation-of-the-uk-games-fund-final-report",
+        "type": "Research",
+        "format": ""
+      }
+    ],
+    "as_of": "Sep 2026",
+    "where_to_follow": "HM Revenue and Customs creative industries statistics each September, the CNC, GamesWirtschaft on German games funding, ANCINE's regulatory agenda, Ukie and TIGA",
+    "status_label": "",
+    "measure_label": "",
+    "row_label": "",
+    "series_label": "UK games tax relief paid each financial year, £ millions",
+    "series_note": "Relief paid to games companies rose every year, from £63 million in 2014-15 to £395 million in 2024-25, the first year with large claims under the new 34% credit.",
+    "series_type": "",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "what_it_is_text": [
+      "Governments pay for games in two ways. Tax credits return a share of what studios spend: ",
+      {
+        "text": "34% in the UK",
+        "href": "https://www.bfi.org.uk/apply-british-certification-expenditure-credits/about-uk-creative-industry-expenditure-credits"
+      },
+      ", ",
+      {
+        "text": "30% in France",
+        "href": "https://www.cnc.fr/professionnels/aides-et-financements/jeu-video/credit-dimpot-jeu-video_121078"
+      },
+      ", ",
+      {
+        "text": "25% in British Columbia",
+        "href": "https://news.gov.bc.ca/releases/2025FIN0028-000646"
+      },
+      ". In the UK, ",
+      {
+        "text": "claims over £500,000 took 82%",
+        "href": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026/creative-industries-statistics-commentary-september-2026"
+      },
+      " of relief in 2024-25. Grants pay small teams up front: ",
+      {
+        "text": "São Paulo",
+        "href": "https://www.cultura.sp.gov.br/sec_cultura/Arquivo_de_Editais/Editais_Fomento_Cultsp/Fomento_CultSP_2026/desenvolvimento_ou_finalizacao_e_publicacao_de_jogos_eletronicos_2026/"
+      },
+      " offers R$300,000 for a prototype, and Britain doubled its ",
+      {
+        "text": "Games Fund",
+        "href": "https://www.pocketgamer.biz/government-pledges-285m-for-uk-games-fund-to-boost-industry/"
+      },
+      " in 2026. ",
+      {
+        "text": "Germany",
+        "href": "https://www.heise.de/en/news/New-call-Research-Ministry-steps-up-games-funding-10493343.html"
+      },
+      " and ",
+      {
+        "text": "India",
+        "href": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=156068&ModuleId=3&reg=3&lang=2"
+      },
+      " have added money since 2020, and ",
+      {
+        "text": "Brazil",
+        "href": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14852.htm"
+      },
+      " opened its culture funding to games in 2024."
+    ],
+    "series_format": "£{n} million",
+    "claims": [
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2014-15, as HM Revenue and Customs records it by the year each company's accounting period ended.",
+        "card_text": "63",
+        "year": "2015",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2014-15"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2015-16, as HM Revenue and Customs records it by the year each company's accounting period ended.",
+        "card_text": "90",
+        "year": "2016",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2015-16"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2016-17, as HM Revenue and Customs records it by the year each company's accounting period ended.",
+        "card_text": "101",
+        "year": "2017",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2016-17"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2017-18, as HM Revenue and Customs records it by the year each company's accounting period ended.",
+        "card_text": "124",
+        "year": "2018",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2017-18"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2018-19, as HM Revenue and Customs records it by the year each company's accounting period ended.",
+        "card_text": "153",
+        "year": "2019",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2018-19"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2019-20, as HM Revenue and Customs records it by the year each company's accounting period ended.",
+        "card_text": "192",
+        "year": "2020",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2019-20"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2020-21, as HM Revenue and Customs records it by the year each company's accounting period ended.",
+        "card_text": "217",
+        "year": "2021",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2020-21"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2021-22, as HM Revenue and Customs records it by the year each company's accounting period ended.",
+        "card_text": "280",
+        "year": "2022",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2021-22"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2022-23, as HM Revenue and Customs records it by the year each company's accounting period ended.",
+        "card_text": "322",
+        "year": "2023",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2022-23"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2023-24, as HM Revenue and Customs records it by the year each company's accounting period ended. The total includes £10 million claimed under the new 34% expenditure credit. HMRC marks the year provisional.",
+        "card_text": "336",
+        "year": "2024",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2023-24"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "UK games tax relief paid for the financial year 2024-25, as HM Revenue and Customs records it by the year each company's accounting period ended. The total includes £116 million claimed under the new 34% expenditure credit. HMRC marks the year provisional and has raised it to allow for claims not yet received.",
+        "card_text": "395",
+        "year": "2025",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": "",
+        "period": "2024-25"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "After a subsidy deal that brought Ubisoft to Montreal drew protests of favoritism from other companies, Quebec creates a refundable tax credit for multimedia titles open to all. It pays up to 37.5% of eligible wages for a title available in French and up to 30% for one that is not.",
+        "card_text": "Quebec creates a tax credit for multimedia studios",
+        "year": "1996",
+        "market": "",
+        "source": "NPR Planet Money, Corey Bridges (4 January 2022)",
+        "link": "https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games",
+        "source_slug": "npr"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "A reform that takes effect on 10 August 2017 raises France's tax credit for making games from 20% to 30% of eligible spending and doubles the yearly cap per company from €3 million to €6 million. The credit comes from a 2007 law.",
+        "card_text": "France raises its games tax credit to 30%",
+        "year": "2017",
+        "market": "FR",
+        "source": "Direction générale des Entreprises (24 January 2024)",
+        "link": "https://www.entreprises.gouv.fr/espace-entreprises/beneficier-d-une-aide-ou-d-un-credit-d-impot/credit-dimpot-jeux-video",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Savvy Games Group, owned by Saudi Arabia's sovereign Public Investment Fund, announces a plan to invest 142 billion riyals, about $38 billion. It aims for 250 games companies in the kingdom, 39,000 jobs and a games sector adding 50 billion riyals to GDP by 2030.",
+        "card_text": "Saudi Arabia's state games company plans to invest $38 billion",
+        "year": "2022",
+        "market": "MENA",
+        "source": "The National, Amr Mostafa (29 September 2022)",
+        "link": "https://www.thenationalnews.com/business/technology/2022/09/29/saudi-arabias-savvy-games-group-launches-38bn-investment-strategy/",
+        "source_slug": "the-national"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Video Games Expenditure Credit replaces Video Games Tax Relief from 1 January 2024. It pays 34% of qualifying spending, and a game must pass a cultural test run by the British Film Institute to count as British. The old relief ends on 1 April 2027.",
+        "card_text": "Britain replaces its games tax relief with a 34% credit",
+        "year": "2024",
+        "market": "UK",
+        "source": "British Film Institute, UK creative industry expenditure credits (read 30 September 2026)",
+        "link": "https://www.bfi.org.uk/apply-british-certification-expenditure-credits/about-uk-creative-industry-expenditure-credits",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Law 14.852, the Marco Legal dos Games (games legal framework), signed on 3 May 2024, makes game development a cultural segment under the Lei Rouanet, Brazil's culture incentive law. It also opens the Lei do Audiovisual, the country's film incentive law, to game studios.",
+        "card_text": "Brazil's games law opens its culture funding to games",
+        "year": "2024",
+        "market": "BR",
+        "source": "Law 14852 (Brazil)",
+        "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14852.htm",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The first campus of the Indian Institute of Creative Technologies, the national center of excellence for animation, visual effects, gaming, comics and extended reality, opens in Mumbai on 18 July 2025 with an initial budget of 400 crore rupees. In September, by the central government's account, Maharashtra approves a state policy for the same sectors with a financial plan of 3,268 crore rupees.",
+        "card_text": "India opens a national institute for games with 400 crore rupees",
+        "year": "2025",
+        "market": "IN",
+        "source": "Press Information Bureau, Powering Creative Technology (18 November 2025)",
+        "link": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=156068&ModuleId=3&reg=3&lang=2",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "British Columbia makes its interactive digital media tax credit permanent and raises it from 17.5% to 25% of wages from 1 September 2025. The province lists Microsoft, Nintendo, EA, Take-Two and CD Projekt Red among the large developers working there, and EA's studios welcome the change.",
+        "card_text": "British Columbia raises its games credit to 25%",
+        "year": "2025",
+        "market": "CA",
+        "source": "Government of British Columbia (7 July 2025)",
+        "link": "https://news.gov.bc.ca/releases/2025FIN0028-000646",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "After almost two years in which Germany's federal games fund was halted or restricted, the research ministry, in charge since May 2025, reopens it from 1 August to projects of any length and quadruples the largest grant to €8 million. The government plans €88 million for 2025 and about €125 million for 2026.",
+        "card_text": "Germany reopens its games fund and quadruples the largest grant",
+        "year": "2025",
+        "market": "DE",
+        "source": "heise online, Stefan Krempl (18 July 2025)",
+        "link": "https://www.heise.de/en/news/New-call-Research-Ministry-steps-up-games-funding-10493343.html",
+        "source_slug": "heise-online"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The outline of China's 15th Five-Year Plan, its economic roadmap for 2026 to 2030, calls for guiding and regulating the 'healthy development' of online games in its chapter on the culture industry. Another chapter asks for quality online games to be taken overseas, alongside online literature, film and animation.",
+        "card_text": "China's five-year plan names online games in its culture and export goals",
+        "year": "2026",
+        "market": "CN",
+        "source": "Outline of the 15th Five-Year Plan (China), via Xinhua (13 March 2026)",
+        "link": "https://www.news.cn/politics/20260313/085af5de5a4b4268aa7d87d90817df2f/c.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Brazil's Ministry of Culture sets new rules for projects raising money under the Lei Rouanet. A game project may seek up to R$1.5 million, and a project to develop a game up to R$400,000.",
+        "card_text": "Brazil caps a game's development project at R$400,000",
+        "year": "2026",
+        "market": "BR",
+        "source": "Normative Instruction 29, Ministry of Culture (Brazil) (29 January 2026)",
+        "link": "https://www.gov.br/cultura/pt-br/acesso-a-informacao/legislacao-e-normativas/instrucao-normativa-minc-no-29-de-29-de-janeiro-de-2026",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "São Paulo state's 2026 games call, run through its culture program ProAC, offers R$6 million: R$300,000 each to ten teams building a game up to a playable prototype and to ten finishing and publishing one. It draws 217 applications, 174 of them for development.",
+        "card_text": "São Paulo draws 217 applications for 20 game grants",
+        "year": "2026",
+        "market": "BR",
+        "source": "Secretaria da Cultura, Economia e Indústria Criativas de São Paulo, Edital ProAC 05/2026 (4 September 2026)",
+        "link": "https://www.cultura.sp.gov.br/sec_cultura/Arquivo_de_Editais/Editais_Fomento_Cultsp/Fomento_CultSP_2026/desenvolvimento_ou_finalizacao_e_publicacao_de_jogos_eletronicos_2026/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The UK government puts £28.5 million into the UK Games Fund, double its previous support, with grants of up to £20,000 for new companies, up to £100,000 for prototypes and up to £250,000 to finish and scale a game.",
+        "card_text": "Britain doubles its grant fund for small studios",
+        "year": "2026",
+        "market": "UK",
+        "source": "PocketGamer.biz, Craig Chapple (13 April 2026)",
+        "link": "https://www.pocketgamer.biz/government-pledges-285m-for-uk-games-fund-to-boost-industry/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Germany's games trade body, game, says the federal fund's €50 million came to less than a quarter of the average per head in the countries a study it commissioned from Nordicity compared, and that Canada, France and the UK use tax credits that cannot run out as a fund can. It credits the fund with a 52% rise in the number of games companies in Germany from 2020 to 2024.",
+        "card_text": "Countries compete on how much they pay",
+        "year": "2024",
+        "market": "DE",
+        "source": "game, annual report of the German games industry 2024 (12 August 2024)",
+        "link": "https://www.game.de/en/guides/annual-report-of-the-german-games-industry-2024/03-2-games-funding/",
+        "source_slug": "game-verband"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Claims over £500,000 took 82% of the £395 million of games relief HM Revenue and Customs paid for 2024-25. The 45 claims over £2 million took £219 million between them. The 260 claims under £5,000 shared less than £1 million.",
+        "card_text": "Most of Britain's games relief goes to the biggest claims",
+        "year": "2025",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Games received €10.9 million of Italy's audiovisual production tax credit in 2025, 2.7% of the total, up from €7.6 million in 2024. The culture ministry's evaluation finds the credit is the main public support games studios can actually reach, but that it does less to build up the studios' own capital than to cover production costs.",
+        "card_text": "In Italy, games take a small share of a large credit",
+        "year": "2025",
+        "market": "IT",
+        "source": "Ministry of Culture (Italy), impact assessment of the cinema and audiovisual law for 2025 (29 September 2026)",
+        "link": "https://cinema.cultura.gov.it/wp-content/uploads/dlm_uploads/2026/09/Relazione-annuale-2026-DEF.pdf",
+        "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "An evaluation by Alma Economics for the culture department, which funds the program, estimates that the UK Games Fund's Content Fund, which gave 35 companies grants of £50,000 to £150,000 from 2023, will return benefits of about 5.1 times its cost. The authors call the estimate uncertain because many of the games have only begun to sell. The department cites it as a reason for the £30 million Games Growth Package.",
+        "card_text": "Britain's own evaluation finds its small grants pay back",
+        "year": "2026",
+        "market": "UK",
+        "source": "Department for Culture, Media and Sport, Alma Economics (16 July 2026)",
+        "link": "https://www.gov.uk/government/publications/evaluation-of-the-uk-games-fund-final-report/evaluation-of-the-uk-games-fund-final-report",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Quebec tried to cut its multimedia credit by 20% in 2014 to balance its budget, and backed down after studios, Ubisoft among them, threatened to leave. Critics cited by NPR say the credit mainly helps foreign companies that open satellite offices. Quebec's government says the sector brings in more tax than the credit costs.",
+        "card_text": "Once studios depend on a credit, it is hard to cut",
+        "year": "2014",
+        "market": "",
+        "source": "NPR Planet Money, Corey Bridges (4 January 2022)",
+        "link": "https://www.npr.org/sections/money/2022/01/04/1068916102/how-subsidies-helped-montreal-become-the-hollywood-of-video-games",
+        "source_slug": "npr"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "In 2019 the tax think tank TaxWatch found that Rockstar North, the Edinburgh studio behind Grand Theft Auto, had claimed about £42 million, 19% of all UK games relief paid until then, while paying no UK corporation tax for nearly a decade. Its games qualified as culturally British through the BFI's test.",
+        "card_text": "A global hit can pass as culturally British",
+        "year": "2019",
+        "market": "UK",
+        "source": "PC Gamer, Fraser Brown (29 July 2019)",
+        "link": "https://www.pcgamer.com/rockstar-north-has-received-pound42-million-in-tax-relief-according-to-think-tank/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "By the opening of gamescom in August 2026, Germany's fund had applications for only about €40 million of the €120 million available. GamesWirtschaft reports that the country lacks large studios able to take on substantial sums. The finance minister brought no plan for the games tax break the coalition had promised.",
+        "card_text": "Germany cannot give its fund away",
+        "year": "2026",
+        "market": "DE",
+        "source": "GamesWirtschaft (27 August 2026)",
+        "link": "https://www.gameswirtschaft.de/gamescom/gamescom-eroeffnung-2026-klingbeil-zocker-steuer-260826/",
+        "source_slug": "gameswirtschaft"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Games studios told Italy's evaluators that the credit's cultural requirements and procedures do not always fit how games are made or how long they take. Most Italian studios are small or micro companies, and for them even a procedure judged not especially heavy is a real burden.",
+        "card_text": "Culture tests fit games badly",
+        "year": "2026",
+        "market": "IT",
+        "source": "Ministry of Culture (Italy), impact assessment of the cinema and audiovisual law for 2025 (29 September 2026)",
+        "link": "https://cinema.cultura.gov.it/wp-content/uploads/dlm_uploads/2026/09/Relazione-annuale-2026-DEF.pdf",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "The first half of 2027, when ANCINE, Brazil's film agency, expects to finish rules for how publicly financed games projects are approved, run and accounted for. Its agenda says the lack of such rules limits games' access to the support that already exists.",
+        "card_text": "Brazil's rules for public money in games",
+        "year": "2027",
+        "market": "BR",
+        "source": "ANCINE, Agenda Regulatória 2026/2027 (30 March 2026)",
+        "link": "https://www.gov.br/ancine/pt-br/assuntos/atribuicoes-ancine/regulacao/AR202627VF.pdf/@@display-file/file",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Gamescom in August 2027, where GamesWirtschaft expects the games tax break Germany's coalition promised to come back up. The ministers plan €120 million for the fund in the 2027 budget, and the research minister wants the largest grant raised from €8 million to €20 million, which needs talks with the EU.",
+        "card_text": "Germany's promised games tax break",
+        "year": "2027",
+        "market": "DE",
+        "source": "GamesWirtschaft (27 August 2026)",
+        "link": "https://www.gameswirtschaft.de/gamescom/gamescom-eroeffnung-2026-klingbeil-zocker-steuer-260826/",
+        "source_slug": "gameswirtschaft"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "1 April 2027, when every UK game must claim the 34% expenditure credit and the old relief closes. HM Revenue and Customs plans its next figures for summer 2027, which will add the 2025-26 year to this chart.",
+        "card_text": "Britain's old games relief closes",
+        "year": "2027",
+        "market": "UK",
+        "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
+        "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+        "source_slug": ""
       }
     ]
   }
