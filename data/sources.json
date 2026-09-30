@@ -7,7 +7,8 @@
     "format": "Analytics platform",
     "what_it_lets_you_find_out": "The reference standard for mobile downloads and revenue estimates, with annual Mobile Gaming reports, genre taxonomies and ad intelligence. The paid usage product also estimates each app's audience by age bracket and gender per country, modelled from its own panel of mobile users, so check the panel's age floor before using it for children. Time-spent figures roll up from top-20 subgenre lists (~62 to 74% coverage), so treat them as lower-bound floors. Excludes China Android. The ESA's data partner for US spending figures. Enterprise pricing is custom. Some free reports.",
     "markets": [
-      "Global"
+      "Global",
+      "IN"
     ],
     "language": [
       "English"
@@ -396,6 +397,7 @@
     "markets": [
       "Asia",
       "CN",
+      "IN",
       "MENA"
     ],
     "language": [
@@ -1998,6 +2000,30 @@
     "audience": []
   },
   {
+    "slug": "ficci-ey-media-and-entertainment-report",
+    "name": "FICCI-EY media and entertainment report",
+    "group": "Data",
+    "medium": "Report or document",
+    "format": "Industry report",
+    "what_it_lets_you_find_out": "EY's annual report on India's media and entertainment sector for the chamber FICCI, which sizes the online gaming segment with its parts: money gaming, video game in-app purchases and esports. The 2026 edition, Stories, scale and impact, launched on 24 March 2026, reports that the segment fell 17 percent in 2025 after the ban on money gaming. The segment includes money gaming, so it does not compare with a video games figure.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.ey.com/en_in/insights/media-entertainment/stories-scale-and-impact-unlocking-india-s-m-e-economy",
+    "extra_links": [],
+    "owner": "EY India, with FICCI (Federation of Indian Chambers of Commerce and Industry)",
+    "ownership_note": "Written by a consultancy for a chamber whose members include the companies it measures.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "nintendo-ir",
     "name": "Nintendo IR",
     "group": "Data",
@@ -2972,6 +2998,33 @@
     "link": "https://blog.playstation.com/",
     "extra_links": [],
     "owner": "Sony Interactive Entertainment",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "onmobile-global",
+    "name": "OnMobile Global (NSE: ONMOBILE)",
+    "group": "Data",
+    "medium": "Company disclosure",
+    "format": "Corporate IR",
+    "what_it_lets_you_find_out": "A Bangalore company listed on the NSE and BSE that sells mobile games subscriptions, its ONMO cloud gaming platform and the quiz app Challenges Arena, largely through telecom operators, and reports gaming revenue apart: 1,545 million rupees of 5,245 million in the year to March 2026. Its revenue by region is Europe, Latin America, Africa and the Middle East and Asia, with India not broken out, so it reads the Indian-listed side of games more than the Indian market.",
+    "markets": [
+      "Global",
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.onmobile.com/investors",
+    "extra_links": [
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/31bcdc9e-3016-4cd9-ad2e-fded22396483.pdf"
+    ],
+    "owner": "",
     "ownership_note": "",
     "beat": "",
     "where_they_post": "",
@@ -6904,6 +6957,189 @@
       "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-aprova-sem-restricoes-aquisicao-da-activision-blizzard-pela-microsoft",
       "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-forma-maioria-pela-homologacao-de-tcc-em-investigacao-sobre-praticas-da-apple-no-ios"
     ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "meity-online-gaming-and-the-online-gaming-authority-of-india",
+    "name": "MeitY (Ministry of Electronics and Information Technology): online gaming and the Online Gaming Authority of India",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Regulator",
+    "what_it_lets_you_find_out": "The ministry that runs India's online gaming law. The Promotion and Regulation of Online Gaming Act, 2025, of 22 August 2025, bans online money games of skill or chance and provides for registering e-sports and online social games, and its Rules, in force since 1 May 2026, set up the Online Gaming Authority of India inside the ministry, which registers an e-sport only once it is recognised under the National Sports Governance Act, 2025. The ministry also made the DPDP Rules, 2025, under which a child's data needs a parent's verifiable consent, overseen by the Data Protection Board of India. The Authority's own site could not be opened.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English",
+      "Hindi"
+    ],
+    "cost": "Free",
+    "link": "https://www.meity.gov.in/static/uploads/2025/10/8a7f103cefc68ed8aaa2ebc9a2ed7c13.pdf",
+    "extra_links": [
+      "https://www.meity.gov.in/static/uploads/2026/04/7e0b02d37fd07f81fa48578a9996aa85.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf",
+      "https://www.meity.gov.in/documents/act-and-policies/promotion-and-regulation-of-online-gaming-act-2025-and-its-corrigenda-kTMxQjMtQWa"
+    ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "cci",
+    "name": "CCI (Competition Commission of India)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Regulator",
+    "what_it_lets_you_find_out": "India's competition authority, whose orders are published in full on its site. Two reach games: its Google Play order of 25 October 2022 on Google's app store billing rules for developers, and its order of 28 November 2024 on a complaint by the games company WinZo, which found Google's pilot admitting only fantasy sports and rummy among real-money games to Play prima facie a denial of market access and sent it to its Director General to investigate. The 2025 ban on money games came after, and no outcome of the WinZo case was found.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.cci.gov.in/",
+    "extra_links": [
+      "https://cci.gov.in/images/antitrustorder/en/order1732793270.pdf"
+    ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "mospi-time-use-survey",
+    "name": "MoSPI (Ministry of Statistics and Programme Implementation): Time Use Survey",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Government agency",
+    "what_it_lets_you_find_out": "The national statistics office's Time Use Survey, run in 2019 and again through 2024, when it covered 139,487 households and everyone in them aged 6 and over, records what people did in each half hour of a day, including leisure and mass media use. Play is coded as 823, Playing games and other pastime activities, with no separate code for video games, so it cannot say what share of play is digital.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English",
+      "Hindi"
+    ],
+    "cost": "Free",
+    "link": "https://www.mospi.gov.in/",
+    "extra_links": [
+      "https://www.mospi.gov.in/sites/default/files/press_release/Press_Note_28.03.2025-1.pdf",
+      "https://mospi.gov.in/sites/default/files/publication_reports/Vol_I%20TUS_2024.pdf"
+    ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "gdai",
+    "name": "GDAI (Game Developer Association of India)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Industry association",
+    "what_it_lets_you_find_out": "The national association of Indian game developers, formed in 2024, which says it has more than 200 member studios and runs the India Game Developer Conference, talent and skilling work, Women in Games and policy work, with a Vision 2035 target of 5,000 original IP studios. The developers' body, where IDGS under CII speaks for the wider industry. Its member counts and targets are its own.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://gdai.in/",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "igdc",
+    "name": "IGDC (India Game Developer Conference)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Event or awards",
+    "what_it_lets_you_find_out": "The game developers' conference that began as a NASSCOM initiative and is now part of the programme of GDAI, the developers' association. Its 18th edition runs 28 to 31 October 2026 at the Chennai Trade Centre, the conference on the first two days. The talks show what Indian studios are building and saying; its claim to be the biggest and oldest is its own.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Unknown",
+    "link": "https://indiagdc.com/",
+    "extra_links": [
+      "https://indiagdc.com/about/"
+    ],
+    "owner": "GDAI (Game Developer Association of India)",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "iict",
+    "name": "IICT (Indian Institute of Creative Technologies)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Research institute",
+    "what_it_lets_you_find_out": "The national institute for animation, VFX, gaming, comics and extended reality (AVGC-XR), at the NFDC campus in Mumbai, set up with the Ministry of Information and Broadcasting, the Government of Maharashtra, FICCI and CII, whose courses include a two-year diploma in Interactive Video Game Design and Development. Where the state is putting money into games talent; its first courses began in 2025, so its two-year diplomas have no graduates yet.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.iict.org/aboutus",
+    "extra_links": [
+      "https://assamtribune.com/national/iict-mumbai-emerges-as-training-ground-for-indias-creative-tech-talent-1609063"
+    ],
+    "owner": "Ministry of Information and Broadcasting, Government of Maharashtra, FICCI and CII",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "nid-digital-game-design",
+    "name": "NID (National Institute of Design): Digital Game Design (M.Des.)",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Research institute",
+    "what_it_lets_you_find_out": "The national design school's master's in digital game design, at its Bengaluru campus with 19 seats, which teaches computing, digital art, the history and theory of games, simulation and narrative. A place to find the design side of the country's games talent.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.nid.edu/academics/programmes/master-of-design-mdes/digital-game-design-mdes",
+    "extra_links": [],
     "owner": "",
     "ownership_note": "",
     "beat": "",
@@ -13681,8 +13917,8 @@
     "cost": "",
     "link": "https://afkgaming.com/",
     "extra_links": [],
-    "owner": "Nazara (via NODWIN)",
-    "ownership_note": "",
+    "owner": "AFK Gaming Pvt Ltd, which NODWIN Gaming agreed in December 2024 to buy outright; Nazara Technologies is NODWIN's largest shareholder",
+    "ownership_note": "NODWIN Gaming, which is buying it, runs esports tournaments the site covers, and AFK Gaming sells brand services through its agency, Max Level.",
     "beat": "",
     "where_they_post": "",
     "year": "",
@@ -13777,8 +14013,8 @@
     "cost": "",
     "link": "https://in.ign.com/",
     "extra_links": [],
-    "owner": "Unknown",
-    "ownership_note": "A licensed edition of the Ziff Davis IGN brand whose current local operator was not verified.",
+    "owner": "Fork Media Group Pvt. Ltd., under licence from IGN Entertainment",
+    "ownership_note": "Run under licence by Fork Media, a digital advertising company.",
     "beat": "",
     "where_they_post": "",
     "year": "",
@@ -14755,6 +14991,104 @@
     "audience": []
   },
   {
+    "slug": "sportskeeda-bgmi",
+    "name": "Sportskeeda: BGMI",
+    "group": "Press",
+    "medium": "News outlet",
+    "format": "Esports news site",
+    "what_it_lets_you_find_out": "Daily English coverage of the BGMI competitive calendar: KRAFTON India's tournaments stage by stage, standings, qualified teams and how to watch, alongside update and redeem-code guides. Much of it is schedule and results service copy rather than reporting, and the wider Sportskeeda site leads with US sports and word-game answers.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "",
+    "link": "https://www.sportskeeda.com/bgmi",
+    "extra_links": [
+      "https://www.sportskeeda.com/esports"
+    ],
+    "owner": "Absolute Sports Pvt Ltd, wholly owned by Nazara Technologies since March 2025",
+    "ownership_note": "Nazara also holds NODWIN Gaming, which organises BGMI tournaments this desk covers, and AFK Gaming, per this directory's nazara-technologies row.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "the-times-of-india-gaming",
+    "name": "The Times of India: Gaming",
+    "group": "Press",
+    "medium": "News outlet",
+    "format": "Desk or vertical of a larger outlet",
+    "what_it_lets_you_find_out": "The national English daily's games desk: global release and hardware news, prices in rupees for devices launched in India, and BGMI tournament announcements with their prize pools. Most of the page is international release news, so the India layer has to be picked out of it.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "",
+    "link": "https://timesofindia.indiatimes.com/technology/gaming",
+    "extra_links": [],
+    "owner": "Bennett, Coleman & Co. Ltd. (Times Group)",
+    "ownership_note": "The same group publishes The Economic Times, whose gaming beat this directory already lists.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "aaj-tak",
+    "name": "आज तक (Aaj Tak): मोबाइल गेम (Mobile Game)",
+    "group": "Press",
+    "medium": "News outlet",
+    "format": "Desk or vertical of a larger outlet",
+    "what_it_lets_you_find_out": "How mainstream Hindi news reports games: the online gaming rules that took effect on 1 May, creators' earnings, new Hindi-language games, and a large share of addiction, crime and child-death stories. It shows the mass-media frame players and parents meet in Hindi, not games criticism, and the topic page mixes video games with real-money gaming.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "Hindi"
+    ],
+    "cost": "",
+    "link": "https://www.aajtak.in/topic/mobile-game",
+    "extra_links": [],
+    "owner": "Living Media India Limited (India Today Group)",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "medianama-gaming",
+    "name": "MediaNama: Gaming",
+    "group": "Press",
+    "medium": "News outlet",
+    "format": "Digital news outlet",
+    "what_it_lets_you_find_out": "Indian technology-policy reporting on games: enforcement against betting apps, tax authorities' payment-tracing proposals, and platform child-safety rules abroad that Indian regulators may follow. Nearly all of it is real-money gaming and betting, so it is the policy source for where games end and gambling begins rather than for video games.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "",
+    "link": "https://www.medianama.com/tag/gaming/",
+    "extra_links": [],
+    "owner": "Mixed Bag Media Pvt. Ltd., founded by Nikhil Pahwa",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "gamedev-reports",
     "name": "GameDev Reports",
     "group": "Press",
@@ -15120,7 +15454,7 @@
     "group": "Press",
     "medium": "Newsletter",
     "format": "Journalist newsletter",
-    "what_it_lets_you_find_out": "Curated business-side digest of Indian gaming/esports covering deals, policy, and publisher moves. It is the closest thing to a GamesIndustry.biz for India. Same NODWIN/Nazara ownership as AFK Gaming. Survey samples are industry-insider polls, not representative data. Publishes an annual industry survey, India's Gaming and Esports Landscape.",
+    "what_it_lets_you_find_out": "Curated business-side digest of Indian gaming/esports covering deals, policy, and publisher moves. It is the closest thing to a GamesIndustry.biz for India. Published by AFK Gaming, which NODWIN Gaming, whose largest shareholder is Nazara, agreed in December 2024 to buy outright. Survey samples are industry-insider polls, not representative data. Publishes an annual industry survey, India's Gaming and Esports Landscape.",
     "markets": [
       "IN"
     ],
@@ -17082,6 +17416,58 @@
     "link": "https://www.youtube.com/@Comboinfinito",
     "extra_links": [],
     "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": [
+      "Adults"
+    ]
+  },
+  {
+    "slug": "nodwin-gaming",
+    "name": "NODWIN Gaming",
+    "group": "Media",
+    "medium": "Video channel",
+    "format": "Esports and competitive coverage",
+    "what_it_lets_you_find_out": "The broadcast and highlights channel of the esports organiser behind the BGMI Masters Series, with finals, behind-the-scenes films and tournament archives going back years. It is the organiser's own channel, so it shows what NODWIN runs and how it presents it, not an outside view of the scene.",
+    "markets": [
+      "Not market specific"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.youtube.com/channel/UCbgq4Y6WypFnBBzrBDgR0zA",
+    "extra_links": [],
+    "owner": "NODWIN Gaming",
+    "ownership_note": "Nazara Technologies holds NODWIN Gaming, per this directory's nazara-technologies row.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": [
+      "Adults"
+    ]
+  },
+  {
+    "slug": "mortal",
+    "name": "MortaL",
+    "group": "Media",
+    "medium": "Video channel",
+    "format": "Let's Play and playthrough",
+    "what_it_lets_you_find_out": "Naman Mathur, a former professional esports player turned full-time streamer, in Hindi: mobile shooter play, challenges with other Indian creators such as BGMI against Free Fire, and vlogs. Useful for how an Indian esports career turns into a creator business; recent uploads lean to vlogs over play.",
+    "markets": [
+      "Not market specific"
+    ],
+    "language": [
+      "Hindi"
+    ],
+    "cost": "Free",
+    "link": "https://www.youtube.com/channel/UC7Q7pl0z0MrdayvmAnchlJQ",
+    "extra_links": [],
+    "owner": "Naman Mathur",
     "ownership_note": "",
     "beat": "",
     "where_they_post": "",
@@ -19309,6 +19695,56 @@
     "audience": []
   },
   {
+    "slug": "videogames-in-the-indian-subcontinent-development-culture",
+    "name": "Videogames in the Indian Subcontinent: Development, Culture(s) and Representations (2022)",
+    "group": "Media",
+    "medium": "Book or paper",
+    "format": "Academic monograph",
+    "what_it_lets_you_find_out": "A history of computing and games across South Asia from the first research computers through the Licence Raj and import costs to the current market, then player and developer cultures and how the region is represented in games, drawing on interviews and surveys over several years. Academic, and it covers Bangladesh, Pakistan, Sri Lanka, Nepal and Bhutan as well as India.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Paid",
+    "link": "https://www.bloomsbury.com/in/videogames-in-the-indian-subcontinent-9789354356902/",
+    "extra_links": [
+      "https://newbooksnetwork.com/videogames-in-the-indian-subcontinent-2"
+    ],
+    "owner": "Souvik Mukherjee",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "2022",
+    "isbn": "9789354356902",
+    "audience": []
+  },
+  {
+    "slug": "gaming-culture-in-india-digital-play-in-everyday-life",
+    "name": "Gaming Culture(s) in India: Digital Play in Everyday Life (2020)",
+    "group": "Media",
+    "medium": "Book or paper",
+    "format": "Academic monograph",
+    "what_it_lets_you_find_out": "An ethnography of Indian players built on in-depth interviews: who calls themselves a gamer, how play fits into everyday digital leisure, and how players push back on developers and platforms. Fieldwork predates the 2020 app bans and the mobile shooter boom, so it describes the PC and console generation of Indian players.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Paid",
+    "link": "https://www.routledge.com/Gaming-Cultures-in-India-Digital-Play-in-Everyday-Life/Deshbandhu/p/book/9780367142926",
+    "extra_links": [],
+    "owner": "Aditya Deshbandhu",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "2020",
+    "isbn": "9780367142926",
+    "audience": []
+  },
+  {
     "slug": "christopher-dring",
     "name": "Christopher Dring",
     "group": "People",
@@ -21055,6 +21491,30 @@
     "ownership_note": "",
     "beat": "Brazil",
     "where_they_post": "Substack, Voxel",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "abhimannu-das",
+    "name": "Abhimannu Das",
+    "group": "People",
+    "medium": "Person",
+    "format": "Individual",
+    "what_it_lets_you_find_out": "Near-daily reporting on Indian games and esports: the India Games Showcase, Indian indie studios in his Indian Indie Diaries series, college esports prize pools, state game-development policy panels, and global industry news. He writes for Outlook Respawn, so his work and the desk's overlap.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "",
+    "link": "https://respawn.outlookindia.com/author/abhimannu-das",
+    "extra_links": [],
+    "owner": "Web journalist, Outlook Respawn (Outlook India)",
+    "ownership_note": "",
+    "beat": "Other",
+    "where_they_post": "Outlook Respawn",
     "year": "",
     "isbn": "",
     "audience": []
@@ -23363,6 +23823,58 @@
     "extra_links": [],
     "owner": "Qingfeng (Beijing) Technology Co., Ltd. (清枫（北京）科技有限公司)",
     "ownership_note": "Founded in 2015 by Xu Ning, Li He and Huang Zhisong. Hupu took about 20% in June 2020 and a Tencent affiliate 2% that November, per 36Kr and 游戏日报; neither appears on the current business register, which lists the three founders and an employee partnership. The operator earns a margin on Steam keys it gets from publishers, sells them ads and promoted posts, and publishes games itself, so it has a commercial stake in games its community rates.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "gamedev-india-discord",
+    "name": "GameDev India Discord",
+    "group": "Communities",
+    "medium": "Forum or community",
+    "format": "Discord server",
+    "what_it_lets_you_find_out": "The chat hub of Gamedev.in, a volunteer-run community of Indian game developers dating from 2009: jams, meetups, showcases and job talk from the production side rather than players. Reading it needs a Discord account and joining the server.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://discord.com/invite/gamedev-in-443710729489481729",
+    "extra_links": [
+      "https://gamedev.in/"
+    ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "techenclave",
+    "name": "TechEnclave",
+    "group": "Communities",
+    "medium": "Forum or community",
+    "format": "Forum",
+    "what_it_lets_you_find_out": "An Indian PC and hardware forum running since 2005, with a PC hardware and gaming board and a trading post: what Indian PC players pay for parts and games, import and warranty problems, and second-hand prices. Open to read without an account; skews to enthusiasts in cities.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://techenclave.com/c/pc-hardware-gaming/9",
+    "extra_links": [
+      "https://techenclave.com/"
+    ],
+    "owner": "",
+    "ownership_note": "",
     "beat": "",
     "where_they_post": "",
     "year": "",

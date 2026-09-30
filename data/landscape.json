@@ -321,6 +321,7 @@
       "category": "Top-up and marketplace",
       "owner": "Coda Payments",
       "markets": [
+        "IN",
         "LATAM",
         "MENA",
         "SEA"
@@ -334,6 +335,7 @@
       "category": "Top-up and marketplace",
       "owner": "UniPin",
       "markets": [
+        "IN",
         "SEA"
       ],
       "what_it_is": "Indonesia's homegrown counterpart to Codashop, with deep local-payment integration, IDR pricing, and its own esports circuit (SEACA) and content arm. It is a window on the top-up economy from inside the region. Jakarta-based, operating since 2009. It runs media/community properties promoting the same games it sells top-ups for.",
@@ -417,6 +419,28 @@
       ],
       "what_it_is": "A Brazilian digital-goods store for gift cards, game keys and in-game currency (PlayStation, Xbox, Nintendo, Google Play, Free Fire, PUBG), paid by Pix, boleto or card in up to six interest-free instalments. It says it has been online since 2016 as an official partner of the platforms it sells for, and publishes no sales or user figures.",
       "link": "https://hype.games/br"
+    },
+    {
+      "slug": "swag",
+      "name": "Swag",
+      "category": "Top-up and marketplace",
+      "owner": "Kinvrs Pvt Ltd (owner), Escrow Stack Pvt Ltd (operator)",
+      "markets": [
+        "IN"
+      ],
+      "what_it_is": "An Indian gift-card and top-up store that BGMI's official site links as a place to buy UC, its in-game currency, priced in rupees from ₹15 for 13 UC, alongside Steam, Google Play and PlayStation cards, paid by UPI, cards or net banking. It publishes no sales figures.",
+      "link": "https://www.swag.gg/bgmi"
+    },
+    {
+      "slug": "loco",
+      "name": "Loco",
+      "category": "Livestreaming",
+      "owner": "Loco (majority stake held by Redwood, UAE, since September 2024)",
+      "markets": [
+        "IN"
+      ],
+      "what_it_is": "An Indian game-streaming app, spun out of Pocket Aces, whose seed round was led by Krafton and which has carried Indian mobile-esports streamers. UAE-based Redwood bought a majority stake in 2024 to take it to international markets. The site is app-first and publishes no audience figures.",
+      "link": "https://loco.com/"
     }
   ],
   "genres": [

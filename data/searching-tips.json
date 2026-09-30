@@ -416,5 +416,35 @@
     "example": "planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14790.htm · the 2023 betting law, its articles marked \"Revogado pela Medida Provisória nº 1.394, de 2026\"",
     "why": "Brazilian games rules change by amendment, decree and provisional measure, sometimes within months, and the Planalto's page shows what is in force with its history beside it. Caveat: a provisional measure loses effect from the start if Congress does not convert it into law within sixty days, extendable once, so check its record on congressonacional.leg.br before relying on what it struck through. The site is slow and sometimes refuses scripted requests.",
     "asked_as": "Is this Brazilian law still in force. Where to read the current text of a Brazilian law. What the betting ban changed. I'm researching games in Brazil, where should I look and what should I be careful about."
+  },
+  {
+    "tip": "Search Indian money in lakh and crore, because Indian sources rarely write millions",
+    "markets": [
+      "IN"
+    ],
+    "how": "Convert before searching: 1 lakh is 100,000 and 1 crore is 10 million. Search the prize pool, deal or revenue in the Indian form (\"1 crore\", \"1 Cr\", \"15 lakh\", \"₹\", \"INR\", \"Rs\"), and in Hindi \"करोड़\" and \"लाख\"",
+    "example": "\"BMSD 2026\" \"prize pool\" \"1 Cr\" · \"GEPL\" auction \"lakh\" · BGMI टूर्नामेंट \"करोड़\"",
+    "why": "Indian outlets state tournament money and company numbers in lakh and crore: Outlook Respawn gave BMSD 2026 \"an INR 1 Cr prize pool, with INR 30L reserved for the champion\" (23 September 2026) and the GEPL Season 3 auction as \"₹62.75 lakh on 56 players\" (16 July 2026). A search for millions misses them. Caveat: \"Cr\" and \"L\" abbreviations vary, and global outlets reporting the same event convert to dollars at different rates, so quote the rupee figure as the source states it",
+    "asked_as": "Indian esports prize money. How much is an Indian tournament worth. Indian figures in crore and lakh. I'm researching games in India, where should I look and what should I be careful about."
+  },
+  {
+    "tip": "Search Indian company results by fiscal quarter and year, because India's financial year runs April to March",
+    "markets": [
+      "IN"
+    ],
+    "how": "Search a games company with the FY label (\"FY26\", \"Q4 FY26\") rather than a calendar year. FY26 is 1 April 2025 to 31 March 2026, so Q4 FY26 is January to March 2026. For private companies, add \"FY25 revenue\" or \"financials\" to find reporting on their annual filings",
+    "example": "\"Nazara\" \"Q4 FY26\" · \"Gameberry\" \"FY25\" revenue · \"Krafton India\" FY25 revenue",
+    "why": "Listed and private Indian companies report on the April to March year, and the business press labels them that way: Entrackr wrote of Nazara's revenue \"during the last quarter of the previous fiscal year (Q4 FY26)\". A calendar-year search mixes two fiscal years. Caveat: Lumikai's annual report has switched between fiscal and calendar years across editions (per this directory's Lumikai row), so check which year a market figure uses before setting two side by side",
+    "asked_as": "Indian games company revenue. Nazara results. Why Indian figures don't match the calendar year. I'm researching games in India, where should I look and what should I be careful about."
+  },
+  {
+    "tip": "Search the India-only version of a game by its own name and store listing, because India runs separate builds of global titles",
+    "markets": [
+      "IN"
+    ],
+    "how": "Use the Indian title (BGMI, not PUBG Mobile; Free Fire India, not Free Fire) and check the Google Play listing by its package ID, whose update date shows activity before any announcement",
+    "example": "\"Battlegrounds Mobile India\" OR BGMI · play.google.com/store/apps/details?id=com.garena.game.ffi",
+    "why": "After the 2020 app bans, publishers returned with India-specific versions, so news, esports and rules for India sit under the local name. Outlook Respawn reported on 30 September 2026 that the Free Fire India listing \"was updated on Sep 24, 2026, and remains available under the package ID com.garena.game.ffi\" although Garena has announced no date. Caveat: a listing update is not a launch, and leaks about it are often wrong",
+    "asked_as": "Is Free Fire India out. BGMI or PUBG Mobile in India. India-only versions of games. I'm researching games in India, where should I look and what should I be careful about."
   }
 ]

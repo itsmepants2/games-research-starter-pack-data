@@ -3289,5 +3289,486 @@
       "measure": "Played online in past 3 months",
       "definition": "Internet users aged 10 and over in Brazil who played online in the three months before the interview. They were 38 percent of internet users, as the survey's table of totals states (sheet C7). The question asks only about playing online, so play without a connection is not in it. The data comes from TIC Domicílios 2025, the household survey NIC.br runs for CGI.br, with face-to-face interviews of 24,535 individuals in 27,177 households from March to August 2025."
     }
+  },
+  {
+    "market": "IN",
+    "sections": {
+      "Standing": [
+        {
+          "kind": "Research note",
+          "claim": "Do not quote a revenue rank for India from its annuals, because neither FICCI-EY nor Lumikai states one, and do not call India the largest market by downloads without the basis. Sensor Tower calls India the world's largest mobile gaming market by downloads, 8.45 billion installs in FY 2024-25, counting the App Store and Google Play only, which leaves China's Android stores out, while Lumikai's FY24 report calls India the second largest by mobile gaming downloads. Quote a rank with its ranker, its basis and its year.",
+          "card_text": "",
+          "year": "",
+          "source": "Sensor Tower, India Mobile Game Insights 2025, June 2025, analytics vendor blog, with Lumikai FY24 executive summary",
+          "link": "https://sensortower.com/blog/india-mobile-game-insights-2025"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "India ranks sixth in Asia-Pacific by mobile in-app purchase revenue in 2025, at 800 million dollars, and first in Asia by game downloads, at 7.95 billion, per India's State of Play, written by Naavik for MIXI Global Investments in July 2026 from Sensor Tower data and combined industry estimates. Its revenue table counts China through iOS alone.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Naavik for MIXI Global Investments, India's State of Play, July 2026, investor report",
+          "link": "https://mixiglobalinv.com/report/upload/indias-state-of-play-260708.pdf"
+        }
+      ],
+      "Market size": [
+        {
+          "kind": "Narrative",
+          "claim": "Video games and esports in India earn 63 billion rupees in 2025, up from 57 billion in 2024, per the FICCI-EY media and entertainment report Stories, scale and impact, released 24 March 2026. The EY estimate is domestic revenue gross of taxes: in-app purchases 36 billion rupees, advertising 15 billion and esports 12 billion.",
+          "card_text": "63 billion rupees video games and esports revenue",
+          "year": "2025",
+          "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual",
+          "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/2026/03/ey-stories-scale-and-impact-un-locking-indias-media-and-entertainment-economy.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The FICCI-EY games figure is revenue, not consumer spend, and each edition redraws and restates the segment. The 2026 edition splits Online and video games into Money gaming, 133 billion rupees for 2025 counted only up to the ban, and Esports and video games, 63 billion. The 2025 edition called them transaction-based games and esports and casual, and put the second at 53 billion for 2024, which the 2026 edition restates as 57 billion. Quote the edition with the figure.",
+          "card_text": "",
+          "year": "2025",
+          "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual",
+          "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/2026/03/ey-stories-scale-and-impact-un-locking-indias-media-and-entertainment-economy.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "The two annuals size the same 2025 market on different bases, and FICCI-EY says they do not reconcile. FICCI-EY prints Lumikai's own figures on a page Lumikai supplied, 1,534 million dollars for 2025, and notes that this revenue data does not tie in to EY estimates and has to be seen directionally. Name the publisher and the basis with every Indian games figure.",
+          "card_text": "",
+          "year": "2025",
+          "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual, page powered by Lumikai",
+          "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/2026/03/ey-stories-scale-and-impact-un-locking-indias-media-and-entertainment-economy.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not read Lumikai's report as a fiscal-year series released each autumn, or compare its 2025 games figure with earlier headlines. The FY24 edition, posted in November 2024, covered April 2023 to March 2024 and put the market at 3.8 billion dollars, 2.4 billion of it real-money gaming. The 2025 edition, released on 23 March 2026, covers calendar 2025 and leaves real-money gaming out of its 1.5 billion dollars.",
+          "card_text": "",
+          "year": "2024",
+          "source": "Lumikai, State of India Interactive Media & Gaming FY'24 executive summary, as hosted by InvestGame, venture fund annual",
+          "link": "https://investgame.net/wp-content/uploads/2024/11/Lumikai-Interactive-Media-and-Gaming-Report-2024-Executive-Summary.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Take FICCI-EY's online gaming series from one edition, because each edition restates past years. The March 2025 edition, Shape the future, which is not the separate EY report A studio called India made for the WAVES summit, gave 236 billion rupees for 2023 and 232 billion for 2024, a 2 percent fall, and within it 2022 reads 222 billion in the overview and 196 billion in the gaming chapter. Transaction-based games were 179 billion of the 2024 figure.",
+          "card_text": "",
+          "year": "2024",
+          "source": "FICCI-EY, Shape the future, March 2025, trade body and consultancy annual",
+          "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/images/ey-shape-the-future-indian-media-and-entertainment-is-scripting-a-new-story.pdf"
+        }
+      ],
+      "Shape": [
+        {
+          "kind": "Narrative",
+          "claim": "Lumikai counts 555 million gamers in India in 2025, down 9 percent from 609 million in 2024, which it reads as the ban on real-money gaming trimming the base, and 139 million paying. It does not define a gamer by age or by period of play.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Lumikai, State of Interactive Media Report 2025, fifth edition, 23 March 2026, venture fund annual",
+          "link": "https://www.lumikai.com/_files/ugd/9e9f8d_a25e836de2b3448081a3ac9e17b9adda.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Players in India are 55 percent male and 45 percent female, and 44 percent are aged 18 to 30, 33 percent 30 to 45 and 23 percent over 45, per Lumikai's pan-India survey of more than 3,000 smartphone users, as the FICCI-EY report prints it for 2025. 97 percent play on a phone, 30 percent on a laptop, 14 percent on PlayStation and 8 percent on Xbox.",
+          "card_text": "",
+          "year": "2025",
+          "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual, page powered by Lumikai, survey of 3,000+ smartphone users",
+          "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/2026/03/ey-stories-scale-and-impact-un-locking-indias-media-and-entertainment-economy.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The ten top-grossing games in India in 2025 are Garena Free Fire, BGMI, Coin Master, Candy Crush Saga, eFootball, Pokémon GO, Roblox, Last Z, Call of Duty and Clash of Clans, per Lumikai, which does not say which store or ranking the list draws on.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Lumikai, State of Interactive Media Report 2025, fifth edition, 23 March 2026, venture fund annual",
+          "link": "https://www.lumikai.com/_files/ugd/9e9f8d_a25e836de2b3448081a3ac9e17b9adda.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "India had over 1,900 game development companies in 2024, up from about 153 in 2009, per EY's A studio called India for the government's WAVES 2025 summit, which counts them from Tracxn rather than a census. For jobs the report gives two figures: around 66,000 professionals in its overview, and over 130,000 in the gaming sector in its games chapter, citing IEIC's India Gaming Report 2025.",
+          "card_text": "",
+          "year": "2024",
+          "source": "EY, A studio called India, May 2025, consultancy report for the Ministry of Information and Broadcasting's WAVES 2025",
+          "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/documents/ey-a-studio-called-india-v1.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Games made in India earned over 1.5 billion US dollars in export revenue in 2025-26, per the Game Developer Association of India as the FICCI-EY report prints it, from Indian studios with global hits and from international companies' development hubs in India. EY did not verify the figure or count it in its sizing.",
+          "card_text": "",
+          "year": "2025",
+          "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual, data compiled by the Game Developer Association of India",
+          "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/2026/03/ey-stories-scale-and-impact-un-locking-indias-media-and-entertainment-economy.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "EY lists Nazara, WinZO, Zupee, MPL, JetSynthesys and nCore as India's game publishers, Gametion, SuperGaming, Moonfrog Labs, PlaySimple, Gameberry Labs and Games24x7 among its studios with their own IP, and Electronic Arts, Krafton, Rockstar, Ubisoft, Zynga, Riot Games, Epic Games, Garena and Scopely among international games companies present in India. The list is from May 2025, before the ban on money games.",
+          "card_text": "",
+          "year": "2025",
+          "source": "EY, A studio called India, May 2025, consultancy report for the Ministry of Information and Broadcasting's WAVES 2025",
+          "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/documents/ey-a-studio-called-india-v1.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Two annuals count India's players in opposite directions for 2025, so name the publisher with the count. FICCI-EY puts the gamer base at 515 to 525 million, up 6 percent, as per various industry reports, naming Niko Partners, Newzoo and Redseer, while Lumikai counts 555 million, down 9 percent. Neither states an age range or a period of play, and neither is a survey headcount.",
+          "card_text": "",
+          "year": "2025",
+          "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual",
+          "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/2026/03/ey-stories-scale-and-impact-un-locking-indias-media-and-entertainment-economy.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Device shares overlap and do not sum, and the two annuals measure them differently. EY's own approximate shares of gamers are mobile 95 percent, PC and console 10 percent, and esports under 1 percent. Lumikai's 97 percent on a phone comes from a panel of smartphone users, so it describes that panel rather than all players. The last sentence is an interpretation of the survey's stated sample.",
+          "card_text": "",
+          "year": "2025",
+          "source": "FICCI-EY, Stories, scale and impact: Unlocking India's media and entertainment economy, 24 March 2026, trade body and consultancy annual",
+          "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/2026/03/ey-stories-scale-and-impact-un-locking-indias-media-and-entertainment-economy.pdf"
+        }
+      ],
+      "Press structure": [
+        {
+          "kind": "Narrative",
+          "claim": "IGN India is a licensed edition, not an IGN-owned site. Its footer says it is operated by Fork Media Group Pvt. Ltd. under license from IGN Entertainment and its affiliates.",
+          "card_text": "",
+          "year": "",
+          "source": "IGN India site footer, September 2026, publisher self-disclosure",
+          "link": "https://in.ign.com/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Outlook Respawn is the gaming, esports and pop culture vertical of Outlook India. Outlook Publishing (India) Pvt. Ltd. says it is part of the Rajan Raheja group, whose interests run from real estate, cement and automotive batteries to hospitality and media.",
+          "card_text": "",
+          "year": "",
+          "source": "Outlook About Us page, company self-description",
+          "link": "https://www.outlookindia.com/about-us"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Moneycontrol belongs to Reliance Industries' media arm. Network18 runs moneycontrol.com, and Independent Media Trust, whose sole beneficiary is Reliance Industries, and other promoter group entities hold 56.89 percent of Network18, per CARE Ratings on 16 December 2024.",
+          "card_text": "",
+          "year": "2024",
+          "source": "CARE Ratings press release on Network 18 Media and Investments Limited, 16 December 2024, credit rating agency",
+          "link": "https://www.careratings.com/upload/CompanyFiles/PR/202412131255_Network_18_Media_and_Investments_Limited.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Storyboard18, whose gaming desk covers policy and the real-money gaming industry, is Network18's advertising and marketing trade title. Its own site describes it as Network18 Group's flagship platform focussed on the advertising and marketing community.",
+          "card_text": "",
+          "year": "",
+          "source": "Storyboard18 gaming news page, site metadata, publisher self-description",
+          "link": "https://www.storyboard18.com/gaming-news"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "AFK Gaming, the esports and games outlet, is being bought outright by NODWIN Gaming. Nazara Technologies' annual report for 2024-25 says NODWIN agreed on 18 December 2024 to buy the remaining 92.30 percent of AFK Gaming for 7.58 crore rupees, in cash and a swap of shares, with completion expected in 2025-26, after which AFK would be a wholly owned subsidiary. Completion was not verified.",
+          "card_text": "",
+          "year": "2024",
+          "source": "Nazara Technologies annual report 2024-25, directors' report, listed company filing",
+          "link": "https://investors.nazara.com/content/pdfs/financials/68bc10bdc953599b2c99e1d8_nazaraannualreport.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "NODWIN Gaming, AFK Gaming's owner, is no longer a Nazara subsidiary. Nazara ceased to hold a controlling stake in the July to September 2025 quarter, after it stayed out of a NODWIN fundraise, and NODWIN became an associate, with Nazara still its largest shareholder.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Indian Startup News, 14 November 2025, reporting Nazara's Q2 FY26 results, startup news site",
+          "link": "https://indianstartupnews.com/news/gaming-company-nazara-tech-reports-rs-29-crore-loss-in-q2-fy26-revenue-grows-65-to-rs-526-crore-10652950"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "AFK Gaming sells services to brands in the field it covers. Its site says it also operates a full-stack services agency, Max Level by AFK Gaming, to help brands grow in the gaming and esports space.",
+          "card_text": "",
+          "year": "",
+          "source": "AFK Gaming site, publisher self-description",
+          "link": "https://www.afkgaming.com/about-us"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not cite India Today Gaming as a live outlet without checking. The site, copyright Living Media India Limited, still answered on 30 September 2026, but the newest items on its homepage were dated 30 July 2025, and no statement on whether it closed was found.",
+          "card_text": "",
+          "year": "",
+          "source": "India Today Gaming homepage, read 30 September 2026, publisher's own site",
+          "link": "https://www.indiatodaygaming.com/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Sportskeeda belongs to Nazara Technologies, the listed games company. Nazara bought the last 8.97 percent of Absolute Sports, Sportskeeda's parent, in March 2025, taking its stake to 100 percent.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Inc42, 19 March 2025, startup trade press",
+          "link": "https://inc42.com/buzz/nazara-buys-out-absolute-sports-raises-stake-to-100/"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The defining pattern of the Indian games press is that most outlets whose owners could be verified are verticals or trade titles of national media groups whose main business is general or business news: Outlook (the Rajan Raheja group), Network18 (Reliance Industries), Bennett, Coleman (The Economic Times) and Living Media (India Today Gaming). The other pattern is the games industry owning its press: Sportskeeda belongs to Nazara, and AFK Gaming is being bought outright by NODWIN Gaming, whose largest shareholder is Nazara. IGN India is a licensed edition run by an advertising company. This is an interpretation resting on the ownership claims above.",
+          "card_text": "",
+          "year": "",
+          "source": "Outlook About Us page, company self-description, plus the ownership rows above",
+          "link": "https://www.outlookindia.com/about-us"
+        }
+      ],
+      "Venues": [
+        {
+          "kind": "Narrative",
+          "claim": "YouTube is where Indian live streams are watched. Streams Charts says India's livestreaming remains dominated by YouTube Live, and all ten of the country's most-watched streamers in April 2026 streamed there, but only one, LoLzZz Gaming, streams games; the rest are devotional, cooking and cricket channels.",
+          "card_text": "YouTube Live dominates Indian streaming",
+          "year": "2026",
+          "source": "Streams Charts, Top Indian streamers April 2026, 6 May 2026, analytics platform",
+          "link": "https://streamscharts.com/news/top-indian-streamers-april-2026"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The most-watched Indian games streamer on YouTube in 2025 was LoLzZz Gaming, Yash Thakker, who streams Battlegrounds Mobile India. He was tenth worldwide among YouTube gaming streamers with 29,884,524 hours watched, the only Indian in Streams Charts' top ten.",
+          "card_text": "LoLzZz Gaming, India's most-watched games streamer",
+          "year": "2025",
+          "source": "Streams Charts, Top YouTube gaming streamers of 2025, 19 December 2025, analytics platform",
+          "link": "https://streamscharts.com/news/top-youtube-gaming-streamers-2025"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "WhatsApp is closed, so its groups cannot be read from outside. The government put India's WhatsApp users at 53 crore in February 2021, ahead of YouTube at 44.8 crore, Facebook at 41 crore and Instagram at 21 crore, figures it took from outside portals. That it is closed is a reading of the product, not the release.",
+          "card_text": "WhatsApp is closed",
+          "year": "2021",
+          "source": "Press Information Bureau release on the IT Rules 2021, 25 February 2021, government release",
+          "link": "https://pib.gov.in/PressReleasePage.aspx?PRID=1700749"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Discord is closed, but a server's size can be read from outside. Discord's invite page gave an approximate 495,484 members, 5,356 online, for the official BATTLEGROUNDS MOBILE INDIA server on 30 September 2026; its talk is read only after joining.",
+          "card_text": "Discord is closed",
+          "year": "2026",
+          "source": "Discord invite page for the official BATTLEGROUNDS MOBILE INDIA server, read 30 September 2026, platform's own count",
+          "link": "https://discord.com/invite/battlegroundsmobilein"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not assert an Indian games venue hierarchy beyond Streams Charts' YouTube datum. The government's 2021 platform figures count all use, not games, and Niko Partners' India Gamer Behavior and Market Insights Report of October 2025 ranks kinds of channel, social media 58.7 percent, short video apps 46.6 percent, influencers and streamers 45.3 percent, not named venues.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Niko Partners, What you need to know about India's video game market, 5 November 2025, market research firm",
+          "link": "https://nikopartners.com/what-you-need-to-know-about-indias-video-game-market/"
+        }
+      ],
+      "Unique to this market": [
+        {
+          "kind": "Research note",
+          "claim": "There is no Indian games rating board, and no Indian law requires a game to carry an age rating. The Promotion and Regulation of Online Gaming Act, 2025 and its 2026 Rules set no rating scale, and the Act lists, among steps the government may take, \"supporting initiatives aimed at increasing public access to safe and age-appropriate social gaming content\". India has no rating authority in the International Age Rating Coalition (IARC), whose questionnaire gives a generic rating for the rest of the world, so storefronts that use IARC show that generic rating in India.",
+          "card_text": "",
+          "year": "2025",
+          "source": "Promotion and Regulation of Online Gaming Act, 2025 (Act No. 32 of 2025), section 4, MeitY, primary legal text, with IARC, About, read 30 September 2026",
+          "link": "https://www.meity.gov.in/static/uploads/2025/10/8a7f103cefc68ed8aaa2ebc9a2ed7c13.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Online games played for money are banned, whether they turn on skill or chance. The Promotion and Regulation of Online Gaming Act, 2025 defines an online money game as one played by paying fees or depositing money or other stakes in expectation of winning, and bans offering one, advertising one and any bank or payment transfer for one. Other stakes include coins, tokens or credits bought with money, real or virtual.",
+          "card_text": "Money games are banned, skill or chance",
+          "year": "2025",
+          "source": "Promotion and Regulation of Online Gaming Act, 2025 (Act No. 32 of 2025), sections 2, 5, 6 and 7, MeitY, primary legal text",
+          "link": "https://www.meity.gov.in/static/uploads/2025/10/8a7f103cefc68ed8aaa2ebc9a2ed7c13.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Most games need no licence or registration. Under the Promotion and Regulation of Online Gaming Rules, 2026, in force since 1 May 2026, a game must be registered with the Online Gaming Authority of India only if it is to be offered as an e-sport or if the central government notifies it, or its category, for registration, having regard to risk to children, scale, money flows and the provider's country of origin. The Authority may also examine any game of its own motion to decide whether it is a money game.",
+          "card_text": "Only esports must register",
+          "year": "2026",
+          "source": "Promotion and Regulation of Online Gaming Rules, 2026, G.S.R. 303(E), 22 April 2026, rules 8 and 12, MeitY, primary legal text",
+          "link": "https://www.meity.gov.in/static/uploads/2026/04/7e0b02d37fd07f81fa48578a9996aa85.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "An e-sport is a legal category in India, and it cannot carry bets. The 2025 Act defines an e-sport as an organised multiplayer competition decided by skill, recognised under the National Sports Governance Act, 2025 and registered with the Online Gaming Authority, which may charge entry fees and pay prize money but involves no bets or stakes by anyone, player or not. A money game cannot be registered as an e-sport.",
+          "card_text": "Esports are a legal category, with no bets",
+          "year": "2025",
+          "source": "Promotion and Regulation of Online Gaming Act, 2025, section 2(1)(c), MeitY, primary legal text, with the Promotion and Regulation of Online Gaming Rules, 2026, rule 12(3)",
+          "link": "https://www.meity.gov.in/static/uploads/2025/10/8a7f103cefc68ed8aaa2ebc9a2ed7c13.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "No Indian law names loot boxes. Neither the 2025 Act nor its 2026 Rules mentions them, and no loot box rule was found elsewhere. When the Online Gaming Authority decides whether a game is a money game it weighs whether money or other stakes are paid in expectation of winning and whether in-game assets can be redeemed or monetised outside the game, so check a game with cash-out or tradeable items against rule 9 before calling it an ordinary video game.",
+          "card_text": "",
+          "year": "2026",
+          "source": "Promotion and Regulation of Online Gaming Rules, 2026, rule 9, MeitY, primary legal text",
+          "link": "https://www.meity.gov.in/static/uploads/2026/04/7e0b02d37fd07f81fa48578a9996aa85.pdf"
+        },
+        {
+          "kind": "Research note",
+          "claim": "There is no legal cap on how long children play. The 2026 online gaming Rules list time restrictions, age checks and parental controls among the user safety features a game describes when it applies to the Online Gaming Authority, and let the Authority issue codes on user safety, but they set no limit and bind only games that apply or are notified. The government's own summary calls these features mandatory, so read the rule text before quoting either.",
+          "card_text": "",
+          "year": "2026",
+          "source": "Promotion and Regulation of Online Gaming Rules, 2026, rules 2(1)(i), 6(4) and 23, MeitY, primary legal text",
+          "link": "https://www.meity.gov.in/static/uploads/2026/04/7e0b02d37fd07f81fa48578a9996aa85.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "From 2027, anyone processing an under-18's personal data will need a parent's verifiable consent. The Digital Personal Data Protection Act, 2023 requires it and bars tracking, behavioural monitoring and targeted advertising aimed at children, and rule 10 of the Digital Personal Data Protection Rules, 2025, published on 13 November 2025, sets how the parent is checked. Rule 10 comes into force eighteen months after publication.",
+          "card_text": "Parental consent for under-18s' data, from 2027",
+          "year": "2025",
+          "source": "Digital Personal Data Protection Rules, 2025, G.S.R. 846(E), 13 November 2025, rules 1 and 10, MeitY, primary legal text, with the Digital Personal Data Protection Act, 2023, section 9",
+          "link": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The government can block a game outright, and has. On 2 September 2020 the Ministry of Electronics and Information Technology blocked 118 mobile apps under section 69A of the Information Technology Act, citing sovereignty, defence, security and public order and data sent to servers outside India. PUBG MOBILE and PUBG MOBILE LITE were among them.",
+          "card_text": "Games can be blocked under section 69A",
+          "year": "2020",
+          "source": "Press Information Bureau, Ministry of Electronics and IT, 2 September 2020, government release",
+          "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1650669"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Blocking orders are not always published, and a block can be lifted. Garena's Free Fire was among 54 apps blocked under section 69A in February 2022 without an official statement, per TechCrunch. Krafton's Battlegrounds Mobile India, blocked in July 2022, was allowed back in May 2023 on a three-month trial after addressing concerns over data security and where its servers were, according to the deputy IT minister as TechCrunch reports.",
+          "card_text": "BGMI came back in 2023, on trial",
+          "year": "2023",
+          "source": "TechCrunch, Manish Singh, 18 May 2023, technology news site, with TechCrunch, 13 February 2022",
+          "link": "https://techcrunch.com/2023/05/18/krafton-to-relaunch-bgmi-mobile-game-in-india-a-year-after-ban"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not describe Indian online games as regulated by industry self-regulatory bodies. The 2023 amendment to the IT Rules let the ministry designate online gaming self-regulatory bodies to verify permissible real-money games, but its obligations for online games apply only three months after at least three such bodies are designated, and no designation could be found. The rule is still in MeitY's consolidated text of 10 February 2026. The 2025 Act and its Online Gaming Authority are the regime in force.",
+          "card_text": "",
+          "year": "2026",
+          "source": "Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, rules 4A and 4B, updated as on 10 February 2026, MeitY, primary legal text",
+          "link": "https://www.meity.gov.in/static/uploads/2026/02/550681ab908f8afb135b0ad42816a1c9.pdf"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "The central government backs games through a creative technology institute, not a tax credit. The Indian Institute of Creative Technologies (IICT), a not-for-profit company named the National Centre of Excellence for animation, visual effects, gaming, comics and extended reality (AVGC-XR), opened its first campus in Mumbai on 18 July 2025 with an initial budget of 400 crore rupees, and the Budget 2026-27 speech proposes that it set up AVGC Content Creator Labs in 15,000 secondary schools and 500 colleges.",
+          "card_text": "A national institute, not a tax credit",
+          "year": "2026",
+          "source": "Press Information Bureau explainer, Powering Creative Technology, 18 November 2025, government release, with the Budget 2026-2027 speech, 1 February 2026",
+          "link": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=156068&ModuleId=3&reg=3&lang=2"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "States run their own programmes. Karnataka has an AVGC-XR Policy for 2024 to 2029 on skilling, incubation and market competitiveness, and Maharashtra approved an AVGC-XR Policy in September 2025 with a financial plan of 3,268 crore rupees and a roadmap to 2050, per the central government's account.",
+          "card_text": "Karnataka and Maharashtra have AVGC policies",
+          "year": "2025",
+          "source": "Press Information Bureau explainer, Powering Creative Technology, 18 November 2025, government release",
+          "link": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=156068&ModuleId=3&reg=3&lang=2"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Android accounted for 92.77 percent of mobile page views in India in August 2026 and iOS for 7.17 percent, per StatCounter, which bases its shares on page views, so the split measures web traffic, not devices, players or spending.",
+          "card_text": "Android ~93 percent of mobile web traffic",
+          "year": "2026",
+          "source": "StatCounter Global Stats, mobile operating system market share in India, August 2026, web analytics",
+          "link": "https://gs.statcounter.com/os-market-share/mobile/india"
+        },
+        {
+          "kind": "Narrative",
+          "claim": "Google Play in India takes UPI from every provider, including for subscriptions through UPI Autopay, as well as Visa and Mastercard, RuPay cards for one-time purchases, and Play balance and recharge codes. It stopped taking net banking in October 2025.",
+          "card_text": "UPI pays for Google Play",
+          "year": "2026",
+          "source": "Google Play Help, Accepted payment methods on Google Play, India, read 30 September 2026, platform owner's support page",
+          "link": "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DIN"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not date the Online Gaming Act from 1 October 2025. The IT minister announced that date in September 2025 and some law-firm notes still give it, but the ministry notified on 22 April 2026 that the Act takes effect from 1 May 2026, the day the Promotion and Regulation of Online Gaming Rules, 2026 also came into force. The draft rules were published on 2 October 2025.",
+          "card_text": "",
+          "year": "2026",
+          "source": "SCC Online blog, 23 April 2026, legal publisher, reporting the ministry's notification of 22 April 2026",
+          "link": "https://www.scconline.com/blog/post/2026/04/23/meity-notified-enforcement-of-promotion-regulation-online-gaming-act-2025/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "HOLD: do not report the challenge to the Online Gaming Act as decided. The Supreme Court took the petitions against it from three high courts on 8 September 2025, before a three-judge bench, and no ruling on the Act and no stay of it had been reported by 30 September 2026.",
+          "card_text": "",
+          "year": "2026",
+          "source": "Supreme Court Observer, Challenge to the Promotion and Regulation of Online Gaming Act, 2025, case page, legal tracker",
+          "link": "https://www.scobserver.in/cases/challenge-to-the-promotion-and-regulation-of-online-gaming-act-2025/"
+        },
+        {
+          "kind": "Research note",
+          "claim": "Do not report the tax demands on real-money gaming companies as stayed. The Supreme Court stayed show-cause notices worth 1.12 lakh crore rupees in January 2025, but on 27 May 2026 it ruled that the 28 percent tax applies to full deposits, and Outlook Business puts the demands for past years that now stand at nearly 2.5 trillion rupees.",
+          "card_text": "",
+          "year": "2026",
+          "source": "Outlook Business, 28 May 2026, business magazine, with LawBeat, January 2025",
+          "link": "https://www.outlookbusiness.com/corporate/real-money-gaming-companies-brace-for-next-move-after-sc-gst-ruling"
+        }
+      ],
+      "Where the data lives": [
+        {
+          "kind": "Card entry",
+          "claim": "FICCI-EY media and entertainment report. The annual report by FICCI and EY sizes India's online and video games, money gaming and esports in rupees, with gamer counts and Sensor Tower genre tables, free to download as a PDF with no form, released each March under a new title.",
+          "card_text": "FICCI-EY media and entertainment report",
+          "year": "",
+          "source": "FICCI and EY, trade body and consultancy annual",
+          "link": "https://www.ey.com/en_in/insights/media-entertainment/stories-scale-and-impact-unlocking-india-s-m-e-economy"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Lumikai State of Interactive Media Report. The games venture fund's annual sizes India's video games, real-money gaming and other interactive media in dollars, with gamer and payer counts and top-grossing titles, free as a PDF on its site with no form. The fifth edition, for calendar 2025, came out on 23 March 2026.",
+          "card_text": "Lumikai State of Interactive Media Report",
+          "year": "",
+          "source": "Lumikai, venture fund annual",
+          "link": "https://www.lumikai.com/post/india-s-interactive-media-economy-state-of-interactive-media-report-2025"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Time Use Survey 2024, National Statistics Office (MoSPI). The national survey of how people aged 6 and over spend their day, 139,487 households in 2024 after a first round in 2019, codes play under 823, Playing games and other pastime activities, with no separate code for video games. Free on MoSPI's site.",
+          "card_text": "Time Use Survey (MoSPI)",
+          "year": "",
+          "source": "MoSPI press note, Report: Time Use in India, 2024, 28 March 2025, national statistics office",
+          "link": "https://www.mospi.gov.in/sites/default/files/press_release/Press_Note_28.03.2025-1.pdf"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Nazara Technologies investor relations. The investors site of the company that calls itself India's only listed gaming company, in business since 1999, carries its quarterly highlights and filings, free.",
+          "card_text": "Nazara Technologies investor relations",
+          "year": "",
+          "source": "Nazara Technologies, investor relations site, primary corporate disclosure",
+          "link": "https://investors.nazara.com/"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "App Store top-grossing games feed, India (Apple). Apple's public RSS feed ranks the top-grossing games in the Indian App Store, free, with prices in rupees and the time of its last update, and a script can read it as JSON. It gives ranks, not revenue, states neither its method nor its period, and covers Apple's store alone.",
+          "card_text": "App Store top-grossing games feed, India (Apple)",
+          "year": "",
+          "source": "Apple, iTunes Store RSS feed Top Grossing, Games, India, platform chart",
+          "link": "https://itunes.apple.com/in/rss/topgrossingapplications/limit=25/genre=6014/json"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "Google Play top charts for games, India (Google). The games page of Google Play's Indian store shows Top free, Top grossing and Top paid charts for Android, free. It gives ranks only, states no method or period, keeps no archive, and shows the chart for the store's country, set here by gl=IN in the address.",
+          "card_text": "Google Play top charts, India (Google)",
+          "year": "",
+          "source": "Google Play, games top charts, India, platform chart",
+          "link": "https://play.google.com/store/games?hl=en_IN&gl=IN"
+        },
+        {
+          "kind": "Card entry",
+          "claim": "The State of Video Gaming, Matthew Ball and Epyllion. A free annual analyst presentation with market sizing, participation and platform charts for most major markets, useful for cross market comparison that no single free source provides. It aggregates many vendors rather than applying one methodology, so treat figures as the analyst assembly they are and cite the underlying source where the deck names one.",
+          "card_text": "The State of Video Gaming (Ball, Epyllion)",
+          "year": "",
+          "source": "Matthew Ball, Epyllion, independent analyst, annual presentation",
+          "link": "https://www.matthewball.co/all/presentation-the-state-of-video-gaming-in-2026"
+        },
+        {
+          "kind": "Research note",
+          "claim": "There is no games rating database to search in India. The Bureau of Indian Standards' IS 19690:2026, notified on 10 March 2026, sets age ratings from U/A 0+ to A that publishers assess themselves, and it is voluntary, with no order making it compulsory. No public register of ratings under it was found.",
+          "card_text": "",
+          "year": "2026",
+          "source": "Outlook Respawn, Abhimannu Das, 20 April 2026, games news site",
+          "link": "https://respawn.outlookindia.com/gaming/gaming-originals/indias-first-game-rating-standard-real-need-or-overreach"
+        }
+      ]
+    },
+    "known_gaps": [
+      {
+        "gap": "Consumer spending. No free figure for what Indian players spend is held: the size card is FICCI-EY's revenue estimate, which counts advertising and esports as well as purchases, and Lumikai's dollar figure is revenue on another basis.",
+        "instead": "Quote each annual with its edition and basis, as the Market size notes say, and read a spending figure that names no publisher as untraceable."
+      },
+      {
+        "gap": "Player numbers. No count of India's players says who was counted, over what period or how, so the directory carries no player figure for India.",
+        "instead": "Name the publisher with any count, as the Shape notes do, and use the national Time Use Survey for time spent on games and pastimes, the one official measure."
+      },
+      {
+        "gap": "Company filings. Most of India's largest games companies are private, and only Nazara and OnMobile report games revenue as listed companies.",
+        "instead": "Use the fiscal-year search technique to find business reporting on private companies' annual filings, and Nazara's and OnMobile's investor pages for the listed ones."
+      },
+      {
+        "gap": "Console and PC play. No chart counts what India plays on console or PC: Steam publishes no chart for India, and both annuals measure phones first.",
+        "instead": "Read TechEnclave for what PC players buy and pay, and quote a device share only with the annual that states it."
+      },
+      {
+        "gap": "Communities. Most talk among Indian players happens on YouTube, in closed apps, and in Hindi and regional languages, and the open communities held could not be measured or are quiet.",
+        "instead": "Search YouTube and Discord in Hindi, as the searching tips say, read a Discord server's size from its invite page, and read the forums for the temperature of the talk, never its size."
+      }
+    ]
   }
 ]

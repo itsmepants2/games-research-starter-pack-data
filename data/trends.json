@@ -963,6 +963,7 @@
     "markets": [
       "EU",
       "Global",
+      "IN",
       "JP",
       "UK",
       "US"
@@ -1392,6 +1393,17 @@
         "source": "Circana, Mat Piscatella, as reported by Kotaku (20 August 2026)",
         "link": "https://kotaku.com/worst-july-console-sales-2020-pandemic-2026-2000726139",
         "source_slug": "circana"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Sony raises the disc PlayStation 5 in India from 54,990 to 69,990 rupees on 30 July 2026, citing the global memory shortage.",
+        "card_text": "Sony raises the PlayStation 5 in India by 15,000 rupees",
+        "year": "2026",
+        "market": "IN",
+        "source": "TelecomTalk, Tanay Singh Thakur (30 July 2026)",
+        "link": "https://telecomtalk.info/ps5-price-in-india-goes-up/1010222/",
+        "source_slug": ""
       },
       {
         "section": "Consequences",
@@ -4065,6 +4077,7 @@
       "BR",
       "EU",
       "Global",
+      "IN",
       "US"
     ],
     "what_it_is": "In June 2025 Riot Games allowed betting companies to sponsor top League of Legends and Valorant teams, with logos kept off its own broadcasts. In December 2025 Valve barred sites that gamble with Counter-Strike's tradeable cosmetic items, known as skins, from jerseys and broadcasts. Valve still allows licensed bookmakers, so the two are closer than they look. Riot's rule keeps betting logos off jerseys, yet the bookmaker Winamax says its logo sits at the center of two teams' shirts. Esports Charts counts a betting brand as title sponsor of nine of the top ten Counter-Strike teams in the Americas. Nobody publishes how much esports income is gambling money.",
@@ -4189,6 +4202,17 @@
         "market": "",
         "source": "HLTV, Nohte (10 December 2025)",
         "link": "https://www.hltv.org/news/43421/valve-bans-skins-gambling-case-opening-sites-from-jerseys-and-events-in-tor",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "India's online gaming law of August 2025 bans any advertisement that directly or indirectly promotes an online game played for money. It defines an e-sport as a registered competition that may charge entry fees and pay prize money but involves no bets or stakes by anyone, player or not.",
+        "card_text": "India bans money-game advertising and bars bets from esports",
+        "year": "2025",
+        "market": "IN",
+        "source": "Promotion and Regulation of Online Gaming Act, 2025 (India), sections 2 and 6",
+        "link": "https://www.meity.gov.in/static/uploads/2025/10/8a7f103cefc68ed8aaa2ebc9a2ed7c13.pdf",
         "source_slug": ""
       },
       {
@@ -4369,6 +4393,7 @@
     "markets": [
       "BR",
       "EU",
+      "IN",
       "UK",
       "US"
     ],
@@ -4450,6 +4475,17 @@
         "market": "UK",
         "source": "Information Commissioner's Office, Children's Code, standard 3",
         "link": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/age-appropriate-design-a-code-of-practice-for-online-services/3-age-appropriate-application/",
+        "source_slug": ""
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "The 2023 data protection law requires a parent's verifiable consent before any personal data of an under-18 is processed, and bars tracking, behavioral monitoring and targeted advertising aimed at children. The rules of 13 November 2025 say how the parent is checked, from identity and age details held or supplied, or a government-backed token, and take effect 18 months after publication.",
+        "card_text": "A parent's verified consent, from 2027",
+        "year": "2025",
+        "market": "IN",
+        "source": "Digital Personal Data Protection Rules, 2025 (India), rule 10 (13 November 2025)",
+        "link": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf",
         "source_slug": ""
       },
       {
@@ -4741,6 +4777,7 @@
       "BR",
       "CN",
       "Global",
+      "IN",
       "JP",
       "KR",
       "UK",
@@ -4847,6 +4884,17 @@
         "source": "Anime News Network (15 October 2020)",
         "link": "https://www.animenewsnetwork.com/interest/2020-10-15/kagawa-governor-claims-gaming-ordinance-is-not-unconstitutional/.165182",
         "source_slug": "anime-news-network"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "There is no rule. A 2021 advisory from the education ministry says play without limits can lead to gaming disorder, and asks parents not to allow in-game purchases without their consent and to cap spending per transaction.",
+        "card_text": "Advice to parents, no rule",
+        "year": "2021",
+        "market": "IN",
+        "source": "Ministry of Education, via the Press Information Bureau (10 December 2021)",
+        "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1780177",
+        "source_slug": ""
       },
       {
         "section": "Status",
@@ -7342,6 +7390,7 @@
     "markets": [
       "BR",
       "EU",
+      "IN",
       "JP",
       "KR",
       "UK",
@@ -7479,6 +7528,17 @@
         "market": "JP",
         "source": "Apple Newsroom (17 December 2025)",
         "link": "https://www.apple.com/newsroom/2025/12/apple-announces-changes-to-ios-in-japan/",
+        "source_slug": ""
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Google must let apps use outside billing for apps and in-app purchases and may not stop them pointing users elsewhere. The competition regulator ordered this in 2022, and an appeals tribunal upheld it in March 2025 while cutting the fine from 9.36 billion to about 2.17 billion rupees.",
+        "card_text": "Google: outside billing ordered, on appeal",
+        "year": "2025",
+        "market": "IN",
+        "source": "National Company Law Appellate Tribunal, Competition Appeal (AT) No. 04 of 2023 (28 March 2025)",
+        "link": "https://efiling.nclat.gov.in/nclat/order_view.php?path=L05DTEFUX0RvY3VtZW50cy9DSVNfRG9jdW1lbnRzL2Nhc2Vkb2Mvb3JkZXJzL0RFTEhJLzIwMjUtMDMtMjgvY291cnRzLzEvZGFpbHkvMTc0NDgwNzE1OTk1Mzk0MjI1NzY3ZmZhNGY3MmQ1YzEucGRm",
         "source_slug": ""
       },
       {
