@@ -5942,7 +5942,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "The Game Business (Dring), Matthew Ball / Epyllion, Niko Partners, Newzoo regional reports",
     "status_label": "",
     "measure_label": "",
@@ -6066,6 +6066,17 @@
         "source": "GPC, 2024 China Game Industry Report (13 December 2024)",
         "link": "https://www.cadpa.org.cn/3277/202501/41718.html",
         "source_slug": "gpc-cadpa-game-working-committee"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Joost van Dreunen finds that Chinese firms took 52% of the ten largest game publishers' revenue in 2025, up from 8% in 2010. Tencent alone took 19% of all publishing revenue.",
+        "card_text": "Chinese companies earn half of what the ten largest make",
+        "year": "2025",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
       },
       {
         "section": "Timeline",
@@ -8632,18 +8643,18 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "DappRadar, the sector's main tracker until it closed in November 2025, counted $7.6 billion invested in blockchain gaming and metaverse projects in 2022, $1.8 billion in 2024 and $293 million in the first nine months of 2025. ChainPlay classed 93% of 3,279 blockchain game projects as dead in November 2024. Meta cut about 1,500 metaverse jobs in January 2026 and is turning Horizon Worlds into a phone app. The clearest exception is Nexon's MapleStory Universe, which reports a working token economy inside an established game.",
+    "what_it_is": "Caladan's review of the sector estimates that investment in blockchain games fell from $4 billion in 2022 to about $0.36 billion in 2025, and cites a count finding 93% of more than 3,200 projects dead. DappRadar, which tracked the sector, closed in November 2025. The metaverse boom of the same years has shrunk too: Meta cut about 1,500 metaverse jobs in January 2026 and is turning Horizon Worlds into a phone app. The clearest exception is Nexon's MapleStory Universe, which reports a working token economy inside an established game.",
     "why_it_matters": "In 2021 and 2022 blockchain games, where items trade for real money, were sold as the future of games, alongside the metaverse. Most of it failed. Confident coverage from those years is still online. Check the outcome before citing it.",
     "further_reading": [
       {
-        "source": "State of GameFi 2024",
-        "link": "https://chainplay.gg/blog/state-gamefi-2024/",
+        "source": "$12 Billion In, 93% Dead: The Real Story of Web3 Gaming",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
         "type": "Research",
         "format": ""
       },
       {
-        "source": "The Great Reset: Your 2023 Guide to Web3 Games",
-        "link": "https://naavik.co/deep-dives/the-great-reset-2023/",
+        "source": "More than 90% of Web3 games failed after $15 billion boom",
+        "link": "https://www.coindesk.com/markets/2026/04/23/more-than-90-of-web3-games-failed-after-usd15-billion-boom-as-gamers-never-showed-up-caladan",
         "type": "Analysis",
         "format": ""
       },
@@ -8654,17 +8665,24 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball (who wrote the book and the post-mortems), Naavik, Digiday's Gaming Advertising coverage for brand-metaverse residue",
     "status_label": "",
     "measure_label": "",
     "row_label": "",
-    "series_label": "Money invested in blockchain gaming and metaverse projects worldwide, $ billions, DappRadar's count",
-    "series_note": "Investment peaked at $7.6 billion in 2022 and fell to $1.8 billion in 2024. DappRadar counted $293 million in the first nine months of 2025.",
+    "series_label": "Money invested in blockchain games worldwide, $ billions, Caladan's estimates",
+    "series_note": "Investment peaked at $4 billion in 2022 and fell to about $0.36 billion in 2025. Other trackers' totals are higher, and show the same rise and fall.",
     "series_type": "",
     "series_mark": "",
     "series_target": "",
     "timeline_heads": true,
+    "what_it_is_text": [
+      {
+        "text": "Caladan's review of the sector",
+        "href": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/"
+      },
+      " estimates that investment in blockchain games fell from $4 billion in 2022 to about $0.36 billion in 2025, and cites a count finding 93% of more than 3,200 projects dead. DappRadar, which tracked the sector, closed in November 2025. The metaverse boom of the same years has shrunk too: Meta cut about 1,500 metaverse jobs in January 2026 and is turning Horizon Worlds into a phone app. The clearest exception is Nexon's MapleStory Universe, which reports a working token economy inside an established game."
+    ],
     "series_format": "${n} billion",
     "claims": [
       {
@@ -8681,69 +8699,68 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain gaming and metaverse projects in 2020, as DappRadar's report on 2022 counts it. The count covers infrastructure, guilds and investment funds as well as the games themselves.",
-        "card_text": "0.191",
+        "claim": "Money invested in blockchain games in 2020, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan's text gives $70 million.",
+        "card_text": "0.07",
         "year": "2020",
         "market": "",
-        "source": "DappRadar's yearly games reports",
-        "link": "https://dappradar.com/blog/dappradar-x-bga-games-report-2022-overview",
+        "source": "Caladan, Derek Lim (22 April 2026)",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
         "source_slug": ""
       },
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain gaming and metaverse projects in 2021, from the same report.",
-        "card_text": "3.7",
+        "claim": "Money invested in blockchain games in 2021, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart.",
+        "card_text": "3.5",
         "year": "2021",
         "market": "",
-        "source": "DappRadar's yearly games reports",
-        "link": "https://dappradar.com/blog/dappradar-x-bga-games-report-2022-overview",
+        "source": "Caladan, Derek Lim (22 April 2026)",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
         "source_slug": ""
       },
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain gaming and metaverse projects in 2022, the peak. Infrastructure took 33.5% of it, and games and metaverse worlds themselves 27.3%.",
-        "card_text": "7.6",
+        "claim": "Money invested in blockchain games in 2022, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan calls this the peak. It leaves out a $2 billion raise by Epic Games that had nothing to do with blockchains.",
+        "card_text": "4",
         "year": "2022",
         "market": "",
-        "source": "DappRadar's yearly games reports",
-        "link": "https://dappradar.com/blog/dappradar-x-bga-games-report-2022-overview",
+        "source": "Caladan, Derek Lim (22 April 2026)",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
         "source_slug": ""
       },
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in Web3 gaming and metaverse projects in 2023, across 163 deals, a 62% drop on the year before.",
-        "card_text": "2.9",
+        "claim": "Money invested in blockchain games in 2023, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart.",
+        "card_text": "1.25",
         "year": "2023",
         "market": "",
-        "source": "DappRadar's yearly games reports",
-        "link": "https://dappradar.com/blog/dappradar-games-report-2023-overview",
+        "source": "Caladan, Derek Lim (22 April 2026)",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
         "source_slug": ""
       },
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain gaming and metaverse projects in 2024, down 38% on 2023. Investment firms took 58% of it.",
-        "card_text": "1.8",
+        "claim": "Money invested in blockchain games in 2024, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart. DappRadar, which counted more widely, reported $1.8 billion for the same year.",
+        "card_text": "1.3",
         "year": "2024",
         "market": "",
-        "source": "DappRadar's yearly games reports",
-        "link": "https://dappradar.com/blog/dappradar-games-report-2024-overview",
+        "source": "Caladan, Derek Lim (22 April 2026)",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
         "source_slug": ""
       },
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain gaming in the first nine months of 2025, so not a full year. DappRadar counted $129 million of it in the third quarter.",
-        "card_text": "0.293",
+        "claim": "Money invested in blockchain games in 2025, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan's text gives roughly $360 million. DappRadar, the main tracker, closed in November 2025, so no full count of the year exists.",
+        "card_text": "0.36",
         "year": "2025",
         "market": "",
-        "source": "DappRadar's yearly games reports",
-        "link": "https://dappradar.com/blog/state-of-blockchain-gaming-q3-2025",
-        "source_slug": "",
-        "partial": true
+        "source": "Caladan, Derek Lim (22 April 2026)",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source_slug": ""
       },
       {
         "section": "Timeline",
@@ -8781,23 +8798,23 @@
       {
         "section": "Timeline",
         "kind": "Event",
+        "claim": "In the peak year, games receive 62.5% of all venture investment in web3, the industry's name for businesses built on blockchains. Within three years their share falls to single digits.",
+        "card_text": "Games take most of the money going into crypto start-ups",
+        "year": "2022",
+        "market": "",
+        "source": "CoinDesk, Sam Reynolds, on Caladan (23 April 2026)",
+        "link": "https://www.coindesk.com/markets/2026/04/23/more-than-90-of-web3-games-failed-after-usd15-billion-boom-as-gamers-never-showed-up-caladan",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
         "claim": "DappRadar, the sector's main tracker, counts 7.4 million wallets a day interacting with blockchain games at the end of 2024, up 421% in a year. Investment falls 38% to $1.8 billion. A wallet is an account, not a person, and one player or one automated program can run many.",
         "card_text": "Activity rises while investment falls",
         "year": "2024",
         "market": "",
         "source": "GamesBeat, Dean Takahashi, on DappRadar (21 January 2025)",
         "link": "https://gamesbeat.com/blockchain-gaming-grows-to-7-4m-active-wallets-in-2024-up-421-dappradar/",
-        "source_slug": ""
-      },
-      {
-        "section": "Timeline",
-        "kind": "Event",
-        "claim": "ChainPlay, a site that lists blockchain games, checks the 3,279 projects in its database in November 2024 and classes 93% of them as dead. It also finds that 58% of the venture firms that invested in them have lost between 2.5% and 99%.",
-        "card_text": "A count finds 93% of blockchain games dead",
-        "year": "2024",
-        "market": "",
-        "source": "ChainPlay, State of GameFi 2024 (3 December 2024)",
-        "link": "https://chainplay.gg/blog/state-gamefi-2024/",
         "source_slug": ""
       },
       {
@@ -8847,6 +8864,17 @@
       {
         "section": "Timeline",
         "kind": "Event",
+        "claim": "The trading firm Caladan publishes a review of the sector. It cites a count by ChainPlay of more than 3,200 blockchain game projects, of which 93% are effectively dead. Caladan puts the money invested at $12 billion to $15 billion. Its open report does not say how dead is defined.",
+        "card_text": "A count finds 93% of blockchain games dead",
+        "year": "2026",
+        "market": "",
+        "source": "Caladan, Derek Lim (22 April 2026)",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
         "claim": "NEXPACE, a Nexon subsidiary, reports that MapleStory Universe took in 30.98 million of its NXPC tokens in the first half of 2026, 95% of it from core gameplay, with 855,500 wallets created since launch. The report gives no value in dollars.",
         "card_text": "One big publisher's token economy is still running",
         "year": "2026",
@@ -8858,45 +8886,45 @@
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Investment in crypto shifted toward real-world assets and artificial intelligence, DappRadar reported in April 2025, a trend that continued into the first quarter of that year.",
+        "claim": "CoinDesk, summarizing Caladan, reports that games went from 62.5% of web3 venture money in 2022 to single digits by 2025, as investors moved to artificial intelligence and other parts of crypto. Caladan adds that 58% of the venture firms that backed the sector have taken losses.",
         "card_text": "The investors moved on to AI",
-        "year": "2025",
+        "year": "2026",
         "market": "",
-        "source": "DappRadar, Sara Gherghelas (10 April 2025)",
-        "link": "https://dappradar.com/blog/state-of-blockchain-gaming-in-q1-2025",
+        "source": "CoinDesk, Sam Reynolds, on Caladan (23 April 2026)",
+        "link": "https://www.coindesk.com/markets/2026/04/23/more-than-90-of-web3-games-failed-after-usd15-billion-boom-as-gamers-never-showed-up-caladan",
         "source_slug": ""
       },
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "A focus on what players could earn took precedence over fun and sustainability, Naavik and Delphi Digital wrote in January 2023, and it made a bubble that lasted only as long as new players put new money in.",
+        "claim": "Caladan's diagnosis, as CoinDesk puts it, is a structural mismatch between a model built around financial incentives and an audience that wanted to be entertained. Studios raised money before they had a game, and token payouts depended on new buyers arriving.",
         "card_text": "The model was built for earning, and players wanted entertainment",
-        "year": "2023",
+        "year": "2026",
         "market": "",
-        "source": "Naavik, with Delphi Digital (27 January 2023)",
-        "link": "https://naavik.co/deep-dives/the-great-reset-2023/",
-        "source_slug": "naavik"
+        "source": "CoinDesk, Sam Reynolds, on Caladan (23 April 2026)",
+        "link": "https://www.coindesk.com/markets/2026/04/23/more-than-90-of-web3-games-failed-after-usd15-billion-boom-as-gamers-never-showed-up-caladan",
+        "source_slug": ""
       },
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Players will be skeptical, Naavik and Delphi Digital argued after the crash, so the blockchain games that come next need to be fun first and deliver on their promises.",
-        "card_text": "The next games have to be fun first",
-        "year": "2023",
+        "claim": "Caladan finds that the projects still running put the game first and keep the blockchain out of the player's sight. None of them, it adds, has achieved mainstream scale.",
+        "card_text": "The survivors hide the blockchain",
+        "year": "2026",
         "market": "",
-        "source": "Naavik, with Delphi Digital (27 January 2023)",
-        "link": "https://naavik.co/deep-dives/the-great-reset-2023/",
-        "source_slug": "naavik"
+        "source": "Caladan, Derek Lim (22 April 2026)",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source_slug": ""
       },
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "DappRadar's count takes in infrastructure, guilds and the investment firms that fund the sector as well as the games themselves. In 2024 investment firms took 58% of the total, so most of the money on the chart did not go to studios making games.",
-        "card_text": "DappRadar's totals count more than games",
-        "year": "2025",
+        "claim": "Caladan is a trading firm, not a data company, and its chart says so: the figures are midpoints, and another tracker's method gives totals about 3.5 times higher. DappRadar's own figure for 2024 was $1.8 billion, against Caladan's $1.3 billion. Both counts peak in 2022 and collapse afterwards, but they disagree about 2024 as well as about the level: Caladan has investment edging up that year, from $1.25 billion to $1.3 billion, where DappRadar had it falling 38%.",
+        "card_text": "The chart is one firm's estimate, and other counts are much higher",
+        "year": "2026",
         "market": "",
-        "source": "DappRadar, Sara Gherghelas (21 January 2025)",
-        "link": "https://dappradar.com/blog/dappradar-games-report-2024-overview",
+        "source": "GamesBeat, Dean Takahashi, on DappRadar (21 January 2025)",
+        "link": "https://gamesbeat.com/blockchain-gaming-grows-to-7-4m-active-wallets-in-2024-up-421-dappradar/",
         "source_slug": ""
       },
       {
@@ -8913,23 +8941,23 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "ChainPlay counts a project as dead if its token has fallen more than 90% from its peak or it has fewer than 100 daily users. Either is enough, so a game people still play counts as dead once its token has collapsed.",
-        "card_text": "'Dead' can mean a crashed token",
-        "year": "2024",
+        "claim": "The 93% figure is a count by ChainPlay, relayed by Caladan. Neither Caladan's post nor CoinDesk's report of it defines what makes a project dead, and the full method sits behind a sign-up form.",
+        "card_text": "Nobody says what 'dead' means",
+        "year": "2026",
         "market": "",
-        "source": "ChainPlay, State of GameFi 2024 (3 December 2024)",
-        "link": "https://chainplay.gg/blog/state-gamefi-2024/",
+        "source": "Caladan, Derek Lim (22 April 2026)",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
         "source_slug": ""
       },
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "A new plan from Animoca Brands to relist on a major public exchange, which it says it remains fully committed to, after it suspended its reverse merger with Currenc Group on 22 September 2026.",
-        "card_text": "Whether Animoca Brands finds another way to list",
+        "claim": "By the end of 2026, the expected close of Animoca Brands' listing on the Nasdaq stock exchange through a merger. Caladan cites a target valuation of $5 billion to $10 billion.",
+        "card_text": "Whether a big blockchain games company can list in the US",
         "year": "2026",
         "market": "",
-        "source": "Animoca Brands (22 September 2026)",
-        "link": "https://www.animocabrands.com/announcement/animoca-brands-and-currenc-group-suspend-merger-discussions",
+        "source": "Caladan, Derek Lim (22 April 2026)",
+        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
         "source_slug": ""
       },
       {
@@ -11190,7 +11218,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Game Developer's business desk, GameDiscoverCo",
     "status_label": "",
     "measure_label": "",
@@ -11252,12 +11280,12 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Private investment in games companies in 2025, down 45.8% in a year, across 450 deals: our sum of the four quarters on page 8 of Aream & Co.'s Q4 2025 update, which charts InvestGame's data.",
-        "card_text": "~2.6",
+        "claim": "Private investment in games companies in 2025, in billions of dollars, down 45.8% in a year, from Aream & Co.'s analysis of InvestGame's data as WN Hub reported it.",
+        "card_text": "2.6",
         "year": "2025",
         "market": "",
         "source": "InvestGame's deal data, as reported for each year",
-        "link": "https://investgame.net/wp-content/uploads/2026/01/2026-01-13-Q4_2025_Aream_amp_Co_Video_Game_Market_Report.pdf",
+        "link": "https://wnhub.io/news/analytics/item-49809",
         "source_slug": "",
         "series": "Private investment",
         "period": "2025"
@@ -11265,12 +11293,12 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money spent buying games companies in 2025: our sum of the four quarters on page 8 of Aream & Co.'s Q4 2025 update. The $55 billion sale of Electronic Arts, announced rather than closed, is most of it.",
-        "card_text": "~65.8",
+        "claim": "Money spent buying games companies in 2025, in billions of dollars. The $55 billion sale of Electronic Arts is most of it.",
+        "card_text": "65.8",
         "year": "2025",
         "market": "",
         "source": "InvestGame's deal data, as reported for each year",
-        "link": "https://investgame.net/wp-content/uploads/2026/01/2026-01-13-Q4_2025_Aream_amp_Co_Video_Game_Market_Report.pdf",
+        "link": "https://wnhub.io/news/analytics/item-49809",
         "source_slug": "",
         "series": "Buying whole companies",
         "period": "2025"
@@ -11278,12 +11306,12 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money games companies raised on stock markets in 2025, up 12% in a year: our sum of the four quarters on page 8 of Aream & Co.'s Q4 2025 update.",
-        "card_text": "~11.2",
+        "claim": "Money games companies raised on stock markets in 2025, in billions of dollars, up 12% in a year.",
+        "card_text": "11.2",
         "year": "2025",
         "market": "",
         "source": "InvestGame's deal data, as reported for each year",
-        "link": "https://investgame.net/wp-content/uploads/2026/01/2026-01-13-Q4_2025_Aream_amp_Co_Video_Game_Market_Report.pdf",
+        "link": "https://wnhub.io/news/analytics/item-49809",
         "source_slug": "",
         "series": "Raised on stock markets",
         "period": "2025"
@@ -11335,12 +11363,12 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "Aream & Co.'s quarterly figures from InvestGame's data add up to $2.6 billion of private investment in 2025 across 450 deals, down 45.8%, beside $65.8 billion spent buying companies, $55 billion of it the announced sale of Electronic Arts. Private investment in the fourth quarter is $0.9 billion, up 29% from a year earlier, mostly in gaming technology and Turkish mobile studios.",
-        "card_text": "Private investment nearly halves, beside a record buyout",
+        "claim": "Aream & Co.'s analysis of InvestGame's 2025 data: private investment falls 45.8% to $2.6 billion across 450 deals, the lowest in five years. Meanwhile, spending on buying companies reaches $65.8 billion, led by the $55 billion sale of Electronic Arts. Private investment in the fourth quarter is $0.9 billion, up 29% from a year earlier, mostly in gaming technology and Turkish mobile studios.",
+        "card_text": "The lowest year in five, beside a record buyout",
         "year": "2025",
         "market": "",
-        "source": "Our calculation from Aream & Co.'s figures (13 January 2026)",
-        "link": "https://investgame.net/wp-content/uploads/2026/01/2026-01-13-Q4_2025_Aream_amp_Co_Video_Game_Market_Report.pdf",
+        "source": "WN Hub, on Aream & Co.'s 2025 report from InvestGame's data (15 January 2026)",
+        "link": "https://wnhub.io/news/analytics/item-49809",
         "source_slug": ""
       },
       {
@@ -11467,12 +11495,12 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Money has not left games. It is buying companies. Aream & Co.'s quarterly figures add up to about $80 billion of deals in 2025, 3.3 times 2024. That includes $65.8 billion spent buying companies, led by the $55 billion sale of Electronic Arts, and $11.2 billion raised on stock markets, up 12%. The money is going to established companies rather than new studios. That is a different problem from investors abandoning games.",
+        "claim": "Money has not left games. It is buying companies. Deals in 2025 totaled nearly $80 billion, 3.3 times 2024. That includes $65.8 billion spent buying companies, led by the $55 billion sale of Electronic Arts, and $11.2 billion raised on stock markets, up 12%. The money is going to established companies rather than new studios. That is a different problem from investors abandoning games.",
         "card_text": "Investors are still spending, but on buying whole companies",
         "year": "2026",
         "market": "",
-        "source": "Our calculation from Aream & Co.'s figures (13 January 2026)",
-        "link": "https://investgame.net/wp-content/uploads/2026/01/2026-01-13-Q4_2025_Aream_amp_Co_Video_Game_Market_Report.pdf",
+        "source": "WN Hub, on Aream & Co.'s 2025 report from InvestGame's data (15 January 2026)",
+        "link": "https://wnhub.io/news/analytics/item-49809",
         "source_slug": ""
       },
       {
@@ -11828,7 +11856,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "Sensor Tower State of Mobile (annual), Naavik, Deconstructor of Fun, PocketGamer.biz monthly charts, AppMagic",
     "status_label": "",
     "measure_label": "",
@@ -12223,13 +12251,13 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Sensor Tower put players' 2023 spending in mobile games at $107.3 billion in February 2024. Its later reports count only Apple's App Store and Google Play, and give $76.7 billion and then $78.6 billion for the same year. The chart uses one report's series for that reason, and any line drawn across several years is one edition's view.",
+        "claim": "Sensor Tower has published three different totals for 2023: $107.3 billion, $53 billion and $78.6 billion, on three different bases. Its 2024 download figure also moved between editions. The chart uses one report's series for that reason, and any line drawn across several years is one edition's view.",
         "card_text": "Sensor Tower's own figures change between reports",
         "year": "2024",
         "market": "",
-        "source": "Sensor Tower, Donny Kristianto (February 2024)",
-        "link": "https://sensortower.com/blog/state-of-mobile-gaming-2024",
-        "source_slug": "sensor-tower"
+        "source": "WN Hub (9 April 2024)",
+        "link": "https://wnhub.io/news/analytics/item-43256",
+        "source_slug": ""
       },
       {
         "section": "Objections",
@@ -12310,7 +12338,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "GameDiscoverCo (Simon Carless), Naavik, GDC State of the Game Industry (annual), Gamalytic, SteamDB",
     "status_label": "",
     "measure_label": "",
@@ -12444,6 +12472,17 @@
         "source": "Valve, Steamworks Development, Steam Next Fest continues to boost engagement and sales for most games in 2021 (30 November 2021)",
         "link": "https://store.steampowered.com/news/group/4145017/view/3142945680156500050",
         "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Video Game Insights, which sells Steam estimates, finds that the ten biggest games released on Steam in 2023 took 61% of the revenue of all games released that year, up from 43% in 2020. Baldur's Gate 3 alone took 21%. It counts sales of the games, not spending inside them.",
+        "card_text": "The ten biggest new releases take 61% of new games' revenue",
+        "year": "2023",
+        "market": "",
+        "source": "Sensor Tower VGI, Global PC Games Market Report 2024 (January 2024)",
+        "link": "https://app.sensortower.com/vgi/assets/reports/VGI_Global_PC_Games_Market_Report_2024.pdf",
+        "source_slug": "sensor-tower-vgi"
       },
       {
         "section": "Timeline",
@@ -15302,6 +15341,368 @@
         "source": "HM Revenue and Customs, Creative industries statistics (17 September 2026)",
         "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
         "source_slug": ""
+      }
+    ]
+  },
+  {
+    "slug": "biggest-companies-take-a-growing-share",
+    "name": "The biggest games companies are taking a growing share of the money",
+    "stage": "Emerging",
+    "category": "Money & business model",
+    "horizon": "h2",
+    "horizon_group": "prolongs-h1",
+    "horizon_line": "The largest firms pulling ahead, mostly by growing rather than buying.",
+    "markets": [
+      "CN",
+      "Global",
+      "JP",
+      "US"
+    ],
+    "what_it_is": "Joost van Dreunen, tracking 153 companies, finds the ten largest took 56% of publishing revenue in 2025, up from 45% in 2020. Since 2020 they grew 51% while the rest, together, did not grow. Buying studios explains about a sixth of the rise. Matthew Ball, before he joined Xbox, found game makers outside China gained $1 billion of the $24 billion added since 2020. On PC in Western markets, though, games outside the top 20 now earn most of the money.",
+    "why_it_matters": "Ten companies now take more than half of what players spend with game publishers, and since 2020 the rest of the industry has stopped growing. Which companies are large decides which games get funded and who survives the next downturn.",
+    "further_reading": [
+      {
+        "source": "Oligopoly Go!",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Analysts say PC gaming is now the one platform where more than 50% of revenue comes from games outside the top 20",
+        "link": "https://www.pcgamer.com/gaming-industry/analysts-say-pc-gaming-is-now-the-one-platform-where-more-than-50-percent-of-revenue-comes-from-games-outside-the-top-20/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Epyllion's State of Video Gaming in 2026",
+        "link": "https://www.matthewball.co/s/Gaming-2026_v425-COMPRESSED.pdf",
+        "type": "Analysis",
+        "format": ""
+      }
+    ],
+    "as_of": "Oct 2026",
+    "where_to_follow": "SuperJoost Playlist, Matthew Ball's yearly State of Video Gaming, Newzoo's PC and console report, Sensor Tower VGI, Sensor Tower's State of Mobile",
+    "status_label": "",
+    "measure_label": "",
+    "row_label": "",
+    "series_label": "The ten largest game publishers' share of publishing revenue, in Joost van Dreunen's panel of 153 companies",
+    "series_note": "The ten largest publishers' share fell from 65% in 2010 to 45% in 2020, as mobile games and Steam brought in thousands of new companies, then climbed back to 56% in 2025.",
+    "series_type": "",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "what_it_is_text": [
+      {
+        "text": "Joost van Dreunen",
+        "href": "https://superjoost.substack.com/p/oligopoly-go"
+      },
+      ", tracking 153 companies, finds the ten largest took 56% of publishing revenue in 2025, up from 45% in 2020. Since 2020 they grew 51% while the rest, together, did not grow. Buying studios explains about a sixth of the rise. ",
+      {
+        "text": "Matthew Ball",
+        "href": "https://www.matthewball.co/s/Gaming-2026_v425-COMPRESSED.pdf"
+      },
+      ", before he joined Xbox, found game makers outside China gained $1 billion of the $24 billion added since 2020. On PC in Western markets, though, games outside the top 20 now earn most of the money."
+    ],
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "It adds up the square of every company's share of a market, so one company with all of it scores 10,000. Under the US merger guidelines restored in 2023, a market below 1,000 is unconcentrated, 1,000 to 1,800 moderately concentrated, and above 1,800 highly concentrated.",
+        "card_text": "What is a concentration index?",
+        "year": "",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen, Methodology (read 1 October 2026)",
+        "link": "https://superjoost.substack.com/p/methodology",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "The ten largest game publishers earned a combined $27 billion of a $41 billion publishing market.",
+        "card_text": "65%",
+        "year": "2010",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist",
+        "period": "2010"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "The low point, after mobile games and Steam brought thousands of new companies into the market.",
+        "card_text": "45%",
+        "year": "2020",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist",
+        "period": "2020"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "The ten largest earned $100.3 billion of $179 billion. The figure counts the Saudi fund's purchase of EA as complete, and 2025 was the year the Switch 2 launched.",
+        "card_text": "56%",
+        "year": "2025",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist",
+        "period": "2025"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In 2010 the ten largest game publishers earned a combined $27 billion of a $41 billion publishing market, on Joost van Dreunen's count across 153 companies. Half of that top ten has since been bought by others or dropped out of it.",
+        "card_text": "The ten largest publishers take 65% of the money",
+        "year": "2010",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Mobile was the most concentrated of the three devices in 2010, until thousands of studios followed free-to-play onto phones. Joost van Dreunen's index bottoms out at 459 in 2017, then nearly doubles to 861 by 2025, as the cost of finding players after Apple's 2021 privacy change pushed publishers toward scale.",
+        "card_text": "Mobile publishing is at its most spread out",
+        "year": "2017",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Mobile games and Steam had brought thousands of new companies into the market, and the ten largest publishers took 45% of publishing revenue in 2020. PC was at its least concentrated, at 561 on the index.",
+        "card_text": "The ten largest fall to 45%, their lowest share",
+        "year": "2020",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Video Game Insights, which sells Steam estimates, finds that the ten biggest games released on Steam in 2023 took 61% of the revenue of all games released that year, up from 43% in 2020. Baldur's Gate 3 alone took 21%. It counts sales of the games, not spending inside them.",
+        "card_text": "The ten biggest new Steam games take 61% of new games' revenue",
+        "year": "2023",
+        "market": "",
+        "source": "Sensor Tower VGI, Global PC Games Market Report 2024 (January 2024)",
+        "link": "https://app.sensortower.com/vgi/assets/reports/VGI_Global_PC_Games_Market_Report_2024.pdf",
+        "source_slug": "sensor-tower-vgi"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Console reaches 1,400 on Joost van Dreunen's index in 2023, the year Microsoft completed its purchase of Activision Blizzard, up from a low of 858 in 2016. It reads 1,304 in 2025.",
+        "card_text": "Console publishing is at its most concentrated since 2008",
+        "year": "2023",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Embracer Group announces it will separate into three listed companies: Asmodee Group, Coffee Stain & Friends and Middle-earth Enterprises & Friends.",
+        "card_text": "Embracer says it will split into three companies",
+        "year": "2024",
+        "market": "",
+        "source": "Embracer Group (22 April 2024)",
+        "link": "https://embracer.com/releases/embracer-group-announces-its-intention-to-transform-into-three-standalone-publicly-listed-entities-at-nasdaq-stockholm/",
+        "source_slug": "embracer-group"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Tencent completes a €1.16 billion cash investment in Vantage Studios, the Ubisoft subsidiary built around Assassin's Creed, Far Cry and Rainbow Six, for a 26.32% economic interest.",
+        "card_text": "Tencent buys a quarter of Ubisoft's biggest games",
+        "year": "2025",
+        "market": "",
+        "source": "Ubisoft Entertainment (21 November 2025)",
+        "link": "https://staticctf.ubisoft.com/8aefmxkxpxwl/75tVaQDaf9A5X8N97roq4K/5fc21239bb19bfc7ee1a8599a216e1fc/Closing_press_release_21.11.25_EN.pdf",
+        "source_slug": "ubisoft-entertainment-ir"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Chinese firms took 52% of the ten largest publishers' revenue in 2025, up from 8% in 2010, while US firms fell from 37% to 28% and Japanese firms from 44% to 11%. Tencent alone took 19% of all publishing revenue.",
+        "card_text": "Chinese companies earn half of what the ten largest make",
+        "year": "2025",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Matthew Ball, writing in April 2026 as an outside analyst, finds that the market realized by game makers outside China grew by $1 billion, or 0.9%, from 2020 to 2025, while the whole market grew by $24 billion. The rest went to Chinese players and publishers, console platform subscriptions and Roblox.",
+        "card_text": "Ball: game makers outside China got almost none of the growth",
+        "year": "2025",
+        "market": "",
+        "source": "Epyllion, Matthew Ball, The State of Video Gaming in 2026 (25 April 2026)",
+        "link": "https://www.matthewball.co/s/Gaming-2026_v425-COMPRESSED.pdf",
+        "source_slug": "matthew-ball-essays"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Sensor Tower estimates that big-budget franchises earned $3.98 billion on Steam in 2025, up from $3.13 billion in 2024. Mid-sized franchises grew to $1.23 billion, and indie franchises stayed flat at $0.64 billion.",
+        "card_text": "Big-budget games earn more on Steam, and indie games stay flat",
+        "year": "2025",
+        "market": "",
+        "source": "GameDev Reports, Dmitriy Byshonkov, relaying Sensor Tower (30 September 2026)",
+        "link": "https://gamedevreports.substack.com/p/sensor-tower-the-premium-pcconsole",
+        "source_slug": "gamedev-reports"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Xbox names the analyst Matthew Ball, whose report this page draws on, as its chief strategy officer on 20 May 2026. The report dates from April 2026, when he was still an outside analyst. From this point his public comments are an Xbox executive's.",
+        "card_text": "Xbox hires Matthew Ball as chief strategy officer",
+        "year": "2026",
+        "market": "",
+        "source": "Kotaku, Ethan Gach (20 May 2026)",
+        "link": "https://kotaku.com/xbox-taps-everyones-favorite-game-industry-chart-guy-to-lead-strategy-and-save-its-console-2000697952",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Asha Sharma, who runs Xbox, tells staff that four studios will leave Xbox and that \"it is neither possible nor desirable to own every great independent studio.\" In a typical year, she writes, \"we lost 64 cents for every dollar we invested.\"",
+        "card_text": "Xbox says owning studios lost it money",
+        "year": "2026",
+        "market": "",
+        "source": "Xbox Wire, Asha Sharma (6 July 2026)",
+        "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+        "source_slug": "xbox-wire"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Since 2010 the ten largest publishers' combined revenue rose 3.7 times, the five largest 4.2 times, and the single largest 7.4 times, from $4.5 billion to Tencent's $33.6 billion.",
+        "card_text": "The bigger the company, the faster it grew",
+        "year": "2025",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Most of the ten largest in 2025 run platforms or sit inside larger conglomerates, Joost van Dreunen finds. Only Take-Two and Century Huatong are companies that make nothing but games.",
+        "card_text": "The largest game companies run platforms",
+        "year": "2025",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "The five largest console publishers take 74%, up from 62% in 2020, on Joost van Dreunen's count. In console publishing, he writes, \"there is almost no middle left.\"",
+        "card_text": "Ten publishers take 94% of console revenue",
+        "year": "2025",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Undo Microsoft's purchase of Activision Blizzard and Take-Two's of Zynga, Joost van Dreunen calculates, and the industry's 2025 index reads 539 instead of 567. The largest firms outgrowing everyone else did the rest.",
+        "card_text": "Mergers did a sixth of it",
+        "year": "2025",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Newzoo counted the 25 largest public games companies taking 80% of global games revenue in 2018, with the ten largest growing 19% that year and the next fifteen 6%. Joost van Dreunen's panel has the ten largest losing share through those years. Newzoo measures against its estimate of the whole market, so the two are not like for like.",
+        "card_text": "Newzoo's rankings show no dip before 2020",
+        "year": "2018",
+        "market": "",
+        "source": "PocketGamer.biz, Alex Forbes-Calvin, relaying Newzoo (18 April 2019)",
+        "link": "https://www.pocketgamer.biz/newzoo-tencent-responsible-for-15-of-2018s-global-games-revenue/",
+        "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Video Game Insights estimates that indie games took 48% of Steam's revenue from game sales in the first nine months of 2024, against 28% in 2020 and 24% in 2018. Its definition of indie includes Black Myth: Wukong and Palworld, and it leaves out spending inside games.",
+        "card_text": "Indie games doubled their share of Steam",
+        "year": "2024",
+        "market": "",
+        "source": "Sensor Tower VGI, Global Indie Games Market Report 2024 (October 2024)",
+        "link": "https://app.sensortower.com/vgi/assets/reports/VGI_Global_Indie_Games_Market_Report_2024.pdf",
+        "source_slug": "sensor-tower-vgi"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Newzoo finds that in Western markets, games ranked 21st or lower took 56% of PC revenue in 2025, up from 48% in 2022. Its analyst Tianyi Gu says that \"doesn't make the market unconcentrated, but it does make games below the very top more commercially relevant than before.\" Newzoo counts games, not the companies that own them.",
+        "card_text": "On PC, games outside the top 20 now earn most of the money",
+        "year": "2025",
+        "market": "",
+        "source": "PC Gamer, Jody Macgregor, relaying Newzoo (16 April 2026)",
+        "link": "https://www.pcgamer.com/gaming-industry/analysts-say-pc-gaming-is-now-the-one-platform-where-more-than-50-percent-of-revenue-comes-from-games-outside-the-top-20/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Joost van Dreunen's 2025 figures treat the Saudi Public Investment Fund's purchase of EA as complete, though it closed in 2026. 2025 was also the year the Switch 2 launched, which he notes historically spikes Nintendo's revenue.",
+        "card_text": "The 2025 figure counts a buyout that had not closed",
+        "year": "2025",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "April 2027, when Newzoo usually publishes its PC and console report. It will show whether games outside the top 20 keep gaining on PC after taking 56% of revenue in Western markets in 2025.",
+        "card_text": "Newzoo's next PC and console report",
+        "year": "2027",
+        "market": "",
+        "source": "PC Gamer, Jody Macgregor, relaying Newzoo (16 April 2026)",
+        "link": "https://www.pcgamer.com/gaming-industry/analysts-say-pc-gaming-is-now-the-one-platform-where-more-than-50-percent-of-revenue-comes-from-games-outside-the-top-20/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Calendar year 2027, when Embracer plans to list Fellowship Entertainment on Nasdaq Stockholm, separating the group into two listed companies.",
+        "card_text": "Embracer lists Fellowship Entertainment",
+        "year": "2027",
+        "market": "",
+        "source": "Embracer Group, Fellowship Entertainment spin-off (read 1 October 2026)",
+        "link": "https://www.embracer.com/investors/fellowship-entertainment-spin-off/",
+        "source_slug": "embracer-group"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Joost van Dreunen predicts that the ten largest publishers, at 56% of revenue in 2025, will take two-thirds of it by 2030. He expects AI to let more people make games, but not more of them to make money.",
+        "card_text": "Whether the ten largest reach two-thirds by 2030",
+        "year": "2031",
+        "market": "",
+        "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
+        "link": "https://superjoost.substack.com/p/oligopoly-go",
+        "source_slug": "superjoost-playlist"
       }
     ]
   }
