@@ -8643,18 +8643,18 @@
     "markets": [
       "Global"
     ],
-    "what_it_is": "Caladan's review of the sector estimates that investment in blockchain games fell from $4 billion in 2022 to about $0.36 billion in 2025, and cites a count finding 93% of more than 3,200 projects dead. DappRadar, which tracked the sector, closed in November 2025. The metaverse boom of the same years has shrunk too: Meta cut about 1,500 metaverse jobs in January 2026 and is turning Horizon Worlds into a phone app. The clearest exception is Nexon's MapleStory Universe, which reports a working token economy inside an established game.",
+    "what_it_is": "DappRadar, the sector's main tracker until it closed in November 2025, counted $7.6 billion invested in blockchain gaming and metaverse projects in 2022, $1.8 billion in 2024 and $293 million in the first nine months of 2025. ChainPlay classed 93% of 3,279 blockchain game projects as dead in November 2024. Meta cut about 1,500 metaverse jobs in January 2026 and is turning Horizon Worlds into a phone app. The clearest exception is Nexon's MapleStory Universe, which reports a working token economy inside an established game.",
     "why_it_matters": "In 2021 and 2022 blockchain games, where items trade for real money, were sold as the future of games, alongside the metaverse. Most of it failed. Confident coverage from those years is still online. Check the outcome before citing it.",
     "further_reading": [
       {
-        "source": "$12 Billion In, 93% Dead: The Real Story of Web3 Gaming",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source": "State of GameFi 2024",
+        "link": "https://chainplay.gg/blog/state-gamefi-2024/",
         "type": "Research",
         "format": ""
       },
       {
-        "source": "More than 90% of Web3 games failed after $15 billion boom",
-        "link": "https://www.coindesk.com/markets/2026/04/23/more-than-90-of-web3-games-failed-after-usd15-billion-boom-as-gamers-never-showed-up-caladan",
+        "source": "The Great Reset: Your 2023 Guide to Web3 Games",
+        "link": "https://naavik.co/deep-dives/the-great-reset-2023/",
         "type": "Analysis",
         "format": ""
       },
@@ -8665,24 +8665,17 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Matthew Ball (who wrote the book and the post-mortems), Naavik, Digiday's Gaming Advertising coverage for brand-metaverse residue",
     "status_label": "",
     "measure_label": "",
     "row_label": "",
-    "series_label": "Money invested in blockchain games worldwide, $ billions, Caladan's estimates",
-    "series_note": "Investment peaked at $4 billion in 2022 and fell to about $0.36 billion in 2025. Other trackers' totals are higher, and show the same rise and fall.",
+    "series_label": "Money invested in blockchain gaming and metaverse projects worldwide, $ billions, DappRadar's count",
+    "series_note": "Investment peaked at $7.6 billion in 2022 and fell to $1.8 billion in 2024. DappRadar counted $293 million in the first nine months of 2025.",
     "series_type": "",
     "series_mark": "",
     "series_target": "",
     "timeline_heads": true,
-    "what_it_is_text": [
-      {
-        "text": "Caladan's review of the sector",
-        "href": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/"
-      },
-      " estimates that investment in blockchain games fell from $4 billion in 2022 to about $0.36 billion in 2025, and cites a count finding 93% of more than 3,200 projects dead. DappRadar, which tracked the sector, closed in November 2025. The metaverse boom of the same years has shrunk too: Meta cut about 1,500 metaverse jobs in January 2026 and is turning Horizon Worlds into a phone app. The clearest exception is Nexon's MapleStory Universe, which reports a working token economy inside an established game."
-    ],
     "series_format": "${n} billion",
     "claims": [
       {
@@ -8699,68 +8692,69 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2020, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan's text gives $70 million.",
-        "card_text": "0.07",
+        "claim": "Money invested in blockchain gaming and metaverse projects in 2020, as DappRadar's report on 2022 counts it. The count covers infrastructure, guilds and investment funds as well as the games themselves.",
+        "card_text": "0.191",
         "year": "2020",
         "market": "",
-        "source": "Caladan, Derek Lim (22 April 2026)",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source": "DappRadar's yearly games reports",
+        "link": "https://dappradar.com/blog/dappradar-x-bga-games-report-2022-overview",
         "source_slug": ""
       },
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2021, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart.",
-        "card_text": "3.5",
+        "claim": "Money invested in blockchain gaming and metaverse projects in 2021, from the same report.",
+        "card_text": "3.7",
         "year": "2021",
         "market": "",
-        "source": "Caladan, Derek Lim (22 April 2026)",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source": "DappRadar's yearly games reports",
+        "link": "https://dappradar.com/blog/dappradar-x-bga-games-report-2022-overview",
         "source_slug": ""
       },
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2022, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan calls this the peak. It leaves out a $2 billion raise by Epic Games that had nothing to do with blockchains.",
-        "card_text": "4",
+        "claim": "Money invested in blockchain gaming and metaverse projects in 2022, the peak. Infrastructure took 33.5% of it, and games and metaverse worlds themselves 27.3%.",
+        "card_text": "7.6",
         "year": "2022",
         "market": "",
-        "source": "Caladan, Derek Lim (22 April 2026)",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source": "DappRadar's yearly games reports",
+        "link": "https://dappradar.com/blog/dappradar-x-bga-games-report-2022-overview",
         "source_slug": ""
       },
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2023, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart.",
-        "card_text": "1.25",
+        "claim": "Money invested in Web3 gaming and metaverse projects in 2023, across 163 deals, a 62% drop on the year before.",
+        "card_text": "2.9",
         "year": "2023",
         "market": "",
-        "source": "Caladan, Derek Lim (22 April 2026)",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source": "DappRadar's yearly games reports",
+        "link": "https://dappradar.com/blog/dappradar-games-report-2023-overview",
         "source_slug": ""
       },
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2024, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. The figure is a label on Caladan's chart. DappRadar, which counted more widely, reported $1.8 billion for the same year.",
-        "card_text": "1.3",
+        "claim": "Money invested in blockchain gaming and metaverse projects in 2024, down 38% on 2023. Investment firms took 58% of it.",
+        "card_text": "1.8",
         "year": "2024",
         "market": "",
-        "source": "Caladan, Derek Lim (22 April 2026)",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source": "DappRadar's yearly games reports",
+        "link": "https://dappradar.com/blog/dappradar-games-report-2024-overview",
         "source_slug": ""
       },
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money invested in blockchain games in 2025, on Caladan's estimate. Caladan compiled the series from several trackers and used the midpoint where they differed. Caladan's text gives roughly $360 million. DappRadar, the main tracker, closed in November 2025, so no full count of the year exists.",
-        "card_text": "0.36",
+        "claim": "Money invested in blockchain gaming in the first nine months of 2025, so not a full year. DappRadar counted $129 million of it in the third quarter.",
+        "card_text": "0.293",
         "year": "2025",
         "market": "",
-        "source": "Caladan, Derek Lim (22 April 2026)",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
-        "source_slug": ""
+        "source": "DappRadar's yearly games reports",
+        "link": "https://dappradar.com/blog/state-of-blockchain-gaming-q3-2025",
+        "source_slug": "",
+        "partial": true
       },
       {
         "section": "Timeline",
@@ -8798,23 +8792,23 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "In the peak year, games receive 62.5% of all venture investment in web3, the industry's name for businesses built on blockchains. Within three years their share falls to single digits.",
-        "card_text": "Games take most of the money going into crypto start-ups",
-        "year": "2022",
-        "market": "",
-        "source": "CoinDesk, Sam Reynolds, on Caladan (23 April 2026)",
-        "link": "https://www.coindesk.com/markets/2026/04/23/more-than-90-of-web3-games-failed-after-usd15-billion-boom-as-gamers-never-showed-up-caladan",
-        "source_slug": ""
-      },
-      {
-        "section": "Timeline",
-        "kind": "Event",
         "claim": "DappRadar, the sector's main tracker, counts 7.4 million wallets a day interacting with blockchain games at the end of 2024, up 421% in a year. Investment falls 38% to $1.8 billion. A wallet is an account, not a person, and one player or one automated program can run many.",
         "card_text": "Activity rises while investment falls",
         "year": "2024",
         "market": "",
         "source": "GamesBeat, Dean Takahashi, on DappRadar (21 January 2025)",
         "link": "https://gamesbeat.com/blockchain-gaming-grows-to-7-4m-active-wallets-in-2024-up-421-dappradar/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "ChainPlay, a site that lists blockchain games, checks the 3,279 projects in its database in November 2024 and classes 93% of them as dead. It also finds that 58% of the venture firms that invested in them have lost between 2.5% and 99%.",
+        "card_text": "A count finds 93% of blockchain games dead",
+        "year": "2024",
+        "market": "",
+        "source": "ChainPlay, State of GameFi 2024 (3 December 2024)",
+        "link": "https://chainplay.gg/blog/state-gamefi-2024/",
         "source_slug": ""
       },
       {
@@ -8864,17 +8858,6 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "The trading firm Caladan publishes a review of the sector. It cites a count by ChainPlay of more than 3,200 blockchain game projects, of which 93% are effectively dead. Caladan puts the money invested at $12 billion to $15 billion. Its open report does not say how dead is defined.",
-        "card_text": "A count finds 93% of blockchain games dead",
-        "year": "2026",
-        "market": "",
-        "source": "Caladan, Derek Lim (22 April 2026)",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
-        "source_slug": ""
-      },
-      {
-        "section": "Timeline",
-        "kind": "Event",
         "claim": "NEXPACE, a Nexon subsidiary, reports that MapleStory Universe took in 30.98 million of its NXPC tokens in the first half of 2026, 95% of it from core gameplay, with 855,500 wallets created since launch. The report gives no value in dollars.",
         "card_text": "One big publisher's token economy is still running",
         "year": "2026",
@@ -8886,45 +8869,45 @@
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "CoinDesk, summarizing Caladan, reports that games went from 62.5% of web3 venture money in 2022 to single digits by 2025, as investors moved to artificial intelligence and other parts of crypto. Caladan adds that 58% of the venture firms that backed the sector have taken losses.",
+        "claim": "Investment in crypto shifted toward real-world assets and artificial intelligence, DappRadar reported in April 2025, a trend that continued into the first quarter of that year.",
         "card_text": "The investors moved on to AI",
-        "year": "2026",
+        "year": "2025",
         "market": "",
-        "source": "CoinDesk, Sam Reynolds, on Caladan (23 April 2026)",
-        "link": "https://www.coindesk.com/markets/2026/04/23/more-than-90-of-web3-games-failed-after-usd15-billion-boom-as-gamers-never-showed-up-caladan",
+        "source": "DappRadar, Sara Gherghelas (10 April 2025)",
+        "link": "https://dappradar.com/blog/state-of-blockchain-gaming-in-q1-2025",
         "source_slug": ""
       },
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Caladan's diagnosis, as CoinDesk puts it, is a structural mismatch between a model built around financial incentives and an audience that wanted to be entertained. Studios raised money before they had a game, and token payouts depended on new buyers arriving.",
+        "claim": "A focus on what players could earn took precedence over fun and sustainability, Naavik and Delphi Digital wrote in January 2023, and it made a bubble that lasted only as long as new players put new money in.",
         "card_text": "The model was built for earning, and players wanted entertainment",
-        "year": "2026",
+        "year": "2023",
         "market": "",
-        "source": "CoinDesk, Sam Reynolds, on Caladan (23 April 2026)",
-        "link": "https://www.coindesk.com/markets/2026/04/23/more-than-90-of-web3-games-failed-after-usd15-billion-boom-as-gamers-never-showed-up-caladan",
-        "source_slug": ""
+        "source": "Naavik, with Delphi Digital (27 January 2023)",
+        "link": "https://naavik.co/deep-dives/the-great-reset-2023/",
+        "source_slug": "naavik"
       },
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Caladan finds that the projects still running put the game first and keep the blockchain out of the player's sight. None of them, it adds, has achieved mainstream scale.",
-        "card_text": "The survivors hide the blockchain",
-        "year": "2026",
+        "claim": "Players will be skeptical, Naavik and Delphi Digital argued after the crash, so the blockchain games that come next need to be fun first and deliver on their promises.",
+        "card_text": "The next games have to be fun first",
+        "year": "2023",
         "market": "",
-        "source": "Caladan, Derek Lim (22 April 2026)",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
-        "source_slug": ""
+        "source": "Naavik, with Delphi Digital (27 January 2023)",
+        "link": "https://naavik.co/deep-dives/the-great-reset-2023/",
+        "source_slug": "naavik"
       },
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Caladan is a trading firm, not a data company, and its chart says so: the figures are midpoints, and another tracker's method gives totals about 3.5 times higher. DappRadar's own figure for 2024 was $1.8 billion, against Caladan's $1.3 billion. Both counts peak in 2022 and collapse afterwards, but they disagree about 2024 as well as about the level: Caladan has investment edging up that year, from $1.25 billion to $1.3 billion, where DappRadar had it falling 38%.",
-        "card_text": "The chart is one firm's estimate, and other counts are much higher",
-        "year": "2026",
+        "claim": "DappRadar's count takes in infrastructure, guilds and the investment firms that fund the sector as well as the games themselves. In 2024 investment firms took 58% of the total, so most of the money on the chart did not go to studios making games.",
+        "card_text": "DappRadar's totals count more than games",
+        "year": "2025",
         "market": "",
-        "source": "GamesBeat, Dean Takahashi, on DappRadar (21 January 2025)",
-        "link": "https://gamesbeat.com/blockchain-gaming-grows-to-7-4m-active-wallets-in-2024-up-421-dappradar/",
+        "source": "DappRadar, Sara Gherghelas (21 January 2025)",
+        "link": "https://dappradar.com/blog/dappradar-games-report-2024-overview",
         "source_slug": ""
       },
       {
@@ -8941,23 +8924,23 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "The 93% figure is a count by ChainPlay, relayed by Caladan. Neither Caladan's post nor CoinDesk's report of it defines what makes a project dead, and the full method sits behind a sign-up form.",
-        "card_text": "Nobody says what 'dead' means",
-        "year": "2026",
+        "claim": "ChainPlay counts a project as dead if its token has fallen more than 90% from its peak or it has fewer than 100 daily users. Either is enough, so a game people still play counts as dead once its token has collapsed.",
+        "card_text": "'Dead' can mean a crashed token",
+        "year": "2024",
         "market": "",
-        "source": "Caladan, Derek Lim (22 April 2026)",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source": "ChainPlay, State of GameFi 2024 (3 December 2024)",
+        "link": "https://chainplay.gg/blog/state-gamefi-2024/",
         "source_slug": ""
       },
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "By the end of 2026, the expected close of Animoca Brands' listing on the Nasdaq stock exchange through a merger. Caladan cites a target valuation of $5 billion to $10 billion.",
-        "card_text": "Whether a big blockchain games company can list in the US",
+        "claim": "A new plan from Animoca Brands to relist on a major public exchange, which it says it remains fully committed to, after it suspended its reverse merger with Currenc Group on 22 September 2026.",
+        "card_text": "Whether Animoca Brands finds another way to list",
         "year": "2026",
         "market": "",
-        "source": "Caladan, Derek Lim (22 April 2026)",
-        "link": "https://caladan.xyz/12-billion-in-93-percent-dead-web3-gaming/",
+        "source": "Animoca Brands (22 September 2026)",
+        "link": "https://www.animocabrands.com/announcement/animoca-brands-and-currenc-group-suspend-merger-discussions",
         "source_slug": ""
       },
       {
@@ -11218,7 +11201,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Game Developer's business desk, GameDiscoverCo",
     "status_label": "",
     "measure_label": "",
@@ -11280,12 +11263,12 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Private investment in games companies in 2025, in billions of dollars, down 45.8% in a year, from Aream & Co.'s analysis of InvestGame's data as WN Hub reported it.",
-        "card_text": "2.6",
+        "claim": "Private investment in games companies in 2025, down 45.8% in a year, across 450 deals: our sum of the four quarters on page 8 of Aream & Co.'s Q4 2025 update, which charts InvestGame's data.",
+        "card_text": "~2.6",
         "year": "2025",
         "market": "",
         "source": "InvestGame's deal data, as reported for each year",
-        "link": "https://wnhub.io/news/analytics/item-49809",
+        "link": "https://investgame.net/wp-content/uploads/2026/01/2026-01-13-Q4_2025_Aream_amp_Co_Video_Game_Market_Report.pdf",
         "source_slug": "",
         "series": "Private investment",
         "period": "2025"
@@ -11293,12 +11276,12 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money spent buying games companies in 2025, in billions of dollars. The $55 billion sale of Electronic Arts is most of it.",
-        "card_text": "65.8",
+        "claim": "Money spent buying games companies in 2025: our sum of the four quarters on page 8 of Aream & Co.'s Q4 2025 update. The $55 billion sale of Electronic Arts, announced rather than closed, is most of it.",
+        "card_text": "~65.8",
         "year": "2025",
         "market": "",
         "source": "InvestGame's deal data, as reported for each year",
-        "link": "https://wnhub.io/news/analytics/item-49809",
+        "link": "https://investgame.net/wp-content/uploads/2026/01/2026-01-13-Q4_2025_Aream_amp_Co_Video_Game_Market_Report.pdf",
         "source_slug": "",
         "series": "Buying whole companies",
         "period": "2025"
@@ -11306,12 +11289,12 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "Money games companies raised on stock markets in 2025, in billions of dollars, up 12% in a year.",
-        "card_text": "11.2",
+        "claim": "Money games companies raised on stock markets in 2025, up 12% in a year: our sum of the four quarters on page 8 of Aream & Co.'s Q4 2025 update.",
+        "card_text": "~11.2",
         "year": "2025",
         "market": "",
         "source": "InvestGame's deal data, as reported for each year",
-        "link": "https://wnhub.io/news/analytics/item-49809",
+        "link": "https://investgame.net/wp-content/uploads/2026/01/2026-01-13-Q4_2025_Aream_amp_Co_Video_Game_Market_Report.pdf",
         "source_slug": "",
         "series": "Raised on stock markets",
         "period": "2025"
@@ -11363,12 +11346,12 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "Aream & Co.'s analysis of InvestGame's 2025 data: private investment falls 45.8% to $2.6 billion across 450 deals, the lowest in five years. Meanwhile, spending on buying companies reaches $65.8 billion, led by the $55 billion sale of Electronic Arts. Private investment in the fourth quarter is $0.9 billion, up 29% from a year earlier, mostly in gaming technology and Turkish mobile studios.",
-        "card_text": "The lowest year in five, beside a record buyout",
+        "claim": "Aream & Co.'s quarterly figures from InvestGame's data add up to $2.6 billion of private investment in 2025 across 450 deals, down 45.8%, beside $65.8 billion spent buying companies, $55 billion of it the announced sale of Electronic Arts. Private investment in the fourth quarter is $0.9 billion, up 29% from a year earlier, mostly in gaming technology and Turkish mobile studios.",
+        "card_text": "Private investment nearly halves, beside a record buyout",
         "year": "2025",
         "market": "",
-        "source": "WN Hub, on Aream & Co.'s 2025 report from InvestGame's data (15 January 2026)",
-        "link": "https://wnhub.io/news/analytics/item-49809",
+        "source": "Our calculation from Aream & Co.'s figures (13 January 2026)",
+        "link": "https://investgame.net/wp-content/uploads/2026/01/2026-01-13-Q4_2025_Aream_amp_Co_Video_Game_Market_Report.pdf",
         "source_slug": ""
       },
       {
@@ -11495,12 +11478,12 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Money has not left games. It is buying companies. Deals in 2025 totaled nearly $80 billion, 3.3 times 2024. That includes $65.8 billion spent buying companies, led by the $55 billion sale of Electronic Arts, and $11.2 billion raised on stock markets, up 12%. The money is going to established companies rather than new studios. That is a different problem from investors abandoning games.",
+        "claim": "Money has not left games. It is buying companies. Aream & Co.'s quarterly figures add up to about $80 billion of deals in 2025, 3.3 times 2024. That includes $65.8 billion spent buying companies, led by the $55 billion sale of Electronic Arts, and $11.2 billion raised on stock markets, up 12%. The money is going to established companies rather than new studios. That is a different problem from investors abandoning games.",
         "card_text": "Investors are still spending, but on buying whole companies",
         "year": "2026",
         "market": "",
-        "source": "WN Hub, on Aream & Co.'s 2025 report from InvestGame's data (15 January 2026)",
-        "link": "https://wnhub.io/news/analytics/item-49809",
+        "source": "Our calculation from Aream & Co.'s figures (13 January 2026)",
+        "link": "https://investgame.net/wp-content/uploads/2026/01/2026-01-13-Q4_2025_Aream_amp_Co_Video_Game_Market_Report.pdf",
         "source_slug": ""
       },
       {
@@ -11856,7 +11839,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Sensor Tower State of Mobile (annual), Naavik, Deconstructor of Fun, PocketGamer.biz monthly charts, AppMagic",
     "status_label": "",
     "measure_label": "",
@@ -12251,13 +12234,13 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Sensor Tower has published three different totals for 2023: $107.3 billion, $53 billion and $78.6 billion, on three different bases. Its 2024 download figure also moved between editions. The chart uses one report's series for that reason, and any line drawn across several years is one edition's view.",
+        "claim": "Sensor Tower put players' 2023 spending in mobile games at $107.3 billion in February 2024. Its later reports count only Apple's App Store and Google Play, and give $76.7 billion and then $78.6 billion for the same year. The chart uses one report's series for that reason, and any line drawn across several years is one edition's view.",
         "card_text": "Sensor Tower's own figures change between reports",
         "year": "2024",
         "market": "",
-        "source": "WN Hub (9 April 2024)",
-        "link": "https://wnhub.io/news/analytics/item-43256",
-        "source_slug": ""
+        "source": "Sensor Tower, Donny Kristianto (February 2024)",
+        "link": "https://sensortower.com/blog/state-of-mobile-gaming-2024",
+        "source_slug": "sensor-tower"
       },
       {
         "section": "Objections",

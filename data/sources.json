@@ -222,7 +222,7 @@
     "group": "Data",
     "medium": "Data tool",
     "format": "Analytics platform",
-    "what_it_lets_you_find_out": "Platform/language/country-filtered streamer and game rankings. Covers SOOP Korea and Chzzk, which Western tools miss. Language filter ≠ country filter, so know which you are using and why. Short public history windows on the free tier PRO per-platform subscriptions and an Enterprise API.",
+    "what_it_lets_you_find_out": "Platform/language/country-filtered streamer and game rankings. Covers SOOP Korea and Chzzk, which Western tools miss. Language filter ≠ country filter, so know which you are using and why. Short public history windows on the free tier PRO per-platform subscriptions and an Enterprise API. Its quarterly livestreaming reports are free articles.",
     "markets": [
       "Global"
     ],
@@ -548,7 +548,7 @@
     "group": "Data",
     "medium": "Research firm",
     "format": "Market research firm",
-    "what_it_lets_you_find_out": "The Gamer Motivation Profile, an opt-in survey, and the free blog and reports built on it: an age report from 177,410 gamers aged 13 to 74 showing how motivations, genres and named games shift with age, plus per-game audience profiles. Self-selected respondents rather than a panel, so shares are indicative. Free findings, paid analytics.",
+    "what_it_lets_you_find_out": "The Gamer Motivation Profile, an opt-in survey, and the free blog built on it: an age report from 177,410 gamers aged 13 to 74 showing how motivations, genres and named games shift with age, plus per-game audience profiles. Self-selected respondents rather than a panel, so shares are indicative. Free blog, model reference and sample reports. The reports themselves are paid, The Evolution of Play at $3,250.",
     "markets": [
       "Global"
     ],
@@ -646,7 +646,7 @@
     "group": "Data",
     "medium": "Data tool",
     "format": "Creator tracking",
-    "what_it_lets_you_find_out": "Tournament and event viewership showing which creators drive event audiences. Same data family as Streams Charts. Esports-event lens, not general creator ranking",
+    "what_it_lets_you_find_out": "Tournament and event viewership showing which creators drive event audiences. Same data family as Streams Charts. Esports-event lens, not general creator ranking. Its yearly reports are free articles, and the PRO plan is paid.",
     "markets": [
       "Global"
     ],
@@ -1156,7 +1156,7 @@
     "group": "Data",
     "medium": "Report or document",
     "format": "Industry report",
-    "what_it_lets_you_find_out": "The reference consumer study for Brazil: who plays, on what, gender split, platform preference, attitudes (AI, digital ownership). Also extends to LatAm. Produced by SX Group / Go Gamers with Blend New Research and ESPM, a commercial consultancy, not an official statistic. Self-reported survey data. The free tier is a teaser cut Free trend report, full dataset paid. Some English materials.",
+    "what_it_lets_you_find_out": "The reference consumer study for Brazil: who plays, on what, gender split, platform preference, attitudes (AI, digital ownership). Also extends to LatAm. Produced by SX Group / Go Gamers with Blend New Research and ESPM, a commercial consultancy, not an official statistic. Self-reported survey data. The free layer is a trend report cut from the study, behind a form asking for name, phone, company and email. The full data is sold as dashboards from R$2,290 a month. Some English materials.",
     "markets": [
       "BR"
     ],
@@ -1177,11 +1177,11 @@
   },
   {
     "slug": "lumikai-state-of-india-interactive-media-and-gaming-report",
-    "name": "Lumikai: State of India Interactive Media & Gaming Report",
+    "name": "Lumikai: State of India Interactive Media Report",
     "group": "Data",
     "medium": "Report or document",
     "format": "Industry report",
-    "what_it_lets_you_find_out": "The reference sizing for Indian gaming: gamer base (555M in CY25), revenue split, payer conversion, and the clearest data on the post-RMG-ban reset (+17% ex-RMG growth). Published by a gaming VC with a thesis to promote. Methodology blends third-party analytics, a ~3K-user survey and proprietary data. The fiscal/calendar-year basis has shifted between editions",
+    "what_it_lets_you_find_out": "The reference sizing for Indian gaming: gamer base (555M in CY25), revenue split, payer conversion, and the clearest data on the post-RMG-ban reset (+17% ex-RMG growth). Published by a gaming VC with a thesis to promote. Methodology blends third-party analytics, a ~3K-user survey and proprietary data. The fiscal/calendar-year basis has shifted between editions, and the 2025 edition, the fifth, drops Gaming from its title. Free download.",
     "markets": [
       "IN"
     ],
@@ -1189,7 +1189,7 @@
       "English"
     ],
     "cost": "Free",
-    "link": "https://www.lumikai.com/",
+    "link": "https://www.lumikai.com/post/india-s-interactive-media-economy-state-of-interactive-media-report-2025",
     "extra_links": [],
     "owner": "Lumikai Fund",
     "ownership_note": "Venture capital fund reporting on the market it invests in. Produced with Google.",
@@ -1521,7 +1521,7 @@
     "group": "Data",
     "medium": "Research firm",
     "format": "Market research firm",
-    "what_it_lets_you_find_out": "Player numbers and profile, parental-control behaviour, purchasing habits, plus market sizing with a stock-market chapter. The closest Poland has to an Australia-Plays-style consumer series, running since 2014. English coverage is partial.",
+    "what_it_lets_you_find_out": "Player numbers and profile, parental-control behaviour, purchasing habits, plus market sizing with a stock-market chapter. The closest Poland has to an Australia-Plays-style consumer series, running since 2014. English coverage is partial. The newest editions are Polish Gamers Research 2022 and the industry report of 2020, both free PDFs. KPT's own studies page is gone, so the link is the series' page at Polish Gamers.",
     "markets": [
       "PL"
     ],
@@ -1530,8 +1530,10 @@
       "Polish"
     ],
     "cost": "Free",
-    "link": "https://www.kpt.krakow.pl/en/support-for-the-games-sector/studies-in-the-video-games-sector/",
-    "extra_links": [],
+    "link": "https://polishgamers.com/pgr/",
+    "extra_links": [
+      "https://www.kpt.krakow.pl/app/uploads/2026/05/raport_2021_long_final_web.pdf"
+    ],
     "owner": "Kraków Technology Park (KPT)",
     "ownership_note": "Government-linked technology park with industry partners.",
     "beat": "",
@@ -1642,7 +1644,7 @@
     "group": "Data",
     "medium": "Research firm",
     "format": "Market research firm",
-    "what_it_lets_you_find_out": "The GPC report's official data partner. Monthly/quarterly market reports, segment studies (女性向, mini-games, AI). Distribution is WeChat-public-account-first, the single biggest access friction for outside researchers.",
+    "what_it_lets_you_find_out": "The GPC report's official data partner. Monthly/quarterly market reports, segment studies (女性向, mini-games, AI). Distribution is WeChat-public-account-first, the single biggest access friction for outside researchers: the full reports go to readers who follow its account 游戏产业报告 and add its enterprise WeChat. Its own site is gone, so the link is its column on Gelonghui, which mirrors the posts with their headline figures.",
     "markets": [
       "CN"
     ],
@@ -1650,9 +1652,9 @@
       "Chinese"
     ],
     "cost": "Free",
-    "link": "https://www.ocft.com/en/en_solution/en_gamma-platform/Gamma%20Data%20Platform/index.html",
+    "link": "https://m.gelonghui.com/column/345139",
     "extra_links": [],
-    "owner": "Independent (private data firm)",
+    "owner": "Gamma New Media & Culture Co. (北京伽马新媒文化传播有限公司)",
     "ownership_note": "",
     "beat": "",
     "where_they_post": "",
@@ -2017,6 +2019,32 @@
     "extra_links": [],
     "owner": "EY India, with FICCI (Federation of Indian Chambers of Commerce and Industry)",
     "ownership_note": "Written by a consultancy for a chamber whose members include the companies it measures.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "investgame",
+    "name": "InvestGame",
+    "group": "Data",
+    "medium": "Data tool",
+    "format": "Database",
+    "what_it_lets_you_find_out": "Games-industry deals since 2019: M&A, venture and private-equity rounds and public offerings, with date, size, buyer or investor and stated rationale, in a searchable database (about 6,000 deals and 15,000 companies in October 2026), a weekly digest by newsletter and Telegram, and annual and thematic deal reports. PocketGamer.biz, Game World Observer and GameDev Reports quote its yearly totals. | No published methodology: nothing defines a deal or says whether announced or closed deals count, so compare its totals with other trackers only with care. Some reports sit behind an email form, and the quarterly market updates are Aream & Co.'s, built on InvestGame data.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Freemium",
+    "link": "https://investgame.net/",
+    "extra_links": [
+      "https://investgame.net/news/category/report/"
+    ],
+    "owner": "InvestGame (Sergei Evdokimov, Anton Gorodetsky)",
+    "ownership_note": "Co-founder Sergei Evdokimov advises clients on gaming M&A and financing at Aream & Co., an investment bank that publishes the quarterly Gaming Market Update from InvestGame data and lists deals it advised. Several reports were made with partners in the market, among them $GDEV, PvX Partners and MY.GAMES.",
     "beat": "",
     "where_they_post": "",
     "year": "",
@@ -3234,7 +3262,7 @@
     "group": "Institutions",
     "medium": "Organisation",
     "format": "Industry association",
-    "what_it_lets_you_find_out": "Real Canadian Gamer Essential Facts plus the Nordicity industry impact report, 2025, which together form the national data baseline. Advocacy body of publishers with advocacy framing. Bilingual publications",
+    "what_it_lets_you_find_out": "Power of Play, the Canadian cut of a 12-country player survey (2025 edition), plus Canada's Video Game Industry, the industry impact report surveyed by Nordicity (2024 edition), which together form the national data baseline. Both are free PDFs. Advocacy body of publishers with advocacy framing. Bilingual publications",
     "markets": [
       "CA"
     ],
@@ -3259,7 +3287,7 @@
     "group": "Institutions",
     "medium": "Organisation",
     "format": "Industry association",
-    "what_it_lets_you_find_out": "The voice of Québec's 330+ studios includes sector data, tax-credit advocacy, DEI programs. Advocacy cooperative. An essential source on the world's densest games cluster per capita.",
+    "what_it_lets_you_find_out": "The voice of Québec's 330+ studios: tax-credit advocacy, DEI programs, and headline sector figures (jobs, companies, Québec ownership, economic return) on its industry page. Studies go to members, and no current study is open to download. Advocacy cooperative. An essential source on the world's densest games cluster per capita.",
     "markets": [
       "CA"
     ],
@@ -3407,7 +3435,7 @@
     "group": "Institutions",
     "medium": "Organisation",
     "format": "Industry association",
-    "what_it_lets_you_find_out": "The official China Games Industry Report. State-supervised industry body. Numbers are the canonical record + the official narrative. Full PDFs circulate via third-party report sites.",
+    "what_it_lets_you_find_out": "The official China Games Industry Report. State-supervised industry body. Numbers are the canonical record + the official narrative. The publisher posts only the abridged release of each report, which carries every headline figure.",
     "markets": [
       "CN"
     ],
@@ -4795,7 +4823,7 @@
     "group": "Institutions",
     "medium": "Report or document",
     "format": "Report or data series",
-    "what_it_lets_you_find_out": "Government data series on Mexican gaming audiences that synthesizes The CIU, Newzoo, Endeavor and its own audience framework, the closest thing to official gaming statistics.",
+    "what_it_lets_you_find_out": "Government data series on Mexican gaming audiences that synthesizes The CIU, Newzoo, Endeavor and its own audience framework, the closest thing to official gaming statistics. The Somos Audiencias site that carried the 2025 edition no longer answers, so the link is the regulator's list of studies, where the newest gaming report is the 2023 edition. The regulator's site now carries the name of the Comisión Reguladora de Telecomunicaciones.",
     "markets": [
       "MX"
     ],
@@ -4803,7 +4831,7 @@
       "Spanish"
     ],
     "cost": "Free",
-    "link": "https://somosaudiencias.ift.org.mx/archivos/1_Videojuegos_1S2025.pdf",
+    "link": "https://www.ift.org.mx/industria/umca/estudios-y-reportes-de-analisis-de-medios-y-contenidos-audiovisuales",
     "extra_links": [],
     "owner": "",
     "ownership_note": "",
