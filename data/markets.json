@@ -2861,7 +2861,7 @@
       "Shape": [
         {
           "kind": "Narrative",
-          "claim": "75.3 percent of the Brazilians aged 16 to 55 that Pesquisa Game Brasil surveyed in March 2026 play digital games, down from 82.8 percent in the 2025 edition. Women are 52.8 percent of players, and 44.1 percent prefer the phone, against 24 percent the console and 21.1 percent the PC.",
+          "claim": "75.3 percent of Brazilians aged 16 to 55 say they play, down from 82.8 percent a year earlier, and of those who play, 52.8 percent are women and 44.1 percent prefer the phone.",
           "card_text": "",
           "year": "2026",
           "source": "Pesquisa Game Brasil 2026, by SX Group and Go Gamers with Blend New Research and ESPM, reported by Meio & Mensagem, 9 April 2026, marketing trade press",
@@ -2869,7 +2869,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "Quote Pesquisa Game Brasil with its edition and sample, because it publishes no headcount and its sample and findings swing between editions. It heard 14,825 people in January 2023, about 6,282 in 2025 and 7,115 aged 16 to 55 in March 2026, and found men a majority of players in 2023 and women in 2022 and 2026.",
+          "claim": "Give this survey's edition and sample with any figure from it, because both swing from year to year, and women were the majority of players in 2022 and 2026 but men in 2023.",
           "card_text": "",
           "year": "2026",
           "source": "Go Gamers, Pesquisa Game Brasil 2023 release, survey publisher, with its 2022 release and press reports of the 2025 and 2026 editions",
@@ -2877,7 +2877,7 @@
         },
         {
           "kind": "Narrative",
-          "claim": "38 percent of internet users aged 10 and over played online in the previous three months in TIC Domicílios 2025, as in 2023 and 2024, 45 percent of men and 31 percent of women. Among those aged 10 to 15 the share fell from 89 to 80 percent, and among those 60 and over it rose from 9 to 15.",
+          "claim": "38 percent of internet users aged 10 and over played online in the past three months, unchanged since 2023, with the share down among children aged 10 to 15 and up among people over 60.",
           "card_text": "",
           "year": "2025",
           "source": "Cetic.br (NIC.br), TIC Domicílios 2025, table C7, national household survey, with the 2023 and 2024 editions' tables",
@@ -2885,7 +2885,7 @@
         },
         {
           "kind": "Narrative",
-          "claim": "Abragames' 2023 survey estimates 1,042 studios and 13,225 people working at them in 2022, 58 percent of the studios in the Southeast. 58 percent of developers sold abroad, mainly to the United States and Latin America, and 44 percent of studios name computers as the platform that earns them most.",
+          "claim": "Brazil had an estimated 1,042 studios employing 13,225 people in 2022, most of them in the Southeast, and 58 percent of them sold games abroad.",
           "card_text": "",
           "year": "2022",
           "source": "Abragames and ApexBrasil, Brazil Games Industry Fact Sheet 2023, trade body survey",
@@ -2893,7 +2893,7 @@
         },
         {
           "kind": "Research note",
-          "claim": "Do not read Abragames' studio chart as a growth series. Its 133, 375, 1,009 and 1,042 developers set the respondents of the 2014 and 2018 censuses beside the estimated totals of the 2022 and 2023 surveys, so the 177 percent growth since 2018 the 2023 report quotes compares one kind of count with the other.",
+          "claim": "Do not read the trade body's studio chart as a growth series, because it sets the census respondents of 2014 and 2018 beside the estimated totals of 2022 and 2023.",
           "card_text": "",
           "year": "2022",
           "source": "Abragames and ApexBrasil, 2023 Brazilian Gaming Industry Survey by GA Consulting, trade body survey",
@@ -2901,7 +2901,7 @@
         },
         {
           "kind": "Narrative",
-          "claim": "Wildlife Studios led Brazil's developers on both of the trade body's measures. Abragames' 2022 survey found it the revenue leader in 2015, 2018 and 2021 among Brazilian developers with games in AppMagic's 500 top-grossing apps, and names the ten largest by LinkedIn headcount as Wildlife, Afterverse, Aquiris, Fanatee, Puga, Sioux, Kokku, Gazeus, Pipa and Tapps.",
+          "claim": "Wildlife Studios earned the most of any Brazilian developer in 2015, 2018 and 2021, and had the largest staff, ahead of Afterverse, Aquiris, Fanatee and Puga.",
           "card_text": "",
           "year": "2022",
           "source": "Abragames and ApexBrasil, Pesquisa da Indústria Brasileira de Games 2022, by Homo Ludens, trade body survey",
@@ -2909,7 +2909,7 @@
         },
         {
           "kind": "Narrative",
-          "claim": "Epic Games has owned a Brazilian studio since 2023. AQUIRIS, the Porto Alegre developer of Horizon Chase and Wonderbox, announced on 19 April 2023 that it was joining Epic Games as Epic Games Brasil, Epic's first studio in Latin America, to make content within Fortnite.",
+          "claim": "Epic Games has owned a Brazilian studio since 2023, when Aquiris, the Porto Alegre maker of Horizon Chase, became Epic Games Brasil to make content for Fortnite.",
           "card_text": "",
           "year": "2023",
           "source": "AQUIRIS news, 19 April 2023, company announcement",
@@ -2917,7 +2917,7 @@
         },
         {
           "kind": "Narrative",
-          "claim": "Riot Games runs Brazil's League of Legends league itself, and restores it as an independent league in 2026: after a year inside the League of the Americas, the CBLOL (Campeonato Brasileiro de League of Legends) returns under its own name, with one place each at First Stand, the Mid-Season Invitational and the World Championship.",
+          "claim": "Riot Games runs Brazil's League of Legends league, the CBLOL, which returns as a league of its own in 2026 after a year inside the League of the Americas.",
           "card_text": "",
           "year": "2026",
           "source": "LoL Esports (Riot Games), 'O CBLOL está de volta!', 29 September 2025, league organiser announcement",
