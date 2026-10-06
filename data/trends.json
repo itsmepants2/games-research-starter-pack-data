@@ -7512,7 +7512,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Google lost its US case outright and must carry rival stores inside its own. The first arrived in August 2026. Apple won most of its US case but was found in contempt in 2025 for getting around the one order it lost, and the Supreme Court will hear its appeal. Apple's new European terms start on 1 October 2026, and eighteen organizations say they still break the law. Few players have switched. Epic's Steve Allison says its mobile store is far short of its target.",
+    "what_it_is": "Google lost its US case outright and must carry rival stores inside its own. The first arrived in August 2026. Apple won most of its US case but was found in contempt in 2025 for getting around the one order it lost, and the Supreme Court will hear its appeal. Apple's new European terms started on 1 October 2026, and eighteen organizations say they still break the law. Few players have switched. Epic's Steve Allison says its mobile store is far short of its target.",
     "why_it_matters": "Apple and Google long took up to 30% of spending in mobile games. Courts and lawmakers in the US, Europe, Japan and South Korea have ordered them to allow rival stores or outside payment, and both have answered with lower fees rather than none.",
     "further_reading": [
       {
@@ -7534,7 +7534,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "The Verge policy desk, MacRumors legal coverage, mobilegamer.biz, European Commission DMA enforcement updates, Japan Fair Trade Commission MSCA enforcement",
     "status_label": "Status",
     "measure_label": "What Apple and Google must allow",
@@ -7546,7 +7546,7 @@
     "series_target": "",
     "timeline_heads": true,
     "what_it_is_text": [
-      "Google lost its US case outright and must carry rival stores inside its own. The first arrived in August 2026. Apple won most of its US case but was found in contempt in 2025 for getting around the one order it lost, and the Supreme Court will hear its appeal. Apple's new European terms start on 1 October 2026, and eighteen organizations say they still break the law. Few players have switched. ",
+      "Google lost its US case outright and must carry rival stores inside its own. The first arrived in August 2026. Apple won most of its US case but was found in contempt in 2025 for getting around the one order it lost, and the Supreme Court will hear its appeal. Apple's new European terms started on 1 October 2026, and eighteen organizations say they still break the law. Few players have switched. ",
       {
         "text": "Epic's Steve Allison",
         "href": "https://mobilegamer.biz/epic-is-having-a-tougher-time-than-expected-breaking-apple-and-googles-store-duopoly/"
@@ -7569,7 +7569,7 @@
       {
         "section": "Figure",
         "kind": "Figure",
-        "claim": "What Apple takes in the European Union from a sale made through a link out, from 1 October 2026.",
+        "claim": "What Apple takes in the European Union from a sale made through a link out, since 1 October 2026.",
         "card_text": "15%",
         "year": "2026",
         "market": "",
@@ -7627,8 +7627,8 @@
       {
         "section": "Status",
         "kind": "Event",
-        "claim": "Apple must allow rival stores, downloads from the web, outside payment and links out. From 1 October 2026 it charges 15% on sales made through a link out and 5% on sales in apps distributed outside its store.",
-        "card_text": "Open, with new fees from October",
+        "claim": "Apple must allow rival stores, downloads from the web, outside payment and links out. Since 1 October 2026 it charges 15% on sales made through a link out and 5% on sales in apps distributed outside its store. Eighteen organizations told the Commission on 8 September that the terms still breach the law, and the Commission has not said whether it will close the case it opened in 2025.",
+        "card_text": "Open, with new fees in force",
         "year": "2026",
         "market": "EU",
         "source": "mobilegamer.biz, Vikki Blake (9 September 2026)",
@@ -7803,8 +7803,8 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "Apple replaces its European fees with a single schedule from 1 October 2026: 26% on sales through its own payment system, 20% through another payment system, 15% on sales made through a link out, and 5% on sales in apps distributed outside the App Store. Its charge of half a euro per install ends.",
-        "card_text": "Apple announces one set of terms for Europe",
+        "claim": "Apple announced on 18 August 2026 that it would replace its European fees with a single schedule, and the schedule took effect on 1 October 2026: 26% on sales through its own payment system, 20% through another payment system, 15% on sales made through a link out, and 5% on sales in apps distributed outside the App Store. Its charge of half a euro per install ended with it.",
+        "card_text": "Apple's one set of terms for Europe takes effect",
         "year": "2026",
         "market": "",
         "source": "Apple Newsroom (18 August 2026)",
@@ -7902,17 +7902,6 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "1 October 2026, when Apple's new European fees start. The Commission has not said whether it will formally close the case it opened in 2025, which the eighteen organizations have asked it to state.",
-        "card_text": "Apple's European terms take effect",
-        "year": "2026",
-        "market": "",
-        "source": "Apple Newsroom (18 August 2026)",
-        "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-        "source_slug": ""
-      },
-      {
-        "section": "What to watch",
-        "kind": "Event",
         "claim": "5 October 2026, when Liz Coll's collective claim on behalf of UK Google Play consumers goes to trial. The developers' claim settled for £260 million in September without any admission of liability. This one asks the same tribunal whether players overpaid too.",
         "card_text": "A consumer claim against Google Play goes to trial",
         "year": "2026",
@@ -7920,6 +7909,17 @@
         "source": "PocketGamer.biz, Isa Muhammad (16 September 2026)",
         "link": "https://www.pocketgamer.biz/google-approves-260m-settlement-with-uk-app-developers/",
         "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Apple's European terms took effect on 1 October 2026. The European Commission has not said whether it will close the non-compliance case it opened in 2025, and eighteen organizations told it on 8 September 2026 that the new terms still breach the law. No date has been published for a decision.",
+        "card_text": "Whether the Commission closes its Apple case",
+        "year": "2026",
+        "market": "",
+        "source": "Apple Newsroom (18 August 2026)",
+        "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+        "source_slug": ""
       },
       {
         "section": "What to watch",
@@ -9433,7 +9433,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "European Citizens' Initiative register, stopkillinggames.com, r/StopKillingGames, Bellular News (YouTube), Digital Fairness Act consultations, UFC-Que Choisir, Video Games Europe statements",
     "status_label": "State of the rule",
     "measure_label": "What it says",
@@ -9681,7 +9681,7 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "Four PlayStation users sue Sony in California over the 'buy' button in its store, the first case under the state's new law. In August Sony asks the court to send the case to private arbitration or dismiss it. Reasonable consumers, it argues, would not be misled, because its terms say buyers do not own the product.",
+        "claim": "Four PlayStation users sue Sony in California over the 'buy' button in its store, the first case under the state's new law. In August Sony asks the court to send the case to private arbitration or dismiss it. Reasonable consumers, it argues, would not be misled, because its terms say buyers do not own the product. The motion was argued in San Francisco on 1 October 2026 and the judge had not ruled by the end of that week.",
         "card_text": "Sony tells a court that buyers know they do not own their games",
         "year": "2026",
         "market": "",
@@ -9769,23 +9769,23 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "1 October 2026, when a federal judge in San Francisco hears Sony's request to move the case to arbitration or dismiss it.",
-        "card_text": "The hearing on Sony's 'buy' button",
-        "year": "2026",
-        "market": "",
-        "source": "Tom's Hardware, Luke James (1 September 2026)",
-        "link": "https://www.tomshardware.com/video-games/console-gaming/playstation-store-buy-button-class-action-may-never-reach-a-courtroom",
-        "source_slug": ""
-      },
-      {
-        "section": "What to watch",
-        "kind": "Event",
         "claim": "The last quarter of 2026, when the European Commission is due to propose the Digital Fairness Act, a consumer law for digital products. The campaign wants Parliament to amend it to cover games that are switched off. The Commission has also promised to start its code of conduct talks by the end of the year. The separate KIDS Act the Commission adopted on 17 September 2026 is about minors, not about digital ownership.",
         "card_text": "The EU's Digital Fairness Act",
         "year": "2026",
         "market": "",
         "source": "European Parliament, Legislative Train Schedule",
         "link": "https://www.europarl.europa.eu/legislative-train/theme-protecting-our-democracy-upholding-our-values/file-digital-fairness-act",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Sony's request to move the case to individual arbitration, with a fallback request to dismiss it, was argued before a federal judge in San Francisco on 1 October 2026. The ruling will decide whether the claim is heard in court at all. No date for it has been published.",
+        "card_text": "The ruling on Sony's 'buy' button",
+        "year": "2026",
+        "market": "",
+        "source": "Tom's Hardware, Luke James (1 September 2026)",
+        "link": "https://www.tomshardware.com/video-games/console-gaming/playstation-store-buy-button-class-action-may-never-reach-a-courtroom",
         "source_slug": ""
       }
     ]
@@ -12545,6 +12545,17 @@
         "source_slug": "gamediscoverco"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Valve announces in late September 2026 that Steam's Discounts and Events section will stop using curated, calendar-based placements in early 2027 and become personalized for each customer. Valve says the change lets more discounted games appear on the homepage instead of competing for a small fixed number of slots, and that testing showed ten times as many games reaching customers in a day in that section. Universal Daily Deals end with it.",
+        "card_text": "Valve moves Steam's discounts off a calendar and onto an algorithm",
+        "year": "2026",
+        "market": "",
+        "source": "Edge, quoting Valve's announcement (29 September 2026)",
+        "link": "https://www.gamesradar.com/platforms/pc-gaming/another-steam-page-is-being-turned-into-an-algorithm-as-valve-aims-to-show-10x-more-games-to-customers/",
+        "source_slug": "edge"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Jason Gastrow, the YouTuber known as videogamedunkey, launched a publisher called Bigmode, saying that players who care about games come to his channel 'to find out what's actually worth playing.' Bigmode offers the games it picks funding, publicity, testing and translation.",
@@ -14102,7 +14113,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Playtika and Stillfront quarterly results, PocketGamer.biz, mobilegamer.biz, Naavik, Sensor Tower",
     "status_label": "",
     "measure_label": "",
@@ -14416,17 +14427,6 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "The widely quoted figure of $17 billion, about 15% of the $113.3 billion spent inside mobile games in 2025, comes from a survey by GDC and Appcharge. Appcharge handles direct-to-consumer payments for game publishers. The mobile findings rest on 130 respondents in charge of mobile games.",
-        "card_text": "The market total comes from a vendor's survey",
-        "year": "2026",
-        "market": "",
-        "source": "PocketGamer.biz, Isa Muhammad (24 June 2026)",
-        "link": "https://www.pocketgamer.biz/report-mobile-game-d2c-revenues-reach-17bn-as-publishers-push-beyond-app-stores/",
-        "source_slug": "pocketgamer-biz"
-      },
-      {
-        "section": "Objections",
-        "kind": "Argument",
         "claim": "At a Pocket Gamer Connects panel of payment companies, Xsolla's Inês Ramalho said most developers save only a few percentage points in practice. Worldline's Jonas Martins advised most smaller studios to aim for 15% to 20% of sales direct, and Breeze's Peter Gerson said payment processing, tax, compliance and customer service all cost money and people.",
         "card_text": "Small studios save less than the headline",
         "year": "2026",
@@ -14438,13 +14438,24 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Apple charges a commission of 15% on purchases that App Store apps in the European Union complete by linking out, from 1 October 2026. Only in the US is the link free today.",
+        "claim": "Apple has charged a commission of 15% on purchases that App Store apps in the European Union complete by linking out since 1 October 2026. Only in the US is the link free today.",
         "card_text": "In Europe, a link out still pays Apple 15%",
         "year": "2026",
         "market": "EU",
         "source": "Apple Newsroom (18 August 2026)",
         "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
         "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Omdia and FastSpring surveyed 110 senior executives at games companies in the US and Europe between April and June 2026 and found 59% already running a web shop, against 57% a year earlier. Of those without one, 91% say they will launch and 67% within twelve months, and a year ago 60% said the same about the following twelve months. FastSpring sells the payments the survey measures, and every company sampled makes mobile games, 91% of them above $10 million in revenue.",
+        "card_text": "The plans run far ahead of the moves, and a payments vendor is counting",
+        "year": "2026",
+        "market": "",
+        "source": "Omdia and FastSpring, D2C game monetization survey, via GameDev Reports (29 September 2026)",
+        "link": "https://gamedevreports.substack.com/p/omdia-and-fastspring-d2c-game-monetization",
+        "source_slug": "gamedev-reports"
       },
       {
         "section": "What to watch",
@@ -14879,7 +14890,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "HM Revenue and Customs creative industries statistics each September, the CNC, GamesWirtschaft on German games funding, ANCINE's regulatory agenda, Ukie and TIGA",
     "status_label": "",
     "measure_label": "",
@@ -15203,6 +15214,17 @@
         "source": "PocketGamer.biz, Craig Chapple (13 April 2026)",
         "link": "https://www.pocketgamer.biz/government-pledges-285m-for-uk-games-fund-to-boost-industry/",
         "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Canada Media Fund reports on 28 September 2026 that it invested $338.8 million in 1,248 audiovisual and interactive digital media projects in the 2025-26 financial year, with $6.7 million more in 103 industry initiatives, and that this drove $1.93 billion of industry activity and nearly 17,000 full-time equivalent jobs. The fund counts games inside interactive digital media and its release does not give a games-only figure, so the Canadian total on this page is federal grant money of which games are an unstated share.",
+        "card_text": "Canada's media fund reports its largest year, games folded in",
+        "year": "2026",
+        "market": "CA",
+        "source": "Canada Media Fund, Ripple Effect annual report 2025-26 (28 September 2026)",
+        "link": "https://cmf-fmc.ca/news/cmf-investments-spur-record-1-93b-in-activity-for-canadian-screen-sector-in-2025-2026-annual-report/",
+        "source_slug": "canada-media-fund"
       },
       {
         "section": "Consequences",
@@ -15686,6 +15708,121 @@
         "source": "SuperJoost Playlist, Joost van Dreunen (30 September 2026)",
         "link": "https://superjoost.substack.com/p/oligopoly-go",
         "source_slug": "superjoost-playlist"
+      }
+    ]
+  },
+  {
+    "slug": "in-game-currency-under-eu-consumer-law",
+    "name": "EU consumer authorities are going after how games sell currency",
+    "stage": "Emerging",
+    "category": "Regulation, safety & age",
+    "horizon": "h2",
+    "horizon_group": "rewriting-rules",
+    "horizon_line": "This is consumer law that reaches past the store's cut of the sale to address the value of in-game currencies themselves. Nothing is compelled yet.",
+    "markets": [
+      "EU"
+    ],
+    "what_it_is": "On 30 September 2026 the Consumer Protection Cooperation Network opened coordinated actions against nine games companies over in-game virtual currencies, naming nine games among them Minecraft, Valorant and Candy Crush Saga. Nothing is compelled yet: the Network opened a dialogue, and says national authorities may enforce if the concerns are not met. Video Games Europe and the European Game Developers Federation reject the legal classification of currencies and say the Network has not shared its legal basis.",
+    "why_it_matters": "Most games sell a currency before they sell anything else, and the price of the thing you buy is never in money. European consumer authorities have decided that is a consumer law question, and have opened dialogues with nine publishers.",
+    "further_reading": [
+      {
+        "source": "Social media, online games and search engines",
+        "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/social-media-online-games-and-search-engines_en",
+        "type": "Primary",
+        "format": ""
+      },
+      {
+        "source": "Europe's CPC targets King, Supercell, Mojang and others over virtual currencies",
+        "link": "https://www.pocketgamer.biz/europes-cpc-targets-king-supercell-mojang-and-others-over-virtual-currencies/",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "Industry's response to the CPC Network's non legally binding principles on in game currencies",
+        "link": "https://www.dataspelsbranschen.se/nyheter/industrys-response-to-the-cpc-network/",
+        "type": "Primary",
+        "format": ""
+      }
+    ],
+    "as_of": "Oct 2026",
+    "where_to_follow": "European Commission consumer enforcement coordinated-actions register, Video Games Europe statements, the European Game Developers Federation, the Netherlands Authority for Consumers and Markets, the Norwegian Consumer Authority, GamesMarkt, PocketGamer.biz",
+    "status_label": "Stage",
+    "measure_label": "What is alleged",
+    "row_label": "Who",
+    "series_label": "",
+    "series_note": "",
+    "series_type": "",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "claims": [
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "Crytek, InnoGames, King, Mojang, Plarium, PLR Worldwide Sales, Riot Games, Supercell and Ubisoft are suspected of commercial practices that may breach EU consumer law in relation to in-game virtual currencies, in Candy Crush Saga, Clash of Clans, Forge of Empires, For Honor, Gardenscapes, Hunt: Showdown 1896, Mech Arena, Minecraft and Valorant. The register names each company by its European legal entity.",
+        "card_text": "Dialogue opened",
+        "year": "2026",
+        "market": "EU",
+        "source": "European Commission, CPC coordinated actions register (read 5 October 2026)",
+        "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/social-media-online-games-and-search-engines_en",
+        "source_slug": "",
+        "period": "The nine companies"
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "A coordinated action opened in early 2026 covers Call of Duty Mobile and Diablo Immortal, over in-game virtual currencies, the collection of consumer data, addictive design, preselected parental-control settings, direct exhortation to children, missing pre-contractual information and the unilateral blocking of accounts. It is a separate action from the nine above, and it is ongoing.",
+        "card_text": "A separate action, still open",
+        "year": "2026",
+        "market": "EU",
+        "source": "European Commission, CPC coordinated actions register (read 5 October 2026)",
+        "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/social-media-online-games-and-search-engines_en",
+        "source_slug": "",
+        "period": "Microsoft and Activision Blizzard"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Network, led by the Netherlands Authority for Consumers and Markets and the Norwegian Consumer Authority, adopts key principles on 21 March 2025: clear pricing and pre-contractual information, no hiding the cost of in-game content, no forcing a currency purchase, respect for the right of withdrawal, and regard for consumer vulnerabilities, children in particular.",
+        "card_text": "The CPC Network adopts key principles on in-game currencies",
+        "year": "2025",
+        "market": "EU",
+        "source": "European Commission, CPC coordinated actions register (read 5 October 2026)",
+        "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/social-media-online-games-and-search-engines_en",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Network opens coordinated actions against nine games companies on 30 September 2026 and publishes a Joint Statement on Stronger Consumer Protection in Video Games the same day. It says the dialogue the key principles opened with the industry had not produced satisfactory solutions, and that national authorities may take enforcement measures if its concerns are not met.",
+        "card_text": "Nine companies are put under coordinated action",
+        "year": "2026",
+        "market": "EU",
+        "source": "European Commission, CPC coordinated actions register (read 5 October 2026)",
+        "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/social-media-online-games-and-search-engines_en",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Video Games Europe and the European Game Developers Federation say they were constructive on pricing transparency, refunds, bundles and the right of withdrawal, and that the disagreement is the classification of in-game currencies as digital representations of value. They say they asked for the legal basis in spring 2025 and have not been given it, and that they will implement the proposals once the legal uncertainty is resolved. Both are industry bodies speaking for their own members.",
+        "card_text": "The industry disputes the legal basis, not the transparency",
+        "year": "2026",
+        "market": "EU",
+        "source": "Video Games Europe and the European Game Developers Federation, joint statement via Dataspelsbranschen (30 September 2026)",
+        "link": "https://www.dataspelsbranschen.se/nyheter/industrys-response-to-the-cpc-network/",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "The key principles the Network is enforcing against are not themselves legally binding, and a coordinated action asks the companies to answer rather than ordering them to change. Enforcement would fall to national authorities under national law, and none has announced any. Stage is Emerging for that reason.",
+        "card_text": "A dialogue, not a decision",
+        "year": "2026",
+        "market": "EU",
+        "source": "European Commission, CPC coordinated actions register (read 5 October 2026)",
+        "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/social-media-online-games-and-search-engines_en",
+        "source_slug": ""
       }
     ]
   }
