@@ -184,7 +184,7 @@ cost,,Free,459
 cost,,Paid,57
 cost,,Freemium,52
 cost,,Unknown,8
-trend_stage,,Dominant,16
+trend_stage,,Dominant,17
 trend_stage,,Emerging,14
 trend_stage,,Perennial,10
 trend_stage,,Receding,3
@@ -193,7 +193,7 @@ trend_category,,Platform & distribution,8
 trend_category,,"Regulation, safety & age",7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,5
-trend_category,,Technology,3
+trend_category,,Technology,4
 coverage,sources,slug,978
 coverage,sources,name,978
 coverage,sources,group,978

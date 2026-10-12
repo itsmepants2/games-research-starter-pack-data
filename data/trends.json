@@ -15825,5 +15825,344 @@
         "source_slug": ""
       }
     ]
+  },
+  {
+    "slug": "ai-data-centers-take-the-memory",
+    "name": "AI data centers are taking the memory games hardware needs",
+    "stage": "Dominant",
+    "category": "Technology",
+    "horizon": "h1",
+    "horizon_group": null,
+    "horizon_line": "The hardware half of that squeeze, priced by a market games do not control.",
+    "markets": [
+      "Global",
+      "KR",
+      "US"
+    ],
+    "what_it_is": "Conventional DRAM contract prices rose about 93% in the first quarter of 2026 and have risen every quarter since, by 10% to 15% in the fourth. Suppliers are sending capacity to AI servers, so console and PC memory takes what is left, and Micron expects demand to outrun supply through 2027 and 2028. Microsoft says the memory and storage in an Xbox now cost more than two and a half times what they did, and that it sells consoles at a loss.",
+    "why_it_matters": "Memory chips are the component of a console, handheld or graphics card whose price has moved most. AI data centers buy the same chips and will pay more for them, so games hardware now competes for supply it used to take for granted.",
+    "further_reading": [
+      {
+        "source": "AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists, Says TrendForce",
+        "link": "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+        "type": "Primary",
+        "format": ""
+      },
+      {
+        "source": "How a surge in memory prices will affect the games industry",
+        "link": "https://www.gamedeveloper.com/business/how-a-surge-in-memory-prices-will-affect-the-games-industry",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "US console hardware market at its most precarious position 'since the 80s', says Circana",
+        "link": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+        "type": "Reporting",
+        "format": ""
+      }
+    ],
+    "as_of": "Oct 2026",
+    "where_to_follow": "TrendForce memory price releases, Circana US hardware figures, The Verge's RAM shortage coverage, ComputerBase memory reporting, Omdia component analysis",
+    "status_label": "",
+    "measure_label": "",
+    "row_label": "",
+    "series_label": "Change in conventional DRAM contract prices, quarter on quarter, %",
+    "series_note": "Contract prices rose by at least 93% in the first quarter of 2026, then by 58%, then 13%, then 10%. The quarterly rises are getting smaller, but each one still adds to the last, so what a console maker pays keeps climbing.",
+    "series_type": "line",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "what_it_is_text": [
+      "Conventional DRAM contract prices rose about 93% in the first quarter of 2026 and have risen every quarter since, by ",
+      {
+        "text": "10% to 15% in the fourth",
+        "href": "https://www.trendforce.com/presscenter/news/20260930-13258.html"
+      },
+      ". Suppliers are sending capacity to AI servers, so console and PC memory takes what is left, and Micron expects demand to outrun supply through 2027 and 2028. Microsoft says the memory and storage in an Xbox now cost more than two and a half times what they did, and that it sells consoles at a loss."
+    ],
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "DRAM is a machine's working memory: the chips a console, PC, phone or graphics card uses to hold what it is doing right now, as distinct from storage, which keeps things when the power is off. Every console needs a fixed amount of it, so the chip price goes straight into the build cost. AI servers need the same chips, which is why the two compete for them.",
+        "card_text": "What is DRAM?",
+        "year": "",
+        "market": "",
+        "source": "Game Developer, on Omdia (23 February 2026)",
+        "link": "https://www.gamedeveloper.com/business/how-a-surge-in-memory-prices-will-affect-the-games-industry",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "The lowest figure in TrendForce's count of the first quarter of 2026, published on 1 June 2026, which it put at approximately 93% to 98% quarter on quarter. The same release put the memory industry's revenue up 81% quarter on quarter, at $97 billion.",
+        "card_text": "93",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce's quarterly memory price releases",
+        "link": "https://www.trendforce.com/presscenter/news/20260601-13070.html",
+        "source_slug": "",
+        "period": "Q1 2026"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "The lowest figure in TrendForce's forecast of 58% to 63% quarter on quarter, made on 1 June 2026 in the release that reported the first quarter. Supplier inventories were extremely low and new supply was going to high-capacity server memory.",
+        "card_text": "58",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce's quarterly memory price releases",
+        "link": "https://www.trendforce.com/presscenter/news/20260601-13070.html",
+        "source_slug": "",
+        "partial": true,
+        "period": "Q2 2026"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "The lowest figure in TrendForce's forecast of 13% to 18% quarter on quarter, published on 3 July 2026. It put the slowdown down to weaker consumer demand and to the higher base the earlier rises had set.",
+        "card_text": "13",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce's quarterly memory price releases",
+        "link": "https://www.trendforce.com/presscenter/news/20260703-13134.html",
+        "source_slug": "",
+        "partial": true,
+        "period": "Q3 2026"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "The lowest figure in TrendForce's forecast of 10% to 15% quarter on quarter, published on 30 September 2026 and its most recent. Suppliers were still giving advanced-process capacity to server products, leaving the market undersupplied.",
+        "card_text": "10",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce's quarterly memory price releases",
+        "link": "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+        "source_slug": "",
+        "partial": true,
+        "period": "Q4 2026"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "ComputerBase, marking what it calls a year of the memory crisis in October 2026, reports that DRAM chip prices have been climbing for more than a year, which places the start in 2025, and that the manufacturers are warning of years of shortage to come.",
+        "card_text": "The memory crisis begins",
+        "year": "2025",
+        "market": "",
+        "source": "ComputerBase (11 October 2026)",
+        "link": "https://www.computerbase.de/news/arbeitsspeicher/ein-jahr-speicherkrise-wie-laeufts-bei-euch-beim-thema-arbeitsspeicher.99760/",
+        "source_slug": "computerbase"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "TrendForce lifts its first-quarter 2026 forecast for conventional DRAM contract prices to a rise of 90% to 95% quarter on quarter, and says the quarterly increases for every product category will hit record highs. It expects PC DRAM prices to at least double in the quarter.",
+        "card_text": "TrendForce raises its own forecast to a record",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce (2 February 2026)",
+        "link": "https://www.trendforce.com/presscenter/news/20260202-12911.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Conventional DRAM contract prices rise by approximately 93% to 98% quarter on quarter in the first quarter of 2026, taking the memory industry's revenue up 81% quarter on quarter to $97 billion. TrendForce names AI and data center demand as the cause, with cloud providers shifting from AI-specific to general-purpose servers.",
+        "card_text": "Contract prices nearly double in a single quarter",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce (1 June 2026)",
+        "link": "https://www.trendforce.com/presscenter/news/20260601-13070.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "James McWhirter of Omdia puts memory at at least 20% of what it costs to build a PlayStation 5, and notes that games and services are about 70% of the console business against hardware's 30%.",
+        "card_text": "Memory is a fifth of what a PlayStation 5 costs to build",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer, James McWhirter of Omdia (23 February 2026)",
+        "link": "https://www.gamedeveloper.com/business/how-a-surge-in-memory-prices-will-affect-the-games-industry",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "TrendForce forecasts a smaller rise of 13% to 18% for the third quarter of 2026 and says record contract prices mean customers in consumer markets such as PCs and smartphones are reaching their affordability limit.",
+        "card_text": "Consumer buyers reach their affordability limit",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce (3 July 2026)",
+        "link": "https://www.trendforce.com/presscenter/news/20260703-13134.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "TrendForce reports that memory suppliers have begun giving customers preliminary supply guidance for 2027, and estimates that total RDIMM bit supply will grow only 15% to 20% year on year, well short of demand. It already anticipates a server memory shortage for 2027. Long-term agreements restrict what suppliers can charge some US cloud providers.",
+        "card_text": "Suppliers tell customers 2027 supply will lag demand",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce (9 July 2026)",
+        "link": "https://www.trendforce.com/presscenter/news/20260709-13140.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Micron, one of the three largest DRAM suppliers, expects demand to keep exceeding supply in 2027 and 2028. SpazioGames reports it as fresh cost pressure on Xbox Project Helix, the console generation Microsoft has said will follow the Series X and S.",
+        "card_text": "Micron expects demand to outrun supply into 2028",
+        "year": "2026",
+        "market": "",
+        "source": "SpazioGames (5 October 2026)",
+        "link": "https://www.spaziogames.it/notizie/xbox-project-helix-il-prezzo-ha-un-nuovo-ostacolo",
+        "source_slug": "spaziogames"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "KB Securities expects Samsung Electronics' high-bandwidth memory prices to more than double in 2027 as the industry moves to HBM4 and tight DRAM supply gives the memory makers room to raise contract prices.",
+        "card_text": "Samsung's HBM prices are tipped to more than double",
+        "year": "2026",
+        "market": "KR",
+        "source": "Korea Herald, on KB Securities (7 October 2026)",
+        "link": "https://www.koreaherald.com/article/10895833",
+        "source_slug": "korea-herald"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Samsung estimates its third-quarter operating profit at 107.4 trillion won, which would make it the first South Korean company to pass 100 trillion won of operating profit in a quarter. ComputerBase reports it under the heading of memory prices.",
+        "card_text": "Samsung posts a record Korean quarterly profit",
+        "year": "2026",
+        "market": "",
+        "source": "ComputerBase (8 October 2026)",
+        "link": "https://www.computerbase.de/news/wirtschaft/speicherpreise-samsungs-gewinn-koennte-um-fast-800-prozent-zulegen.99716/",
+        "source_slug": "computerbase"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Gigabyte announces that two of its motherboard lines will support upcoming Intel processors on the LGA 1700 socket, which takes the older DDR4 memory and which Intel had dropped in 2024, with the chips expected in early 2027. AMD had already relaunched its DDR4-compatible AM4 platform in August 2026.",
+        "card_text": "Intel and AMD revive old sockets so buyers can keep DDR4",
+        "year": "2026",
+        "market": "",
+        "source": "The Verge, Stevie Bonifield (9 October 2026)",
+        "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+        "source_slug": "the-verge"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Sony, Microsoft and Nintendo have all raised console prices in 2025 and 2026 and named memory costs among the reasons. Microsoft says it now sells consoles for less than they cost to make, which is the clearest sign that the chip price is not being absorbed.",
+        "card_text": "The cost reaches the player",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer, on Omdia (23 February 2026)",
+        "link": "https://www.gamedeveloper.com/business/how-a-surge-in-memory-prices-will-affect-the-games-industry",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Circana's Mat Piscatella says the US console market has not been in a more precarious position since the early 1980s. Through August 2026 Xbox hardware sales were down 33% and PlayStation 25%, at record average prices paid, and he says price sensitivity is becoming a real problem.",
+        "card_text": "US buyers are walking away",
+        "year": "2026",
+        "market": "",
+        "source": "Circana, Mat Piscatella, via Video Games Chronicle (10 October 2026)",
+        "link": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+        "source_slug": "video-games-chronicle"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "The Verge reports that RAM price rises have made PC upgrades hard enough that the processor makers are bringing back support for decade-old memory rather than expect buyers to move to the current kind.",
+        "card_text": "Players are priced out of upgrading their own machines",
+        "year": "2026",
+        "market": "",
+        "source": "The Verge, Stevie Bonifield (9 October 2026)",
+        "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+        "source_slug": "the-verge"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "TrendForce reports that suppliers keep giving their advanced-process capacity to high-performance server products, and that PC DRAM supply could fall in 2027 as more capacity shifts to servers. Consoles and PCs are bidding for what is left over.",
+        "card_text": "Games hardware is a low-priority customer",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce (30 September 2026)",
+        "link": "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "The quarterly increase has fallen from about 93% in the first quarter of 2026 to a forecast 10% to 15% in the fourth. On that reading the shock has already happened and is working its way out, rather than building.",
+        "card_text": "The rises are getting smaller every quarter",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce (30 September 2026)",
+        "link": "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "TrendForce notes that several US cloud providers hold multi-year long-term agreements that restrict what suppliers may charge them, and that some suppliers' increases therefore lag the market average. Contract prices are negotiated, and nobody publishes what Sony, Microsoft or Nintendo actually pay.",
+        "card_text": "The biggest buyers are partly shielded",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce (9 July 2026)",
+        "link": "https://www.trendforce.com/presscenter/news/20260709-13140.html",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Three of the four points on this chart are forecasts rather than counts. In February 2026 TrendForce raised its own first-quarter forecast to a record 90% to 95%, having previously published a lower one, so its numbers move a great deal between releases.",
+        "card_text": "These are forecasts, and TrendForce revises them sharply",
+        "year": "2026",
+        "market": "Global",
+        "source": "TrendForce (2 February 2026)",
+        "link": "https://www.trendforce.com/presscenter/news/20260202-12911.html",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Xbox has said its next generation starts with a console and extends to a family of devices, and SpazioGames reports the memory crisis adding pressure to its costs. Microsoft has published no date and no price. The price, when it comes, is the test of whether the shortage reached a whole console generation.",
+        "card_text": "The price of Xbox Project Helix",
+        "year": "2026",
+        "market": "",
+        "source": "SpazioGames (5 October 2026)",
+        "link": "https://www.spaziogames.it/notizie/xbox-project-helix-il-prezzo-ha-un-nuovo-ostacolo",
+        "source_slug": "spaziogames"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Early 2027, when TrendForce usually publishes its first-quarter figures. It will replace the fourth-quarter 2026 forecast on this chart with a count, and give the first reading for 2027.",
+        "card_text": "TrendForce's next contract price release",
+        "year": "2027",
+        "market": "Global",
+        "source": "TrendForce (30 September 2026)",
+        "link": "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Through 2027, when TrendForce expects PC DRAM supply to decline as more capacity moves to server products, and a server memory shortage besides. A fall in supply to PC makers would reach graphics cards and handheld PCs before it reached consoles.",
+        "card_text": "Whether PC memory supply falls in 2027",
+        "year": "2027",
+        "market": "Global",
+        "source": "TrendForce (30 September 2026)",
+        "link": "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+        "source_slug": ""
+      }
+    ]
   }
 ]

@@ -212,7 +212,7 @@
     "Unknown": 8
   },
   "trend_stage": {
-    "Dominant": 16,
+    "Dominant": 17,
     "Emerging": 14,
     "Perennial": 10,
     "Receding": 3
@@ -223,7 +223,7 @@
     "Regulation, safety & age": 7,
     "Culture & audience": 7,
     "Geography & power": 5,
-    "Technology": 3
+    "Technology": 4
   },
   "coverage": {
     "sources": {
