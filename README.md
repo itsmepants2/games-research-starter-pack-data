@@ -2,7 +2,7 @@
 
 A directory of the press, institutions, datasets, media, people and communities behind the video games industry across **twelve markets**, plus the trends, platforms and genres that frame them.
 
-**978 sources. 12 markets. 44 trends. 38 platforms. 30 genres.** Every source was opened and read before its description was written.
+**981 sources. 12 markets. 44 trends. 38 platforms. 30 genres.** Every source was opened and read before its description was written.
 
 The site is at **https://games.thisisdelightful.com** — this repository is the data behind it, in the same files the site offers for download.
 
@@ -64,7 +64,7 @@ Eight further markets — Australia, Spain, Mexico, Netherlands, Poland, Turkey,
 
 The files are small enough to hand to a model directly, and `sources.csv` is the one to start with. Two things worth putting in the prompt:
 
-- **Ask it to quote rows rather than summarise them.** A model handed 978 rows in a chat window starts summarising, and summarising is where invented rows come from.
+- **Ask it to quote rows rather than summarise them.** A model handed 981 rows in a chat window starts summarising, and summarising is where invented rows come from.
 - **Tell it not to compare market-size figures.** See the warning above; it is the mistake this data makes easiest.
 
 The site's [data and download page](https://games.thisisdelightful.com/doc/data-and-download) carries a field-by-field dictionary and several ready-made prompts.
