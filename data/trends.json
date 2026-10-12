@@ -970,7 +970,7 @@
       "UK",
       "US"
     ],
-    "what_it_is": "Nintendo's Mario Kart World reached $80 in 2025. Microsoft announced $80 games and backed down within three months. Grand Theft Auto 6, due in November 2026, is priced at $79.99, which ended speculation about a $100 game. Sony, Microsoft and Nintendo all raised console prices in 2025 and 2026, blaming memory chip costs, tariffs and the wider economy. Circana counted 39% fewer consoles sold in the US in July 2026 than a year earlier, at an average selling price of $542.",
+    "what_it_is": "Nintendo's Mario Kart World reached $80 in 2025. Microsoft announced $80 games and backed down within three months. Grand Theft Auto 6, due in November 2026, is priced at $79.99, which ended speculation about a $100 game. Sony, Microsoft and Nintendo all raised console prices in 2025 and 2026, blaming memory chip costs, tariffs and the wider economy. Circana calls the US market the most precarious since the early 1980s: through August 2026 Xbox sales fell 33% and PlayStation 25%, at record prices.",
     "why_it_matters": "The price of a big new game has moved only once, from $70 to $80, and only for a handful of titles. Console prices have kept rising, and Americans are buying fewer consoles. The two prices a player pays have gone separate ways.",
     "further_reading": [
       {
@@ -992,7 +992,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "GamesRadar and Eurogamer business coverage, Circana US sales data, Ars Technica gaming desk",
     "status_label": "",
     "measure_label": "",
@@ -1007,9 +1007,9 @@
       "Nintendo's Mario Kart World reached $80 in 2025. Microsoft announced $80 games and backed down within three months. Grand Theft Auto 6, due in November 2026, is priced at $79.99, which ended speculation about a $100 game. Sony, Microsoft and Nintendo all raised console prices in 2025 and 2026, blaming memory chip costs, tariffs and the wider economy. ",
       {
         "text": "Circana",
-        "href": "https://kotaku.com/worst-july-console-sales-2020-pandemic-2026-2000726139"
+        "href": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/"
       },
-      " counted 39% fewer consoles sold in the US in July 2026 than a year earlier, at an average selling price of $542."
+      " calls the US market the most precarious since the early 1980s: through August 2026 Xbox sales fell 33% and PlayStation 25%, at record prices."
     ],
     "claims": [
       {
@@ -1543,7 +1543,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Game Developer post-mortems, Circana engagement data, publisher earnings calls (Sony, EA, Take-Two)",
     "status_label": "",
     "measure_label": "",
@@ -1665,6 +1665,17 @@
       {
         "section": "Timeline",
         "kind": "Event",
+        "claim": "Newzoo counts annual free-to-play live-service launches on PC and console falling 31% as an annual average, from 21.3 titles a year in 2020 to 2022 to 14.7 a year in 2023 to 2025, against a peak of 36 titles in 2017 and while releases rose across the wider market. It names rising costs, greater risk and entrenched competitive titles as the causes. The count excludes China, India and mobile.",
+        "card_text": "Studios stop starting new free-to-play live-service games",
+        "year": "2025",
+        "market": "",
+        "source": "Newzoo, via GamesIndustry.biz, Vikki Blake (5 October 2026)",
+        "link": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
         "claim": "EA shuts down the servers of Anthem, its online shooter from 2019, on 12 January 2026. The game cannot be played without them.",
         "card_text": "EA switches off Anthem",
         "year": "2026",
@@ -1764,7 +1775,7 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Steve Sinclair, who runs Digital Extremes, the studio behind Warframe, argues the failures come from impatience. A game 'comes out, doesn't work and they throw it away', he says, and publishers 'eject too soon'. Warframe itself took years to find its audience.",
+        "claim": "Steve Sinclair, who runs Digital Extremes, the studio behind Warframe, argues the failures come from impatience. A game 'comes out, doesn't work and they throw it away', he says, and publishers 'eject too soon'. Warframe itself took years to find its audience. Newzoo's 2026 figures support him on the demand side: free-to-play's share of playtime on PC and console fell only 2.9 points between 2021 and 2025, to 29.3%, and absolute hours stayed broadly flat, which Newzoo sums up as 'F2P is not dying'.",
         "card_text": "Publishers may be quitting too early, not too late",
         "year": "2024",
         "market": "",
@@ -2676,7 +2687,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "eSafety Commissioner (AU), Ofcom Online Safety Act updates (UK), state AG press offices, The Guardian tech desk, Roblox's safety blog and earnings calls",
     "status_label": "What has been compelled",
     "measure_label": "The detail",
@@ -2961,6 +2972,17 @@
         "source_slug": "pocketgamer-biz"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "San Diego County sues the mobile advertising company AppLovin at San Diego Superior Court in October 2026, alleging it served children ads for dating services, alcohol, vaping and sexual content in games on devices with parental controls turned on, and that it worked around the tracking limits Apple and Google provide to target children without parental consent. The county also alleges it collected data from children's devices after parents had opted out. AppLovin had not responded when the suit was reported.",
+        "card_text": "A California county sues an ad network over ads shown to children",
+        "year": "2026",
+        "market": "US",
+        "source": "mobilegamer.biz, relaying Bloomberg (6 October 2026)",
+        "link": "https://mobilegamer.biz/applovin-sued-over-allegedly-serving-adult-ads-in-childrens-games/",
+        "source_slug": "mobilegamer-biz"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Roblox's daily users fell to 123 million from a peak of 152 million, its average for the third quarter of 2025. IGN's Tom Phillips writes that age verification has likely added friction for players. Roblox's own finance chief gives a different main cause: the fading of 2025's viral hits and a change to what the platform recommends to children.",
@@ -3094,7 +3116,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Reuters India tech desk, MediaNama, AGB (Asia Gaming Brief), Indian Supreme Court proceedings",
     "status_label": "",
     "measure_label": "",
@@ -3247,6 +3269,17 @@
         "source_slug": "outlook-respawn"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "India's GST Council meets on 8 October 2026, the meeting the industry had expected to take up the legacy tax demands against real-money gaming operators. Its published recommendations cover registration, returns, refunds and adjudication, and do not mention gaming, betting or actionable claims. The demands stand, against companies that can no longer legally take the bets they are taxed on.",
+        "card_text": "The tax council meets and leaves the industry's old tax bills alone",
+        "year": "2026",
+        "market": "IN",
+        "source": "Recommendations of the 57th Meeting of the GST Council, Press Information Bureau (8 October 2026)",
+        "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934&lang=1&reg=48",
+        "source_slug": ""
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Lumikai, an Indian games investor, reports that one in three people who played for money moved to offshore platforms after the ban, spending up to 10,000 rupees a month with no regulator watching. The industry had warned of exactly this before the law passed.",
@@ -3326,13 +3359,13 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "7 October 2026, when India's tax council meets. The industry expects the old tax demands to be discussed, though the agenda has not been published.",
-        "card_text": "The tax council meets",
+        "claim": "The GST Council met on 8 October 2026 and its recommendations covered process reforms alone, with no mention of gaming, betting or actionable claims. The legacy tax demands against the operators are still outstanding and the Council has published no date for taking them up.",
+        "card_text": "Whether the tax council returns to the legacy dues",
         "year": "2026",
         "market": "",
-        "source": "Storyboard18, Chehneet Kaur (7 September 2026)",
-        "link": "https://www.storyboard18.com/gaming-news/indias-gaming-tax-battle-gst-council-to-address-legacy-dues-ws-l-109899.htm",
-        "source_slug": "storyboard18-gaming"
+        "source": "Recommendations of the 57th Meeting of the GST Council, Press Information Bureau (8 October 2026)",
+        "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934&lang=1&reg=48",
+        "source_slug": ""
       },
       {
         "section": "What to watch",
@@ -3392,7 +3425,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Leon Y. Xiao's annual 'Loot Box State of Play' papers, Gaming Law Review, PEGI/ESRB notices, national regulators (Belgian Gaming Commission, Kansspelautoriteit)",
     "status_label": "Regulation",
     "measure_label": "",
@@ -3585,12 +3618,12 @@
       {
         "section": "Status",
         "kind": "Event",
-        "claim": "Publishers must disclose the odds of paid random items. The regulator asked for 266 corrections in the law's first 100 days.",
+        "claim": "Publishers must disclose the odds of paid random items. The regulator asked for 266 corrections in the law's first 100 days, and on 1 October 2026 it went further: after Soul Guide ignored six corrective requests, GRAC gave public notice that the game's distribution in Korea could be restricted, and is pursuing penalties with the Ministry of Culture, Sports and Tourism.",
         "card_text": "In force",
-        "year": "2024",
+        "year": "2026",
         "market": "KR",
-        "source": "GRAC",
-        "link": "",
+        "source": "GRAC, via Inven Global (2 October 2026)",
+        "link": "https://www.invenglobal.com/articles/26753/grac-warns-of-potential-domestic-distribution-ban-for-soul-guide-over-loot-box-disclosure-violations",
         "source_slug": "grac"
       },
       {
@@ -6081,6 +6114,17 @@
       {
         "section": "Timeline",
         "kind": "Event",
+        "claim": "In a study Apple published on 8 October 2026, Chinese developers' share of App Store revenue earned outside China rises from 32% in 2020 to 52% in 2025, with 76% of Chinese developers active in overseas markets and 3.8 billion overseas downloads of their apps in the year. Apple commissioned the study, which was written by Ju Heng of the Shanghai University of Finance and Economics and Markus von Wartburg of Analysis Group, and it covers all apps rather than games alone.",
+        "card_text": "Chinese developers earn more than half their App Store money abroad",
+        "year": "2025",
+        "market": "CN",
+        "source": "Apple Newsroom China (8 October 2026)",
+        "link": "https://www.apple.com.cn/newsroom/2026/10/new-data-shows-app-store-ecosystem-is-fueling-developer-success/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
         "claim": "Matthew Ball's analysis, in Christopher Dring's interview: of the roughly $10 billion the industry grew between 2021 and 2025, about $4 billion was in China and another $1.5 billion went to Chinese-made games abroad, in places a lot of Western developers and publishers cannot access.",
         "card_text": "Ball: half the industry's growth went where the West cannot reach",
         "year": "2026",
@@ -7238,6 +7282,7 @@
     "horizon_line": "Writes the rules any AI-native future will have to follow.",
     "markets": [
       "FR",
+      "JP",
       "PL",
       "UK",
       "US"
@@ -7264,7 +7309,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "SAG-AFTRA's interactive media page, Deadline/Variety labor desks, Game Developer labor coverage",
     "status_label": "",
     "measure_label": "",
@@ -7393,6 +7438,28 @@
         "source": "Game Developer, Diego Argüello (10 September 2026)",
         "link": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
         "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Tokyo District Court holds on 30 September 2026 that a person's voice, like their likeness, can fall within the protection of publicity rights, in a suit by the voice actor Kenjiro Tsuda seeking removal of TikTok videos that imitated his voice with generative AI. It dismisses the removal claim, because the videos had already been taken down, and does not rule on whether they infringed. It is reported as the first Japanese ruling to treat voice this way.",
+        "card_text": "A Tokyo court says a voice can be a publicity right",
+        "year": "2026",
+        "market": "JP",
+        "source": "ITmedia (30 September 2026)",
+        "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001892/",
+        "source_slug": "itmedia"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Jagex shows a trailer for RuneScape 3's Dragon Slayer 2 quest at RuneFest in October 2026, players identify generative AI imagery in it from a six-fingered knight, and the studio pulls the trailer and apologizes. Jagex says the work was made by a trusted external partner, so the AI reached a published trailer through a contractor rather than through the studio's own pipeline.",
+        "card_text": "Jagex pulls a RuneScape trailer made with generative AI by a contractor",
+        "year": "2026",
+        "market": "UK",
+        "source": "GamesIndustry.biz (5 October 2026)",
+        "link": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+        "source_slug": "gamesindustry-biz"
       },
       {
         "section": "Consequences",
@@ -7814,7 +7881,7 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "The Competition Appeal Tribunal approves a settlement of £260 million between Google and UK app developers over Google Play commissions, on a collective claim brought by Professor Barry Rodger. £160 million goes to eligible developers and £100 million to litigation funding, insurance and legal costs. Google makes no admission of liability or wrongdoing. Liz Coll's separate consumer claim proceeds to trial on 5 October 2026.",
+        "claim": "The Competition Appeal Tribunal approves a settlement of £260 million between Google and UK app developers over Google Play commissions, on a collective claim brought by Professor Barry Rodger. £160 million goes to eligible developers and £100 million to litigation funding, insurance and legal costs. Google makes no admission of liability or wrongdoing. Liz Coll's separate consumer claim reached trial at the same tribunal on 6 October 2026.",
         "card_text": "A UK tribunal approves Google's settlement with app developers",
         "year": "2026",
         "market": "",
@@ -7902,17 +7969,6 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "5 October 2026, when Liz Coll's collective claim on behalf of UK Google Play consumers goes to trial. The developers' claim settled for £260 million in September without any admission of liability. This one asks the same tribunal whether players overpaid too.",
-        "card_text": "A consumer claim against Google Play goes to trial",
-        "year": "2026",
-        "market": "",
-        "source": "PocketGamer.biz, Isa Muhammad (16 September 2026)",
-        "link": "https://www.pocketgamer.biz/google-approves-260m-settlement-with-uk-app-developers/",
-        "source_slug": "pocketgamer-biz"
-      },
-      {
-        "section": "What to watch",
-        "kind": "Event",
         "claim": "Apple's European terms took effect on 1 October 2026. The European Commission has not said whether it will close the non-compliance case it opened in 2025, and eighteen organizations told it on 8 September 2026 that the new terms still breach the law. No date has been published for a decision.",
         "card_text": "Whether the Commission closes its Apple case",
         "year": "2026",
@@ -7920,6 +7976,17 @@
         "source": "Apple Newsroom (18 August 2026)",
         "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
         "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "The Competition Appeal Tribunal began full hearings on 6 October 2026 in Liz Coll's claim for about 20 million UK consumers who spent on the Play Store between 2015 and July 2026, worth more than £1 billion. Google is contesting it and says it charges some of the lowest fees in the market. The tribunal has published no date for judgment.",
+        "card_text": "The Google Play consumer trial reaches judgment",
+        "year": "2026",
+        "market": "",
+        "source": "mobilegamer.biz, relaying Reuters (8 October 2026)",
+        "link": "https://mobilegamer.biz/google-defends-play-store-commissions-in-1bn-uk-class-action/",
+        "source_slug": "mobilegamer-biz"
       },
       {
         "section": "What to watch",
@@ -7969,7 +8036,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Stream Hatchet quarterly and annual reports, Streams Charts, Netinfluencer, Bloomberg's creator-economy coverage",
     "status_label": "",
     "measure_label": "",
@@ -8290,7 +8357,7 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "Streams Charts' next quarterly reports. Kick fell from one quarter to the next for the first time at the end of 2025. They will show whether that was a pause or its peak.",
+        "claim": "Streams Charts' next quarterly reports. Kick fell from one quarter to the next for the first time at the end of 2025, and its monthly figures have since turned back up: Streams Charts put September 2026 above 700 million hours watched and 1.09 million average viewers, a record and 21% above its previous mark. The quarterly reports will show whether a record month makes a record quarter.",
         "card_text": "Whether Kick's first dip was a ceiling",
         "year": "2026",
         "market": "",
@@ -9690,6 +9757,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Take-Two delists NBA 2K25 from storefronts on 30 October 2026 and shuts its servers down on 31 December, two years after the game went on sale. Multiplayer and online modes stop on 1 January 2027, and MyCareer, the single-player story mode, becomes unplayable with them.",
+        "card_text": "A single-player story mode is switched off with the servers",
+        "year": "2026",
+        "market": "",
+        "source": "Take-Two, via GamesIndustry.biz (6 October 2026)",
+        "link": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Bronwyn Molony of the law firm William Fry reads the decision as a warning to sellers. Regulators can still use existing consumer law, she argues: calling a license that can be revoked something you buy or own may count as a misleading practice, and switching a game off may entitle buyers to refunds. The point, she adds, applies well beyond games, to apps, streaming and connected devices.",
@@ -9828,7 +9906,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Game Workers of America / CWA announcements, Game Developer labor desk, GDC State of the Game Industry, IGDA",
     "status_label": "",
     "measure_label": "",
@@ -10016,11 +10094,11 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "The final hearing opens in Glasgow on 10 September. The workers allege that a junior employee passed information from the union's chat group to Rockstar's human resources staff on at least 26 occasions over 21 months. 'We reject the claims and will defend them vigorously,' Rockstar says.",
+        "claim": "The workers allege that a junior employee passed information from the union's chat group to Rockstar's human resources staff on at least 26 occasions over 21 months. On 9 October 2026 the hearing was still sitting, and Rockstar's human resources manager told it he had taken 'little interest' in the union membership evidence the employee sent him.",
         "card_text": "The dismissed Rockstar workers' case reaches its final hearing",
         "year": "2026",
         "market": "",
-        "source": "Game Developer, Chris Kerr (10 September 2026)",
+        "source": "Game Developer, Chris Kerr (10 September 2026), with Eurogamer (9 October 2026)",
         "link": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
         "source_slug": "game-developer"
       },
@@ -10045,6 +10123,28 @@
         "source": "Game Developer, Chris Kerr (25 September 2026)",
         "link": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
         "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Workers on Dungeons & Dragons and D&D Beyond, and at Studio X, which makes tabletop Magic: The Gathering and Duel Masters, join United Wizards of the Coast with the Communications Workers of America on 6 October 2026 and ask Hasbro to recognize them voluntarily by 13 October. Their demands include protection from what they describe as management's push to adopt generative AI. The Magic: The Gathering Arena team, which announced its union in April 2026 and won its election in June, was not recognized voluntarily.",
+        "card_text": "Wizards of the Coast's union expands and asks for AI protections",
+        "year": "2026",
+        "market": "US",
+        "source": "Aftermath (6 October 2026)",
+        "link": "https://aftermath.site/magic-the-gathering-dungeons-and-dragons-duel-masters-cwa-union/",
+        "source_slug": "aftermath"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Employees at Double Fine, the studio behind Psychonauts, petition for a union in May 2026 and the drive fails. Kotaku reports in October that it left a rift in the studio that has not healed, and publishes an interview with the studio's chief executive Tim Schafer about it. It is the first unsuccessful organizing drive this page records.",
+        "card_text": "A union drive fails at Double Fine",
+        "year": "2026",
+        "market": "US",
+        "source": "Kotaku (9 October 2026)",
+        "link": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755",
+        "source_slug": "kotaku"
       },
       {
         "section": "Consequences",
@@ -11556,7 +11656,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "The Game Business (Christopher Dring), Game File (Stephen Totilo), Video Games Chronicle, Circana consumer surveys",
     "status_label": "",
     "measure_label": "",
@@ -11703,6 +11803,17 @@
         "source_slug": "gematsu"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Gears of War: E-Day, the first of the two games Xbox said would never leave Xbox and PC, is released on 6 October 2026 after advance access from 1 October. Alinea Analytics estimates 230,000 copies sold in its first days, 168,000 of them on Steam against 62,000 across Xbox console and PC, and $37 million in revenue. It estimates a further 1.7 million people reached the game through Game Pass rather than buying it, 722,000 of whom paid $30 for the upgrade that unlocked advance access.",
+        "card_text": "The first permanent Xbox exclusive sells most of its copies on Steam",
+        "year": "2026",
+        "market": "US",
+        "source": "Alinea Analytics (9 October 2026)",
+        "link": "https://alineaanalytics.substack.com/p/gears-of-war-e-day-sells-230k-copies",
+        "source_slug": "alinea-analytics"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Xbox will not publish a rule. Matt Booty says each game will be decided case by case, and that a game has a platform when it has a release date. Matthew Ball answered 'no comment' when asked why Clockwork Revolution was chosen and other games were not. Someone choosing a console is left to guess.",
@@ -11782,13 +11893,13 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "6 October 2026, when Gears of War: E-Day comes out on Xbox, Windows and Steam. It is the first test of whether a permanent exclusive sells Xbox consoles.",
-        "card_text": "Whether a permanent exclusive sells consoles",
+        "claim": "Circana's US figures for October and November 2026, when the first hardware numbers covering E-Day's launch appear. Through August US Xbox hardware sales were down 33% from a year earlier, an all-time low, and E-Day's own sales went mostly to Steam. The figures will show whether a permanent exclusive moved any consoles at all.",
+        "card_text": "Whether E-Day shows up in the hardware figures",
         "year": "2026",
         "market": "",
-        "source": "Xbox, Gears of War: E-Day",
-        "link": "https://www.xbox.com/en-US/games/gears-of-war-eday",
-        "source_slug": ""
+        "source": "Circana, Mat Piscatella, via Video Games Chronicle (10 October 2026)",
+        "link": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+        "source_slug": "video-games-chronicle"
       },
       {
         "section": "What to watch",
@@ -15587,6 +15698,17 @@
         "source": "Xbox Wire, Asha Sharma (6 July 2026)",
         "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
         "source_slug": "xbox-wire"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Paramount completes its $111 billion acquisition of Warner Bros. Discovery on 6 October 2026, forming Skydance, which targets at least $6 billion in run-rate synergies within three years. Skydance then merges Paramount's and Warner Bros.' game studios into a single unit under Tony Driscoll, formerly of Epic Games, and appoints Activision's former chief executive Bobby Kotick to its board. The completion filing itself does not mention games.",
+        "card_text": "Paramount buys Warner Bros. Discovery and folds two games arms into one",
+        "year": "2026",
+        "market": "US",
+        "source": "Skydance Corporation, Exhibit 99.1 to a Form 8-K (6 October 2026), with Gies (9 October 2026) on the games unit",
+        "link": "https://www.sec.gov/Archives/edgar/data/0002041610/000110465926113913/tm2626659d7_ex99-1.htm",
+        "source_slug": ""
       },
       {
         "section": "Consequences",

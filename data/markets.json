@@ -1010,11 +1010,11 @@
         },
         {
           "kind": "Narrative",
-          "claim": "The internet base behind the market is 1.123 billion netizens at 79.7 percent penetration as of June 2025, per the CNNIC 56th statistical report.",
+          "claim": "The internet base behind the market is 1.125 billion netizens at 80.1 percent penetration as of December 2025, with 573 million online game users, 50.9 percent of netizens, per the CNNIC 57th statistical report of 5 February 2026.",
           "card_text": "",
           "year": "",
-          "source": "CNNIC 第56次中国互联网络发展状况统计报告 via China Daily, state media",
-          "link": "https://cn.chinadaily.com.cn/a/202507/21/WS687deb03a310028a84abee5d.html"
+          "source": "CNNIC 第57次中国互联网络发展状况统计报告 (5 February 2026), state body",
+          "link": "https://www.cnnic.cn/NMediaFile/2026/0304/MAIN1772588317069TUXN3827X8.pdf"
         },
         {
           "kind": "Research note",
@@ -1197,8 +1197,8 @@
           "claim": "CNNIC 中国互联网络发展状况统计报告 (Statistical Report on Internet Development in China). The twice yearly state statistical report gives netizen scale, penetration, and user counts for major application categories including online games.",
           "card_text": "CNNIC 统计报告 (Internet Development Statistical Report)",
           "year": "",
-          "source": "CNNIC via China Daily, state media",
-          "link": "https://cn.chinadaily.com.cn/a/202507/21/WS687deb03a310028a84abee5d.html"
+          "source": "CNNIC, state body",
+          "link": "https://www.cnnic.cn/6/86/88/index.html"
         },
         {
           "kind": "Card entry",

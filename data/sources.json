@@ -2052,6 +2052,55 @@
     "audience": []
   },
   {
+    "slug": "dappradar",
+    "name": "DappRadar",
+    "group": "Data",
+    "medium": "Data tool",
+    "format": "Analytics platform",
+    "what_it_lets_you_find_out": "Tracks on-chain activity across thousands of decentralized apps on dozens of blockchains, with games as one of its categories, and publishes yearly and quarterly games reports that are the most cited count of blockchain gaming activity. Read its headline metric carefully: Unique Active Wallets counts wallets that connected to an app in a period, not people, so one person running several wallets is several UAW, and bot activity inflates it. Its games totals also take in apps that are not games. The numbers are a measure of wallets touching contracts, which is why they diverge from any platform's own user count. The site cites its reports as the primary for those figures. The reports are free to read.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://dappradar.com/blog",
+    "extra_links": [],
+    "owner": "DappRadar",
+    "ownership_note": "A blockchain analytics firm reporting on the sector it sells data about, and the publisher of its own figures, so its totals are self-reported rather than audited.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "trendforce",
+    "name": "TrendForce",
+    "group": "Data",
+    "medium": "Research firm",
+    "format": "Adjacent research body",
+    "what_it_lets_you_find_out": "A Taiwanese market research institute covering semiconductors, displays and consumer electronics, which describes itself as specializing in global high-tech industries. Not a games source, and useful here for one thing games depend on and do not control: the contract price of memory. Its press center publishes free quarterly releases on DRAM and NAND contract prices, with the AI server demand that sets them, which is the evidence behind the memory squeeze reaching console and handheld pricing. Read the quarter labels carefully. Many figures are forecasts for quarters that have not been counted yet rather than settled prices, and TrendForce revises them sharply between releases, as when it raised its own first-quarter 2026 forecast to a record 90 to 95 percent having published a lower one. The press releases are free; the analysis reports and consulting behind them are paid.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "Chinese",
+      "English"
+    ],
+    "cost": "Freemium",
+    "link": "https://www.trendforce.com/presscenter/news",
+    "extra_links": [],
+    "owner": "TrendForce Corp.",
+    "ownership_note": "A research firm selling reports and consulting on the industries it reports price movements in, so its public releases are both findings and a shop window for the paid analysis.",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "nintendo-ir",
     "name": "Nintendo IR",
     "group": "Data",
@@ -7169,6 +7218,30 @@
     "link": "https://www.nid.edu/academics/programmes/master-of-design-mdes/digital-game-design-mdes",
     "extra_links": [],
     "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "gov-uk",
+    "name": "GOV.UK",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Government agency",
+    "what_it_lets_you_find_out": "The UK government's own publishing platform, and the primary record of what UK departments and regulators have decided, funded and measured. For games the useful parts are HM Revenue and Customs' Creative industries statistics, Official Statistics that report the video games tax reliefs alongside film and television, published with commentary and ODS tables (the September 2026 edition is dated 17 September 2026), and the Evaluation of the UK Games Fund, whose final report of 16 July 2026 assesses the fund that has backed UK studios since 2015. Competition and Markets Authority decisions and Department announcements also land here. Note what the one address covers: every department shares it, so this row vouches for the government's record of its own acts and statistics, not for the analysis of any single body, and a release is not law.",
+    "markets": [
+      "UK"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.gov.uk/search/all?order=updated-newest",
+    "extra_links": [],
+    "owner": "Government Digital Service, Cabinet Office",
     "ownership_note": "",
     "beat": "",
     "where_they_post": "",

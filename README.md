@@ -38,8 +38,8 @@ There is no ID column. Rows are identified by name, and row order is export orde
 
 | File | Rows | What it is |
 |---|---|---|
-| [`data/sources.csv`](data/sources.csv) | 978 | Every source in the directory: outlet, institution, dataset, podcast, book, person or community, with what it lets you find out, who owns it, what it costs, which markets it covers and what to watch for. |
-| [`data/sources.json`](data/sources.json) | 978 | The same rows, as JSON. |
+| [`data/sources.csv`](data/sources.csv) | 981 | Every source in the directory: outlet, institution, dataset, podcast, book, person or community, with what it lets you find out, who owns it, what it costs, which markets it covers and what to watch for. |
+| [`data/sources.json`](data/sources.json) | 981 | The same rows, as JSON. |
 | [`data/markets.json`](data/markets.json) | 12 | Per-market claims and population figures, nested. Every claim carries the source and link it came from; every population figure carries the definition saying who was counted. |
 | [`data/trends.csv`](data/trends.csv) | 44 | The trends currently moving the industry, with stage, category, place on the Three Horizons and the markets each lands in. |
 | [`data/trend-reading.csv`](data/trend-reading.csv) | 131 | The further reading attached to each trend. One row per link. |

@@ -1,29 +1,29 @@
 facet,within_group,value,rows
 medium,,News outlet,329
-medium,,Organisation,149
+medium,,Organisation,150
 medium,,Forum or community,98
 medium,,Video channel,66
 medium,,Person,66
-medium,,Data tool,51
+medium,,Data tool,52
 medium,,Podcast,49
 medium,,Book or paper,44
 medium,,Company disclosure,39
 medium,,Report or document,36
 medium,,Newsletter,28
-medium,,Research firm,16
+medium,,Research firm,17
 medium,,Link list,7
 group,,Press,357
-group,,Institutions,167
+group,,Institutions,168
 group,,Media,159
-group,,Data,124
+group,,Data,126
 group,,Communities,98
 group,,People,73
 markets,,US,174
-markets,,Global,155
+markets,,Global,157
 markets,,JP,139
 markets,,KR,86
 markets,,Not market specific,66
-markets,,UK,63
+markets,,UK,64
 markets,,DE,49
 markets,,IN,39
 markets,,BR,39
@@ -46,11 +46,11 @@ markets,,LATAM,5
 markets,,Asia,2
 markets,,BE,1
 market_kind,profiled,US,174
-market_kind,scope,Global,155
+market_kind,scope,Global,157
 market_kind,profiled,JP,139
 market_kind,profiled,KR,86
 market_kind,scope,Not market specific,66
-market_kind,profiled,UK,63
+market_kind,profiled,UK,64
 market_kind,profiled,DE,49
 market_kind,profiled,IN,39
 market_kind,profiled,BR,39
@@ -72,7 +72,7 @@ market_kind,tagged,EU,8
 market_kind,tagged,LATAM,5
 market_kind,tagged,Asia,2
 market_kind,tagged,BE,1
-language,,English,561
+language,,English,564
 language,,Japanese,119
 language,,Korean,75
 language,,German,51
@@ -80,8 +80,8 @@ language,,French,50
 language,,Spanish,47
 language,,Portuguese,44
 language,,Arabic,20
+language,,Chinese,20
 language,,Italian,20
-language,,Chinese,19
 language,,Turkish,14
 language,,Dutch,11
 language,,Polish,11
@@ -100,16 +100,16 @@ language,,Malay,1
 format,Data,Corporate IR,34
 format,Data,Creator tracking,21
 format,Data,Industry report,16
-format,Data,Analytics platform,14
+format,Data,Analytics platform,15
 format,Data,Market research firm,10
 format,Data,Database,7
+format,Data,Adjacent research body,7
 format,Data,Genre taxonomy,6
-format,Data,Adjacent research body,6
 format,Data,Corporate filings,5
 format,Data,Sales tracking,4
 format,Data,Sector index,1
 format,Institutions,Industry association,35
-format,Institutions,Government agency,18
+format,Institutions,Government agency,19
 format,Institutions,Regulator,13
 format,Institutions,Report or data series,13
 format,Institutions,Research institute,13
@@ -180,9 +180,9 @@ format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,459
+cost,,Free,461
 cost,,Paid,57
-cost,,Freemium,52
+cost,,Freemium,53
 cost,,Unknown,8
 trend_stage,,Dominant,17
 trend_stage,,Emerging,14
@@ -194,19 +194,19 @@ trend_category,,"Regulation, safety & age",7
 trend_category,,Culture & audience,7
 trend_category,,Geography & power,5
 trend_category,,Technology,4
-coverage,sources,slug,978
-coverage,sources,name,978
-coverage,sources,group,978
-coverage,sources,medium,978
-coverage,sources,format,978
-coverage,sources,what_it_lets_you_find_out,978
-coverage,sources,markets,978
-coverage,sources,language,978
-coverage,sources,cost,576
-coverage,sources,link,978
+coverage,sources,slug,981
+coverage,sources,name,981
+coverage,sources,group,981
+coverage,sources,medium,981
+coverage,sources,format,981
+coverage,sources,what_it_lets_you_find_out,981
+coverage,sources,markets,981
+coverage,sources,language,981
+coverage,sources,cost,579
+coverage,sources,link,981
 coverage,sources,extra_links,22
-coverage,sources,owner,537
-coverage,sources,ownership_note,137
+coverage,sources,owner,540
+coverage,sources,ownership_note,139
 coverage,sources,beat,73
 coverage,sources,where_they_post,73
 coverage,sources,year,42
