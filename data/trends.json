@@ -8,7 +8,9 @@
     "horizon_group": null,
     "horizon_line": "The clearest symptom of the pandemic-era model unwinding.",
     "markets": [
+      "DE",
       "Global",
+      "Nordics",
       "US"
     ],
     "what_it_is": "No official body counts games layoffs, but two public trackers do: Amir Satvat's and Farhan Noor's. Layoffs dipped in 2025 and rose again in 2026, so the dip was a low point, not an ending. Check the date on any claim that layoffs are slowing before repeating it. For scale, the ESA counts 82,930 people directly employed in US games in 2025. Global estimates vary and cannot be compared across countries.",
@@ -33,7 +35,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Game Developer's business desk, GDC State of the Game Industry (annual), Satvat's layoff tracker, Farhan Noor's videogamelayoffs.com tracker, GamesIndustry.biz",
     "status_label": "",
     "measure_label": "",
@@ -234,6 +236,17 @@
         "source": "Xbox Wire, Matt Booty (22 September 2026)",
         "link": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/",
         "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Ubisoft proposes closing RedLynx in Helsinki on 14 October 2026, putting up to 52 jobs at risk, subject to consultation, a year after it cut the studio toward mobile work. The same week it opens discussions with the Works Council on a voluntary departure plan across its Dusseldorf, Berlin and Mainz studios, intended to reduce its German workforce by about 100, and says the voluntary plan is the primary measure proposed. It declines to confirm the scale.",
+        "card_text": "Ubisoft proposes cuts in Finland and Germany in the same week",
+        "year": "2026",
+        "market": "",
+        "source": "Game File, Stephen Totilo (14 October 2026), with mobilegamer.biz relaying GamesIndustry.biz on RedLynx (14 October 2026)",
+        "link": "https://www.gamefile.news/p/ubisoft-germany-cuts-xbox-labs-epic-ai",
+        "source_slug": "game-file"
       },
       {
         "section": "Consequences",
@@ -6618,7 +6631,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "GDC State of the Game Industry (annual), Game Developer, Wired gaming/AI coverage, a16z Games (for the pro-adoption view)",
     "status_label": "",
     "measure_label": "",
@@ -6870,6 +6883,17 @@
         "source": "Game Developer, Danielle Riendeau (16 January 2026)",
         "link": "https://www.gamedeveloper.com/business/valve-tweaks-and-clarifies-ai-disclosure-rules-for-steam",
         "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft announces XBOX LABS on 13 October 2026, citing games 'rapidly decompiled and rebuilt' and 'remixed into the source code of another', and says it will share the tools it builds with developers across the industry. The same message commits the company to remaining a responsible steward of intellectual property and the communities built around it, without saying how that sits with backing remixes of games it does not own. Eurogamer notes the announcement describes generative AI work without using the words.",
+        "card_text": "A platform holder backs AI decompilation of games it does not own",
+        "year": "2026",
+        "market": "",
+        "source": "Xbox Wire (13 October 2026), with Eurogamer (14 October 2026)",
+        "link": "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/",
+        "source_slug": "xbox-wire"
       },
       {
         "section": "Consequences",
@@ -8267,6 +8291,28 @@
         "source_slug": "stream-hatchet"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Live streaming reaches a record 31.698 billion hours watched in the third quarter of 2026, up about 0.8 percent. Kick takes 2.04 billion of them, up 30.7 percent from the quarter before and a record 6.4 percent share, which Streams Charts calls its third consecutive quarter of growth. Twitch rises 4 percent to 4.51 billion, its strongest quarter since the second quarter of 2025, and TikTok LIVE takes a record 33.5 percent with 10.6 billion.",
+        "card_text": "Kick's dip ends in a record quarter for everyone",
+        "year": "2026",
+        "market": "",
+        "source": "Streams Charts, Q3 2026 global livestreaming landscape (13 October 2026)",
+        "link": "https://streamscharts.com/news/q3-2026-global-livestreaming-landscape",
+        "source_slug": "streams-charts"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Chzzk, Naver's streaming service, takes 335.2 million hours watched in the third quarter of 2026, up 2.1 percent, against 333 million for SOOP. Streams Charts records it as Chzzk's first lead over the longtime local platform, two and a half years after Twitch left the country.",
+        "card_text": "Chzzk passes SOOP in Korea for the first time",
+        "year": "2026",
+        "market": "",
+        "source": "Streams Charts, Q3 2026 global livestreaming landscape (13 October 2026)",
+        "link": "https://streamscharts.com/news/q3-2026-global-livestreaming-landscape",
+        "source_slug": "streams-charts"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Viewing hours and earnings rank the platforms differently. In a second cut of the same Collabstr data, comparing what creators asked for with what they kept after fees, Twitch creators asked for $398 on average but kept $127, just 32%. YouTube creators asked for $311 and kept $255, or 82%. The per-deal averages in the timeline are what was actually paid, and these are the asking prices behind them.",
@@ -8335,13 +8381,13 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Kick, the fastest-growing challenger, was still up 37% on a year earlier in the second quarter of 2026 by Stream Hatchet's count, against 131% for all of 2025. Streams Charts recorded its first drop from one quarter to the next in the fourth quarter of 2025. A slowdown from a very fast pace, not a stop.",
-        "card_text": "Kick's growth has slowed, not stopped",
+        "claim": "Kick's record quarter is 2.04 billion hours against Twitch's 4.51 billion and TikTok LIVE's 10.6 billion. Its record 6.4 percent share of all watch time is less than half Twitch's 14.2 percent and a fifth of TikTok LIVE's 33.5 percent. A third consecutive quarter of growth, at a scale where growth is cheapest.",
+        "card_text": "Kick is growing fast from a small base",
         "year": "2026",
         "market": "",
-        "source": "Stream Hatchet, Q2 2026 live streaming trends report (free, behind a registration form), with the fourth-quarter drop from Streams Charts",
-        "link": "https://hatchet.gg/reports/",
-        "source_slug": "stream-hatchet"
+        "source": "Streams Charts, Q3 2026 global livestreaming landscape (13 October 2026)",
+        "link": "https://streamscharts.com/news/q3-2026-global-livestreaming-landscape",
+        "source_slug": "streams-charts"
       },
       {
         "section": "What to watch",
@@ -8357,12 +8403,12 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "Streams Charts' next quarterly reports. Kick fell from one quarter to the next for the first time at the end of 2025, and its monthly figures have since turned back up: Streams Charts put September 2026 above 700 million hours watched and 1.09 million average viewers, a record and 21% above its previous mark. The quarterly reports will show whether a record month makes a record quarter.",
-        "card_text": "Whether Kick's first dip was a ceiling",
+        "claim": "Streams Charts' fourth-quarter landscape, which it usually publishes in late January. Kick reached 2.04 billion hours watched in the third quarter of 2026, a record 6.4 percent of all watch time and its third consecutive quarter of growth. The test is whether it holds above two billion hours in a fourth quarter.",
+        "card_text": "Whether Kick holds above two billion hours",
         "year": "2026",
         "market": "",
-        "source": "Streams Charts, Q4 2025 global livestreaming landscape (26 January 2026)",
-        "link": "https://streamscharts.com/news/q4-2025-global-livestreaming-landscape",
+        "source": "Streams Charts, Q3 2026 global livestreaming landscape (13 October 2026)",
+        "link": "https://streamscharts.com/news/q3-2026-global-livestreaming-landscape",
         "source_slug": "streams-charts"
       }
     ]
@@ -9060,7 +9106,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "ESA Essential Facts (annual), Circana demographics, VGM/GWI audience panels, Pew Research internet & tech",
     "status_label": "",
     "measure_label": "",
@@ -9438,6 +9484,17 @@
         "source_slug": ""
       },
       {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Pew Research Center asked 9,750 US adults in May and June 2026 which online communities they belong to. About one in ten is in one about video games, and the split by age is the steepest Pew records for any subject it asked about: 27 percent of adults under 30, 16 percent of those in their 30s and 40s, and 4 percent of those 50 and over. Pew writes that gaming has one of the biggest gaps. Playing across generations and talking about games across generations are not the same thing.",
+        "card_text": "Older people play, but they do not gather around games",
+        "year": "2026",
+        "market": "",
+        "source": "Pew Research Center, Online Community and Connection in America (14 October 2026)",
+        "link": "https://www.pewresearch.org/internet/2026/10/14/online-community-and-connection-in-america/",
+        "source_slug": "pew-research-center"
+      },
+      {
         "section": "What to watch",
         "kind": "Event",
         "claim": "Late May or early June 2027, when the ESA usually publishes. It will be the fourth edition on the new method, and the first chance to see whether 36, 36, 37 is a trend.",
@@ -9768,6 +9825,17 @@
         "source_slug": "gamesindustry-biz"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft tells Xbox staff on 13 October 2026 that it is standing up XBOX LABS, a small group of game makers, engineers and scientists, in response to games being 'rapidly decompiled and rebuilt to run on hardware they were never originally designed to support' and to the biggest games being 'remixed into the source code of another'. It calls the results 'unmistakably good outcomes for players, even when (and sometimes because) they challenge our existing business models', and names giving old games new life among the possibilities.",
+        "card_text": "Microsoft builds a division around players recompiling its games",
+        "year": "2026",
+        "market": "",
+        "source": "Xbox Wire (13 October 2026)",
+        "link": "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/",
+        "source_slug": "xbox-wire"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Bronwyn Molony of the law firm William Fry reads the decision as a warning to sellers. Regulators can still use existing consumer law, she argues: calling a license that can be revoked something you buy or own may count as a misleading practice, and switching a game off may entitle buyers to refunds. The point, she adds, applies well beyond games, to apps, streaming and connected devices.",
@@ -9792,24 +9860,24 @@
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Phil Salvador of the Video Game History Foundation says the industry's refusal to allow any remote access to archived games forces researchers to explore extra-legal methods to study games that cannot be bought.",
-        "card_text": "Researchers are pushed outside the law",
-        "year": "2024",
+        "claim": "Kyle Orland of Ars Technica notes that the store GOG now pitches itself on exactly this. Its games come as files with no copy protection, so, in GOG's words, no one can ever take the games you paid for away. In October 2026 GOG's Preservation Program won the Digital Preservation Coalition's RDA Award for commerce, industry and the third sector, over LDF Recollection and the Diageo Archive AI Cataloguing Assistant. The Coalition records it at 267 titles and over 1,400 applied fixes since November 2024.",
+        "card_text": "Owning your games becomes a selling point",
+        "year": "2026",
         "market": "",
-        "source": "Video Game History Foundation, Phil Salvador (25 October 2024)",
-        "link": "https://gamehistory.org/dmca-2024-statement/",
-        "source_slug": "video-game-history-foundation"
+        "source": "Ars Technica, Kyle Orland (8 September 2026), with the Digital Preservation Coalition's Digital Preservation Awards 2026 result (15 October 2026)",
+        "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+        "source_slug": "ars-technica"
       },
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Kyle Orland of Ars Technica notes that the store GOG now pitches itself on exactly this. Its games come as files with no copy protection, so, in GOG's words, no one can ever take the games you paid for away.",
-        "card_text": "Owning your games becomes a selling point",
+        "claim": "decomp.dev, which indexed and ranked community decompilation projects, closed its public index and leaderboard in October 2026, citing bad actors and a flood of low-effort decompilations made with artificial intelligence. The people who spent years reverse-engineering old games by hand built the capability a platform holder has now organized a division around, and withdrew the public part of it in the same week.",
+        "card_text": "The tools that kept old games playable are being flooded",
         "year": "2026",
         "market": "",
-        "source": "Ars Technica, Kyle Orland (8 September 2026)",
-        "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-        "source_slug": "ars-technica"
+        "source": "This Week in Video Games (16 October 2026), with Edge (15 October 2026)",
+        "link": "https://thisweekinvideogames.com/news/game-decompilation-community-winds-down-citing-bad-actors-and-influx-of-ai-made-decomps/",
+        "source_slug": "this-week-in-video-games"
       },
       {
         "section": "Objections",
@@ -10094,11 +10162,11 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "The workers allege that a junior employee passed information from the union's chat group to Rockstar's human resources staff on at least 26 occasions over 21 months. On 9 October 2026 the hearing was still sitting, and Rockstar's human resources manager told it he had taken 'little interest' in the union membership evidence the employee sent him.",
-        "card_text": "The dismissed Rockstar workers' case reaches its final hearing",
+        "claim": "The workers allege that a junior employee passed information from the union's chat group to Rockstar's human resources staff on at least 26 occasions over 21 months. On 9 October 2026 the hearing was still sitting, and Rockstar's human resources manager told it he had taken 'little interest' in the union membership evidence the employee sent him. The hearing was due to conclude on 16 October and was extended, with closing arguments set for 17 and 18 November.",
+        "card_text": "The dismissed Rockstar workers' hearing runs past its own deadline",
         "year": "2026",
         "market": "",
-        "source": "Game Developer, Chris Kerr (10 September 2026), with Eurogamer (9 October 2026)",
+        "source": "Game Developer, Chris Kerr (10 September 2026), with Eurogamer (9 October 2026) and Rock Paper Shotgun (14 October 2026)",
         "link": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
         "source_slug": "game-developer"
       },
@@ -10237,13 +10305,13 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "Mid-October 2026, when the Glasgow hearing is due to finish. A ruling may come later.",
-        "card_text": "The end of the Rockstar hearing",
+        "claim": "17 and 18 November 2026, when closing arguments in the Glasgow hearing are set to be made, two days before Grand Theft Auto 6 is released. The hearing had been due to finish on 16 October and was extended so that both sides could continue questioning staff. The judge then decides whether Rockstar broke the law in dismissing the workers, and no date is published for that.",
+        "card_text": "The Rockstar closing arguments, and then a ruling",
         "year": "2026",
         "market": "",
-        "source": "Game Developer, Chris Kerr (10 September 2026)",
-        "link": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
-        "source_slug": "game-developer"
+        "source": "Rock Paper Shotgun (14 October 2026), with Eurogamer (14 October 2026)",
+        "link": "https://www.rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date",
+        "source_slug": "rock-paper-shotgun"
       }
     ]
   },
@@ -11532,6 +11600,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Private investment in games companies reaches 2.8 billion dollars across 137 deals in the third quarter of 2026, more than three times the same quarter a year earlier on Aream & Co.'s count, but below the second quarter's 3.1 billion. Late-stage rounds reach 2.0 billion, which Aream says is a level not seen since the fourth quarter of 2021. Three artificial intelligence companies, VAST, Meshy and General Intuition, raise 1.2 billion between them.",
+        "card_text": "Private money triples in a year without matching the spring",
+        "year": "2026",
+        "market": "",
+        "source": "Aream & Co., Video Game Market Update Q3 2026, as released by InvestGame (12 October 2026)",
+        "link": "https://investgame.net/news/aream-co-releases-q3-2026-video-game-market-update/",
+        "source_slug": "investgame"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "The money still being spent is increasingly leaving the studio. Ball says a growing share of game-making budgets now goes to outside development companies, which usually are not the ones coming up with new ideas. His report puts outsourcing at a record 35.5% of what the industry spends making games, with about 65% of the added spending since 2022 going outside. InvestGame saw the same thing in 2024, when contract developers grew as publishers outsourced work after layoffs.",
@@ -11600,13 +11679,13 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "InvestGame's third-quarter update, due in October. It will show whether the second quarter's $3.1 billion was repeated, and how much went to game developers and publishers rather than technology companies.",
-        "card_text": "Whether the second quarter repeats",
+        "claim": "Aream & Co.'s fourth-quarter update, which InvestGame usually posts in January. Private investment reached 2.8 billion dollars across 137 deals in the third quarter of 2026, with late-stage rounds at 2.0 billion, which Aream says is a level not seen since the fourth quarter of 2021. The test is whether the fourth quarter holds that level.",
+        "card_text": "Whether late-stage money holds its 2021 level",
         "year": "2026",
         "market": "",
-        "source": "InvestGame, reports",
-        "link": "https://investgame.net/news/reports/",
-        "source_slug": ""
+        "source": "Aream & Co., Video Game Market Update Q3 2026, as released by InvestGame (12 October 2026)",
+        "link": "https://investgame.net/news/aream-co-releases-q3-2026-video-game-market-update/",
+        "source_slug": "investgame"
       },
       {
         "section": "What to watch",
@@ -12286,6 +12365,17 @@
         "source": "PocketGamer.biz (21 September 2026)",
         "link": "https://www.pocketgamer.biz/applovin-grows-60-yy-rounding-to-20bn-in-annual-platform-ad-spend/",
         "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Spending inside mobile games falls 7 percent year on year to 19.6 billion dollars in the third quarter of 2026 on Aream & Co.'s count, which says the install base shrank and that downloads are down 10 percent over the preceding twelve months. The first half had been down 2.0 percent.",
+        "card_text": "The third quarter of 2026: spending falls faster than the first half",
+        "year": "2026",
+        "market": "",
+        "source": "Aream & Co., Video Game Market Update Q3 2026, as released by InvestGame (12 October 2026)",
+        "link": "https://investgame.net/news/aream-co-releases-q3-2026-video-game-market-update/",
+        "source_slug": "investgame"
       },
       {
         "section": "Consequences",
@@ -13754,7 +13844,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "GamesIndustry.biz, Video Games Chronicle, Gematsu, Inven Global, publisher investor days",
     "status_label": "What is being revived",
     "measure_label": "The detail",
@@ -13877,11 +13967,11 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "Nintendo shows the first gameplay from its remake of The Legend of Zelda: Ocarina of Time, a 1998 Nintendo 64 game, on 8 September 2026 and dates it to 5 November on Switch 2. The remake adds a jump button, a Hyrule Castle Town that can be fully explored and a Threads of Time record of what the player has done, and keeps the original loading screens between areas on purpose.",
-        "card_text": "Nintendo dates a remake of a 1998 Zelda for November",
+        "claim": "Nintendo shows the first gameplay from its remake of The Legend of Zelda: Ocarina of Time, a 1998 Nintendo 64 game, on 8 September 2026 and dates it to 5 November on Switch 2. The remake adds a jump button, a Hyrule Castle Town that can be fully explored and a Threads of Time record of what the player has done, and keeps the original loading screens between areas on purpose. Nintendo says in October 2026 that it underestimated demand and will restock, and the game tops Japan's preorder list.",
+        "card_text": "Nintendo dates a remake of a 1998 Zelda, then says it underestimated demand",
         "year": "2026",
         "market": "",
-        "source": "Nintendo Direct",
+        "source": "Nintendo Direct (8 September 2026), with GameVicio on the restock and True Gaming on the preorder list (both 18 October 2026)",
         "link": "https://www.nintendo.com/jp/nintendo-direct/description/20260908_en-US.html",
         "source_slug": ""
       },
