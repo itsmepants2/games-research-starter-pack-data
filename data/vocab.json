@@ -212,15 +212,15 @@
     "Unknown": 8
   },
   "trend_stage": {
-    "Dominant": 17,
-    "Emerging": 16,
-    "Perennial": 10,
+    "Dominant": 18,
+    "Emerging": 17,
+    "Perennial": 11,
     "Receding": 3
   },
   "trend_category": {
-    "Money & business model": 13,
+    "Money & business model": 14,
+    "Culture & audience": 10,
     "Platform & distribution": 9,
-    "Culture & audience": 8,
     "Regulation, safety & age": 7,
     "Geography & power": 5,
     "Technology": 4
