@@ -16376,5 +16376,647 @@
         "source_slug": ""
       }
     ]
+  },
+  {
+    "slug": "player-made-decompilation",
+    "name": "Players are taking finished games apart and rebuilding them",
+    "stage": "Emerging",
+    "category": "Culture & audience",
+    "horizon": "h3",
+    "horizon_group": null,
+    "horizon_line": "Players as producers, remaking games that already exist. The rights stay with the publishers.",
+    "markets": [
+      "Global",
+      "JP",
+      "US"
+    ],
+    "what_it_is": "Fans rebuild the source code of finished games from the programs players buy, so the games run natively on new machines and can be changed. Super Mario 64 was fully decompiled in 2019, and in 2024 a recompiler ported Majora's Mask to PC in two days. In 2026 players began using AI to do the same work and to remix one game into another: a skateboarding feature added to Modern Warfare drew 7.4 million views.",
+    "why_it_matters": "Players no longer wait for a publisher to bring an old game to a new machine, add features or splice it into another. They still need a copy of the original, and publishers, who hold the copyright, have taken projects down since 2020.",
+    "further_reading": [
+      {
+        "source": "If you're not paying attention to retro game recompilations, you're missing the most exciting thing in gaming right now",
+        "link": "https://www.pcgamer.com/gaming-industry/if-youre-not-paying-attention-to-retro-game-recompilations-youre-missing-the-most-exciting-thing-in-gaming-right-now/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Viral Game Mash-ups: What AI Decompilation Capabilities Mean For Games",
+        "link": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Nintendo 64 games can now be instantly ported to PC, and there's a widescreen, 60 FPS Majora's Mask to play right now",
+        "link": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-64-games-can-now-be-instantly-ported-to-pc-and-theres-a-widescreen-60-fps-majoras-mask-to-play-right-now/",
+        "type": "Reporting",
+        "format": ""
+      }
+    ],
+    "as_of": "Oct 2026",
+    "where_to_follow": "PC Gamer, GamesRadar+, Naavik, the N64: Recompiled project, GitHub's public DMCA notices",
+    "status_label": "",
+    "measure_label": "",
+    "row_label": "",
+    "series_label": "",
+    "series_note": "",
+    "series_type": "",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "what_it_is_text": [
+      "Fans rebuild the source code of finished games from the programs players buy, so the games run natively on new machines and can be changed. Super Mario 64 was fully decompiled in 2019, and in 2024 a recompiler ported Majora's Mask to PC in two days. In 2026 players began using AI to do the same work and to remix one game into another: ",
+      {
+        "text": "a skateboarding feature added to Modern Warfare",
+        "href": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/"
+      },
+      " drew 7.4 million views."
+    ],
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "A game reaches players as a binary that machines run easily and people struggle to read, never as its source code. Decompilation works back from the binary to source code people can change. In its strict form each rebuilt function is compiled again with the original compiler and compared byte by byte with the original until they match.",
+        "card_text": "What is decompilation?",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (13 October 2026)",
+        "link": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The n64decomp project publishes source code that rebuilds Super Mario 64 for five releases of the game. It holds none of Nintendo's assets, so anyone who builds it needs a copy of the game.",
+        "card_text": "Fans publish a full decompilation of Super Mario 64",
+        "year": "2019",
+        "market": "",
+        "source": "n64decomp, Super Mario 64 repository on GitHub (read 20 October 2026)",
+        "link": "https://github.com/n64decomp/sm64",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "An unnamed release turns Super Mario 64 into a Windows program that runs without an emulator, at the monitor's own resolution and with Xbox controller support. PC Gamer says it is possibly the result of the 2019 decompilation.",
+        "card_text": "A native PC port of Super Mario 64 appears",
+        "year": "2020",
+        "market": "",
+        "source": "PC Gamer, Wes Fenlon (4 May 2020)",
+        "link": "https://www.pcgamer.com/mario-64-pc-port-released/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Days after the release, Nintendo files copyright notices against copies of the Super Mario 64 PC port, calling it 'an unauthorized derivative work based on Nintendo's copyrighted work.'",
+        "card_text": "Nintendo files notices against the Mario port",
+        "year": "2020",
+        "market": "US",
+        "source": "PC Gamer, Andy Chalk (8 May 2020)",
+        "link": "https://www.pcgamer.com/nintendo-takes-action-against-that-really-good-mario-64-pc-port/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Take-Two sues the developers of re3 and reVC, reverse-engineered versions of Grand Theft Auto III and Vice City. Much of its claim rests on the ports running on the Switch, Wii U and PS Vita, platforms the games never launched on.",
+        "card_text": "Take-Two sues the makers of re3 and reVC",
+        "year": "2021",
+        "market": "US",
+        "source": "PC Gamer, Natalie Clayton (3 September 2021)",
+        "link": "https://www.pcgamer.com/take-two-is-once-again-trying-to-kill-reverse-engineered-versions-of-gta-iii-and-vice-city/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Ship of Harkinian, a PC port of The Legend of Zelda: Ocarina of Time, comes out built on code the Zelda Reverse Engineering Team decompiled. It adds HD graphics, widescreen and other features the original never had.",
+        "card_text": "Fans release Ocarina of Time on PC",
+        "year": "2022",
+        "market": "",
+        "source": "PC Gamer, Shaun Prescott (23 March 2022)",
+        "link": "https://www.pcgamer.com/zelda-ocarina-of-time-fan-made-pc-port-is-out-now/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Take-Two and the developers of re3 and reVC settle out of court and file to dismiss the case. The terms are not known, and the case ends without a court ruling on the reverse-engineered code.",
+        "card_text": "Take-Two settles with the re3 developers",
+        "year": "2023",
+        "market": "",
+        "source": "GamesRadar+, Anne-Marie Ostler (4 April 2023)",
+        "link": "https://www.gamesradar.com/gta-owner-settles-lawsuit-against-creators-of-vice-city-reverse-engineering-project-before-case-reaches-court/",
+        "source_slug": "gamesradar"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "James Lambert, who rebuilt Portal to run on a Nintendo 64, says Valve asked him to take the project down because it 'depends on Nintendo's proprietary libraries.' Portal 64 was a fan remake rather than a decompilation, and the request came from Valve, not Nintendo.",
+        "card_text": "Valve has a Nintendo 64 Portal taken down",
+        "year": "2024",
+        "market": "US",
+        "source": "PC Gamer, Andy Chalk (11 January 2024)",
+        "link": "https://www.pcgamer.com/that-portal-64-demake-we-liked-so-much-has-been-kiboshed-by-valve-they-have-asked-me-to-take-the-project-down-creator-says/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The developers of Yuzu, a Switch emulator, agree to pay Nintendo $2.4 million and take it offline. Yuzu imitated a console rather than rebuilding a game, and the case was settled rather than decided.",
+        "card_text": "Yuzu's makers agree to pay Nintendo $2.4 million",
+        "year": "2024",
+        "market": "",
+        "source": "GamesRadar+, Dustin Bailey (4 March 2024)",
+        "link": "https://www.gamesradar.com/with-yuzu-agreeing-to-pay-nintendo-a-dollar24-million-settlement-the-switch-emulators-future-looks-bleak/",
+        "source_slug": "gamesradar"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "N64: Recompiled, a tool that turns Nintendo 64 game code into native PC programs, debuts with a widescreen port of The Legend of Zelda: Majora's Mask that took two days to make, helped by earlier work on the game. Unlike an emulator, the port runs directly on the computer.",
+        "card_text": "A recompiler ports Majora's Mask in two days",
+        "year": "2024",
+        "market": "",
+        "source": "GamesRadar+, Dustin Bailey (14 May 2024)",
+        "link": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-64-games-can-now-be-instantly-ported-to-pc-and-theres-a-widescreen-60-fps-majoras-mask-to-play-right-now/",
+        "source_slug": "gamesradar"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Super Mario Galaxy, a Wii game, is 100% decompiled, and members of its community announce a PC port, Astrocore, which they say is coded entirely by humans. The team moves on to Super Mario Galaxy 2.",
+        "card_text": "Fans finish decompiling Super Mario Galaxy",
+        "year": "2026",
+        "market": "",
+        "source": "GamesRadar+, Scott McCrae (28 September 2026)",
+        "link": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
+        "source_slug": "gamesradar"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Maurice Heumann decompiles Call of Duty: Modern Warfare 2 with Anthropic's Claude, running up to 17 AI agents over 11 weeks by his own report.",
+        "card_text": "A modder decompiles Modern Warfare 2 with AI agents",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (13 October 2026)",
+        "link": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Clips of games remixed with AI spread on X. A skateboarding feature added to Modern Warfare draws 7.4 million views, and a mod turning Minecraft into Elden Ring 23.3 million.",
+        "card_text": "Players remix one game into another and draw millions of views",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (13 October 2026)",
+        "link": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "A developer releases a static recompilation of the Nintendo Switch remake of The Legend of Zelda: Link's Awakening, made 'with almost exclusive use of AI.' Unlike the older games ported before it, Link's Awakening is still sold on current consoles.",
+        "card_text": "A Switch game still on sale is ported mostly by AI",
+        "year": "2026",
+        "market": "",
+        "source": "GamesRadar+, Scott McCrae (14 October 2026)",
+        "link": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/",
+        "source_slug": "gamesradar"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Ship of Harkinian now has a built-in randomizer, text-to-speech and hundreds of enhancements. sm64coopdx adds four-player co-op to Super Mario 64, and Dinosaur Planet: Recompiled is restoring a Rare game that was never released.",
+        "card_text": "Fans add what the publisher never shipped",
+        "year": "2026",
+        "market": "",
+        "source": "PC Gamer, Wes Fenlon (13 August 2026)",
+        "link": "https://www.pcgamer.com/gaming-industry/if-youre-not-paying-attention-to-retro-game-recompilations-youre-missing-the-most-exciting-thing-in-gaming-right-now/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "N64: Recompiled now does much of the porting work for the Nintendo 64, ReXGlue for the Xbox 360 and RecompOne for the original PlayStation. PC Gamer counts hundreds of fans reverse-engineering old games, mostly for PC and Android.",
+        "card_text": "One tool can port a whole console",
+        "year": "2026",
+        "market": "",
+        "source": "PC Gamer, Wes Fenlon (13 August 2026)",
+        "link": "https://www.pcgamer.com/gaming-industry/if-youre-not-paying-attention-to-retro-game-recompilations-youre-missing-the-most-exciting-thing-in-gaming-right-now/",
+        "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "A Banjo-Tooie recompilation built on N64: Recompiled, whose creator says AI generated substantial portions of its code, appears before the port the tool's own developers had long planned. They disown it: 'We're not interested in engaging a race to the bottom.'",
+        "card_text": "AI ports race the people whose tools they use",
+        "year": "2026",
+        "market": "",
+        "source": "GamesRadar+, Dustin Bailey (2 October 2026)",
+        "link": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
+        "source_slug": "gamesradar"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Naavik finds that remixing games is already as simple as a one-line prompt drawing on public repositories. Melty packages the workflow as a no-code tool that builds mash-ups.",
+        "card_text": "Remixing a game takes a one-line prompt",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (13 October 2026)",
+        "link": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "The post showing the AI decompilation of Modern Warfare 2 was taken down after a copyright claim, and a similar Fallout modding project met the same end, Naavik reports.",
+        "card_text": "Publishers take the AI-era projects down",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (13 October 2026)",
+        "link": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "SNK files a takedown notice with GitHub against a static recompilation of the Xbox 360 version of Metal Slug XX, linking the game's current Xbox store page. It says it has not authorized anyone to modify or distribute the game.",
+        "card_text": "A recompiled game still on sale draws a notice",
+        "year": "2026",
+        "market": "JP",
+        "source": "SNK Corporation, DMCA notice to GitHub (11 September 2026)",
+        "link": "https://github.com/github/dmca/blob/master/2026/09/2026-09-11-snk.md",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Rulings such as Sega v. Accolade and Sony v. Connectix found that some reverse engineering can be fair use, but that protection does not automatically extend to distributing or selling a rebuilt copy of a game, Naavik notes. Most game licenses forbid reverse engineering outright.",
+        "card_text": "The law protects reverse engineering, not handing out the result",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (13 October 2026)",
+        "link": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "A full decompilation remains a tedious process even with AI, Naavik notes, and it still starts with an original copy of the game.",
+        "card_text": "It is still slow, and it starts from the original",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (13 October 2026)",
+        "link": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "5 November 2026, when Nintendo releases its remake of The Legend of Zelda: Ocarina of Time for Switch 2, the game fans brought to PC as Ship of Harkinian in 2022.",
+        "card_text": "Nintendo's own Ocarina of Time remake",
+        "year": "2026",
+        "market": "",
+        "source": "Nintendo of America, What's New (8 September 2026)",
+        "link": "https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-40th-anniversary-celebration-revealed-in-new-nintendo-direct-presentation/",
+        "source_slug": "nintendo-newsroom"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "The release of Astrocore, the PC port of Super Mario Galaxy that its developers say is coded entirely by humans and expect to release soon. No date has been given.",
+        "card_text": "The human-made Super Mario Galaxy port",
+        "year": "2026",
+        "market": "",
+        "source": "GamesRadar+, Scott McCrae (28 September 2026)",
+        "link": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
+        "source_slug": "gamesradar"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "A Banjo-Tooie port from the developers of Zelda 64: Recompiled and Banjo: Recompiled, who have long said they plan one and will not use AI to make it. It would set a hand-made port beside the AI-written one. No date has been given.",
+        "card_text": "A hand-made Banjo-Tooie port",
+        "year": "2026",
+        "market": "",
+        "source": "GamesRadar+, Dustin Bailey (2 October 2026)",
+        "link": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
+        "source_slug": "gamesradar"
+      }
+    ]
+  },
+  {
+    "slug": "prompt-to-game-platforms",
+    "name": "Game platforms are letting players make games by typing a prompt",
+    "stage": "Emerging",
+    "category": "Platform & distribution",
+    "horizon": "h3",
+    "horizon_group": null,
+    "horizon_line": "Players as producers with no craft barrier. A new place games come from, not a feature inside the old ones.",
+    "markets": [
+      "Global",
+      "KR",
+      "US"
+    ],
+    "what_it_is": "Roblox and Google now let people make a game by typing what they want, then publish it where others play, and Unity is testing a tool that does the same. Roblox says players published about 9,000 games with its Build tool in five weeks, and that 71% of those who made one had never used Roblox Studio, its software for developers. Astrocade, a startup built on the idea, says it has 10 million monthly users. Google's Playground is open only to adults in the US.",
+    "why_it_matters": "Making a game used to take code or a game engine. On these platforms one company makes the game for the player, hosts it and decides who sees it. Early numbers say few players make games at all.",
+    "further_reading": [
+      {
+        "source": "Astrocade's $56M Raise, and UGC Platforms' AI-Enabled Future",
+        "link": "https://naavik.co/ai-gaming/astrocades-56m-raise-and-ugc-platforms-ai-enabled-future/",
+        "type": "Analysis",
+        "format": ""
+      },
+      {
+        "source": "Introducing Playground: Create and play custom games",
+        "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+        "type": "Primary",
+        "format": ""
+      },
+      {
+        "source": "It Began as an AI-Fueled Dungeon Game. It Got Much Darker",
+        "link": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
+        "type": "Reporting",
+        "format": ""
+      }
+    ],
+    "as_of": "Oct 2026",
+    "where_to_follow": "Naavik, Game File, mobilegamer.biz, the Roblox Newsroom, AI and Games",
+    "status_label": "",
+    "measure_label": "",
+    "row_label": "",
+    "series_label": "",
+    "series_note": "",
+    "series_type": "",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "what_it_is_text": [
+      "Roblox and Google now let people make a game by typing what they want, then publish it where others play, and Unity is testing a tool that does the same. Roblox says players published ",
+      {
+        "text": "about 9,000 games",
+        "href": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play"
+      },
+      " with its Build tool in five weeks, and that 71% of those who made one had never used Roblox Studio, its software for developers. Astrocade, a startup built on the idea, says it has 10 million monthly users. Google's Playground is open only to adults in the US."
+    ],
+    "claims": [
+      {
+        "section": "Definition",
+        "kind": "Argument",
+        "claim": "A prompt-to-game platform lets anyone describe a game in plain words, has AI build a playable version, and publishes it to other players on the same service. Naavik describes Astrocade this way, as a place where anyone can prompt a game into existence and share it instantly.",
+        "card_text": "What is a prompt-to-game platform?",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (12 May 2026)",
+        "link": "https://naavik.co/ai-gaming/astrocades-56m-raise-and-ugc-platforms-ai-enabled-future/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Sony says players of LittleBigPlanet, a PlayStation 3 game built around making levels and sharing them, have uploaded more than a million levels, played 244 million times in all.",
+        "card_text": "LittleBigPlanet players upload a million levels",
+        "year": "2009",
+        "market": "",
+        "source": "PlayStation Blog (22 July 2009)",
+        "link": "https://blog.playstation.com/archive/2009/07/22/littlebigplanet-community-reaches-one-million-creations/",
+        "source_slug": "playstation-blog"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Latitude launches AI Dungeon, a text adventure that uses OpenAI's language technology to write the story from whatever the player types. It wins 100,000 players in the month it launches.",
+        "card_text": "Latitude launches a text game that writes itself",
+        "year": "2019",
+        "market": "",
+        "source": "WIRED, Tom Simonite (5 May 2021)",
+        "link": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
+        "source_slug": "wired"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Manticore Games takes Core, a platform for building and playing games, live after raising $100 million in March. Creators keep half of what their games earn, against the 25% Roblox passes on, TechCrunch reports.",
+        "card_text": "Manticore takes Core live with $100 million",
+        "year": "2021",
+        "market": "",
+        "source": "TechCrunch, Taylor Hatmaker (14 October 2021)",
+        "link": "https://techcrunch.com/2021/10/14/core-manticore-metaverse-game-creation-hands-on/",
+        "source_slug": "techcrunch"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Media Molecule stops live support for Dreams, its PlayStation tool for making and sharing games, on 1 September 2023, three years after its full release. The game stays on PlayStation for anyone to play.",
+        "card_text": "Media Molecule ends live support for Dreams",
+        "year": "2023",
+        "market": "",
+        "source": "Media Molecule, Indreams (13 September 2023)",
+        "link": "https://docs.indreams.me/en/whats-happening/news/dreams-live-support",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Roblox announces Assistant for Roblox Studio and says creators will be able to use natural language prompts to create scenes, edit 3D models and give objects interactive behaviors.",
+        "card_text": "Roblox promises creation from a typed prompt",
+        "year": "2023",
+        "market": "",
+        "source": "Roblox, Daniel Sturman (11 September 2023)",
+        "link": "https://about.roblox.com/newsroom/2023/09/revolutionizing-creation-roblox",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Google releases Project Genie, which builds an explorable world from a prompt. Take-Two falls 10%, Roblox 12% and Unity 21%, Reuters reports, although each world lasts only 60 seconds and has no game around it.",
+        "card_text": "A Google demo knocks game company shares",
+        "year": "2026",
+        "market": "",
+        "source": "heise online, Tomislav Bezmalinović (2 February 2026)",
+        "link": "https://www.heise.de/en/news/Google-s-new-AI-tool-causes-gaming-stocks-to-plummet-11162226.html",
+        "source_slug": "heise-online"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Astrocade, a site where players make games by prompting AI and play each other's, raises $56 million eight months after it launched. Naavik counts more than 5 million monthly users and about 140 million plays a month.",
+        "card_text": "Astrocade raises $56 million eight months after launch",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (12 May 2026)",
+        "link": "https://naavik.co/ai-gaming/astrocades-56m-raise-and-ugc-platforms-ai-enabled-future/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Roblox announces Build, a tab in its mobile app that turns a typed prompt into a basic game a player can edit and publish. Testing opens in New Zealand on 28 July for age-checked users 9 and older, and published games reach age-checked users 16 and older worldwide.",
+        "card_text": "Roblox puts prompt-to-game inside its phone app",
+        "year": "2026",
+        "market": "",
+        "source": "Roblox, Nick Tornow and Vlad Loktev (16 July 2026)",
+        "link": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Roblox says creators published about 9,000 games with Build between its New Zealand launch and 1 September, and that 71% of those who made one had never used Roblox Studio. Build moves on to Serbia and Singapore. These are the company's own figures.",
+        "card_text": "Build players publish about 9,000 games in five weeks",
+        "year": "2026",
+        "market": "",
+        "source": "Roblox, David Baszucki (11 September 2026)",
+        "link": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Google launches Playground, an experimental service where people make a game by typing prompts, play it and publish it to a community gallery. It opens only to users 18 and older in the US, with creation access tiered by Google AI subscription.",
+        "card_text": "Google opens Playground to adults in the US",
+        "year": "2026",
+        "market": "",
+        "source": "Google, The Keyword, Maryam Karimzadehgan (7 October 2026)",
+        "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Unity announces Spark, in which an AI agent helps a player build a game in the Unity engine, with Spark games offered through Google's Playground. Chief executive Matt Bromberg says Spark is not about 'one-shotting games.'",
+        "card_text": "Unity announces Spark and says it will not one-shot games",
+        "year": "2026",
+        "market": "",
+        "source": "Game File, Stephen Totilo (7 October 2026)",
+        "link": "https://www.gamefile.news/p/unitys-new-ai-game-creation-tool",
+        "source_slug": "game-file"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Astrocade's chief executive says monthly users doubled from 5 million to 10 million in four months, playing 220 million sessions a month across more than 100,000 games made by other users. He says revenue becomes a priority in 2027.",
+        "card_text": "Astrocade's chief executive claims 10 million monthly users",
+        "year": "2026",
+        "market": "",
+        "source": "GamesBeat, Dean Takahashi (7 October 2026)",
+        "link": "https://gamesbeat.com/astrocade-hits-10m-monthly-players-for-its-ai-assisted-ugc-casual-games-platform/",
+        "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Games made with Build join the same pool as every other Roblox game and are ranked by the same retention-based discovery system. Roblox says that system highlights games with long-term retention, 'which doesn't include AI slop.'",
+        "card_text": "Roblox ranks Build games by whether players stay",
+        "year": "2026",
+        "market": "",
+        "source": "Roblox, Nick Tornow and Vlad Loktev (16 July 2026)",
+        "link": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox",
+        "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Astrocade says most of its creators are outsiders to the games industry and that many have never written a line of code. It made the claim in announcing its $56 million round.",
+        "card_text": "The new makers mostly come from outside games",
+        "year": "2026",
+        "market": "",
+        "source": "Astrocade (5 May 2026)",
+        "link": "https://www.astrocade.com/blog/astrocade-raises-56m-funding",
+        "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Astrocade says a game needs three to five minutes of active play before a player can judge it, so it ranks games by Significant Play Rate, the share of plays that cross an engagement threshold.",
+        "card_text": "A shelf of prompted games has to judge play, not clicks",
+        "year": "2026",
+        "market": "",
+        "source": "Astrocade (21 April 2026)",
+        "link": "https://www.astrocade.com/blog/hardest-recommendation-problem-in-tech",
+        "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "In 2021 OpenAI found that some AI Dungeon players were making it generate sexual stories involving children, and asked Latitude to act. Latitude's new moderation system set off a revolt among its players, WIRED reports.",
+        "card_text": "Generated stories went where nobody intended",
+        "year": "2021",
+        "market": "",
+        "source": "WIRED, Tom Simonite (5 May 2021)",
+        "link": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
+        "source_slug": "wired"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Naavik estimates that fewer than 1% of Astrocade's users make games, in line with Roblox's 3.6 million creators against about 380 million monthly users. On those figures, removing the need to code has not yet turned more players into makers.",
+        "card_text": "Fewer than one user in a hundred makes a game",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (12 May 2026)",
+        "link": "https://naavik.co/ai-gaming/astrocades-56m-raise-and-ugc-platforms-ai-enabled-future/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Naavik finds that Astrocade feels like an aggregation of game demos, often with clunky controls and little progression.",
+        "card_text": "The games play like demos",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (12 May 2026)",
+        "link": "https://naavik.co/ai-gaming/astrocades-56m-raise-and-ugc-platforms-ai-enabled-future/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "itch.io, an open store for independent games, lists games 'predominantly created by algorithms or AI with minimal human intervention' as spam and may remove them from its browse and search pages.",
+        "card_text": "itch.io treats games made mostly by AI as spam",
+        "year": "2026",
+        "market": "",
+        "source": "itch.io, Quality guidelines (read 20 October 2026)",
+        "link": "https://itch.io/docs/creators/quality-guidelines",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "18 and 19 November 2026, when Unity and the Korea Association of Game Industry run a 24-hour AI game jam at BEXCO in Busan for 55 selected participants, with OpenAI and Mesh AI as sponsors.",
+        "card_text": "Unity's 24-hour AI game jam in Busan",
+        "year": "2026",
+        "market": "KR",
+        "source": "Kyunghyang Games (12 October 2026)",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=309200",
+        "source_slug": "kyunghyang-games"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Roblox's third-quarter results, when it usually reports in late October or early November. A new count of games made with Build since it reached Serbia and Singapore would show whether use is growing.",
+        "card_text": "Roblox's next count of Build games",
+        "year": "2026",
+        "market": "",
+        "source": "Roblox, David Baszucki (11 September 2026)",
+        "link": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Unity Spark's beta, which Unity says opens later in 2026, and the first count of Spark games playable in Google's Playground.",
+        "card_text": "Unity Spark's beta",
+        "year": "2026",
+        "market": "",
+        "source": "Game File, Stephen Totilo (7 October 2026)",
+        "link": "https://www.gamefile.news/p/unitys-new-ai-game-creation-tool",
+        "source_slug": "game-file"
+      }
+    ]
   }
 ]
