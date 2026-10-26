@@ -249,6 +249,17 @@
         "source_slug": "game-file"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "EA cuts about 3 percent of its workforce, some 400 jobs, and closes BioWare, the role-playing studio it bought in 2007. Game File counts 800 roles cut at EA in 2023, 670 in 2024 and more than 400 in 2025 before this round. EA's own statement names the closure and the canceled Mass Effect game but no headcount.",
+        "card_text": "EA cuts about 400 jobs and closes BioWare",
+        "year": "2026",
+        "market": "",
+        "source": "Game File, Stephen Totilo (21 October 2026), with Electronic Arts, Building EA's Next Chapter (21 October 2026)",
+        "link": "https://www.gamefile.news/p/ea-closes-bioware-cuts-400-jobs",
+        "source_slug": "game-file"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "The cuts are concentrated. In 2026, the five biggest rounds of layoffs account for about 53% of all jobs lost, and the top two alone for about 42%. North America has 66% of the rounds and about 79% of the people affected.",
@@ -1876,7 +1887,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "The Verge Xbox coverage, WSJ tech desk, Circana subscription spending data, Microsoft earnings",
     "status_label": "",
     "measure_label": "",
@@ -2118,6 +2129,17 @@
         "source_slug": "mat-piscatella"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft begins testing cloud playtime packs with Xbox Insiders on 21 October 2026, sold to people with no active Game Pass subscription: 10 hours for $3.99, 25 for $7.99 and 50 for $11.99, at what it calls introductory launch pricing, with a broader rollout in November. The packs carry no advertising and the hours do not expire. A separate free route into cloud gaming, supported by advertising, is in the same test.",
+        "card_text": "Microsoft prices cloud hours and sells them without a subscription",
+        "year": "2026",
+        "market": "Global",
+        "source": "Xbox Wire, Cloud Playtime Now Available to Test with XBOX Insiders (21 October 2026)",
+        "link": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
+        "source_slug": ""
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "The number of subscribers has stopped growing, but the money has not. US spending on game subscriptions rose 20% in 2025, the year Microsoft raised its top tier by half. When a service cannot add subscribers, growth has to come from charging the ones it has more.",
@@ -2186,7 +2208,7 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "November 2026, when the cloud streaming limits start and Microsoft sets the price of extra hours. The test is whether the 4% who play the most pay for more time or leave.",
+        "claim": "November 2026, when the cloud streaming limits start for every tier. Microsoft set the price of extra hours on 21 October 2026, at 10 hours for $3.99 and 50 for $11.99. The test is whether the 4 percent who play the most pay for more time or leave.",
         "card_text": "What the cloud limit does in November",
         "year": "2026",
         "market": "",
@@ -3770,6 +3792,17 @@
         "source": "Leon Y. Xiao and Solip Park, Acta Psychologica (2025)",
         "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12583229/",
         "source_slug": ""
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "The USK commissions YouGov to ask 1,005 German adults with children aged six to seventeen about age labeling, and publishes the result on 21 October 2026. 91 percent support taking in-game purchases, chat and pressure to keep playing into account in a game's age rating, 89 percent find notes on the reasons for a rating helpful, and 90 percent want the same criteria on every games platform in Germany. The USK commissioned the survey about its own system.",
+        "card_text": "Parents back the broader criteria",
+        "year": "2026",
+        "market": "DE",
+        "source": "USK, USK-Elternumfrage (21 October 2026)",
+        "link": "https://usk.de/usk-elternumfrage-breiter-rueckhalt-fuer-modernisierte-alterskennzeichnung/",
+        "source_slug": "usk"
       },
       {
         "section": "Objections",
@@ -5641,7 +5674,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Naavik, SportBusiness esports desk, Reuters M&A coverage, Esports Insider",
     "status_label": "",
     "measure_label": "",
@@ -5847,6 +5880,17 @@
         "source": "GamesIndustry.biz, relaying Bloomberg (11 September 2026)",
         "link": "https://www.gamesindustry.biz/saudi-arabias-pif-reportedly-considering-to-combine-ea-with-savvy-games-group",
         "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "EA tells staff on 21 October 2026 that it is closing BioWare and its Edmonton workspace, not proceeding with the Mass Effect game in early development there, and pausing development on Project Lotus. Its own statement gives no headcount. Game File reports a 3 percent workforce reduction, about 400 jobs, following 800 roles cut in 2023, 670 in 2024 and more than 400 in 2025. The cuts come two and a half months after the purchase completed on 4 August 2026.",
+        "card_text": "EA closes BioWare and cuts about 400 jobs",
+        "year": "2026",
+        "market": "",
+        "source": "Electronic Arts, Building EA's Next Chapter (21 October 2026), with Game File, Stephen Totilo, on the headcount (21 October 2026)",
+        "link": "https://www.ea.com/news/building-eas-next-chapter",
+        "source_slug": ""
       },
       {
         "section": "Consequences",
@@ -6896,6 +6940,17 @@
         "source_slug": "xbox-wire"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Digital Sun Games, the maker of Moonlighter and Cataclismo, cancels the wide public Steam playtest of its roguelike ReVamp in October 2026 and runs a smaller private one instead, saying a more capable AI model has made decompiling and cloning fast enough that showing the game before its March 2027 release is too big a risk. It asks platforms to keep strengthening protections for original work. PC Gamer reports it is not the only studio to cancel a demo for this reason.",
+        "card_text": "A studio cancels its own public playtest over AI cloning",
+        "year": "2026",
+        "market": "",
+        "source": "PC Gamer (20 October 2026), with Rock Paper Shotgun (19 October 2026)",
+        "link": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
+        "source_slug": "pc-gamer"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Haley MacLean explains why publishers ban it. AI-generated assets leave a studio open to claims that it copied someone's work, and unable to claim ownership of its own game's art. 'I think we're going to see lawsuits of those types in the coming years,' she says.",
@@ -6971,6 +7026,17 @@
         "source": "GamesRadar+, Ashley Bardhan (22 December 2025)",
         "link": "https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/",
         "source_slug": "gamesradar"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Epic Games runs the Epic AI MegaJam from 12 to 15 November 2026, with $7,500 to the winner in each of three categories and Development Continuation Grants of up to $50,000 per team. Its invitation presents AI-driven development as shipping a game in a weekend rather than prototyping for months. PC Gamer reports that using AI was at first a requirement and that Epic softened it to strongly encouraged. The money is not conditional on the softening.",
+        "card_text": "A platform holder is paying developers to use it",
+        "year": "2026",
+        "market": "",
+        "source": "PC Gamer (22 October 2026)",
+        "link": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+        "source_slug": "pc-gamer"
       },
       {
         "section": "What to watch",
@@ -7486,6 +7552,17 @@
         "source_slug": "gamesindustry-biz"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Japan Actors Union, which says it has about 2,600 members, publishes guidelines on generative AI voice use on 15 October 2026. They require prior written permission at the training, generation and output stages, treat AI voice use as equivalent to a performance for payment, and allow recreation of a deceased performer's voice only with strict permission from the heirs. The union calls them a voluntary standard and says Japan has no statute protecting a performer's voice.",
+        "card_text": "Japan's actors union writes its own rules for AI voices",
+        "year": "2026",
+        "market": "JP",
+        "source": "Japan Actors Union, Guidelines on the Use of Generative AI for Voice (15 October 2026)",
+        "link": "https://www.nippairen.com/about/jau_guideline.html",
+        "source_slug": ""
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Duncan Crabtree-Ireland, who led the union's negotiation, says the contract closes the loop with the rest of entertainment on informed consent and fair pay for AI copies. Sarah Elmaleh, who chaired the negotiating committee, calls the right to suspend consent during a strike the linchpin, because without it a performer's own copy could be used to break their strike.",
@@ -7583,6 +7660,17 @@
         "source": "Engadget, Jackson Chen (23 August 2026)",
         "link": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
         "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "The Japan Actors Union says it will press for legislation, because Japan has no statute protecting a performer's voice and its October 2026 guidelines bind nobody. A Tokyo court has already treated a voice as a publicity right. The thing to watch is whether a bill is introduced.",
+        "card_text": "Whether Japan legislates on voice rights",
+        "year": "2027",
+        "market": "JP",
+        "source": "Japan Actors Union, Guidelines on the Use of Generative AI for Voice (15 October 2026)",
+        "link": "https://www.nippairen.com/about/jau_guideline.html",
+        "source_slug": ""
       }
     ]
   },
@@ -7595,6 +7683,7 @@
     "horizon_group": "rewriting-rules",
     "horizon_line": "Six years of lawsuits have cut the platform tax by a few points. So far Apple and Google are containing the rest.",
     "markets": [
+      "AU",
       "BR",
       "EU",
       "IN",
@@ -7782,6 +7871,17 @@
         "source_slug": ""
       },
       {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "The Federal Court of Australia found that Apple violated competition law and ordered that from March 2027 iOS be open to third-party app stores, that users be able to install apps directly from developers, and that Apple not require its own in-app purchasing or charge fees on purchases made in rival stores. Fortnite returned to the Australian App Store on 22 October 2026.",
+        "card_text": "Apple: ordered open by a court, from March 2027",
+        "year": "2026",
+        "market": "AU",
+        "source": "Press Start (22 October 2026)",
+        "link": "https://press-start.com.au/news/tech-news/2026/10/22/fortnite-is-returning-to-the-iphone-tomorrow-in-australia/",
+        "source_slug": "press-start"
+      },
+      {
         "section": "Timeline",
         "kind": "Event",
         "claim": "In the case brought by Epic Games, the maker of Fortnite, Judge Yvonne Gonzalez Rogers finds for Apple on nine of ten counts. On the tenth she orders Apple to stop banning apps from linking to their own payment pages.",
@@ -7912,6 +8012,17 @@
         "source": "PocketGamer.biz, Isa Muhammad (16 September 2026)",
         "link": "https://www.pocketgamer.biz/google-approves-260m-settlement-with-uk-app-developers/",
         "source_slug": "pocketgamer-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Federal Court of Australia finds that Apple violated competition law, a year after Epic won its case, and orders that from March 2027 iOS be open to third-party app stores, that Australian users be able to install apps directly from developers, that Apple not require its own in-app purchasing, and that it not charge fees on purchases made in rival stores. Fortnite returns to the Australian App Store on 22 October 2026, which Press Start notes is unexplained given that Apple need not comply until March.",
+        "card_text": "An Australian court orders Apple to open iOS, and Fortnite returns",
+        "year": "2026",
+        "market": "AU",
+        "source": "Press Start (22 October 2026), with GamesIndustry.biz and mobilegamer.biz on Epic's statement (22 October 2026)",
+        "link": "https://press-start.com.au/news/tech-news/2026/10/22/fortnite-is-returning-to-the-iphone-tomorrow-in-australia/",
+        "source_slug": "press-start"
       },
       {
         "section": "Consequences",
@@ -10215,6 +10326,17 @@
         "source_slug": "kotaku"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Quality assurance testers at Activision Publishing, in Communications Workers of America Locals 6215, 7250 and 9400, vote overwhelmingly to authorize a strike, which lets CWA's president call one. CWA says the company continues to stall on wages, accommodations and worker protections, and that first-contract negotiations have run for over two years. CWA represents nearly 2,500 workers at Activision Blizzard. The authorization is granted on 22 October 2026, in the launch week of Call of Duty: Modern Warfare 4.",
+        "card_text": "Activision's testers vote to authorize a strike",
+        "year": "2026",
+        "market": "US",
+        "source": "Communications Workers of America (22 October 2026)",
+        "link": "https://cwa-union.org/news/strike-authorization-granted-cwa-activision-members",
+        "source_slug": "communications-workers-of-america"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "The Blizzard contracts show what a union changes. An employer can still cut jobs, but must offer laid-off staff new openings first and pay them more on the way out. The union's president, Claude Cummings Jr, presents it as good for players too: 'Greater power for workers is translating into more innovative games.'",
@@ -10290,6 +10412,17 @@
         "source": "Game Developer, with solicitor Jake McManus (January 2026)",
         "link": "https://www.gamedeveloper.com/business/understanding-interim-relief-in-context-of-iwgb-s-fight-against-rockstar",
         "source_slug": "game-developer"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Wizards of the Coast declines to voluntarily recognize a union drive covering its Dungeons & Dragons and Studio X teams in October 2026, having declined to recognize the Magic: The Gathering Arena union in May 2026. Voluntary recognition is the fast route to bargaining, and refusing it sends the workers to an election and then to a first contract that Activision's testers have spent more than two years failing to reach.",
+        "card_text": "An employer can simply decline to recognize the union",
+        "year": "2026",
+        "market": "US",
+        "source": "GamesIndustry.biz (19 October 2026)",
+        "link": "https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive",
+        "source_slug": "gamesindustry-biz"
       },
       {
         "section": "What to watch",
@@ -12757,6 +12890,28 @@
         "source_slug": "edge"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "GameDiscoverCo counts 7,100 playable demos in the Steam Next Fest that opens on 19 October 2026, significantly above the roughly 5,000 its trend line predicted and 62 percent above June's record 4,382. Valve adds a navigation interface that filters the fest's unsorted days by category. Eurogamer reports the same day that the count is more than double the previous year's and that concerns about generative AI slop, plagiarism and discoverability are circulating.",
+        "card_text": "October's Next Fest reaches 7,100 demos",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless (20 October 2026)",
+        "link": "https://newsletter.gamediscover.co/p/should-your-game-discovery-plans",
+        "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Chris Zukowski collects wishlist and sales figures for 160 Steam games released between 2020 and 2025. Games released from 2023 to 2025 sold a median of 0.22 copies per launch wishlist in their first month, against 0.45 for games released from 2020 to 2022. The gap holds at 0.43 against 0.82 after six months and 0.70 against 0.99 after a year. GameDiscoverCo put the 2024 median first-month figure at 0.27 on a narrower sample.",
+        "card_text": "A wishlist converts at half the rate it did before 2023",
+        "year": "2026",
+        "market": "",
+        "source": "How To Market A Game, Chris Zukowski, via GameDev Reports (20 October 2026)",
+        "link": "https://gamedevreports.substack.com/p/how-to-market-a-game-steam-wishlists",
+        "source_slug": "gamedev-reports"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Jason Gastrow, the YouTuber known as videogamedunkey, launched a publisher called Bigmode, saying that players who care about games come to his channel 'to find out what's actually worth playing.' Bigmode offers the games it picks funding, publicity, testing and translation.",
@@ -12843,6 +12998,17 @@
         "source": "Gamalytic, Steam games by year (read 16 September 2026)",
         "link": "https://gamalytic.com/years",
         "source_slug": "gamalytic"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "GameDiscoverCo says it will publish its results report for the October 2026 Next Fest on the Tuesday after it opens. June's report put the top tenth of games at about 121 new followers each, down from 163 a year earlier. The figures for a fest 62 percent larger are the test of whether each demo keeps losing ground.",
+        "card_text": "What each demo got out of a 7,100-game fest",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless (20 October 2026)",
+        "link": "https://newsletter.gamediscover.co/p/should-your-game-discovery-plans",
+        "source_slug": "gamediscoverco"
       },
       {
         "section": "What to watch",
@@ -14203,7 +14369,7 @@
       {
         "section": "Objections",
         "kind": "Argument",
-        "claim": "Ubisoft canceled the Prince of Persia: Sands of Time remake in January 2026 after years of delay, one of six games cut under what it calls more selective portfolio criteria. The same reset cut three original IPs, closed two studios and targeted a further 200 million euros of fixed-cost reduction. A remake can fail the test a new game fails.",
+        "claim": "Ubisoft canceled the Prince of Persia: Sands of Time remake in January 2026 after years of delay, one of six games cut under what it calls more selective portfolio criteria. The same reset cut three original IPs, closed two studios and targeted a further 200 million euros of fixed-cost reduction. In October 2026 EA canceled the Mass Effect game BioWare had in early development and closed the studio outright, nine years after the franchise's last new entry. A revival can fail the test a new game fails, and the studio holding the franchise can go with it.",
         "card_text": "Reviving an old game is not the safe bet it is sold as",
         "year": "2026",
         "market": "",
@@ -14518,12 +14684,12 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "Stillfront, the Swedish owner of Big Farm and Empire, says 46% of its bookings in the second quarter of 2026 went through its own payment platforms, up from 39% a year earlier. Its app-store share fell from 49% to 42%.",
-        "card_text": "Stillfront takes 46% of its bookings directly",
+        "claim": "Stillfront, the Swedish owner of Big Farm and Empire, says 47% of its bookings in the third quarter of 2026 went through its own payment platforms, up from 44% a year earlier and one point above the second quarter's 46%. Its app-store share fell to 42% from 45%, and advertising held at 11%. It attributes the rise mainly to web shops launched in more of its games, among them BitLife.",
+        "card_text": "Stillfront takes 47% of its bookings directly",
         "year": "2026",
         "market": "",
-        "source": "Stillfront Group, interim report for the second quarter of 2026 (24 July 2026)",
-        "link": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q2-2026-260724.pdf",
+        "source": "Stillfront Group, interim report for the third quarter of 2026 (23 October 2026)",
+        "link": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q3-2026-261023.pdf",
         "source_slug": "stillfront-group"
       },
       {
@@ -14661,17 +14827,6 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "23 October 2026, when Stillfront reports its third quarter. It will show whether the share of bookings through its own payment platforms keeps climbing past 46%.",
-        "card_text": "Stillfront's third-quarter report",
-        "year": "2026",
-        "market": "",
-        "source": "Stillfront Group, interim report for the second quarter of 2026 (24 July 2026)",
-        "link": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q2-2026-260724.pdf",
-        "source_slug": "stillfront-group"
-      },
-      {
-        "section": "What to watch",
-        "kind": "Event",
         "claim": "Early November 2026, when Playtika usually reports its third quarter. Its direct sales fell 1.7% from the first quarter to the second, the first fall in a year. The results add the next point to this chart.",
         "card_text": "Playtika's third-quarter results",
         "year": "2026",
@@ -14690,6 +14845,17 @@
         "source": "Supreme Court of the United States, docket No. 25-1311 (read 30 September 2026)",
         "link": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1311.html",
         "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "4 February 2027, when Stillfront publishes its year-end report for 2026. Its direct-to-consumer share reached 47% in the third quarter, one point above the second quarter after rising seven points over the previous year. The test is whether the climb has flattened below half or clears 50%.",
+        "card_text": "Whether Stillfront's direct share clears 50%",
+        "year": "2027",
+        "market": "",
+        "source": "Stillfront Group, interim report for the third quarter of 2026 (23 October 2026)",
+        "link": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q3-2026-261023.pdf",
+        "source_slug": "stillfront-group"
       }
     ]
   },
@@ -15801,6 +15967,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Aream & Co. counts 18 acquisitions of control in developers and publishers above 100 million dollars in 2026 to the end of September, which it says is nearly equal to 2023, 2024 and 2025 combined. It puts the quarter's mergers and acquisitions at 54 transactions worth 57.8 billion dollars, most of it the 55 billion dollar take-private of Electronic Arts, which closed in August.",
+        "card_text": "Buying studios outright returns to its 2023 pace, in one year",
+        "year": "2026",
+        "market": "",
+        "source": "Aream & Co., Video Game Market Update Q3 2026, as released by InvestGame (12 October 2026)",
+        "link": "https://investgame.net/news/aream-co-releases-q3-2026-video-game-market-update/",
+        "source_slug": "investgame"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Since 2010 the ten largest publishers' combined revenue rose 3.7 times, the five largest 4.2 times, and the single largest 7.4 times, from $4.5 billion to Tencent's $33.6 billion.",
@@ -16567,11 +16744,11 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "Clips of games remixed with AI spread on X. A skateboarding feature added to Modern Warfare draws 7.4 million views, and a mod turning Minecraft into Elden Ring 23.3 million.",
+        "claim": "Clips of games remixed with AI spread on X. A skateboarding feature added to Modern Warfare draws 7.4 million views, and a mod turning Minecraft into Elden Ring 23.3 million. In October a modder uses AI to put Shadow of War's Nemesis System into Red Dead Redemption 2, and Luke Stephens' video about playing it draws 534,000 views, 11.4 times his channel's median for the week.",
         "card_text": "Players remix one game into another and draw millions of views",
         "year": "2026",
         "market": "",
-        "source": "Naavik, Francois Courset (13 October 2026)",
+        "source": "Naavik, Francois Courset (13 October 2026), with Luke Stephens, YouTube (approximately 20 October 2026), read 26 October 2026",
         "link": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/",
         "source_slug": "naavik"
       },
@@ -16584,6 +16761,17 @@
         "market": "",
         "source": "GamesRadar+, Scott McCrae (14 October 2026)",
         "link": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/",
+        "source_slug": "gamesradar"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The PlayStation 5 jailbreak that debuted weeks earlier spreads through October 2026, and homebrew follows: a port of the PC emulator PCSX2 lets a PS5 play PS2 discs, and GamesRadar+ notes Claude is listed as its largest contributor. Prices for PS5s on old firmware rise on the used market. A hacker then demonstrates debug-menu access on the current 14.10 firmware without releasing the method, and Sony issues firmware 14.20 within two days. On 22 October an anonymous user announces the first jailbreak of the Nintendo Switch 2, built with help from a language model and SmileBASIC 4, a $25 program on the eShop, and tethered, so it is lost at every shutdown.",
+        "card_text": "PS5 and Switch 2 are broken open, both with AI's help",
+        "year": "2026",
+        "market": "",
+        "source": "GamesRadar+ (22 October 2026), with GamesRadar+ on the PS5 jailbreak and the PCSX2 port (19 and 20 October 2026), Everyeye.it on used prices (19 October 2026) and HDblog on firmware 14.20 (22 October 2026)",
+        "link": "https://www.gamesradar.com/platforms/nintendo-switch-2/nintendo-switch-2-jailbroken-for-the-first-time-thanks-to-ai-but-taking-part-involves-a-usd25-eshop-purchase-i-dont-see-sticking-around/",
         "source_slug": "gamesradar"
       },
       {
@@ -17390,7 +17578,7 @@
   },
   {
     "slug": "game-companies-put-their-games-on-screen",
-    "name": "Game companies are putting their own games on screen",
+    "name": "Game companies are funding the films and series made from their games",
     "stage": "Dominant",
     "category": "Money & business model",
     "horizon": "h2",

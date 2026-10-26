@@ -1,31 +1,31 @@
 facet,within_group,value,rows
-medium,,News outlet,329
-medium,,Organisation,150
+medium,,News outlet,330
+medium,,Organisation,151
 medium,,Forum or community,98
 medium,,Video channel,66
 medium,,Person,66
 medium,,Data tool,52
 medium,,Podcast,49
 medium,,Book or paper,44
-medium,,Company disclosure,39
-medium,,Report or document,36
+medium,,Company disclosure,41
+medium,,Report or document,37
 medium,,Newsletter,28
 medium,,Research firm,17
 medium,,Link list,7
-group,,Press,357
-group,,Institutions,168
+group,,Press,358
+group,,Institutions,170
 group,,Media,159
-group,,Data,126
+group,,Data,128
 group,,Communities,98
 group,,People,73
-markets,,US,174
-markets,,Global,157
+markets,,US,176
+markets,,Global,160
 markets,,JP,139
 markets,,KR,86
 markets,,Not market specific,66
 markets,,UK,64
 markets,,DE,49
-markets,,IN,39
+markets,,IN,40
 markets,,BR,39
 markets,,FR,37
 markets,,CN,34
@@ -45,14 +45,14 @@ markets,,EU,8
 markets,,LATAM,5
 markets,,Asia,2
 markets,,BE,1
-market_kind,profiled,US,174
-market_kind,scope,Global,157
+market_kind,profiled,US,176
+market_kind,scope,Global,160
 market_kind,profiled,JP,139
 market_kind,profiled,KR,86
 market_kind,scope,Not market specific,66
 market_kind,profiled,UK,64
 market_kind,profiled,DE,49
-market_kind,profiled,IN,39
+market_kind,profiled,IN,40
 market_kind,profiled,BR,39
 market_kind,profiled,FR,37
 market_kind,profiled,CN,34
@@ -72,7 +72,7 @@ market_kind,tagged,EU,8
 market_kind,tagged,LATAM,5
 market_kind,tagged,Asia,2
 market_kind,tagged,BE,1
-language,,English,564
+language,,English,569
 language,,Japanese,119
 language,,Korean,75
 language,,German,51
@@ -88,8 +88,8 @@ language,,Polish,11
 language,,Traditional Chinese,11
 language,,Multilingual,9
 language,,Bahasa Indonesia,9
+language,,Hindi,8
 language,,Swedish,7
-language,,Hindi,7
 language,,Vietnamese,4
 language,,Finnish,4
 language,,Danish,3
@@ -97,7 +97,7 @@ language,,Norwegian,3
 language,,Thai,3
 language,,Indonesian,2
 language,,Malay,1
-format,Data,Corporate IR,34
+format,Data,Corporate IR,36
 format,Data,Creator tracking,21
 format,Data,Industry report,16
 format,Data,Analytics platform,15
@@ -109,7 +109,7 @@ format,Data,Corporate filings,5
 format,Data,Sales tracking,4
 format,Data,Sector index,1
 format,Institutions,Industry association,35
-format,Institutions,Government agency,19
+format,Institutions,Government agency,20
 format,Institutions,Regulator,13
 format,Institutions,Report or data series,13
 format,Institutions,Research institute,13
@@ -120,12 +120,12 @@ format,Institutions,Event or awards,9
 format,Institutions,Learned society,8
 format,Institutions,Archive or museum,7
 format,Institutions,Union or worker organisation,5
+format,Institutions,Regulation or law,5
 format,Institutions,Parent guidance platform,4
-format,Institutions,Regulation or law,4
 format,Institutions,Funding body,3
 format,Institutions,Cultural institution,1
 format,Institutions,Conference proceedings,1
-format,Press,Games news site,81
+format,Press,Games news site,82
 format,Press,Tech news site,38
 format,Press,National daily,35
 format,Press,Trade press,27
@@ -180,7 +180,7 @@ format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,461
+cost,,Free,465
 cost,,Paid,57
 cost,,Freemium,53
 cost,,Unknown,8
@@ -194,18 +194,18 @@ trend_category,,Platform & distribution,9
 trend_category,,"Regulation, safety & age",7
 trend_category,,Geography & power,5
 trend_category,,Technology,4
-coverage,sources,slug,981
-coverage,sources,name,981
-coverage,sources,group,981
-coverage,sources,medium,981
-coverage,sources,format,981
-coverage,sources,what_it_lets_you_find_out,981
-coverage,sources,markets,981
-coverage,sources,language,981
-coverage,sources,cost,579
-coverage,sources,link,981
+coverage,sources,slug,986
+coverage,sources,name,986
+coverage,sources,group,986
+coverage,sources,medium,986
+coverage,sources,format,986
+coverage,sources,what_it_lets_you_find_out,986
+coverage,sources,markets,986
+coverage,sources,language,986
+coverage,sources,cost,583
+coverage,sources,link,986
 coverage,sources,extra_links,22
-coverage,sources,owner,540
+coverage,sources,owner,545
 coverage,sources,ownership_note,139
 coverage,sources,beat,73
 coverage,sources,where_they_post,73

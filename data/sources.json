@@ -3110,6 +3110,55 @@
     "audience": []
   },
   {
+    "slug": "discord-newsroom-and-blog",
+    "name": "Discord Newsroom and Blog",
+    "group": "Data",
+    "medium": "Company disclosure",
+    "format": "Corporate IR",
+    "what_it_lets_you_find_out": "Discord's own announcements on age assurance, safety incidents and its platform for games, which trend pages cite directly for what the company says it has done.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://discord.com/newsroom",
+    "extra_links": [],
+    "owner": "Discord Inc.",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "roblox-newsroom",
+    "name": "Roblox Newsroom",
+    "group": "Data",
+    "medium": "Company disclosure",
+    "format": "Corporate IR",
+    "what_it_lets_you_find_out": "Roblox's own figures and announcements on creator payouts, its economy and its creation tools, which the creator-economy and prompt-to-game pages cite for what the company reports.",
+    "markets": [
+      "Global",
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://about.roblox.com/newsroom",
+    "extra_links": [],
+    "owner": "Roblox Corporation",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
     "slug": "digra-australia",
     "name": "DiGRA Australia (DiGRAA)",
     "group": "Institutions",
@@ -7242,6 +7291,55 @@
     "link": "https://www.gov.uk/search/all?order=updated-newest",
     "extra_links": [],
     "owner": "Government Digital Service, Cabinet Office",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "press-information-bureau-india",
+    "name": "Press Information Bureau (PIB), India",
+    "group": "Institutions",
+    "medium": "Organisation",
+    "format": "Government agency",
+    "what_it_lets_you_find_out": "The Indian government's own press releases, which are the primary record for ministry statements and policy on online gaming, screen time and support for the games industry.",
+    "markets": [
+      "IN"
+    ],
+    "language": [
+      "English",
+      "Hindi"
+    ],
+    "cost": "Free",
+    "link": "https://pib.gov.in/",
+    "extra_links": [],
+    "owner": "Ministry of Information and Broadcasting, Government of India",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "california-legislative-information",
+    "name": "California Legislative Information",
+    "group": "Institutions",
+    "medium": "Report or document",
+    "format": "Regulation or law",
+    "what_it_lets_you_find_out": "The text, status and history of California bills, which is the primary record for the state laws on game preservation, AI companions and sweepstakes that trend pages cite.",
+    "markets": [
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://leginfo.legislature.ca.gov/",
+    "extra_links": [],
+    "owner": "California Legislative Counsel",
     "ownership_note": "",
     "beat": "",
     "where_they_post": "",
@@ -15182,6 +15280,30 @@
     "link": "https://www.medianama.com/tag/gaming/",
     "extra_links": [],
     "owner": "Mixed Bag Media Pvt. Ltd., founded by Nikhil Pahwa",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "gamingonlinux",
+    "name": "GamingOnLinux",
+    "group": "Press",
+    "medium": "News outlet",
+    "format": "Games news site",
+    "what_it_lets_you_find_out": "Month-by-month readings of the Steam Hardware Survey and Steam Replay, including Linux and Steam Deck share, which few outlets track continuously.",
+    "markets": [
+      "Global"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "",
+    "link": "https://www.gamingonlinux.com/",
+    "extra_links": [],
+    "owner": "Liam Dawe",
     "ownership_note": "",
     "beat": "",
     "where_they_post": "",
