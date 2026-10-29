@@ -346,6 +346,28 @@
         "source": "GDC State of the Game Industry",
         "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
         "source_slug": "gdc-state-of-the-game-industry"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "Players mourned the studio more than they analyzed the cuts: their favorite BioWare games, a leaked trailer for the canceled Mass Effect, and whether private equity is to blame.",
+        "card_text": "Grief for BioWare, and blame for its owners",
+        "year": "2026",
+        "market": "",
+        "source": "ResetEra (22 October 2026)",
+        "link": "https://www.resetera.com/threads/jason-schreier-electronic-arts-is-cutting-400-jobs-and-shutting-down-bioware.1666562/",
+        "source_slug": "resetera"
+      },
+      {
+        "section": "Talk",
+        "kind": "Event",
+        "claim": "A comment on the r/pcgaming post that reported the closure.",
+        "card_text": "\"Holy shit. I guess EA were really unhappy with Veilguard's sales figures, then?\"",
+        "year": "2026",
+        "market": "",
+        "source": "Reddit, r/pcgaming (21 October 2026)",
+        "link": "https://www.reddit.com/r/pcgaming/comments/1xbt8al/electronic_arts_is_cutting_400_jobs_and_shutting/",
+        "source_slug": "reddit"
       }
     ]
   },
@@ -13020,6 +13042,28 @@
         "source": "GDC State of the Game Industry",
         "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
         "source_slug": "gdc-state-of-the-game-industry"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "Players put October's Steam Next Fest at 8,000 demos and called it flooded with generated games. GameDiscoverCo counted 7,100. What they asked for was a filter for AI-made games, not fewer demos.",
+        "card_text": "Players want Valve to filter AI games, not shrink the fest",
+        "year": "2026",
+        "market": "",
+        "source": "ResetEra (20 October 2026)",
+        "link": "https://www.resetera.com/threads/steam-next-fest-oct-2026-has-8k-game-demos-twice-the-amount-of-june-2026-we-are-drowning-in-ai-shit.1664863/",
+        "source_slug": "resetera"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "On r/Games the call for a filter arrived as news in its own right: a report that demands for one were growing as the fest filled with generated games.",
+        "card_text": "The filter request became a story of its own",
+        "year": "2026",
+        "market": "",
+        "source": "Reddit, r/Games (20 October 2026)",
+        "link": "https://www.reddit.com/r/Games/comments/1xaq26q/demands_for_ai_filter_on_steam_grow_as_next_fest/",
+        "source_slug": "reddit"
       }
     ]
   },
