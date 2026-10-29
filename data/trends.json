@@ -7041,7 +7041,8 @@
         "market": "",
         "source": "GamesRadar+, Ashley Bardhan (22 December 2025)",
         "link": "https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/",
-        "source_slug": "gamesradar"
+        "source_slug": "gamesradar",
+        "retired": "2026-10-29"
       },
       {
         "section": "Objections",
@@ -18428,6 +18429,307 @@
         "source": "GameDev Reports, Dmitriy Byshonkov, relaying Circana (31 January 2026)",
         "link": "https://gamedevreports.substack.com/p/weekly-gaming-reports-recap-january-efb",
         "source_slug": "gamedev-reports"
+      }
+    ]
+  },
+  {
+    "slug": "players-push-back-on-ai-in-games",
+    "name": "Players are pushing back on AI in the games they buy",
+    "stage": "Emerging",
+    "category": "Culture & audience",
+    "horizon": "h2",
+    "horizon_group": "rewriting-rules",
+    "horizon_line": "Buyers as the check on AI. When players find it, studios now pull it.",
+    "markets": [
+      "Global",
+      "US"
+    ],
+    "what_it_is": "When players find generative AI in a game they bought or a trailer they watched, they now say so loudly, and studios often back down. Frontier, Ubisoft, Larian and Pearl Abyss removed or ruled out AI art after players objected, and the user score of Call of Duty: Black Ops 7 fell to 1.9 over its AI art. SteamDB built a filter to hide AI games. In October 2026 players asked Valve for one as Next Fest filled up, and Valve has promised none.",
+    "why_it_matters": "Players have become a check on how studios use generative AI. AI they spot gets removed or called a placeholder, and one game was canceled, so studios hide it or drop it. Games that disclose AI still sell, so the pressure is loud, not total.",
+    "further_reading": [
+      {
+        "source": "Call Of Duty: Black Ops 7 Is Getting A Brutal Kicking From Players Over Its Use Of AI",
+        "link": "https://kotaku.com/call-of-duty-black-ops-7-ai-art-user-reviews-steam-2000644734",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "What do Steam fans really think about AI in games?",
+        "link": "https://newsletter.gamediscover.co/p/what-do-steam-fans-really-think-about",
+        "type": "Data",
+        "format": ""
+      },
+      {
+        "source": "Steam Next Fest's AI Problems",
+        "link": "https://naavik.co/ai-gaming/steam-next-fests-ai-problems/",
+        "type": "Analysis",
+        "format": ""
+      }
+    ],
+    "as_of": "Oct 2026",
+    "where_to_follow": "Steam user reviews and AI disclosures, SteamDB, Kotaku, Aftermath, GameDiscoverCo",
+    "status_label": "",
+    "measure_label": "",
+    "row_label": "",
+    "series_label": "",
+    "series_note": "",
+    "series_type": "",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "claims": [
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "After months of players accusing a holiday loading screen of being AI-made, Activision adds a Steam disclosure saying its team uses generative AI tools for some in-game assets. Players answer with a run of negative Steam reviews. The wording does not say which assets.",
+        "card_text": "Black Ops 6 players answer an AI disclosure with bad reviews",
+        "year": "2025",
+        "market": "",
+        "source": "Game Developer, Chris Kerr (25 February 2025)",
+        "link": "https://www.gamedeveloper.com/production/players-lambast-activision-after-publisher-confirms-generative-ai-was-used-in-black-ops-6",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "SteamDB adds an AI Content Disclosed tag, applied automatically to any store page carrying Valve's disclosure, so its users can hide games made with generative AI. More than 4,900 items carry it at launch. It is only as good as what developers declare.",
+        "card_text": "SteamDB builds the filter Steam does not have",
+        "year": "2025",
+        "market": "",
+        "source": "Siliconera, Jenni Lada (25 February 2025)",
+        "link": "https://www.siliconera.com/steamdb-lets-you-filter-out-gen-ai-pc-games-on-steam/",
+        "source_slug": "siliconera"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Fans spot a Steam disclosure that the game's scientist portraits are made with generative AI and leave hundreds of negative comments. Frontier replies that it has opted to remove generative AI from the portraits, months before launch.",
+        "card_text": "Jurassic World Evolution 3 drops its AI portraits",
+        "year": "2025",
+        "market": "",
+        "source": "Aftermath, Nathan Grayson (25 June 2025)",
+        "link": "https://aftermath.site/jurassic-world-evolution-3-ai-removed/",
+        "source_slug": "aftermath"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Players object to calling cards, banners and campaign art they say are AI-made and drag Call of Duty: Black Ops 7's user scores down. Its Metacritic user score is 1.9, against a Metascore of 83, and its Steam reviews are 42% positive. Activision says it uses AI tools among others.",
+        "card_text": "Black Ops 7's user score falls to 1.9 over AI art",
+        "year": "2025",
+        "market": "",
+        "source": "Kotaku, John Walker (17 November 2025)",
+        "link": "https://kotaku.com/call-of-duty-black-ops-7-ai-art-user-reviews-steam-2000644734",
+        "source_slug": "kotaku"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Players post an Anno 117 loading screen with missing arms and strange hands. Ubisoft calls it a placeholder that slipped through review and shows the replacement for the next update.",
+        "card_text": "Ubisoft replaces an AI loading screen in Anno 117",
+        "year": "2025",
+        "market": "",
+        "source": "Aftermath, Luke Plunkett (17 November 2025)",
+        "link": "https://aftermath.site/this-is-where-my-anno-117-impressions-were-going-to-go/",
+        "source_slug": "aftermath"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Postal community says the reveal material for Postal: Bullet Paradise looks AI-made. Publisher Running With Scissors, overwhelmed by the response, cancels the game, its developer Goonswarm Games shuts down, and Goonswarm then admits to using generative AI.",
+        "card_text": "A Postal game is canceled a day after its reveal",
+        "year": "2025",
+        "market": "",
+        "source": "GamingOnLinux, Liam Squires-Hand (9 December 2025)",
+        "link": "https://www.gamingonlinux.com/2025/12/postal-bullet-paradise-gets-cancelled-over-generative-ai-with-goonswarm-games-shutting-down/",
+        "source_slug": "gamingonlinux"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "After fans object to Larian describing AI experiments in concept work, the studio answers on Reddit that there will be no generative AI art in Divinity and no AI-written text. It says it will use generated creative assets only where it is sure of the training data and its creators' consent.",
+        "card_text": "Larian rules out AI art in Divinity after a fan backlash",
+        "year": "2026",
+        "market": "",
+        "source": "CGMagazine, Hayes Madsen (9 January 2026)",
+        "link": "https://www.cgmagonline.com/news/larian-generative-ai-divinity-reddit",
+        "source_slug": "cgmagazine"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Arc Raiders launched with AI voices built from paid actors and said so on Steam. Players objected anyway, and its studio re-records many lines with people. 'A real professional actor is better than AI,' its chief executive says.",
+        "card_text": "Arc Raiders re-records its AI voices with actors",
+        "year": "2026",
+        "market": "",
+        "source": "Kotaku, Zack Zwiezen (13 March 2026)",
+        "link": "https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774",
+        "source_slug": "kotaku"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In the week after launch, players on Reddit find three images in Crimson Desert that look AI-made. Pearl Abyss says some 2D props were made with experimental generative tools during early iteration, takes full responsibility, and says it should have disclosed it.",
+        "card_text": "Crimson Desert players find AI images, and Pearl Abyss apologizes",
+        "year": "2026",
+        "market": "",
+        "source": "Aftermath, Luke Plunkett (22 March 2026)",
+        "link": "https://aftermath.site/crimson-desert-ai-art-images/",
+        "source_slug": "aftermath"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Players spot generative AI imagery in a RuneScape trailer shown at RuneFest, from a six-fingered knight. Jagex pulls the trailer and apologizes, and says it was made by an external partner.",
+        "card_text": "Jagex pulls a RuneScape trailer players caught",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz (5 October 2026)",
+        "link": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "As October's Steam Next Fest fills with demos, players ask Valve for an option to hide games made with generative AI, some for separate filters on art, dialogue and music.",
+        "card_text": "Players ask Valve for a switch to hide AI games",
+        "year": "2026",
+        "market": "",
+        "source": "MeinMMO, Christoph Waldboth (20 October 2026)",
+        "link": "https://mein-mmo.de/en/because-ai-games-are-flooding-steam-players-are-now-demanding-a-feature-from-valve,1592972/",
+        "source_slug": "meinmmo"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Paolo Pedercini, who had called AI anti-human and anti-art, discloses after launch that his latest game used text-to-speech voices and AI music loops. Attacked by players, he removes them within a week and offers refunds to anyone who still feels betrayed.",
+        "card_text": "An anti-AI game removes its AI and offers refunds",
+        "year": "2026",
+        "market": "",
+        "source": "Kotaku, Amelia Zollner (23 October 2026)",
+        "link": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
+        "source_slug": "kotaku"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "When players find AI in a game, the studio now removes it, calls it a placeholder or cancels, as Frontier, Ubisoft, Larian, Pearl Abyss and Running With Scissors did. Josh Sawyer's advice, cited in Aftermath's report on Crimson Desert, is that placeholder art should look obnoxiously temporary.",
+        "card_text": "Found AI is now pulled, not defended",
+        "year": "2026",
+        "market": "",
+        "source": "Aftermath, Luke Plunkett (22 March 2026)",
+        "link": "https://aftermath.site/crimson-desert-ai-art-images/",
+        "source_slug": "aftermath"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "In GameDiscoverCo's survey of about 3,800 committed Steam users, 44% read AI disclosures in detail and only 17% believe developers fully disclose AI in what players see and hear. A disclosure has become the thing players react to, as Black Ops 6 found.",
+        "card_text": "Players read the label, and few trust it",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless (7 July 2026)",
+        "link": "https://newsletter.gamediscover.co/p/what-do-steam-fans-really-think-about",
+        "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Valve says it is fully aware of the AI slop and clones in Next Fest, and that many people are thinking about how to solve it, but it does not want to be a gatekeeper over developers' tools and announces no filter, policy or timeline.",
+        "card_text": "Valve hears the demand and builds nothing yet",
+        "year": "2026",
+        "market": "",
+        "source": "Kotaku, John Walker (28 October 2026)",
+        "link": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
+        "source_slug": "kotaku"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Valve narrows its disclosure form to AI that ships in a game and is consumed by players, and exempts tools that only speed up the work. What developers must declare is now what players are pushing back on.",
+        "card_text": "The rules now track what players see",
+        "year": "2026",
+        "market": "",
+        "source": "GamingOnLinux, Liam Squires-Hand (17 January 2026)",
+        "link": "https://www.gamingonlinux.com/2026/01/valve-tweak-steam-ai-disclosure-form-for-developers-to-clarify-its-for-content-consumed-by-players/",
+        "source_slug": "gamingonlinux"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Lambe's estimate that AI-disclosing games on Steam took in about $660 million in 2025, with twelve of them earning eight figures, cuts against the idea that players punish AI. Nobody can count the games that use AI and do not say so.",
+        "card_text": "Games that declare AI use still sell",
+        "year": "2025",
+        "market": "",
+        "source": "GamesRadar+, Ashley Bardhan (22 December 2025)",
+        "link": "https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/",
+        "source_slug": "gamesradar"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Nexon reports 14 million copies of Arc Raiders sold, with about 960,000 players at its January peak. The backlash over its AI voices did not stop it becoming one of the biggest launches of its year.",
+        "card_text": "Arc Raiders sold 14 million with its AI voices",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer, Chris Kerr (12 February 2026)",
+        "link": "https://www.gamedeveloper.com/business/arc-raiders-branded-blockbuster-franchise-after-topping-14-million-sales",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "In Circana's US survey, a little over 25% of players say generative AI would make them less likely to buy a game, up from 22% in 2024, and more than half are neutral. Quantic Foundry finds 85% negative, but among the younger, keener players who take its survey.",
+        "card_text": "Most players say they do not much care",
+        "year": "2026",
+        "market": "",
+        "source": "3DJuegos, Alberto Lloria (25 March 2026), with GamesMarkt, Marcel Kleffmann (22 December 2025)",
+        "link": "https://www.3djuegos.com/pc/noticias/a-mayoria-jugadores-les-da-igual-ia-videojuegos-hay-detalle-mucho-positivo",
+        "source_slug": "3djuegos"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Of 4,382 featured demos in June's Next Fest, 12.5% disclosed AI, and none of the 50 that grew wishlists most had AI at the core of play. Naavik's reading is that quality, not a label, decides what players pick.",
+        "card_text": "Players filter AI by ignoring it",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (7 July 2026)",
+        "link": "https://naavik.co/ai-gaming/steam-next-fests-ai-problems/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Valve says many people are working on the problem. February 2027's Next Fest runs from 22 February to 1 March, and either players can hide AI games there or the demand carries into its third festival.",
+        "card_text": "Steam has its own AI filter by February's Next Fest",
+        "year": "2027",
+        "market": "",
+        "source": "Kotaku, John Walker (28 October 2026)",
+        "link": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
+        "source_slug": "kotaku"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Larian has promised no generative AI art and no AI-written text in Divinity. It has given no release date, so this row comes due when it does.",
+        "card_text": "Divinity ships without generative AI art",
+        "year": "",
+        "market": "",
+        "source": "CGMagazine, Hayes Madsen (9 January 2026)",
+        "link": "https://www.cgmagonline.com/news/larian-generative-ai-divinity-reddit",
+        "source_slug": "cgmagazine"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "On r/Games the news that players were demanding an AI filter on Steam became the talk itself: players asking Valve to let them hide AI-made games, not to shrink the festival.",
+        "card_text": "Players want a switch, not fewer games",
+        "year": "2026",
+        "market": "",
+        "source": "Reddit, r/Games (20 October 2026)",
+        "link": "https://www.reddit.com/r/Games/comments/1xaq26q/demands_for_ai_filter_on_steam_grow_as_next_fest/",
+        "source_slug": "r-games"
       }
     ]
   }
