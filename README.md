@@ -42,7 +42,7 @@ There is no ID column. Rows are identified by name, and row order is export orde
 | [`data/sources.json`](data/sources.json) | 989 | The same rows, as JSON. |
 | [`data/markets.json`](data/markets.json) | 12 | Per-market claims and population figures, nested. Every claim carries the source and link it came from; every population figure carries the definition saying who was counted. |
 | [`data/trends.csv`](data/trends.csv) | 49 | The trends currently moving the industry, with stage, category, place on the Three Horizons and the markets each lands in. |
-| [`data/trend-reading.csv`](data/trend-reading.csv) | 143 | The further reading attached to each trend. One row per link. |
+| [`data/trend-reading.csv`](data/trend-reading.csv) | 144 | The further reading attached to each trend. One row per link. |
 | [`data/trends.json`](data/trends.json) | 49 | Trends with their reading and their sourced claims attached. |
 | [`data/platforms.csv`](data/platforms.csv) | 38 | Storefronts, consoles, livestreaming and UGC platforms, with who owns each. |
 | [`data/genres.csv`](data/genres.csv) | 30 | Genre definitions, local-language terms and subgenres. |

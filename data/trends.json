@@ -1877,17 +1877,17 @@
   },
   {
     "slug": "subscription-plateau",
-    "name": "Game subscriptions are stalling",
-    "stage": "Emerging",
+    "name": "Game subscriptions have stalled, and access is now sold in pieces",
+    "stage": "Dominant",
     "category": "Money & business model",
     "horizon": "h2",
     "horizon_group": "stalled-bets",
-    "horizon_line": "The one-fee-for-everything bet. Subscribers stalled well short of plan, and prices rose instead.",
+    "horizon_line": "The one-fee-for-everything bet. Subscribers stalled short of plan, and the bundle is being sold off in pieces.",
     "markets": [
       "Global",
       "US"
     ],
-    "what_it_is": "Xbox Game Pass is reported to have about 30 million paying subscribers, far below the 77 million Microsoft's internal plan projected for this point. A steep price rise in late 2025 drove people away, and Microsoft partly reversed it in 2026. Sony has stopped publishing PlayStation Plus numbers. Companies are now trimming what subscribers get. From November 2026, Xbox limits how much cloud streaming each tier includes and sells extra hours separately.",
+    "what_it_is": "Xbox Game Pass is reported to have about 30 million paying subscribers, far below the 77 million Microsoft's internal plan projected for this point. A steep price rise in late 2025 drove people away, and Microsoft partly reversed it in 2026. Sony has stopped publishing PlayStation Plus numbers. Companies are now selling the bundle in pieces. From November 2026, Xbox limits how much cloud streaming each tier includes and sells hours outright, even to players with no subscription.",
     "why_it_matters": "For a decade the industry bet that games would follow TV and music into one monthly fee for a big library, and that bet drove huge acquisitions. Subscriber numbers have since stalled well short of company plans, and prices have gone up instead.",
     "further_reading": [
       {
@@ -7106,9 +7106,15 @@
         "link": "https://www.reddit.com/r/gamedev/comments/1vrnqyt/rgamedev_policy_on_ai_use/",
         "type": "Community",
         "format": ""
+      },
+      {
+        "source": "dev stress-tests their game's voice recognition after a player calls it bad",
+        "link": "https://www.tiktok.com/@monchiistudio/video/7676265366301019393",
+        "type": "Community",
+        "format": "video"
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Sep 2026",
     "where_to_follow": "VGC and The Verge AI-in-games coverage, Epic's Creator ecosystem announcements, Inworld/ElevenLabs product news, Kotaku (critical coverage)",
     "status_label": "",
     "measure_label": "",
