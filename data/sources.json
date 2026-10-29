@@ -17701,6 +17701,32 @@
     ]
   },
   {
+    "slug": "theorywise",
+    "name": "TheoryWise",
+    "group": "Media",
+    "medium": "Video channel",
+    "format": "Video essays and analysis",
+    "what_it_lets_you_find_out": "Video essays on games and the people who play them, The Myth of the Aging Playerbase among them. A small channel, kept for the quality of its arguments rather than its reach.",
+    "markets": [
+      "Not market specific"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.youtube.com/@TheoryWiseOS",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": [
+      "Adults"
+    ]
+  },
+  {
     "slug": "whatculture-gaming",
     "name": "WhatCulture Gaming",
     "group": "Media",
@@ -24096,6 +24122,54 @@
     "extra_links": [
       "https://techenclave.com/"
     ],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "r-leagueoflegends",
+    "name": "r/leagueoflegends",
+    "group": "Communities",
+    "medium": "Forum or community",
+    "format": "Subreddit",
+    "what_it_lets_you_find_out": "The main English-language community for League of Legends, one of the most-played games in the world. Balance and patch arguments, Riot's business decisions, and the LCK, LEC and LCS as players follow them, team sales and listings included.",
+    "markets": [
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.reddit.com/r/leagueoflegends/",
+    "extra_links": [],
+    "owner": "",
+    "ownership_note": "",
+    "beat": "",
+    "where_they_post": "",
+    "year": "",
+    "isbn": "",
+    "audience": []
+  },
+  {
+    "slug": "r-playstation",
+    "name": "r/playstation",
+    "group": "Communities",
+    "medium": "Forum or community",
+    "format": "Subreddit",
+    "what_it_lets_you_find_out": "The main subreddit for the PlayStation brand as a whole, across consoles and services. Players on Sony's prices, policies and account rules, PlayStation Plus and age checks among them, beside the hardware talk r/PS5 carries.",
+    "markets": [
+      "US"
+    ],
+    "language": [
+      "English"
+    ],
+    "cost": "Free",
+    "link": "https://www.reddit.com/r/playstation/",
+    "extra_links": [],
     "owner": "",
     "ownership_note": "",
     "beat": "",

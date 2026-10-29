@@ -3,8 +3,8 @@
   "medium": {
     "News outlet": 330,
     "Organisation": 151,
-    "Forum or community": 98,
-    "Video channel": 66,
+    "Forum or community": 100,
+    "Video channel": 67,
     "Person": 66,
     "Data tool": 52,
     "Podcast": 49,
@@ -18,17 +18,17 @@
   "group": {
     "Press": 358,
     "Institutions": 170,
-    "Media": 159,
+    "Media": 160,
     "Data": 128,
-    "Communities": 98,
+    "Communities": 100,
     "People": 73
   },
   "markets": {
-    "US": 176,
+    "US": 178,
     "Global": 160,
     "JP": 139,
     "KR": 86,
-    "Not market specific": 66,
+    "Not market specific": 67,
     "UK": 64,
     "DE": 49,
     "IN": 40,
@@ -82,7 +82,7 @@
     "BE": "tagged"
   },
   "language": {
-    "English": 569,
+    "English": 572,
     "Japanese": 119,
     "Korean": 75,
     "German": 51,
@@ -167,7 +167,7 @@
       "Let's Play and playthrough": 22,
       "News and roundup": 17,
       "Criticism and analysis": 13,
-      "Video essays and analysis": 11,
+      "Video essays and analysis": 12,
       "News and industry reporting": 9,
       "Consumer reviews and recommendations": 9,
       "Academic monograph": 9,
@@ -192,7 +192,7 @@
       "List": 7
     },
     "Communities": {
-      "Subreddit": 53,
+      "Subreddit": 55,
       "Forum": 22,
       "Community wiki": 4,
       "Platform-native": 4,
@@ -206,7 +206,7 @@
     }
   },
   "cost": {
-    "Free": 465,
+    "Free": 468,
     "Paid": 57,
     "Freemium": 53,
     "Unknown": 8
@@ -227,16 +227,16 @@
   },
   "coverage": {
     "sources": {
-      "slug": 986,
-      "name": 986,
-      "group": 986,
-      "medium": 986,
-      "format": 986,
-      "what_it_lets_you_find_out": 986,
-      "markets": 986,
-      "language": 986,
-      "cost": 583,
-      "link": 986,
+      "slug": 989,
+      "name": 989,
+      "group": 989,
+      "medium": 989,
+      "format": 989,
+      "what_it_lets_you_find_out": 989,
+      "markets": 989,
+      "language": 989,
+      "cost": 586,
+      "link": 989,
       "extra_links": 22,
       "owner": 545,
       "ownership_note": 139,
@@ -244,7 +244,7 @@
       "where_they_post": 73,
       "year": 42,
       "isbn": 41,
-      "audience": 66
+      "audience": 67
     }
   }
 }

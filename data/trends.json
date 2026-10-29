@@ -367,7 +367,7 @@
         "market": "",
         "source": "Reddit, r/pcgaming (21 October 2026)",
         "link": "https://www.reddit.com/r/pcgaming/comments/1xbt8al/electronic_arts_is_cutting_400_jobs_and_shutting/",
-        "source_slug": "reddit"
+        "source_slug": "r-pcgaming"
       }
     ]
   },
@@ -3476,9 +3476,9 @@
         "format": ""
       },
       {
-        "source": "TIL, in Brazil, most gacha games are +18 due to the loot box mechanic",
-        "link": "https://x.com/genshinmains_/status/2091189145381323092",
-        "type": "Community",
+        "source": "Brazilians under 18 barred from playing many Riot games by new law",
+        "link": "https://www.sheepesports.com/articles/brazilians-under-18-barred-from-playing-many-riot-games-by-new-law/en",
+        "type": "Reporting",
         "format": ""
       }
     ],
@@ -4276,15 +4276,9 @@
         "link": "https://cityattorney.lacity.gov/updates/la-city-attorney-hydee-feldstein-soto-files-lawsuit-against-online-gambling-enterprise",
         "type": "Primary",
         "format": ""
-      },
-      {
-        "source": "The only companies that want to sponsor me are gambling companies",
-        "link": "https://www.tiktok.com/@nathanli1236/video/7671398335902895368",
-        "type": "Community",
-        "format": "video"
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "Esports Charts sponsorship analyses, Streams Charts on Kick, state legislatures' sweepstakes bills, the Los Angeles City Attorney, Esports News UK, SportBusiness",
     "status_label": "",
     "measure_label": "",
@@ -10497,15 +10491,9 @@
         "link": "https://www.pcgamer.com/games/third-person-shooter/steam-review-bombing-is-gamings-most-powerful-method-of-protest-3-takeaways-from-helldivers-2s-weekend-meltdown/",
         "type": "Reporting",
         "format": ""
-      },
-      {
-        "source": "I hate what the culture wars have done to the discourse surrounding this game",
-        "link": "https://www.reddit.com/r/ShitHaloSays/comments/1vaslzl/i_hate_what_the_culture_wars_have_done_to_the/",
-        "type": "Community",
-        "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Oct 2026",
     "where_to_follow": "IJoC and Games & Culture (scholarly), Aftermath and 404 Media (critical journalism), Wired culture desk, SteamDB review-anomaly data",
     "status_label": "",
     "measure_label": "",
@@ -13063,7 +13051,7 @@
         "market": "",
         "source": "Reddit, r/Games (20 October 2026)",
         "link": "https://www.reddit.com/r/Games/comments/1xaq26q/demands_for_ai_filter_on_steam_grow_as_next_fest/",
-        "source_slug": "reddit"
+        "source_slug": "r-games"
       }
     ]
   },

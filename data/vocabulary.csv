@@ -1,8 +1,8 @@
 facet,within_group,value,rows
 medium,,News outlet,330
 medium,,Organisation,151
-medium,,Forum or community,98
-medium,,Video channel,66
+medium,,Forum or community,100
+medium,,Video channel,67
 medium,,Person,66
 medium,,Data tool,52
 medium,,Podcast,49
@@ -14,15 +14,15 @@ medium,,Research firm,17
 medium,,Link list,7
 group,,Press,358
 group,,Institutions,170
-group,,Media,159
+group,,Media,160
 group,,Data,128
-group,,Communities,98
+group,,Communities,100
 group,,People,73
-markets,,US,176
+markets,,US,178
 markets,,Global,160
 markets,,JP,139
 markets,,KR,86
-markets,,Not market specific,66
+markets,,Not market specific,67
 markets,,UK,64
 markets,,DE,49
 markets,,IN,40
@@ -45,11 +45,11 @@ markets,,EU,8
 markets,,LATAM,5
 markets,,Asia,2
 markets,,BE,1
-market_kind,profiled,US,176
+market_kind,profiled,US,178
 market_kind,scope,Global,160
 market_kind,profiled,JP,139
 market_kind,profiled,KR,86
-market_kind,scope,Not market specific,66
+market_kind,scope,Not market specific,67
 market_kind,profiled,UK,64
 market_kind,profiled,DE,49
 market_kind,profiled,IN,40
@@ -72,7 +72,7 @@ market_kind,tagged,EU,8
 market_kind,tagged,LATAM,5
 market_kind,tagged,Asia,2
 market_kind,tagged,BE,1
-language,,English,569
+language,,English,572
 language,,Japanese,119
 language,,Korean,75
 language,,German,51
@@ -148,7 +148,7 @@ format,Press,Academic newsletter,2
 format,Media,Let's Play and playthrough,22
 format,Media,News and roundup,17
 format,Media,Criticism and analysis,13
-format,Media,Video essays and analysis,11
+format,Media,Video essays and analysis,12
 format,Media,News and industry reporting,9
 format,Media,Consumer reviews and recommendations,9
 format,Media,Academic monograph,9
@@ -169,7 +169,7 @@ format,Media,Industry and business,1
 format,Media,Industry yearbook,1
 format,People,Individual,66
 format,People,List,7
-format,Communities,Subreddit,53
+format,Communities,Subreddit,55
 format,Communities,Forum,22
 format,Communities,Community wiki,4
 format,Communities,Platform-native,4
@@ -180,7 +180,7 @@ format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,465
+cost,,Free,468
 cost,,Paid,57
 cost,,Freemium,53
 cost,,Unknown,8
@@ -194,16 +194,16 @@ trend_category,,Platform & distribution,9
 trend_category,,"Regulation, safety & age",7
 trend_category,,Geography & power,5
 trend_category,,Technology,4
-coverage,sources,slug,986
-coverage,sources,name,986
-coverage,sources,group,986
-coverage,sources,medium,986
-coverage,sources,format,986
-coverage,sources,what_it_lets_you_find_out,986
-coverage,sources,markets,986
-coverage,sources,language,986
-coverage,sources,cost,583
-coverage,sources,link,986
+coverage,sources,slug,989
+coverage,sources,name,989
+coverage,sources,group,989
+coverage,sources,medium,989
+coverage,sources,format,989
+coverage,sources,what_it_lets_you_find_out,989
+coverage,sources,markets,989
+coverage,sources,language,989
+coverage,sources,cost,586
+coverage,sources,link,989
 coverage,sources,extra_links,22
 coverage,sources,owner,545
 coverage,sources,ownership_note,139
@@ -211,4 +211,4 @@ coverage,sources,beat,73
 coverage,sources,where_they_post,73
 coverage,sources,year,42
 coverage,sources,isbn,41
-coverage,sources,audience,66
+coverage,sources,audience,67
