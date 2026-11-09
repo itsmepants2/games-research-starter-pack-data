@@ -1838,30 +1838,6 @@
           "year": "2025",
           "source": "Ukie market valuation announcement, trade body annual",
           "link": "https://ukie.org.uk/news/uk-video-games-market-reaches-8-76-billion-growing-7-4-in-2025/"
-        },
-        {
-          "kind": "Narrative",
-          "claim": "In GWI's survey for the second quarter of 2026, 70.9 percent of UK internet users aged 16 and over said they play video games on any device, for an average of 7 hours 8 minutes a week, against 83.5 percent and 7 hours 13 minutes worldwide.",
-          "card_text": "",
-          "year": "2026",
-          "source": "GWI survey data in DataReportal's Digital 2027 Global Overview, October 2026, research compilation",
-          "link": "https://datareportal.com/reports/digital-2027-global-overview-report"
-        },
-        {
-          "kind": "Narrative",
-          "claim": "Of UK internet users aged 16 and over in GWI's survey for the second quarter of 2025, 53.7 percent played games on a smartphone, 30.9 percent on a games console, 28.4 percent on a laptop or desktop and 23.3 percent on a tablet.",
-          "card_text": "",
-          "year": "2025",
-          "source": "GWI survey data in DataReportal's Digital 2026 United Kingdom, November 2025, research compilation",
-          "link": "https://datareportal.com/reports/digital-2026-united-kingdom"
-        },
-        {
-          "kind": "Research note",
-          "claim": "GWI's play rate is not a share of all UK adults. It counts internet users aged 16 and over on an online panel, so do not set it beside Ofcom's 60 percent of adults for 2021, and quote the wave: 71.0 percent is the second quarter of 2025, 70.9 percent the second quarter of 2026.",
-          "card_text": "",
-          "year": "2026",
-          "source": "GWI survey data in DataReportal's Digital 2027 Global Overview, October 2026, research compilation",
-          "link": "https://datareportal.com/reports/digital-2027-global-overview-report"
         }
       ],
       "Unique to this market": [
@@ -1967,27 +1943,11 @@
         },
         {
           "kind": "Research note",
-          "claim": "Do not rank UK games venues. GWI's platform figures say how many UK internet users use each platform, not where games conversation happens, and no source measuring that was found.",
+          "claim": "Do not assert a UK venue hierarchy. Which platforms carry UK games conversation, and in what proportion, could not be established from a citable UK-specific source.",
           "card_text": "",
           "year": "",
-          "source": "Sources checked and found not to contain the needed data, documented gap",
+          "source": "No source meeting this directory's standard",
           "link": ""
-        },
-        {
-          "kind": "Narrative",
-          "claim": "Reddit and Discord reach a minority of UK internet users. In GWI's survey for the second quarter of 2025, 22.4 percent of those aged 16 and over said they had used Reddit in the past month and 10.6 percent Discord, against 82.6 percent for WhatsApp.",
-          "card_text": "~1 in 5 use Reddit monthly, ~1 in 10 Discord",
-          "year": "2025",
-          "source": "GWI survey data in DataReportal's Digital 2026 United Kingdom, November 2025, research compilation",
-          "link": "https://datareportal.com/reports/digital-2026-united-kingdom"
-        },
-        {
-          "kind": "Narrative",
-          "claim": "University esports talk lives on Discord. National Student Esports, which runs the British University Esports Championship, had 18,361 members on its server in November 2026. Only members can read a Discord server, but anyone can see how many it has.",
-          "card_text": "Student esports runs on Discord",
-          "year": "2026",
-          "source": "National Student Esports Discord server listing, November 2026, the venue's own page",
-          "link": "https://discord.com/servers/national-student-esports-436134286291238912"
         }
       ],
       "Where the data lives": [
@@ -2054,25 +2014,17 @@
           "year": "",
           "source": "Sparkers GSD, per the directory's Sparkers row, data vendor",
           "link": "https://www.sparkers.com/"
-        },
-        {
-          "kind": "Card entry",
-          "claim": "DataReportal Digital reports. Free country reports from Kepios, a UK edition each autumn beside a global overview, giving platform reach, platform use and a video games section on play rates, devices and playtime, almost all of it republished from GWI and Statista.",
-          "card_text": "DataReportal Digital reports",
-          "year": "",
-          "source": "DataReportal, Kepios with We Are Social and Meltwater, research compilation, annual",
-          "link": "https://datareportal.com/digital-in-the-united-kingdom"
         }
       ]
     },
     "known_gaps": [
       {
-        "gap": "Communities. Five UK venues are held and none is a subreddit: the UK games subreddits found were small or could not be checked, and two regional developer Discords had no working invite.",
+        "gap": "Communities. No UK community row is held, and the profile could not establish which platforms carry UK games conversation.",
         "instead": "Use the games-specific subreddit and official-Discord techniques; the UK's English-language discourse mixes with the US's, so a venue found is rarely UK-only."
       },
       {
-        "gap": "Current play participation. The newest UK play rate held is GWI's 70.9 percent of internet users aged 16 and over for 2026, and the only figure for all adults is Ofcom's 60 percent for 2021.",
-        "instead": "Ofcom's Online Nation and children's media series are the rows to check for a newer all-adults figure; quote the base and the year with any figure, and do not set GWI's rate beside Ofcom's."
+        "gap": "Current play participation. The profile's 60 percent of adults is Ofcom's 2021 figure, and no later UK play figure is held.",
+        "instead": "Ofcom's Online Nation and children's media series are the rows to check for a newer edition; quote the year with the figure."
       },
       {
         "gap": "Workforce reconciliation. Headcount comes from TIGA, Ukie's census and DCMS on three definitions, and no reconciliation is held.",

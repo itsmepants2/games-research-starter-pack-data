@@ -3,14 +3,14 @@
   "medium": {
     "News outlet": 330,
     "Organisation": 151,
-    "Forum or community": 105,
-    "Video channel": 67,
+    "Forum or community": 98,
+    "Video channel": 66,
     "Person": 66,
     "Data tool": 52,
     "Podcast": 49,
     "Book or paper": 44,
     "Company disclosure": 41,
-    "Report or document": 38,
+    "Report or document": 37,
     "Newsletter": 28,
     "Research firm": 17,
     "Link list": 7
@@ -18,18 +18,18 @@
   "group": {
     "Press": 358,
     "Institutions": 170,
-    "Media": 160,
-    "Data": 129,
-    "Communities": 105,
+    "Media": 159,
+    "Data": 128,
+    "Communities": 98,
     "People": 73
   },
   "markets": {
-    "US": 178,
-    "Global": 162,
+    "US": 176,
+    "Global": 160,
     "JP": 139,
     "KR": 86,
-    "UK": 69,
-    "Not market specific": 67,
+    "Not market specific": 66,
+    "UK": 64,
     "DE": 49,
     "IN": 40,
     "BR": 39,
@@ -57,8 +57,8 @@
     "Global": "scope",
     "JP": "profiled",
     "KR": "profiled",
-    "UK": "profiled",
     "Not market specific": "scope",
+    "UK": "profiled",
     "DE": "profiled",
     "IN": "profiled",
     "BR": "profiled",
@@ -82,7 +82,7 @@
     "BE": "tagged"
   },
   "language": {
-    "English": 578,
+    "English": 569,
     "Japanese": 119,
     "Korean": 75,
     "German": 51,
@@ -112,7 +112,7 @@
     "Data": {
       "Corporate IR": 36,
       "Creator tracking": 21,
-      "Industry report": 17,
+      "Industry report": 16,
       "Analytics platform": 15,
       "Market research firm": 10,
       "Database": 7,
@@ -167,7 +167,7 @@
       "Let's Play and playthrough": 22,
       "News and roundup": 17,
       "Criticism and analysis": 13,
-      "Video essays and analysis": 12,
+      "Video essays and analysis": 11,
       "News and industry reporting": 9,
       "Consumer reviews and recommendations": 9,
       "Academic monograph": 9,
@@ -192,11 +192,11 @@
       "List": 7
     },
     "Communities": {
-      "Subreddit": 55,
-      "Forum": 25,
-      "Platform-native": 5,
-      "Discord server": 5,
+      "Subreddit": 53,
+      "Forum": 22,
       "Community wiki": 4,
+      "Platform-native": 4,
+      "Discord server": 4,
       "Social platform": 3,
       "Imageboard": 2,
       "Aggregation blog": 2,
@@ -206,20 +206,20 @@
     }
   },
   "cost": {
-    "Free": 474,
+    "Free": 465,
     "Paid": 57,
     "Freemium": 53,
     "Unknown": 8
   },
   "trend_stage": {
-    "Dominant": 19,
+    "Dominant": 18,
     "Emerging": 17,
     "Perennial": 11,
     "Receding": 3
   },
   "trend_category": {
     "Money & business model": 14,
-    "Culture & audience": 11,
+    "Culture & audience": 10,
     "Platform & distribution": 9,
     "Regulation, safety & age": 7,
     "Geography & power": 5,
@@ -227,24 +227,24 @@
   },
   "coverage": {
     "sources": {
-      "slug": 995,
-      "name": 995,
-      "group": 995,
-      "medium": 995,
-      "format": 995,
-      "what_it_lets_you_find_out": 995,
-      "markets": 995,
-      "language": 995,
-      "cost": 592,
-      "link": 995,
-      "extra_links": 23,
-      "owner": 550,
-      "ownership_note": 143,
+      "slug": 986,
+      "name": 986,
+      "group": 986,
+      "medium": 986,
+      "format": 986,
+      "what_it_lets_you_find_out": 986,
+      "markets": 986,
+      "language": 986,
+      "cost": 583,
+      "link": 986,
+      "extra_links": 22,
+      "owner": 545,
+      "ownership_note": 139,
       "beat": 73,
       "where_they_post": 73,
       "year": 42,
       "isbn": 41,
-      "audience": 67
+      "audience": 66
     }
   }
 }
