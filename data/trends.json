@@ -35,7 +35,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Game Developer's business desk, GDC State of the Game Industry (annual), Satvat's layoff tracker, Farhan Noor's videogamelayoffs.com tracker, GamesIndustry.biz",
     "status_label": "",
     "measure_label": "",
@@ -260,6 +260,17 @@
         "source_slug": "game-file"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft offers a voluntary exit package to a reported 60,000 employees, about a quarter of its workforce, with Xbox staff eligible, as it raises spending on AI. GamesIndustry.biz reports the figure as up to 60,000. In the same week Sucker Punch cuts about two dozen staff a year after shipping Ghost of Yotei, and Amir Satvat's figures put game industry salaries down 13% since 2022.",
+        "card_text": "Microsoft offers a quarter of the company a voluntary exit",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz (26 October 2026)",
+        "link": "https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "The cuts are concentrated. In 2026, the five biggest rounds of layoffs account for about 53% of all jobs lost, and the top two alone for about 42%. North America has 66% of the rounds and about 79% of the people affected.",
@@ -346,6 +357,28 @@
         "source": "GDC State of the Game Industry",
         "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
         "source_slug": "gdc-state-of-the-game-industry"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "Players mourned the studio more than they analyzed the cuts: their favorite BioWare games, a leaked trailer for the canceled Mass Effect, and whether private equity is to blame.",
+        "card_text": "Grief for BioWare, and blame for its owners",
+        "year": "2026",
+        "market": "",
+        "source": "ResetEra (22 October 2026)",
+        "link": "https://www.resetera.com/threads/jason-schreier-electronic-arts-is-cutting-400-jobs-and-shutting-down-bioware.1666562/",
+        "source_slug": "resetera"
+      },
+      {
+        "section": "Talk",
+        "kind": "Event",
+        "claim": "A comment on the r/pcgaming post that reported the closure.",
+        "card_text": "\"Holy shit. I guess EA were really unhappy with Veilguard's sales figures, then?\"",
+        "year": "2026",
+        "market": "",
+        "source": "Reddit, r/pcgaming (21 October 2026)",
+        "link": "https://www.reddit.com/r/pcgaming/comments/1xbt8al/electronic_arts_is_cutting_400_jobs_and_shutting/",
+        "source_slug": "r-pcgaming"
       }
     ]
   },
@@ -1855,17 +1888,17 @@
   },
   {
     "slug": "subscription-plateau",
-    "name": "Game subscriptions are stalling",
-    "stage": "Emerging",
+    "name": "Game subscriptions have stalled, and access is now sold in pieces",
+    "stage": "Dominant",
     "category": "Money & business model",
     "horizon": "h2",
     "horizon_group": "stalled-bets",
-    "horizon_line": "The one-fee-for-everything bet. Subscribers stalled well short of plan, and prices rose instead.",
+    "horizon_line": "The one-fee-for-everything bet. Subscribers stalled short of plan, and the bundle is being sold off in pieces.",
     "markets": [
       "Global",
       "US"
     ],
-    "what_it_is": "Xbox Game Pass is reported to have about 30 million paying subscribers, far below the 77 million Microsoft's internal plan projected for this point. A steep price rise in late 2025 drove people away, and Microsoft partly reversed it in 2026. Sony has stopped publishing PlayStation Plus numbers. Companies are now trimming what subscribers get. From November 2026, Xbox limits how much cloud streaming each tier includes and sells extra hours separately.",
+    "what_it_is": "Xbox Game Pass is reported to have about 30 million paying subscribers, far below the 77 million Microsoft's internal plan projected for this point. A steep price rise in late 2025 drove people away, and Microsoft partly reversed it in 2026. Sony has stopped publishing PlayStation Plus numbers. Companies are now selling the bundle in pieces. From November 2026, Xbox limits how much cloud streaming each tier includes and sells hours outright, even to players with no subscription.",
     "why_it_matters": "For a decade the industry bet that games would follow TV and music into one monthly fee for a big library, and that bet drove huge acquisitions. Subscriber numbers have since stalled well short of company plans, and prices have gone up instead.",
     "further_reading": [
       {
@@ -1887,7 +1920,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "The Verge Xbox coverage, WSJ tech desk, Circana subscription spending data, Microsoft earnings",
     "status_label": "",
     "measure_label": "",
@@ -2140,6 +2173,28 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft reports that Xbox content and services revenue fell 2% from a year earlier for the July to September quarter, a fourth consecutive quarterly decline, though the fall narrowed from the quarter before.",
+        "card_text": "Xbox subscription revenue falls for a fourth straight quarter",
+        "year": "2026",
+        "market": "",
+        "source": "Inven Global (29 October 2026)",
+        "link": "https://www.invenglobal.com/articles/27860/xbox-content-and-services-revenue-declines-for-fourth-consecutive-quarter",
+        "source_slug": "inven-global"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft announces that Game Pass Ultimate will be included for eligible T-Mobile customers, selling access through a carrier rather than directly to a player.",
+        "card_text": "Game Pass starts being sold inside a phone plan",
+        "year": "2026",
+        "market": "",
+        "source": "Xbox Wire (26 October 2026)",
+        "link": "https://news.xbox.com/en-us/2026/10/26/xbox-game-pass-t-mobile/",
+        "source_slug": "xbox-wire"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "The number of subscribers has stopped growing, but the money has not. US spending on game subscriptions rose 20% in 2025, the year Microsoft raised its top tier by half. When a service cannot add subscribers, growth has to come from charging the ones it has more.",
@@ -2264,13 +2319,13 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Roblox quarterly earnings and annual reports, Epic's Unreal Fest and Fortnite developer documentation, NetEase earnings calls and the Eggy Party creators' conference, Game Developer, Naavik deep dives",
     "status_label": "",
     "measure_label": "",
     "row_label": "",
     "series_label": "What Roblox paid its creators each quarter, $ millions",
-    "series_note": "Payouts more than doubled in two years, peaked at $477 million in the last quarter of 2025 and fell in both quarters of 2026. Each 2026 quarter is still above the same quarter a year earlier.",
+    "series_note": "Payouts more than doubled in two years and peaked at $477 million in the last quarter of 2025. The third quarter of 2026 is the first to come in below the same quarter a year earlier.",
     "series_type": "line",
     "series_mark": "",
     "series_target": "",
@@ -2414,6 +2469,18 @@
         "link": "https://www.sec.gov/Archives/edgar/data/1315098/000162828026051059/ex991-robloxq22026earnin.htm",
         "source_slug": "roblox-ir-sec-filings",
         "period": "Q2 2026"
+      },
+      {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Roblox paid or owed its creators in cash for the third quarter of 2026. Roblox calls this line developer exchange fees and reports it as $403 million, down 6% from a year earlier.",
+        "card_text": "403",
+        "year": "2026",
+        "market": "",
+        "source": "Roblox Corporation's quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm",
+        "source_slug": "roblox-ir-sec-filings",
+        "period": "Q3 2026"
       },
       {
         "section": "Timeline",
@@ -2570,6 +2637,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Reporting its third quarter, Roblox pays creators $403 million, down 6% from $427.9 million a year earlier and the first quarter to fall below the same quarter of the previous year. Bookings fall 12% to $1.697 billion, daily users 9% to 138 million and hours engaged 15% to nearly 34 billion. Roblox had forecast a fall in player spending of 14% to 18%.",
+        "card_text": "Payouts fall below the year before for the first time",
+        "year": "2026",
+        "market": "",
+        "source": "Roblox Corporation, shareholder letter for the third quarter of 2026 (29 October 2026)",
+        "link": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm",
+        "source_slug": "roblox-ir-sec-filings"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Roblox makes no games itself. Its finance chief, Naveen Chopra, put the 2026 shortfall down to players drifting from the 'high monetizing 2025 vintage viral games' to games that earn less. When creators' hits fade and nothing replaces them, a public company's revenue falls with them.",
@@ -2655,7 +2733,19 @@
         "market": "",
         "source": "TechTimes, Joshua Mitchell (5 August 2026)",
         "link": "https://www.techtimes.com/articles/323188/20260805/roblox-stock-full-year-guidance-pulled-q2-bookings-hit-first-ever-decline.htm",
-        "source_slug": ""
+        "source_slug": "",
+        "retired": "2026-11-02"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Roblox's fourth-quarter results, which it usually reports in February. Roblox has guided to bookings of $1.89 billion to $2.00 billion, a fall of 10% to 15% from a year earlier, after a third quarter in which bookings fell 12% and payouts to creators fell 6%. Whether payouts fall again, and by more, is the thing to watch.",
+        "card_text": "Whether the fourth quarter deepens the fall",
+        "year": "2026",
+        "market": "",
+        "source": "Roblox Corporation, shareholder letter for the third quarter of 2026 (29 October 2026)",
+        "link": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm",
+        "source_slug": "roblox-ir-sec-filings"
       },
       {
         "section": "What to watch",
@@ -3454,13 +3544,13 @@
         "format": ""
       },
       {
-        "source": "TIL, in Brazil, most gacha games are +18 due to the loot box mechanic",
-        "link": "https://x.com/genshinmains_/status/2091189145381323092",
-        "type": "Community",
+        "source": "Brazilians under 18 barred from playing many Riot games by new law",
+        "link": "https://www.sheepesports.com/articles/brazilians-under-18-barred-from-playing-many-riot-games-by-new-law/en",
+        "type": "Reporting",
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Leon Y. Xiao's annual 'Loot Box State of Play' papers, Gaming Law Review, PEGI/ESRB notices, national regulators (Belgian Gaming Commission, Kansspelautoriteit)",
     "status_label": "Regulation",
     "measure_label": "",
@@ -3640,6 +3730,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "From October 2026 PEGI begins raising the age rating of digital-only games already on sale that are rated 3, 7 or 12 and contain paid random items, moving them to 16 with the descriptor Paid random items. PEGI says the updates will be made across all storefronts that use its ratings and will take some time to complete, and that companies must update their product listings.",
+        "card_text": "PEGI starts re-rating games already on sale",
+        "year": "2026",
+        "market": "",
+        "source": "PEGI (6 October 2026)",
+        "link": "https://pegi.info/news/pegi-updates-age-ratings-existing-games-paid-random-items",
+        "source_slug": "pegi"
+      },
+      {
         "section": "Status",
         "kind": "Event",
         "claim": "In force since 17 March 2026. A game under-18s can access must switch paid loot boxes off for players not proven adult, or offer a version without them. Fines reach 10% of a company's Brazilian revenue.",
@@ -3697,7 +3798,7 @@
       {
         "section": "Status",
         "kind": "Event",
-        "claim": "No law covers loot boxes. The government declined to legislate in 2022 and relies on the industry's own principles, which ask for parental consent before under-18s buy. PEGI's 16 rating applies to new games from June 2026.",
+        "claim": "No law covers loot boxes. The government declined to legislate in 2022 and relies on the industry's own principles, which ask for parental consent before under-18s buy. PEGI's 16 rating applies to new games from June 2026, and from October 2026 PEGI began applying it to games already on sale.",
         "card_text": "Self-regulation, plus PEGI 16",
         "year": "2026",
         "market": "UK",
@@ -3860,6 +3961,7 @@
     "horizon_line": "Comes back every time a new worry about children and screens arrives.",
     "markets": [
       "BR",
+      "CA",
       "CN",
       "EU",
       "IN",
@@ -3890,7 +3992,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Niko Partners China/SEA research, TechNode, AGB, national regulator announcements (NPPA, Vietnam MIC); see also the age-checks row for verification mechanics",
     "status_label": "The rule",
     "measure_label": "What it says",
@@ -4002,6 +4104,17 @@
         "source": "Law 15211 (Brazil), article 17",
         "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm",
         "source_slug": ""
+      },
+      {
+        "section": "Status",
+        "kind": "Event",
+        "claim": "A federal online safety bill may bring game platforms such as Roblox and Minecraft inside a restriction on social media for under-16s. It sets no play-time limit. The government has not said whether game platforms are in scope, and the bill has not passed.",
+        "card_text": "No cap: a bill may restrict under-16s",
+        "year": "2026",
+        "market": "CA",
+        "source": "MobileSyrup (27 October 2026)",
+        "link": "https://mobilesyrup.com/2026/10/27/canada-digital-safety-bill-gaming-platforms-roblox/",
+        "source_slug": "mobilesyrup"
       },
       {
         "section": "Timeline",
@@ -4254,15 +4367,9 @@
         "link": "https://cityattorney.lacity.gov/updates/la-city-attorney-hydee-feldstein-soto-files-lawsuit-against-online-gambling-enterprise",
         "type": "Primary",
         "format": ""
-      },
-      {
-        "source": "The only companies that want to sponsor me are gambling companies",
-        "link": "https://www.tiktok.com/@nathanli1236/video/7671398335902895368",
-        "type": "Community",
-        "format": "video"
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Esports Charts sponsorship analyses, Streams Charts on Kick, state legislatures' sweepstakes bills, the Los Angeles City Attorney, Esports News UK, SportBusiness",
     "status_label": "",
     "measure_label": "",
@@ -4534,6 +4641,18 @@
         "kind": "Event",
         "claim": "1 November 2026, when Oklahoma's SB 1589 takes effect. It makes it a felony to run online casino games played with a currency that can be exchanged for prizes, or to support them as a platform provider, promoter or media affiliate. The thing to watch is whether streamers who promote such sites stop doing so there.",
         "card_text": "Oklahoma's ban reaches the promoters",
+        "year": "2026",
+        "market": "US",
+        "source": "SB 1589 (Oklahoma), enrolled",
+        "link": "http://webserver1.lsb.state.ok.us/cf_pdf/2025-26%20ENR/SB/SB1589%20ENR.PDF",
+        "source_slug": "",
+        "retired": "2026-11-02"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Oklahoma's SB 1589 took effect on 1 November 2026. It makes it a felony to run online casino games played with a currency that can be exchanged for prizes, or to support them as a platform provider, promoter or media affiliate. Whether streamers who promote such sites stop doing so there has not yet been reported.",
+        "card_text": "Whether Oklahoma's ban changes what streamers promote",
         "year": "2026",
         "market": "US",
         "source": "SB 1589 (Oklahoma), enrolled",
@@ -5334,7 +5453,7 @@
         "format": "video"
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Rest of World China tech desk, Niko Partners, SCMP tech coverage, Naavik",
     "status_label": "",
     "measure_label": "",
@@ -5547,6 +5666,17 @@
         "source_slug": "technode"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "S-GAME releases Phantom Blade Zero on PlayStation 5 and PC on 29 October 2026 and says it sold 4 million copies across all platforms within 72 hours. It opens at an 88 Metascore and first on Steam's global top sellers, and peaks at 833,921 concurrent players on Steam on 1 November, about a third of Black Myth: Wukong's 2.4 million. It is the first big Chinese game sold up front since Wukong.",
+        "card_text": "Phantom Blade Zero sells 4 million copies in three days",
+        "year": "2026",
+        "market": "",
+        "source": "4Gamers, relaying S-GAME (2 November 2026)",
+        "link": "https://www.4gamers.com.tw/news/detail/83007/phantom-blade-zero-4-million-sales-72-hours",
+        "source_slug": "4gamers"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Xinhua wrote that Wukong had carried the essence of the national cultural spirit abroad, People's Daily said developers should use games to promote the nation's culture, and policymakers called it China's K-pop moment.",
@@ -5632,7 +5762,19 @@
         "market": "",
         "source": "S-GAME, Phantom Blade Zero",
         "link": "https://pbz.s-game.com/m/en-US/",
-        "source_slug": ""
+        "source_slug": "",
+        "retired": "2026-11-02"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "S-GAME's next sales statement, and the Steam concurrent count through the end of 2026. The game sold 4 million copies in 72 hours and peaked at 833,921 concurrent players on Steam on 1 November 2026, against Black Myth: Wukong's 2.4 million. Whether a Chinese premium game can hold a large audience for months, rather than open to one, is the thing to watch.",
+        "card_text": "Whether Phantom Blade Zero holds its players past the launch weekend",
+        "year": "2026",
+        "market": "",
+        "source": "4Gamers, relaying S-GAME (2 November 2026)",
+        "link": "https://www.4gamers.com.tw/news/detail/83007/phantom-blade-zero-4-million-sales-72-hours",
+        "source_slug": "4gamers"
       }
     ]
   },
@@ -5674,7 +5816,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Naavik, SportBusiness esports desk, Reuters M&A coverage, Esports Insider",
     "status_label": "",
     "measure_label": "",
@@ -5893,6 +6035,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "EA closes BioWare after more than 30 years and cancels Mass Effect: Universe, cutting 400 jobs. Eurogamer reports that EA was choosing between that game and Star Wars Battlefront 3 and chose Battlefront 3. Co-founder Greg Zeschuk says the Saudi-led buyout was \"the final nail in the coffin\" for the studio and that it is \"easier just to pump out sports games\".",
+        "card_text": "EA shuts BioWare and cancels Mass Effect",
+        "year": "2026",
+        "market": "",
+        "source": "Eurogamer (30 October 2026)",
+        "link": "https://www.eurogamer.net/ea-closed-bioware-because-star-wars-battlefront-3",
+        "source_slug": "eurogamer"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Nick Button-Brown, an investor who used to work at EA, argues that money spent on interest is money not spent on new games. 'You won't feel it next year, but you will feel it in five years,' he says.",
@@ -5934,6 +6087,17 @@
         "market": "",
         "source": "GamesIndustry.biz (23 January 2026)",
         "link": "https://www.gamesindustry.biz/us-lawmakers-ask-ftc-thoroughly-review-55bn-ea-deal-warn-of-potential-negative-impact-on-workers",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "More than 223,000 people signed a petition to save Mass Effect in the days after BioWare closed, and crowdfunded billboards in Times Square and outside EA's offices in under fifteen minutes. The petition does not ask for BioWare back. It asks for the series to go to another studio. It is the first organized player response to what the buyout has done.",
+        "card_text": "Players organized against the new owners within weeks",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz (26 October 2026)",
+        "link": "https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect",
         "source_slug": "gamesindustry-biz"
       },
       {
@@ -6675,7 +6839,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "GDC State of the Game Industry (annual), Game Developer, Wired gaming/AI coverage, a16z Games (for the pro-adoption view)",
     "status_label": "",
     "measure_label": "",
@@ -6805,7 +6969,8 @@
         "market": "",
         "source": "GDC State of the Game Industry 2025 (21 January 2025)",
         "link": "https://gdconf.com/article/gdc-2025-state-of-the-game-industry-devs-weigh-in-on-layoffs-ai-and-more/",
-        "source_slug": "gdc-state-of-the-game-industry"
+        "source_slug": "gdc-state-of-the-game-industry",
+        "retired": "2026-11-02"
       },
       {
         "section": "Timeline",
@@ -6951,6 +7116,17 @@
         "source_slug": "pc-gamer"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Marcus Wassmer, Epic's executive vice president of development, tells This Week in Videogames that Epic is using AI to develop code and features for Unreal Engine, that almost all current development sits in the streams attached to Fortnite, the Unreal Editor for Fortnite and Unreal Engine 6, and that \"We are more concerned about the risks of moving too slowly than we are about AI skepticism.\" Epic names Anthropic's Claude and OpenAI's Codex as the tools.",
+        "card_text": "Epic says almost all its development now runs on AI tools",
+        "year": "2026",
+        "market": "",
+        "source": "This Week in Videogames (27 October 2026)",
+        "link": "https://thisweekinvideogames.com/news/epic-games-confirms-ai-is-being-used-to-develop-code-for-unreal-engine/",
+        "source_slug": "this-week-in-video-games"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Haley MacLean explains why publishers ban it. AI-generated assets leave a studio open to claims that it copied someone's work, and unable to claim ownership of its own game's art. 'I think we're going to see lawsuits of those types in the coming years,' she says.",
@@ -7025,7 +7201,8 @@
         "market": "",
         "source": "GamesRadar+, Ashley Bardhan (22 December 2025)",
         "link": "https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/",
-        "source_slug": "gamesradar"
+        "source_slug": "gamesradar",
+        "retired": "2026-10-29"
       },
       {
         "section": "Objections",
@@ -7037,6 +7214,17 @@
         "source": "PC Gamer (22 October 2026)",
         "link": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
         "source_slug": "pc-gamer"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Epic Games builds the engine much of the industry licenses, and it is adopting generative AI openly rather than retreating from it. Its development chief says almost all current work uses AI coding tools, its chief executive calls Steam's requirement to disclose AI content \"a political act\", and PocketGamer.biz reports that more than 80% of the top games on Roblox now use AI. A turn among developers is not the same as a turn among the companies they build on.",
+        "card_text": "The largest engine vendor is going the other way",
+        "year": "2026",
+        "market": "",
+        "source": "This Week in Videogames (27 October 2026)",
+        "link": "https://thisweekinvideogames.com/news/epic-games-confirms-ai-is-being-used-to-develop-code-for-unreal-engine/",
+        "source_slug": "this-week-in-video-games"
       },
       {
         "section": "What to watch",
@@ -7399,7 +7587,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "SAG-AFTRA's interactive media page, Deadline/Variety labor desks, Game Developer labor coverage",
     "status_label": "",
     "measure_label": "",
@@ -7561,6 +7749,17 @@
         "source": "Japan Actors Union, Guidelines on the Use of Generative AI for Voice (15 October 2026)",
         "link": "https://www.nippairen.com/about/jau_guideline.html",
         "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Game Developer reports that Epic is updating the Unreal Engine license to allow AI training on outputs from Unreal Engine and MetaHuman.",
+        "card_text": "Epic changes its engine license to permit AI training on outputs",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer (27 October 2026)",
+        "link": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+        "source_slug": "game-developer"
       },
       {
         "section": "Consequences",
@@ -8171,7 +8370,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Stream Hatchet quarterly and annual reports, Streams Charts, Netinfluencer, Bloomberg's creator-economy coverage",
     "status_label": "",
     "measure_label": "",
@@ -8422,6 +8621,17 @@
         "source": "Streams Charts, Q3 2026 global livestreaming landscape (13 October 2026)",
         "link": "https://streamscharts.com/news/q3-2026-global-livestreaming-landscape",
         "source_slug": "streams-charts"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Tubefilter reports that Instagram is offering YouTube creators up to $500,000 to post with its new horizontal video format. Where creators have mostly spread across platforms at their own cost, here the platform is paying for the move.",
+        "card_text": "Instagram pays YouTubers to post in its new horizontal format",
+        "year": "2026",
+        "market": "",
+        "source": "Tubefilter (29 October 2026)",
+        "link": "https://www.tubefilter.com/2026/10/29/instagram-offering-youtubers-new-features-format/",
+        "source_slug": "tubefilter"
       },
       {
         "section": "Consequences",
@@ -10085,7 +10295,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Game Workers of America / CWA announcements, Game Developer labor desk, GDC State of the Game Industry, IGDA",
     "status_label": "",
     "measure_label": "",
@@ -10445,6 +10655,17 @@
         "source": "Rock Paper Shotgun (14 October 2026), with Eurogamer (14 October 2026)",
         "link": "https://www.rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date",
         "source_slug": "rock-paper-shotgun"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "November 2026, when workers at Rockstar Games vote on union recognition. The Independent Workers Union of Great Britain says the bargaining unit would be over 1,600 workers, nearly all roles below director level at Rockstar's UK studios, and would be, in its own words, \"the biggest recognised union in the U.K. games sector\". Whether the vote carries is the thing to watch.",
+        "card_text": "Rockstar's recognition vote",
+        "year": "2026",
+        "market": "",
+        "source": "Game File, Stephen Totilo (29 October 2026)",
+        "link": "https://www.gamefile.news/p/rockstar-union-size-xbox-missing-reviews",
+        "source_slug": "game-file"
       }
     ]
   },
@@ -10475,15 +10696,9 @@
         "link": "https://www.pcgamer.com/games/third-person-shooter/steam-review-bombing-is-gamings-most-powerful-method-of-protest-3-takeaways-from-helldivers-2s-weekend-meltdown/",
         "type": "Reporting",
         "format": ""
-      },
-      {
-        "source": "I hate what the culture wars have done to the discourse surrounding this game",
-        "link": "https://www.reddit.com/r/ShitHaloSays/comments/1vaslzl/i_hate_what_the_culture_wars_have_done_to_the/",
-        "type": "Community",
-        "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "IJoC and Games & Culture (scholarly), Aftermath and 404 Media (critical journalism), Wired culture desk, SteamDB review-anomaly data",
     "status_label": "",
     "measure_label": "",
@@ -10601,6 +10816,17 @@
         "source": "GamesRadar+, Jasmine Gould-Wilson (16 August 2026)",
         "link": "https://www.gamesradar.com/games/the-backlash-against-gen-ai-in-video-games-proves-voting-with-your-wallet-works/",
         "source_slug": "gamesradar"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Players review bomb Helldivers 2 on Steam after Arrowhead ships anti-cheat that affects friendly fire and removes support for mods. The protest is about a change to a game players already own rather than about its politics or its launch.",
+        "card_text": "Helldivers 2 players review bomb over anti-cheat and mods",
+        "year": "2026",
+        "market": "",
+        "source": "IGN Middle East (29 October 2026)",
+        "link": "https://me.ign.com/en/helldivers-ii/249329/helldivers-2-review-bombed-on-steam-after-anti-cheat-friendly-fire",
+        "source_slug": "ign"
       },
       {
         "section": "Consequences",
@@ -11502,7 +11728,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Matthew Ball / Epyllion annual State of Video Gaming, The Game Business (Christopher Dring), Game Developer's business desk, GameDiscoverCo",
     "status_label": "",
     "measure_label": "",
@@ -11810,6 +12036,17 @@
         "source_slug": ""
       },
       {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "InvestGame puts money raised by Turkish mobile studios at about $400 million since the start of 2025. A global fall in studio investment is not the same as a fall everywhere, and the regions still raising are where the next cohort of studios will come from.",
+        "card_text": "One region is raising money while the rest retreats",
+        "year": "2026",
+        "market": "",
+        "source": "GameDev Reports, relaying InvestGame (27 October 2026)",
+        "link": "https://gamedevreports.substack.com/p/investgame-turkish-mobile-studios",
+        "source_slug": "gamedev-reports"
+      },
+      {
         "section": "What to watch",
         "kind": "Event",
         "claim": "Aream & Co.'s fourth-quarter update, which InvestGame usually posts in January. Private investment reached 2.8 billion dollars across 137 deals in the third quarter of 2026, with late-stage rounds at 2.0 billion, which Aream says is a level not seen since the fourth quarter of 2021. The test is whether the fourth quarter holds that level.",
@@ -11868,7 +12105,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "The Game Business (Christopher Dring), Game File (Stephen Totilo), Video Games Chronicle, Circana consumer surveys",
     "status_label": "",
     "measure_label": "",
@@ -12024,6 +12261,17 @@
         "source": "Alinea Analytics (9 October 2026)",
         "link": "https://alineaanalytics.substack.com/p/gears-of-war-e-day-sells-230k-copies",
         "source_slug": "alinea-analytics"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft reports Xbox hardware sales down 14% from a year earlier for the July to September quarter. Asha Sharma, who leads Xbox, says there is \"more demand than consoles available\" and that console sales \"remain constrained by supply\", rather than attributing the fall to demand.",
+        "card_text": "Xbox hardware falls 14% and Microsoft blames supply",
+        "year": "2026",
+        "market": "",
+        "source": "Eurogamer (29 October 2026)",
+        "link": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
+        "source_slug": "eurogamer"
       },
       {
         "section": "Consequences",
@@ -12655,7 +12903,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "GameDiscoverCo (Simon Carless), Naavik, GDC State of the Game Industry (annual), Gamalytic, SteamDB",
     "status_label": "",
     "measure_label": "",
@@ -12912,6 +13160,17 @@
         "source_slug": "gamedev-reports"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Valve acknowledges that Steam carries AI-cloned and low-quality games and says it has a significant number of people working on the problem, while declining to restrict which tools developers use: \"we don't want to be gatekeepers telling developers which tools they should or shouldn't use.\" Of the fifty most-played demos at the October 2026 Next Fest, four carried AI disclosures.",
+        "card_text": "Valve says it has people working on Steam's AI slop problem",
+        "year": "2026",
+        "market": "",
+        "source": "PC Gamer (28 October 2026)",
+        "link": "https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/",
+        "source_slug": "pc-gamer"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Jason Gastrow, the YouTuber known as videogamedunkey, launched a publisher called Bigmode, saying that players who care about games come to his channel 'to find out what's actually worth playing.' Bigmode offers the games it picks funding, publicity, testing and translation.",
@@ -13008,6 +13267,18 @@
         "market": "",
         "source": "GameDiscoverCo, Simon Carless (20 October 2026)",
         "link": "https://newsletter.gamediscover.co/p/should-your-game-discovery-plans",
+        "source_slug": "gamediscoverco",
+        "retired": "2026-11-02"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "GameDiscoverCo's results report for the next Steam Next Fest, which it publishes on the Tuesday after the fest opens as it did on 27 October 2026. June's report put the top tenth of games at about 121 new followers each, down from 163 a year earlier. Whether that figure falls again is the thing to watch.",
+        "card_text": "What the next Next Fest does to follower counts",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless (27 October 2026)",
+        "link": "https://newsletter.gamediscover.co/p/who-won-october-2026s-steam-next",
         "source_slug": "gamediscoverco"
       },
       {
@@ -13020,6 +13291,28 @@
         "source": "GDC State of the Game Industry",
         "link": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
         "source_slug": "gdc-state-of-the-game-industry"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "Players put October's Steam Next Fest at 8,000 demos and called it flooded with generated games. GameDiscoverCo counted 7,100. What they asked for was a filter for AI-made games, not fewer demos.",
+        "card_text": "Players want Valve to filter AI games, not shrink the fest",
+        "year": "2026",
+        "market": "",
+        "source": "ResetEra (20 October 2026)",
+        "link": "https://www.resetera.com/threads/steam-next-fest-oct-2026-has-8k-game-demos-twice-the-amount-of-june-2026-we-are-drowning-in-ai-shit.1664863/",
+        "source_slug": "resetera"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "On r/Games the call for a filter arrived as news in its own right: a report that demands for one were growing as the fest filled with generated games.",
+        "card_text": "The filter request became a story of its own",
+        "year": "2026",
+        "market": "",
+        "source": "Reddit, r/Games (20 October 2026)",
+        "link": "https://www.reddit.com/r/Games/comments/1xaq26q/demands_for_ai_filter_on_steam_grow_as_next_fest/",
+        "source_slug": "r-games"
       }
     ]
   },
@@ -16250,7 +16543,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "TrendForce memory price releases, Circana US hardware figures, The Verge's RAM shortage coverage, ComputerBase memory reporting, Omdia component analysis",
     "status_label": "",
     "measure_label": "",
@@ -16443,6 +16736,17 @@
         "source_slug": "the-verge"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Microsoft reports Xbox hardware sales down 14% from a year earlier for the July to September quarter, and Asha Sharma, who leads Xbox, says there is \"more demand than consoles available\" and that console sales \"remain constrained by supply\". She does not say what constrains the supply, so the link to memory prices is not hers.",
+        "card_text": "A console maker says supply, not demand, is limiting sales",
+        "year": "2026",
+        "market": "",
+        "source": "Eurogamer (29 October 2026)",
+        "link": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
+        "source_slug": "eurogamer"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Sony, Microsoft and Nintendo have all raised console prices in 2025 and 2026 and named memory costs among the reasons. Microsoft says it now sells consoles for less than they cost to make, which is the clearest sign that the chip price is not being absorbed.",
@@ -16589,7 +16893,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "PC Gamer, GamesRadar+, Naavik, the N64: Recompiled project, GitHub's public DMCA notices",
     "status_label": "",
     "measure_label": "",
@@ -16775,6 +17079,28 @@
         "source_slug": "gamesradar"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "CD Projekt Red says about half of the team writing quests for Cyberpunk 2 are former modders recruited from the game's own modding community. It is the clearest case of a studio treating player-made work as a hiring pipeline rather than a liability.",
+        "card_text": "CD Projekt hires half a quest team out of the modding community",
+        "year": "2026",
+        "market": "",
+        "source": "IGN Italia (26 October 2026)",
+        "link": "https://it.ign.com/cyberpunk-2/228818/cyberpunk-2-circa-meta-del-team-al-lavoro-sulle-missioni-del-gioco-e-composto-da-ex-modder",
+        "source_slug": "ign"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "A former volunteer threatens legal action against Skyblivion, the 14-year fan rebuild of Oblivion, over code he contributed. The team deletes and rewrites the disputed code, and the project lead asks supporters not to turn it into a witch hunt. The threat comes from inside the project rather than from the rightsholder.",
+        "card_text": "A Skyblivion volunteer threatens to sue the project",
+        "year": "2026",
+        "market": "",
+        "source": "Eurogamer (31 October 2026)",
+        "link": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
+        "source_slug": "eurogamer"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Ship of Harkinian now has a built-in randomizer, text-to-speech and hundreds of enhancements. sm64coopdx adds four-player co-op to Super Mario 64, and Dinosaur Planet: Recompiled is restoring a Rare game that was never released.",
@@ -16894,6 +17220,17 @@
         "source": "GamesRadar+, Dustin Bailey (2 October 2026)",
         "link": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
         "source_slug": "gamesradar"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "Players watch mods as entertainment, not only as something to install. A showcase of an unreleased Spider-Man 2 thruster mod drew 193,200 likes and 1.3 million views in the week CD Projekt said half of Cyberpunk 2's quest team came from the modding community, and a Cyberpunk 2077 modlist showcase drew 56,295 likes in the same week.",
+        "card_text": "Mod showcases draw audiences the size of launch trailers",
+        "year": "2026",
+        "market": "",
+        "source": "TikTok (31 October 2026)",
+        "link": "https://www.tiktok.com/@nqfarious/video/7702742940287864078",
+        "source_slug": ""
       }
     ]
   },
@@ -16910,7 +17247,7 @@
       "KR",
       "US"
     ],
-    "what_it_is": "Roblox and Google now let people make a game by typing what they want, then publish it where others play, and Unity is testing a tool that does the same. Roblox says players published about 9,000 games with its Build tool in five weeks, and that 71% of those who made one had never used Roblox Studio, its software for developers. Astrocade, a startup built on the idea, says it has 10 million monthly users. Google's Playground is open only to adults in the US.",
+    "what_it_is": "Roblox and Google now let people make a game by typing what they want, then publish it where others play, and Unity is testing a tool that does the same. Roblox says over 500,000 people have used its Build tool and published more than 70,000 games, and that 71% of those who made one had never used Roblox Studio. Astrocade, a startup built on the idea, says it has 10 million monthly users. Google's Playground is open only to adults in the US.",
     "why_it_matters": "Making a game used to take code or a game engine. On these platforms one company makes the game for the player, hosts it and decides who sees it. Early numbers say few players make games at all.",
     "further_reading": [
       {
@@ -16932,7 +17269,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Naavik, Game File, mobilegamer.biz, the Roblox Newsroom, AI and Games",
     "status_label": "",
     "measure_label": "",
@@ -16943,14 +17280,6 @@
     "series_mark": "",
     "series_target": "",
     "timeline_heads": true,
-    "what_it_is_text": [
-      "Roblox and Google now let people make a game by typing what they want, then publish it where others play, and Unity is testing a tool that does the same. Roblox says players published ",
-      {
-        "text": "about 9,000 games",
-        "href": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play"
-      },
-      " with its Build tool in five weeks, and that 71% of those who made one had never used Roblox Studio, its software for developers. Astrocade, a startup built on the idea, says it has 10 million monthly users. Google's Playground is open only to adults in the US."
-    ],
     "claims": [
       {
         "section": "Definition",
@@ -17096,6 +17425,17 @@
         "source_slug": ""
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Reporting its third quarter, Roblox says Break and Steal an Egg and Huss Valley were built almost entirely with AI and each reached its top 20 by concurrent players. It also says over 500,000 people have used Build and published more than 70,000 games, against about 9,000 in the tool's first five weeks.",
+        "card_text": "Two games made almost entirely with AI reach Roblox's top 20",
+        "year": "2026",
+        "market": "",
+        "source": "Roblox Corporation, shareholder letter for the third quarter of 2026 (29 October 2026)",
+        "link": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm",
+        "source_slug": "roblox-ir-sec-filings"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Games made with Build join the same pool as every other Roblox game and are ranked by the same retention-based discovery system. Roblox says that system highlights games with long-term retention, 'which doesn't include AI slop.'",
@@ -17192,7 +17532,8 @@
         "market": "",
         "source": "Roblox, David Baszucki (11 September 2026)",
         "link": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
-        "source_slug": ""
+        "source_slug": "",
+        "retired": "2026-11-02"
       },
       {
         "section": "What to watch",
@@ -17204,6 +17545,17 @@
         "source": "Game File, Stephen Totilo (7 October 2026)",
         "link": "https://www.gamefile.news/p/unitys-new-ai-game-creation-tool",
         "source_slug": "game-file"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Roblox's fourth-quarter results, which it usually reports in February. Roblox says over 500,000 people have used Build and published more than 70,000 games, and that two games built almost entirely with AI reached its top 20 by concurrent players. A figure for how many Build games hold players, rather than how many exist, is the thing to watch.",
+        "card_text": "Whether Build games hold players as well as they draw makers",
+        "year": "2026",
+        "market": "",
+        "source": "Roblox Corporation, shareholder letter for the third quarter of 2026 (29 October 2026)",
+        "link": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm",
+        "source_slug": "roblox-ir-sec-filings"
       }
     ]
   },
@@ -17242,7 +17594,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "ESA Essential Facts, Pew Research Center, Ofcom, YPulse, Roblox's shareholder letters",
     "status_label": "",
     "measure_label": "",
@@ -17476,6 +17828,17 @@
         "source_slug": "ypulse"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Roblox launches voice typing and a Friends chat tab that lets players keep talking as they move between games. Reporting the quarter, it says Global Chat averaged nearly 30 million messages a day, against the 30 million a day it reached in June, and that players sent an average of 1.6 billion in-game chat messages a day, up 13% from the previous quarter. The two count different things: the first is chat across the platform, the second chat inside games.",
+        "card_text": "Roblox adds a friends chat tab, and its cross-game chat stays flat",
+        "year": "2026",
+        "market": "",
+        "source": "Roblox Corporation, shareholder letter for the third quarter of 2026 (29 October 2026)",
+        "link": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm",
+        "source_slug": "roblox-ir-sec-filings"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Discord says it has refocused on its gaming roots, and TechCrunch reports it is exploring advertising and micro-transactions. TechCrunch reads its choice of a games executive as chief as a sign it sees its future in gaming more than in social networking.",
@@ -17550,7 +17913,8 @@
         "market": "",
         "source": "Roblox, second-quarter 2026 shareholder letter (30 July 2026)",
         "link": "https://www.sec.gov/Archives/edgar/data/1315098/000162828026051059/ex991-robloxq22026earnin.htm",
-        "source_slug": "roblox-ir-sec-filings"
+        "source_slug": "roblox-ir-sec-filings",
+        "retired": "2026-11-02"
       },
       {
         "section": "What to watch",
@@ -17573,6 +17937,17 @@
         "source": "YPulse, Friendship and Community Report (5 August 2026)",
         "link": "https://www.ypulse.com/r/friendship-community",
         "source_slug": "ypulse"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Roblox's fourth-quarter results, which it usually reports in February. Global Chat, which Roblox shipped in May 2026, reached 30 million messages a day in June and averaged nearly 30 million in the third quarter, so it has not grown across the quarter that first carried chat with friends inside each game. Whether it moves is the thing to watch.",
+        "card_text": "Whether Roblox's own chat products grow or stay flat",
+        "year": "2027",
+        "market": "",
+        "source": "Roblox Corporation, shareholder letter for the third quarter of 2026 (29 October 2026)",
+        "link": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm",
+        "source_slug": "roblox-ir-sec-filings"
       }
     ]
   },
@@ -17589,8 +17964,8 @@
       "JP",
       "US"
     ],
-    "what_it_is": "Game companies now help pay for the films made from their games. Nintendo is financing more than half of a live-action Zelda film due on 30 April 2027, and Capcom co-funded Street Fighter. The Super Mario Galaxy Movie passed $1 billion in June 2026 and more than doubled Nintendo's IP-related income in a quarter. Below the family brands, results are mixed: Mortal Kombat II made $129.5 million, and Borderlands lost Lionsgate about $80 million.",
-    "why_it_matters": "A film or series is another way for the biggest game companies to earn again from characters they already own. The family films make a billion dollars. Most others do not, and series bring players back more reliably than films.",
+    "what_it_is": "Game companies now help pay for the films and series made from their games. Nintendo is financing more than half of a live-action Zelda film due on 30 April 2027, and Capcom co-funded Street Fighter. The Super Mario Galaxy Movie passed $1 billion in June 2026 and more than doubled Nintendo's IP-related income in a quarter. A screen hit also sends players back to the game: a second season of Cyberpunk: Edgerunners took Cyberpunk 2077 to its highest Steam player count in three years.",
+    "why_it_matters": "A film or series earns the biggest game companies money again from characters they already own, and it pays back twice: once on screen, and again in players returning to the game. The family films make a billion dollars. Most others do not.",
     "further_reading": [
       {
         "source": "TV series adaptations boost video game player numbers by up to 490%",
@@ -17611,7 +17986,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Ampere Analysis, Nintendo's investor relations, Deadline, Variety, The Hollywood Reporter",
     "status_label": "Release",
     "measure_label": "What it is",
@@ -17854,6 +18229,17 @@
         "source": "Variety, Jack Dunn (8 October 2026)",
         "link": "https://variety.com/2026/film/news/cyberpunk-2077-movie-paramount-1236905887/",
         "source_slug": "variety"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In the days after Netflix released the second season of Cyberpunk: Edgerunners on 20 October 2026, Cyberpunk 2077 reaches its highest concurrent player count on Steam in three years. CD Projekt shipped a 2.5 update in the same window, so the two cannot be separated. The first season lifted the game's sales in 2022.",
+        "card_text": "Edgerunners' second season sends Cyberpunk 2077 to a three-year Steam high",
+        "year": "2026",
+        "market": "",
+        "source": "GamesRadar+ (26 October 2026)",
+        "link": "https://www.gamesradar.com/games/cyberpunk/cyberpunk-2077-lead-says-its-been-a-hell-of-a-weekend-as-the-rpg-hit-its-highest-steam-player-count-in-3-years-thanks-to-edgerunners-2-and-2-5-update/",
+        "source_slug": "edge"
       },
       {
         "section": "Status",
@@ -18396,6 +18782,340 @@
         "source": "GameDev Reports, Dmitriy Byshonkov, relaying Circana (31 January 2026)",
         "link": "https://gamedevreports.substack.com/p/weekly-gaming-reports-recap-january-efb",
         "source_slug": "gamedev-reports"
+      }
+    ]
+  },
+  {
+    "slug": "players-push-back-on-ai-in-games",
+    "name": "Players are pushing back on AI in the games they buy",
+    "stage": "Emerging",
+    "category": "Culture & audience",
+    "horizon": "h2",
+    "horizon_group": "rewriting-rules",
+    "horizon_line": "Buyers as the check on AI. When players find it, studios now pull it.",
+    "markets": [
+      "Global",
+      "US"
+    ],
+    "what_it_is": "When players find generative AI in a game they bought or a trailer they watched, they now say so loudly, and studios often back down. Frontier, Ubisoft, Larian and Pearl Abyss removed or ruled out AI art after players objected, and the user score of Call of Duty: Black Ops 7 fell to 1.9 over its AI art. SteamDB built a filter to hide AI games. In October 2026 players asked Valve for one as Next Fest filled up, and Valve has promised none.",
+    "why_it_matters": "Players have become a check on how studios use generative AI. AI they spot gets removed or called a placeholder, and one game was canceled, so studios hide it or drop it. Games that disclose AI still sell, so the pressure is loud, not total.",
+    "further_reading": [
+      {
+        "source": "Call Of Duty: Black Ops 7 Is Getting A Brutal Kicking From Players Over Its Use Of AI",
+        "link": "https://kotaku.com/call-of-duty-black-ops-7-ai-art-user-reviews-steam-2000644734",
+        "type": "Reporting",
+        "format": ""
+      },
+      {
+        "source": "What do Steam fans really think about AI in games?",
+        "link": "https://newsletter.gamediscover.co/p/what-do-steam-fans-really-think-about",
+        "type": "Data",
+        "format": ""
+      },
+      {
+        "source": "Steam Next Fest's AI Problems",
+        "link": "https://naavik.co/ai-gaming/steam-next-fests-ai-problems/",
+        "type": "Analysis",
+        "format": ""
+      }
+    ],
+    "as_of": "Nov 2026",
+    "where_to_follow": "Steam user reviews and AI disclosures, SteamDB, Kotaku, Aftermath, GameDiscoverCo",
+    "status_label": "",
+    "measure_label": "",
+    "row_label": "",
+    "series_label": "",
+    "series_note": "",
+    "series_type": "",
+    "series_mark": "",
+    "series_target": "",
+    "timeline_heads": true,
+    "claims": [
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "After months of players accusing a holiday loading screen of being AI-made, Activision adds a Steam disclosure saying its team uses generative AI tools for some in-game assets. Players answer with a run of negative Steam reviews. The wording does not say which assets.",
+        "card_text": "Black Ops 6 players answer an AI disclosure with bad reviews",
+        "year": "2025",
+        "market": "",
+        "source": "Game Developer, Chris Kerr (25 February 2025)",
+        "link": "https://www.gamedeveloper.com/production/players-lambast-activision-after-publisher-confirms-generative-ai-was-used-in-black-ops-6",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "SteamDB adds an AI Content Disclosed tag, applied automatically to any store page carrying Valve's disclosure, so its users can hide games made with generative AI. More than 4,900 items carry it at launch. It is only as good as what developers declare.",
+        "card_text": "SteamDB builds the filter Steam does not have",
+        "year": "2025",
+        "market": "",
+        "source": "Siliconera, Jenni Lada (25 February 2025)",
+        "link": "https://www.siliconera.com/steamdb-lets-you-filter-out-gen-ai-pc-games-on-steam/",
+        "source_slug": "siliconera"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Fans spot a Steam disclosure that the game's scientist portraits are made with generative AI and leave hundreds of negative comments. Frontier replies that it has opted to remove generative AI from the portraits, months before launch.",
+        "card_text": "Jurassic World Evolution 3 drops its AI portraits",
+        "year": "2025",
+        "market": "",
+        "source": "Aftermath, Nathan Grayson (25 June 2025)",
+        "link": "https://aftermath.site/jurassic-world-evolution-3-ai-removed/",
+        "source_slug": "aftermath"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Players object to calling cards, banners and campaign art they say are AI-made and drag Call of Duty: Black Ops 7's user scores down. Its Metacritic user score is 1.9, against a Metascore of 83, and its Steam reviews are 42% positive. Activision says it uses AI tools among others.",
+        "card_text": "Black Ops 7's user score falls to 1.9 over AI art",
+        "year": "2025",
+        "market": "",
+        "source": "Kotaku, John Walker (17 November 2025)",
+        "link": "https://kotaku.com/call-of-duty-black-ops-7-ai-art-user-reviews-steam-2000644734",
+        "source_slug": "kotaku"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Players post an Anno 117 loading screen with missing arms and strange hands. Ubisoft calls it a placeholder that slipped through review and shows the replacement for the next update.",
+        "card_text": "Ubisoft replaces an AI loading screen in Anno 117",
+        "year": "2025",
+        "market": "",
+        "source": "Aftermath, Luke Plunkett (17 November 2025)",
+        "link": "https://aftermath.site/this-is-where-my-anno-117-impressions-were-going-to-go/",
+        "source_slug": "aftermath"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Postal community says the reveal material for Postal: Bullet Paradise looks AI-made. Publisher Running With Scissors, overwhelmed by the response, cancels the game, its developer Goonswarm Games shuts down, and Goonswarm then admits to using generative AI.",
+        "card_text": "A Postal game is canceled a day after its reveal",
+        "year": "2025",
+        "market": "",
+        "source": "GamingOnLinux, Liam Squires-Hand (9 December 2025)",
+        "link": "https://www.gamingonlinux.com/2025/12/postal-bullet-paradise-gets-cancelled-over-generative-ai-with-goonswarm-games-shutting-down/",
+        "source_slug": "gamingonlinux"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "After fans object to Larian describing AI experiments in concept work, the studio answers on Reddit that there will be no generative AI art in Divinity and no AI-written text. It says it will use generated creative assets only where it is sure of the training data and its creators' consent.",
+        "card_text": "Larian rules out AI art in Divinity after a fan backlash",
+        "year": "2026",
+        "market": "",
+        "source": "CGMagazine, Hayes Madsen (9 January 2026)",
+        "link": "https://www.cgmagonline.com/news/larian-generative-ai-divinity-reddit",
+        "source_slug": "cgmagazine"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Arc Raiders launched with AI voices built from paid actors and said so on Steam. Players objected anyway, and its studio re-records many lines with people. 'A real professional actor is better than AI,' its chief executive says.",
+        "card_text": "Arc Raiders re-records its AI voices with actors",
+        "year": "2026",
+        "market": "",
+        "source": "Kotaku, Zack Zwiezen (13 March 2026)",
+        "link": "https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774",
+        "source_slug": "kotaku"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "In the week after launch, players on Reddit find three images in Crimson Desert that look AI-made. Pearl Abyss says some 2D props were made with experimental generative tools during early iteration, takes full responsibility, and says it should have disclosed it.",
+        "card_text": "Crimson Desert players find AI images, and Pearl Abyss apologizes",
+        "year": "2026",
+        "market": "",
+        "source": "Aftermath, Luke Plunkett (22 March 2026)",
+        "link": "https://aftermath.site/crimson-desert-ai-art-images/",
+        "source_slug": "aftermath"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Players spot generative AI imagery in a RuneScape trailer shown at RuneFest, from a six-fingered knight. Jagex pulls the trailer and apologizes, and says it was made by an external partner.",
+        "card_text": "Jagex pulls a RuneScape trailer players caught",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz (5 October 2026)",
+        "link": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "As October's Steam Next Fest fills with demos, players ask Valve for an option to hide games made with generative AI, some for separate filters on art, dialogue and music.",
+        "card_text": "Players ask Valve for a switch to hide AI games",
+        "year": "2026",
+        "market": "",
+        "source": "MeinMMO, Christoph Waldboth (20 October 2026)",
+        "link": "https://mein-mmo.de/en/because-ai-games-are-flooding-steam-players-are-now-demanding-a-feature-from-valve,1592972/",
+        "source_slug": "meinmmo"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Paolo Pedercini, who had called AI anti-human and anti-art, discloses after launch that his latest game used text-to-speech voices and AI music loops. Attacked by players, he removes them within a week and offers refunds to anyone who still feels betrayed.",
+        "card_text": "An anti-AI game removes its AI and offers refunds",
+        "year": "2026",
+        "market": "",
+        "source": "Kotaku, Amelia Zollner (23 October 2026)",
+        "link": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
+        "source_slug": "kotaku"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Sega withdraws Shogun 2 Complete Edition from sale after players raise concerns that it used generative AI. Total War's vice president says the edition was \"not a Creative Assembly developed game\". It is the first case of a major publisher taking a release off sale over player AI concerns.",
+        "card_text": "Sega pulls a Total War re-release after an AI backlash",
+        "year": "2026",
+        "market": "",
+        "source": "GamesIndustry.biz (26 October 2026)",
+        "link": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
+        "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "VRChat's developers decline to add a label marking AI-generated content after a community vote in which 95% of respondents asked for one. It is the clearest case of a platform refusing a disclosure its own players requested, against Steam, which requires one.",
+        "card_text": "VRChat declines an AI label its players voted for",
+        "year": "2026",
+        "market": "",
+        "source": "IGN India (30 October 2026)",
+        "link": "https://in.ign.com/vrchat/275830/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it",
+        "source_slug": "ign"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "When players find AI in a game, the studio now removes it, calls it a placeholder or cancels, as Frontier, Ubisoft, Larian, Pearl Abyss and Running With Scissors did. Josh Sawyer's advice, cited in Aftermath's report on Crimson Desert, is that placeholder art should look obnoxiously temporary.",
+        "card_text": "Found AI is now pulled, not defended",
+        "year": "2026",
+        "market": "",
+        "source": "Aftermath, Luke Plunkett (22 March 2026)",
+        "link": "https://aftermath.site/crimson-desert-ai-art-images/",
+        "source_slug": "aftermath"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "In GameDiscoverCo's survey of about 3,800 committed Steam users, 44% read AI disclosures in detail and only 17% believe developers fully disclose AI in what players see and hear. A disclosure has become the thing players react to, as Black Ops 6 found.",
+        "card_text": "Players read the label, and few trust it",
+        "year": "2026",
+        "market": "",
+        "source": "GameDiscoverCo, Simon Carless (7 July 2026)",
+        "link": "https://newsletter.gamediscover.co/p/what-do-steam-fans-really-think-about",
+        "source_slug": "gamediscoverco"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Valve says it is fully aware of the AI slop and clones in Next Fest, and that many people are thinking about how to solve it, but it does not want to be a gatekeeper over developers' tools and announces no filter, policy or timeline.",
+        "card_text": "Valve hears the demand and builds nothing yet",
+        "year": "2026",
+        "market": "",
+        "source": "Kotaku, John Walker (28 October 2026)",
+        "link": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
+        "source_slug": "kotaku"
+      },
+      {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Valve narrows its disclosure form to AI that ships in a game and is consumed by players, and exempts tools that only speed up the work. What developers must declare is now what players are pushing back on.",
+        "card_text": "The rules now track what players see",
+        "year": "2026",
+        "market": "",
+        "source": "GamingOnLinux, Liam Squires-Hand (17 January 2026)",
+        "link": "https://www.gamingonlinux.com/2026/01/valve-tweak-steam-ai-disclosure-form-for-developers-to-clarify-its-for-content-consumed-by-players/",
+        "source_slug": "gamingonlinux"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Lambe's estimate that AI-disclosing games on Steam took in about $660 million in 2025, with twelve of them earning eight figures, cuts against the idea that players punish AI. Nobody can count the games that use AI and do not say so.",
+        "card_text": "Games that declare AI use still sell",
+        "year": "2025",
+        "market": "",
+        "source": "GamesRadar+, Ashley Bardhan (22 December 2025)",
+        "link": "https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/",
+        "source_slug": "gamesradar"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Nexon reports 14 million copies of Arc Raiders sold, with about 960,000 players at its January peak. The backlash over its AI voices did not stop it becoming one of the biggest launches of its year.",
+        "card_text": "Arc Raiders sold 14 million with its AI voices",
+        "year": "2026",
+        "market": "",
+        "source": "Game Developer, Chris Kerr (12 February 2026)",
+        "link": "https://www.gamedeveloper.com/business/arc-raiders-branded-blockbuster-franchise-after-topping-14-million-sales",
+        "source_slug": "game-developer"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "In Circana's US survey, a little over 25% of players say generative AI would make them less likely to buy a game, up from 22% in 2024, and more than half are neutral. Quantic Foundry finds 85% negative, but among the younger, keener players who take its survey.",
+        "card_text": "Most players say they do not much care",
+        "year": "2026",
+        "market": "",
+        "source": "3DJuegos, Alberto Lloria (25 March 2026), with GamesMarkt, Marcel Kleffmann (22 December 2025)",
+        "link": "https://www.3djuegos.com/pc/noticias/a-mayoria-jugadores-les-da-igual-ia-videojuegos-hay-detalle-mucho-positivo",
+        "source_slug": "3djuegos"
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Of 4,382 featured demos in June's Next Fest, 12.5% disclosed AI, and none of the 50 that grew wishlists most had AI at the core of play. Naavik's reading is that quality, not a label, decides what players pick.",
+        "card_text": "Players filter AI by ignoring it",
+        "year": "2026",
+        "market": "",
+        "source": "Naavik, Francois Courset (7 July 2026)",
+        "link": "https://naavik.co/ai-gaming/steam-next-fests-ai-problems/",
+        "source_slug": "naavik"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Valve says many people are working on the problem. February 2027's Next Fest runs from 22 February to 1 March, and either players can hide AI games there or the demand carries into its third festival.",
+        "card_text": "Steam has its own AI filter by February's Next Fest",
+        "year": "2027",
+        "market": "",
+        "source": "Kotaku, John Walker (28 October 2026)",
+        "link": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
+        "source_slug": "kotaku"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Larian has promised no generative AI art and no AI-written text in Divinity. It has given no release date, so this row comes due when it does.",
+        "card_text": "Divinity ships without generative AI art",
+        "year": "",
+        "market": "",
+        "source": "CGMagazine, Hayes Madsen (9 January 2026)",
+        "link": "https://www.cgmagonline.com/news/larian-generative-ai-divinity-reddit",
+        "source_slug": "cgmagazine"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "On r/Games the news that players were demanding an AI filter on Steam became the talk itself: players asking Valve to let them hide AI-made games, not to shrink the festival.",
+        "card_text": "Players want a switch, not fewer games",
+        "year": "2026",
+        "market": "",
+        "source": "Reddit, r/Games (20 October 2026)",
+        "link": "https://www.reddit.com/r/Games/comments/1xaq26q/demands_for_ai_filter_on_steam_grow_as_next_fest/",
+        "source_slug": "r-games"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "Roblox's figure that more than 80% of its top games now use AI reached players as a talking point within days, and the post stating it drew 12,780 likes and 225,573 views. The conversation about AI in games rose roughly thirtyfold on the platforms in the week Valve admitted Steam has an AI cloning problem and Sega pulled a Total War re-release.",
+        "card_text": "Players are passing around Roblox's own AI number",
+        "year": "2026",
+        "market": "",
+        "source": "TikTok (1 November 2026)",
+        "link": "https://www.tiktok.com/@dakreekcraft/video/7703294477703662878",
+        "source_slug": ""
       }
     ]
   }

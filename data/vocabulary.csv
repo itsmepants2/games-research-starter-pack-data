@@ -1,34 +1,34 @@
 facet,within_group,value,rows
-medium,,News outlet,330
+medium,,News outlet,331
 medium,,Organisation,151
-medium,,Forum or community,98
-medium,,Video channel,66
+medium,,Forum or community,105
+medium,,Video channel,67
 medium,,Person,66
-medium,,Data tool,52
+medium,,Data tool,53
 medium,,Podcast,49
 medium,,Book or paper,44
-medium,,Company disclosure,41
-medium,,Report or document,37
+medium,,Company disclosure,43
+medium,,Report or document,38
 medium,,Newsletter,28
 medium,,Research firm,17
 medium,,Link list,7
-group,,Press,358
+group,,Press,359
 group,,Institutions,170
-group,,Media,159
-group,,Data,128
-group,,Communities,98
+group,,Media,160
+group,,Data,132
+group,,Communities,105
 group,,People,73
-markets,,US,176
-markets,,Global,160
+markets,,US,179
+markets,,Global,165
 markets,,JP,139
 markets,,KR,86
-markets,,Not market specific,66
-markets,,UK,64
+markets,,UK,70
+markets,,Not market specific,67
 markets,,DE,49
 markets,,IN,40
 markets,,BR,39
 markets,,FR,37
-markets,,CN,34
+markets,,CN,35
 markets,,MENA,24
 markets,,IT,24
 markets,,SEA,23
@@ -45,17 +45,17 @@ markets,,EU,8
 markets,,LATAM,5
 markets,,Asia,2
 markets,,BE,1
-market_kind,profiled,US,176
-market_kind,scope,Global,160
+market_kind,profiled,US,179
+market_kind,scope,Global,165
 market_kind,profiled,JP,139
 market_kind,profiled,KR,86
-market_kind,scope,Not market specific,66
-market_kind,profiled,UK,64
+market_kind,profiled,UK,70
+market_kind,scope,Not market specific,67
 market_kind,profiled,DE,49
 market_kind,profiled,IN,40
 market_kind,profiled,BR,39
 market_kind,profiled,FR,37
-market_kind,profiled,CN,34
+market_kind,profiled,CN,35
 market_kind,profiled,MENA,24
 market_kind,profiled,IT,24
 market_kind,tagged,SEA,23
@@ -72,15 +72,15 @@ market_kind,tagged,EU,8
 market_kind,tagged,LATAM,5
 market_kind,tagged,Asia,2
 market_kind,tagged,BE,1
-language,,English,569
+language,,English,581
 language,,Japanese,119
 language,,Korean,75
 language,,German,51
 language,,French,50
 language,,Spanish,47
 language,,Portuguese,44
+language,,Chinese,21
 language,,Arabic,20
-language,,Chinese,20
 language,,Italian,20
 language,,Turkish,14
 language,,Dutch,11
@@ -97,10 +97,10 @@ language,,Norwegian,3
 language,,Thai,3
 language,,Indonesian,2
 language,,Malay,1
-format,Data,Corporate IR,36
+format,Data,Corporate IR,38
 format,Data,Creator tracking,21
-format,Data,Industry report,16
-format,Data,Analytics platform,15
+format,Data,Industry report,17
+format,Data,Analytics platform,16
 format,Data,Market research firm,10
 format,Data,Database,7
 format,Data,Adjacent research body,7
@@ -125,7 +125,7 @@ format,Institutions,Parent guidance platform,4
 format,Institutions,Funding body,3
 format,Institutions,Cultural institution,1
 format,Institutions,Conference proceedings,1
-format,Press,Games news site,82
+format,Press,Games news site,83
 format,Press,Tech news site,38
 format,Press,National daily,35
 format,Press,Trade press,27
@@ -148,7 +148,7 @@ format,Press,Academic newsletter,2
 format,Media,Let's Play and playthrough,22
 format,Media,News and roundup,17
 format,Media,Criticism and analysis,13
-format,Media,Video essays and analysis,11
+format,Media,Video essays and analysis,12
 format,Media,News and industry reporting,9
 format,Media,Consumer reviews and recommendations,9
 format,Media,Academic monograph,9
@@ -169,46 +169,46 @@ format,Media,Industry and business,1
 format,Media,Industry yearbook,1
 format,People,Individual,66
 format,People,List,7
-format,Communities,Subreddit,53
-format,Communities,Forum,22
+format,Communities,Subreddit,55
+format,Communities,Forum,25
+format,Communities,Platform-native,5
+format,Communities,Discord server,5
 format,Communities,Community wiki,4
-format,Communities,Platform-native,4
-format,Communities,Discord server,4
 format,Communities,Social platform,3
 format,Communities,Imageboard,2
 format,Communities,Aggregation blog,2
 format,Communities,Walkthrough and guide site,2
 format,Communities,Collaborative dictionary,1
 format,Communities,BBS,1
-cost,,Free,465
+cost,,Free,476
 cost,,Paid,57
-cost,,Freemium,53
+cost,,Freemium,54
 cost,,Unknown,8
-trend_stage,,Dominant,18
+trend_stage,,Dominant,19
 trend_stage,,Emerging,17
 trend_stage,,Perennial,11
 trend_stage,,Receding,3
 trend_category,,Money & business model,14
-trend_category,,Culture & audience,10
+trend_category,,Culture & audience,11
 trend_category,,Platform & distribution,9
 trend_category,,"Regulation, safety & age",7
 trend_category,,Geography & power,5
 trend_category,,Technology,4
-coverage,sources,slug,986
-coverage,sources,name,986
-coverage,sources,group,986
-coverage,sources,medium,986
-coverage,sources,format,986
-coverage,sources,what_it_lets_you_find_out,986
-coverage,sources,markets,986
-coverage,sources,language,986
-coverage,sources,cost,583
-coverage,sources,link,986
-coverage,sources,extra_links,22
-coverage,sources,owner,545
-coverage,sources,ownership_note,139
+coverage,sources,slug,999
+coverage,sources,name,999
+coverage,sources,group,999
+coverage,sources,medium,999
+coverage,sources,format,999
+coverage,sources,what_it_lets_you_find_out,999
+coverage,sources,markets,999
+coverage,sources,language,999
+coverage,sources,cost,595
+coverage,sources,link,999
+coverage,sources,extra_links,23
+coverage,sources,owner,550
+coverage,sources,ownership_note,143
 coverage,sources,beat,73
 coverage,sources,where_they_post,73
 coverage,sources,year,42
 coverage,sources,isbn,41
-coverage,sources,audience,66
+coverage,sources,audience,67
