@@ -1600,7 +1600,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Game Developer post-mortems, Circana engagement data, publisher earnings calls (Sony, EA, Take-Two)",
     "status_label": "",
     "measure_label": "",
@@ -1773,6 +1773,17 @@
         "source": "GamesIndustry.biz, Sophie McEvoy, on Newzoo (10 September 2026)",
         "link": "https://www.gamesindustry.biz/newzoo-most-established-live-service-and-evergreen-titles-were-flat-or-down-year-over-year-in-h1-2026",
         "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Oh BiBi says on 6 November 2026 that it has ceased development of Ratchet and Clank: Ranger Rumble, a free-to-play mobile arena shooter set in Insomniac Games' series and carrying PlayStation Studios branding. The game is removed from both app stores on 21 November 2026 and its servers close in May 2027.",
+        "card_text": "A PlayStation-branded mobile shooter is shut down",
+        "year": "2026",
+        "market": "",
+        "source": "Inven Global (6 November 2026)",
+        "link": "https://www.invenglobal.com/articles/28287/ratchet-clank-ranger-rumble-ceases-development-servers-shut-down-may-2027",
+        "source_slug": "inven-global"
       },
       {
         "section": "Consequences",
@@ -2782,6 +2793,7 @@
     "markets": [
       "AU",
       "BR",
+      "DE",
       "EU",
       "Global",
       "MENA",
@@ -2812,7 +2824,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "eSafety Commissioner (AU), Ofcom Online Safety Act updates (UK), state AG press offices, The Guardian tech desk, Roblox's safety blog and earnings calls",
     "status_label": "What has been compelled",
     "measure_label": "The detail",
@@ -3183,6 +3195,17 @@
         "source": "Engadget, Mariella Moon (21 May 2026)",
         "link": "https://www.engadget.com/2178368/meta-snap-roblox-ofcom-uk-child-safety-pledge/",
         "source_slug": ""
+      },
+      {
+        "section": "Objections",
+        "kind": "Argument",
+        "claim": "Germany's USK says the Commission's draft EU KIDS Act, COM(2026) 681 final, expressly covers online games and their age labeling, and that European harmonization must not displace national protection standards that have run for more than thirty years. Games Denmark told the Danish Parliament's European Affairs Committee on 6 November 2026 that the draft treats games as though they were social media.",
+        "card_text": "The ratings bodies say the new EU law would weaken what they already do",
+        "year": "2026",
+        "market": "DE",
+        "source": "USK (6 November 2026), with Games Denmark (6 November 2026)",
+        "link": "https://usk.de/eu-kids-act-bedroht-deutsche-jugendschutzstandards-bei-games/",
+        "source_slug": "usk"
       },
       {
         "section": "What to watch",
@@ -3941,11 +3964,11 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "The last quarter of 2026, when the European Commission's work program schedules its proposal for a Digital Fairness Act. A committee of the European Parliament asked in October 2025 for it to cover loot boxes. The Commission has not said whether it will. The separate KIDS Act it adopted on 17 September 2026 requires games to be safe by design with no spending traps. Whether that reaches paid random items is unsettled.",
+        "claim": "The last quarter of 2026, when the European Commission's work program schedules its proposal for a Digital Fairness Act. No proposal had appeared by 8 November 2026, and twenty-two associations and organizations, Video Games Europe among them, wrote jointly to the Commission asking it to avoid excessive regulation in the Act. A committee of the European Parliament asked in October 2025 for it to cover loot boxes. The Commission has not said whether it will. The separate KIDS Act it adopted on 17 September 2026 requires games to be safe by design with no spending traps. Whether that reaches paid random items is unsettled.",
         "card_text": "Two EU instruments, and paid random items sit between them",
         "year": "2026",
         "market": "",
-        "source": "European Commission, The KIDS Act explained (17 September 2026)",
+        "source": "European Commission, The KIDS Act explained (17 September 2026), with GamesMarkt (6 November 2026)",
         "link": "https://digital-strategy.ec.europa.eu/en/faqs/kids-act-explained",
         "source_slug": ""
       }
@@ -5710,6 +5733,17 @@
         "source_slug": ""
       },
       {
+        "section": "Consequences",
+        "kind": "Argument",
+        "claim": "Alinea Analytics estimates Phantom Blade Zero took about $223 million from 4.3 million copies in its first five days across Steam and PlayStation. China, Taiwan and Hong Kong account for 55% of the copies and 45% of the revenue, because games are priced lower there. Alinea sells the platform these estimates come from.",
+        "card_text": "More of the money comes from outside China than inside it",
+        "year": "2026",
+        "market": "CN",
+        "source": "Alinea Analytics (3 November 2026)",
+        "link": "https://alineaanalytics.substack.com/p/phantom-blade-zero-made-223m-on-steam",
+        "source_slug": "alinea-analytics"
+      },
+      {
         "section": "Objections",
         "kind": "Argument",
         "claim": "Development costs for the biggest games have surged to $200 to $400 million, which makes a profit hard to reach. KrASIA gives that as the reason most Chinese studios are not following Game Science.",
@@ -6154,6 +6188,17 @@
         "source": "GamesIndustry.biz, relaying Bloomberg (11 September 2026)",
         "link": "https://www.gamesindustry.biz/saudi-arabias-pif-reportedly-considering-to-combine-ea-with-savvy-games-group",
         "source_slug": "gamesindustry-biz"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Reuters reports that Silver Lake and the Public Investment Fund, the two buyers of Electronic Arts, approached Unity in recent weeks about a purchase that could value it at about $25 billion. Unity has not confirmed it. Watch for a confirmed offer, a rejection, or a filing.",
+        "card_text": "Whether the Unity approach becomes a deal",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz, relaying Reuters (6 November 2026)",
+        "link": "https://www.pocketgamer.biz/silver-lake-and-pif-explore-25bn-deal-to-acquire-unity/",
+        "source_slug": "pocketgamer-biz"
       },
       {
         "section": "What to watch",
@@ -9878,7 +9923,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "European Citizens' Initiative register, stopkillinggames.com, r/StopKillingGames, Bellular News (YouTube), Digital Fairness Act consultations, UFC-Que Choisir, Video Games Europe statements",
     "status_label": "State of the rule",
     "measure_label": "What it says",
@@ -10236,11 +10281,11 @@
       {
         "section": "What to watch",
         "kind": "Event",
-        "claim": "The last quarter of 2026, when the European Commission is due to propose the Digital Fairness Act, a consumer law for digital products. The campaign wants Parliament to amend it to cover games that are switched off. The Commission has also promised to start its code of conduct talks by the end of the year. The separate KIDS Act the Commission adopted on 17 September 2026 is about minors, not about digital ownership.",
+        "claim": "The last quarter of 2026, when the European Commission is due to propose the Digital Fairness Act, a consumer law for digital products. No proposal had appeared by 8 November 2026, and twenty-two associations and organizations, Video Games Europe among them, wrote jointly to the Commission asking it to avoid excessive regulation in the Act. The campaign wants Parliament to amend it to cover games that are switched off. The Commission has also promised to start its code of conduct talks by the end of the year. The separate KIDS Act the Commission adopted on 17 September 2026 is about minors, not about digital ownership.",
         "card_text": "The EU's Digital Fairness Act",
         "year": "2026",
         "market": "",
-        "source": "European Parliament, Legislative Train Schedule",
+        "source": "European Parliament, Legislative Train Schedule, with GamesMarkt (6 November 2026)",
         "link": "https://www.europarl.europa.eu/legislative-train/theme-protecting-our-democracy-upholding-our-values/file-digital-fairness-act",
         "source_slug": ""
       },
@@ -10914,7 +10959,19 @@
         "market": "",
         "source": "WIRED, Megan Farokhmanesh (14 March 2024)",
         "link": "https://www.wired.com/story/sweet-baby-video-games-harassment-gamergate/",
-        "source_slug": "wired"
+        "source_slug": "wired",
+        "retired": "2026-11-09"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "19 November 2026, when Grand Theft Auto 6 is released at $79.99. It is the largest launch in years, and the weeks after it are the next test of whether user scores are used as a protest vote over price, content or platform.",
+        "card_text": "Whether Grand Theft Auto 6 draws an organized review campaign",
+        "year": "2026",
+        "market": "US",
+        "source": "Game Developer, Nicole Carpenter (24 June 2026)",
+        "link": "https://www.gamedeveloper.com/console/grand-theft-auto-6-s-80-price-settles-the-100-question",
+        "source_slug": "game-developer"
       },
       {
         "section": "What to watch",
@@ -13171,6 +13228,17 @@
         "source_slug": "pc-gamer"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Valve tells developers it has seen an unprecedented number of game submissions in recent months and has delayed approvals to clear the backlog, asking developers to run basic release checks so that fewer builds need a second review. Developers postponing their own launches say the queue is full of AI-made games.",
+        "card_text": "Valve says submissions have surged and approvals are running late",
+        "year": "2026",
+        "market": "",
+        "source": "Eurogamer (5 November 2026), with Rock Paper Shotgun (3 November 2026)",
+        "link": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
+        "source_slug": "eurogamer"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Jason Gastrow, the YouTuber known as videogamedunkey, launched a publisher called Bigmode, saying that players who care about games come to his channel 'to find out what's actually worth playing.' Bigmode offers the games it picks funding, publicity, testing and translation.",
@@ -13704,7 +13772,7 @@
         "format": ""
       }
     ],
-    "as_of": "Sep 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "GameDiscoverCo's annual PC and console sales roundups, Game Developer's design desk, PC Gamer, AppMagic retention studies",
     "status_label": "",
     "measure_label": "",
@@ -13884,6 +13952,17 @@
         "source": "GamesRadar+, Jordan Gerblick (26 August 2026)",
         "link": "https://www.gamesradar.com/games/co-op/amid-the-friendslop-renaissance-usd5-co-op-fishing-game-hits-370-000-peak-players-on-steam-in-5-days/",
         "source_slug": "gamesradar"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Collins Dictionary adds friendslop among its new entries for 2026. Multiplayer.it reports the dictionary defining it as an independent video game made on a small budget and designed to be played casually in a group with friends. The word of the year went to mogging.",
+        "card_text": "Collins adds friendslop to its dictionary",
+        "year": "2026",
+        "market": "",
+        "source": "Multiplayer.it, Simone Tagliaferri (3 November 2026)",
+        "link": "https://multiplayer.it/notizie/friendslop-entra-nel-collins-dictionary-ma-la-parola-dellanno-2026-e-unaltra.html",
+        "source_slug": "multiplayer-it"
       },
       {
         "section": "Consequences",
@@ -14303,7 +14382,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "GamesIndustry.biz, Video Games Chronicle, Gematsu, Inven Global, publisher investor days",
     "status_label": "What is being revived",
     "measure_label": "The detail",
@@ -14477,6 +14556,17 @@
         "source": "Streams Charts (22 September 2026)",
         "link": "https://streamscharts.com/news/wow-forever-viewership-chat",
         "source_slug": "streams-charts"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Nintendo releases its remake of the 1998 The Legend of Zelda: Ocarina of Time for Switch 2 on 5 November 2026. It debuts at 96 on Metacritic, the highest-rated game of 2026, and enters Metacritic's all-time top thirty.",
+        "card_text": "Nintendo's Ocarina of Time remake opens at 96",
+        "year": "2026",
+        "market": "",
+        "source": "Video Games Chronicle (4 November 2026)",
+        "link": "https://www.videogameschronicle.com/news/the-zelda-ocarina-of-time-remake-has-shot-to-the-top-of-metacritics-best-games-of-2026-so-far-makes-its-all-time-top-30/",
+        "source_slug": "video-games-chronicle"
       },
       {
         "section": "Status",
@@ -14701,7 +14791,8 @@
         "market": "",
         "source": "Nintendo Direct",
         "link": "https://www.nintendo.com/jp/nintendo-direct/description/20260908_en-US.html",
-        "source_slug": ""
+        "source_slug": "",
+        "retired": "2026-11-09"
       },
       {
         "section": "What to watch",
@@ -14726,6 +14817,17 @@
         "source_slug": ""
       },
       {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "February 2027, when Nintendo reports April to December and usually gives unit sales for its biggest titles. The remake opened to a Metacritic score of 96. The test the reviews cannot settle is whether a faithful rebuild of a 1998 game sells at the scale of a new Zelda.",
+        "card_text": "Whether the Ocarina remake sells like a new Zelda",
+        "year": "2027",
+        "market": "",
+        "source": "Nintendo, Investor Relations (5 November 2026)",
+        "link": "https://www.nintendo.co.jp/ir/pdf/2026/261105_3e.pdf",
+        "source_slug": "nintendo-ir"
+      },
+      {
         "section": "Definition",
         "kind": "Event",
         "claim": "IP is intellectual property: a franchise a publisher owns, with the name, characters and world it can make new games from. A dormant one has had no new game for years. Capcom's own formulation is IPs that have not had a new title launch recently, and it attaches no number of years to the phrase. Onimusha: Way of the Sword, the game that prompted the statement, is by Capcom's count the first new title in the series in over 20 years.",
@@ -14735,6 +14837,17 @@
         "source": "Capcom IR",
         "link": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
         "source_slug": "capcom-ir"
+      },
+      {
+        "section": "Talk",
+        "kind": "Argument",
+        "claim": "With the remake at 96 on Metacritic, players turned the question around and asked which other dormant game could take a faithful rebuild and be received the same way. The thread's answers are mostly about what makes a 1998 design survive unchanged rather than about Nintendo.",
+        "card_text": "\"Can any other game pull off a Ocarina of Time remake?\"",
+        "year": "2026",
+        "market": "",
+        "source": "ResetEra (7 November 2026)",
+        "link": "https://www.resetera.com/threads/can-any-other-game-pull-off-a-ocarina-of-time-remake-1-1-ish-remake-96-mc.1680791/",
+        "source_slug": "resetera"
       }
     ]
   },
@@ -14751,7 +14864,7 @@
       "Global",
       "US"
     ],
-    "what_it_is": "Since a US court barred Apple in April 2025 from taking a cut of sales made through a link out of an app, mobile publishers have been moving players to their own web shops. Playtika's direct sales rose 63.1% in a year, to $286.9 million of $731.1 million in the second quarter of 2026. Stillfront now takes 46% of its bookings directly. Casino games lead. A survey by Appcharge, which handles such payments, puts direct sales at about 15% of mobile in-app spending in 2025.",
+    "what_it_is": "Since a US court barred Apple in April 2025 from taking a cut of sales made through a link out of an app, mobile publishers have been moving players to their own web shops. Playtika's direct sales reached $275.1 million of $673.8 million in the third quarter of 2026, up 31.4% in a year but down for a second quarter running. Stillfront now takes 47% of its bookings directly and MTG reports 42%. Casino games lead.",
     "why_it_matters": "Apple and Google have long taken up to 30% of what players spend inside mobile games. A sale moved to a web shop keeps most of that with the publisher. The same companies run the same games, and keep more of each dollar.",
     "further_reading": [
       {
@@ -14773,13 +14886,13 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "Playtika and Stillfront quarterly results, PocketGamer.biz, mobilegamer.biz, Naavik, Sensor Tower",
     "status_label": "",
     "measure_label": "",
     "row_label": "",
     "series_label": "What Playtika sold directly to players each quarter, $ millions",
-    "series_note": "Flat near $175 million a quarter until mid-2025, Playtika's direct sales then rose by almost two thirds in a year, to $286.9 million in the second quarter of 2026.",
+    "series_note": "Flat near $175 million a quarter until mid-2025, Playtika's direct sales rose by almost two thirds in a year and have now fallen in two quarters running, to $275.1 million.",
     "series_type": "line",
     "series_mark": "",
     "series_target": "",
@@ -14788,14 +14901,14 @@
       "Since a US court barred Apple in April 2025 from taking a cut of sales made through a link out of an app, mobile publishers have been moving players to their own web shops. ",
       {
         "text": "Playtika's direct sales",
-        "href": "https://www.sec.gov/Archives/edgar/data/1828016/000182801626000046/a2026q2ex991-earningsrelea.htm"
+        "href": "https://www.sec.gov/Archives/edgar/data/0001828016/000182801626000053/a2026q3ex991-earningsrelea.htm"
       },
-      " rose 63.1% in a year, to $286.9 million of $731.1 million in the second quarter of 2026. ",
+      " reached $275.1 million of $673.8 million in the third quarter of 2026, up 31.4% in a year but down for a second quarter running. ",
       {
         "text": "Stillfront",
-        "href": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q2-2026-260724.pdf"
+        "href": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2021/10/report-interim-report-q3-2026-261023.pdf"
       },
-      " now takes 46% of its bookings directly. Casino games lead. A survey by Appcharge, which handles such payments, puts direct sales at about 15% of mobile in-app spending in 2025."
+      " now takes 47% of its bookings directly and MTG reports 42%. Casino games lead."
     ],
     "series_format": "${n} million",
     "claims": [
@@ -14931,6 +15044,18 @@
         "period": "Q2 2026"
       },
       {
+        "section": "Figure",
+        "kind": "Figure",
+        "claim": "What Playtika took through its own direct-to-consumer platforms in the third quarter of 2026. Its total revenue that quarter was $673.8 million.",
+        "card_text": "275.1",
+        "year": "2026",
+        "market": "",
+        "source": "Playtika Holding Corp.'s quarterly results",
+        "link": "https://www.sec.gov/Archives/edgar/data/0001828016/000182801626000053/a2026q3ex991-earningsrelea.htm",
+        "source_slug": "",
+        "period": "Q3 2026"
+      },
+      {
         "section": "Timeline",
         "kind": "Event",
         "claim": "A federal judge rules in April 2025 that Apple cannot take a commission on payments made outside the App Store, and cannot stop US apps from pointing players to them. For the first time, a US game can send its players to its own web shop and keep the whole sale.",
@@ -15030,6 +15155,28 @@
         "source_slug": "pocketgamer-biz"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Playtika reports $275.1 million from its direct-to-consumer platforms in the third quarter of 2026, down 4.1% from the second quarter and up 31.4% from a year earlier. Average daily paying users fall 9.3% from the second quarter to 333,000.",
+        "card_text": "Playtika's direct sales fall for a second quarter",
+        "year": "2026",
+        "market": "",
+        "source": "Playtika Holding Corp., third-quarter 2026 results (5 November 2026)",
+        "link": "https://www.sec.gov/Archives/edgar/data/0001828016/000182801626000053/a2026q3ex991-earningsrelea.htm",
+        "source_slug": ""
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "MTG reports that direct-to-consumer sales reached 42% of its sales in the third quarter of 2026, and says Google's fees on external links in the United States have reduced some of the cost advantages of selling direct.",
+        "card_text": "MTG says Google's US fees have cut what selling direct saves",
+        "year": "2026",
+        "market": "US",
+        "source": "mobilegamer.biz (5 November 2026)",
+        "link": "https://mobilegamer.biz/mtg-revenue-flat-in-q3-as-d2c-hits-42-of-sales/",
+        "source_slug": "mobilegamer-biz"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Playtika's executives say so of their own business. Its finance chief, Craig Abrahams, told investors that \"a growing direct-to-consumer mix is protecting margins\", and its chief executive named growing that mix as company strategy.",
@@ -15126,7 +15273,8 @@
         "market": "",
         "source": "Playtika Holding Corp., second-quarter 2026 results (6 August 2026)",
         "link": "https://www.sec.gov/Archives/edgar/data/1828016/000182801626000046/a2026q2ex991-earningsrelea.htm",
-        "source_slug": ""
+        "source_slug": "",
+        "retired": "2026-11-09"
       },
       {
         "section": "What to watch",
@@ -15137,6 +15285,17 @@
         "market": "US",
         "source": "Supreme Court of the United States, docket No. 25-1311 (read 30 September 2026)",
         "link": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1311.html",
+        "source_slug": ""
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "February 2027, when Playtika usually reports its fourth quarter. Its direct sales fell 1.7% from the first quarter to the second and 4.1% from the second to the third, the first two consecutive falls since the line began rising. The results add the next point to this chart.",
+        "card_text": "Playtika's fourth-quarter results",
+        "year": "2026",
+        "market": "",
+        "source": "Playtika Holding Corp., third-quarter 2026 results (5 November 2026)",
+        "link": "https://www.sec.gov/Archives/edgar/data/0001828016/000182801626000053/a2026q3ex991-earningsrelea.htm",
         "source_slug": ""
       },
       {
@@ -15550,7 +15709,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "HM Revenue and Customs creative industries statistics each September, the CNC, GamesWirtschaft on German games funding, ANCINE's regulatory agenda, Ukie and TIGA",
     "status_label": "",
     "measure_label": "",
@@ -15887,6 +16046,17 @@
         "source_slug": "canada-media-fund"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "The Government of Canada announces on 8 November 2026 an investment of $213.4 million in the Canada Media Fund, part of a $600 million federal commitment to the audio and audiovisual sectors confirmed in Budget 2026. The fund's announcement names the screen sector rather than games.",
+        "card_text": "Canada puts $213.4 million into its media fund",
+        "year": "2026",
+        "market": "CA",
+        "source": "Canada Media Fund (8 November 2026)",
+        "link": "https://cmf-fmc.ca/news/cmf-welcomes-government-of-canadas-historic-investment/",
+        "source_slug": "canada-media-fund"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Germany's games trade body, game, says the federal fund's €50 million came to less than a quarter of the average per head in the countries a study it commissioned from Nordicity compared, and that Canada, France and the UK use tax credits that cannot run out as a fund can. It credits the fund with a 52% rise in the number of games companies in Germany from 2020 to 2024.",
@@ -16045,7 +16215,7 @@
         "format": ""
       }
     ],
-    "as_of": "Oct 2026",
+    "as_of": "Nov 2026",
     "where_to_follow": "SuperJoost Playlist, Matthew Ball's yearly State of Video Gaming, Newzoo's PC and console report, Sensor Tower VGI, Sensor Tower's State of Mobile",
     "status_label": "",
     "measure_label": "",
@@ -16269,6 +16439,17 @@
         "source": "Aream & Co., Video Game Market Update Q3 2026, as released by InvestGame (12 October 2026)",
         "link": "https://investgame.net/news/aream-co-releases-q3-2026-video-game-market-update/",
         "source_slug": "investgame"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "A census of 303 acquisitions since 2000 by Sebastian Cardoso, a former Riot, Crytek and Electronic Arts employee, finds that 93 of the 283 acquired game developers in it have been shut down, and that half of those closed within five years of the purchase.",
+        "card_text": "One in three acquired studios has been shut down since 2000",
+        "year": "2026",
+        "market": "",
+        "source": "PocketGamer.biz (5 November 2026)",
+        "link": "https://www.pocketgamer.biz/one-in-three-acquired-game-studios-have-shut-down-new-study-finds/",
+        "source_slug": "pocketgamer-biz"
       },
       {
         "section": "Consequences",
@@ -16747,6 +16928,17 @@
         "source_slug": "eurogamer"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "TeamGroup's chief executive says the balance between memory supply and demand may not return until late 2028 at the earliest. TeamGroup sells memory modules, so it is reading the market it sells into.",
+        "card_text": "A memory maker says supply may not catch up until late 2028",
+        "year": "2026",
+        "market": "",
+        "source": "PC Gamer (4 November 2026)",
+        "link": "https://www.pcgamer.com/hardware/memory/how-can-prices-fall-when-theres-nothing-left-teamgroup-ceo-reckons-supply-demand-memory-equilibrium-may-not-happen-until-late-2028-at-the-earliest/",
+        "source_slug": "pc-gamer"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Sony, Microsoft and Nintendo have all raised console prices in 2025 and 2026 and named memory costs among the reasons. Microsoft says it now sells consoles for less than they cost to make, which is the clearest sign that the chip price is not being absorbed.",
@@ -16999,7 +17191,8 @@
         "market": "US",
         "source": "PC Gamer, Andy Chalk (11 January 2024)",
         "link": "https://www.pcgamer.com/that-portal-64-demake-we-liked-so-much-has-been-kiboshed-by-valve-they-have-asked-me-to-take-the-project-down-creator-says/",
-        "source_slug": "pc-gamer"
+        "source_slug": "pc-gamer",
+        "retired": "2026-11-09"
       },
       {
         "section": "Timeline",
@@ -17101,6 +17294,17 @@
         "source_slug": "eurogamer"
       },
       {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "Nintendo releases its Switch 2 remake of The Legend of Zelda: Ocarina of Time on 5 November 2026, four years after fans brought the 1998 original to PC as Ship of Harkinian. The remake is reported running on PC through an emulator within hours of launch, and on PS5 the next day.",
+        "card_text": "Nintendo's new Ocarina remake runs on PC within hours",
+        "year": "2026",
+        "market": "",
+        "source": "GamesRadar+ (5 November 2026)",
+        "link": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-already-running-on-pc-mere-hours-after-switch-2-launch-you-played-the-song-of-decompile/",
+        "source_slug": "edge"
+      },
+      {
         "section": "Consequences",
         "kind": "Argument",
         "claim": "Ship of Harkinian now has a built-in randomizer, text-to-speech and hundreds of enhancements. sm64coopdx adds four-player co-op to Super Mario 64, and Dinosaur Planet: Recompiled is restoring a Rare game that was never released.",
@@ -17197,7 +17401,8 @@
         "market": "",
         "source": "Nintendo of America, What's New (8 September 2026)",
         "link": "https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-40th-anniversary-celebration-revealed-in-new-nintendo-direct-presentation/",
-        "source_slug": "nintendo-newsroom"
+        "source_slug": "nintendo-newsroom",
+        "retired": "2026-11-09"
       },
       {
         "section": "What to watch",
@@ -17220,6 +17425,17 @@
         "source": "GamesRadar+, Dustin Bailey (2 October 2026)",
         "link": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
         "source_slug": "gamesradar"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "Ship of Harkinian, the fan PC port of the 1998 Ocarina of Time, now sits beside an official remake of the same game. Watch for whether its contributors keep releasing, fold the remake's content in, or stop.",
+        "card_text": "Whether Ship of Harkinian's community keeps building",
+        "year": "2027",
+        "market": "",
+        "source": "GamesRadar+ (5 November 2026)",
+        "link": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-already-running-on-pc-mere-hours-after-switch-2-launch-you-played-the-song-of-decompile/",
+        "source_slug": "edge"
       },
       {
         "section": "Talk",
@@ -18386,12 +18602,12 @@
       {
         "section": "Consequences",
         "kind": "Argument",
-        "claim": "Nintendo's IP-related sales reach 34.8 billion yen in April to June 2026, up 107.4% on a year earlier, which Nintendo credits to The Super Mario Galaxy Movie.",
-        "card_text": "Mario's film doubles Nintendo's IP income",
+        "claim": "Nintendo's IP related income reaches 62.7 billion yen in April to September 2026, up 87.9% on a year earlier, which Nintendo credits in part to income from movies and videos related to The Super Mario Galaxy Movie. Sales from its dedicated video game platform business fell 15.3% over the same half.",
+        "card_text": "Mario's film nearly doubles Nintendo's IP income",
         "year": "2026",
         "market": "JP",
-        "source": "Nintendo, Investor Relations (6 August 2026)",
-        "link": "https://www.nintendo.co.jp/ir/pdf/2026/260806e.pdf",
+        "source": "Nintendo, Investor Relations (5 November 2026)",
+        "link": "https://www.nintendo.co.jp/ir/pdf/2026/261105_3e.pdf",
         "source_slug": "nintendo-ir"
       },
       {
@@ -18458,7 +18674,8 @@
         "market": "",
         "source": "Nintendo, Investor Relations (read 20 October 2026)",
         "link": "https://www.nintendo.co.jp/ir/en/index.html",
-        "source_slug": "nintendo-ir"
+        "source_slug": "nintendo-ir",
+        "retired": "2026-11-09"
       },
       {
         "section": "What to watch",
@@ -18481,6 +18698,17 @@
         "source": "Deadline, Anthony D'Alessandro (18 October 2026)",
         "link": "https://deadline.com/2026/10/box-office-global-street-fighter-1237167021/",
         "source_slug": "deadline"
+      },
+      {
+        "section": "What to watch",
+        "kind": "Event",
+        "claim": "February 2027, when Nintendo reports April to December. Whether IP related income holds its level once The Super Mario Galaxy Movie has left cinemas, after it nearly doubled across the first half of the year while sales from the games business fell.",
+        "card_text": "Nintendo's third-quarter results",
+        "year": "2027",
+        "market": "",
+        "source": "Nintendo, Investor Relations (5 November 2026)",
+        "link": "https://www.nintendo.co.jp/ir/pdf/2026/261105_3e.pdf",
+        "source_slug": "nintendo-ir"
       }
     ]
   },
@@ -18977,13 +19205,24 @@
       {
         "section": "Timeline",
         "kind": "Event",
-        "claim": "VRChat's developers decline to add a label marking AI-generated content after a community vote in which 95% of respondents asked for one. It is the clearest case of a platform refusing a disclosure its own players requested, against Steam, which requires one.",
-        "card_text": "VRChat declines an AI label its players voted for",
+        "claim": "VRChat's developers decline to add a label marking AI-generated content after a survey in which 95% of 21,595 respondents asked for one. Its recent Steam reviews then turn Mostly Negative, at 32% positive across 4,155 reviews in the thirty days to 2 November 2026, a window that covers all reviews and not only those about the decision. A feature request asking for disclosure and filtering passes a thousand votes.",
+        "card_text": "VRChat declines an AI label, and its Steam rating turns",
         "year": "2026",
         "market": "",
-        "source": "IGN India (30 October 2026)",
-        "link": "https://in.ign.com/vrchat/275830/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it",
-        "source_slug": "ign"
+        "source": "Stevivor (3 November 2026), with IGN India (30 October 2026)",
+        "link": "https://stevivor.com/news/vrchat-rejects-ai-labels-and-filters-as-steam-reviews-turn-mostly-negative/",
+        "source_slug": "stevivor"
+      },
+      {
+        "section": "Timeline",
+        "kind": "Event",
+        "claim": "itch.io deletes what it calls a couple of terabytes of AI slop and extends its generative AI disclosure filter so players can keep such games out of their search results. Nexus Mods, the largest PC modding site, makes an AI disclosure mandatory on every new upload and adds a filter of its own, while ruling out a ban.",
+        "card_text": "Two storefronts build the filter Valve has not",
+        "year": "2026",
+        "market": "",
+        "source": "Eurogamer (3 November 2026), with The Verge (4 November 2026)",
+        "link": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
+        "source_slug": "eurogamer"
       },
       {
         "section": "Consequences",
